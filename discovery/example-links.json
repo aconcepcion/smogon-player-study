@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://replay.pokemonshowdown.com/gen9ou-2647633176-8db02itenyenwb6f9e95ypc88cu7s79pw",
+    "tournament": "smoke-test (Arnold ladder game)",
+    "edition": "-", "stage": "-", "date": "2026-07-11",
+    "format": "gen9ou", "opponent": "KING", "result": "W",
+    "source_thread": "n/a", "notes": "self-test fixture"
+  },
+  { "url": null, "tournament": "example", "edition": "-", "stage": "-", "date": "2020-01-01",
+    "format": "gen8ou", "opponent": "x", "result": "?", "source_thread": "https://example",
+    "notes": "replay-missing example row" }
+]
