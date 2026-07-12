@@ -1,0 +1,1571 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1716754969
+|gametype|singles
+|player|p1|We Three Kings|dawn|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Heatran, M|
+|poke|p2|Gastrodon-East, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Skarmory, M|
+|poke|p2|Heatran, M|
+|poke|p2|Clefable, F|
+|poke|p2|Tapu Koko|
+|teampreview
+|c|☆Empo|hf
+|c|☆We Three Kings|same
+|inactive|We Three Kings has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|+reyscarface|this for somethin?
+|c|+Hockey1|no
+|inactive|Empo has 240 seconds left.
+|c|+galatina might be|YEAH AIGHT LFGI 
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716755062
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|c|+lax|lax team vs nat team
+|inactive|Empo has 270 seconds left.
+|c|+galatina might be|nagoL ♕: tell him i said
+|c|+galatina might be|nagoL ♕: lets fucking go empoor
+|inactive|Empo has 240 seconds left.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716755151
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|80/100
+|
+|t:|1716755154
+|switch|p1a: Clefable|Clefable, M|100/100|[from] Volt Switch
+|move|p2a: Clefable|Stealth Rock|p1a: Clefable
+|-sidestart|p1: We Three Kings|move: Stealth Rock
+|
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1716755160
+|move|p1a: Clefable|Stealth Rock|p2a: Clefable
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|90/100
+|-enditem|p1a: Clefable|Rocky Helmet|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716755172
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|66/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|63/100
+|
+|-heal|p2a: Clefable|73/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1716755177
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|49/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|36/100
+|
+|-heal|p2a: Clefable|55/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1716755180
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|86/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|55/100
+|
+|-heal|p2a: Clefable|61/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1716755182
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|87/100
+|
+|-heal|p2a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1716755186
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1716755188
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|75/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|44/100
+|-unboost|p1a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1716755190
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|94/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1716755192
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Clefable
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|60/100
+|
+|upkeep
+|turn|11
+|
+|t:|1716755195
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|64/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|56/100
+|
+|upkeep
+|turn|12
+|
+|t:|1716755199
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|46/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|96/100
+|
+|upkeep
+|turn|13
+|
+|t:|1716755202
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|96/100
+|
+|upkeep
+|turn|14
+|
+|t:|1716755204
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|69/100
+|
+|upkeep
+|turn|15
+|
+|t:|1716755212
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|62/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|40/100
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1716755215
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|90/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|60/100
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|17
+|
+|t:|1716755217
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|57/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|18
+|
+|t:|1716755237
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|90/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|56/100
+|
+|upkeep
+|turn|19
+|
+|t:|1716755243
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|85/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|52/100
+|
+|upkeep
+|turn|20
+|
+|t:|1716755245
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|47/100
+|
+|upkeep
+|turn|21
+|
+|t:|1716755248
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|97/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|93/100
+|
+|upkeep
+|turn|22
+|
+|t:|1716755252
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|77/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|88/100
+|
+|upkeep
+|turn|23
+|
+|t:|1716755254
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|73/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|59/100
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|24
+|
+|t:|1716755257
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|68/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1716755271
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|96/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|55/100
+|
+|upkeep
+|turn|26
+|
+|t:|1716755275
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|92/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|27
+|
+|t:|1716755278
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|87/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|28
+|
+|t:|1716755286
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|83/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|29
+|
+|t:|1716755298
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|79/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|30
+|
+|t:|1716755302
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|51/100
+|
+|upkeep
+|turn|31
+|
+|t:|1716755304
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|70/100
+|
+|upkeep
+|turn|32
+|
+|t:|1716755311
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|
+|upkeep
+|turn|33
+|
+|t:|1716755313
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|34
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755344
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|96/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|35
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755367
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|61/100
+|
+|upkeep
+|turn|36
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716755407
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|92/100
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|
+|upkeep
+|turn|37
+|
+|t:|1716755411
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|38
+|
+|t:|1716755418
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|96/100
+|
+|upkeep
+|turn|39
+|
+|t:|1716755419
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|67/100
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|40
+|
+|t:|1716755422
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|41
+|
+|t:|1716755426
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1716755437
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|76/100
+|
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755472
+|switch|p1a: Clefable|Clefable, M|67/100
+|move|p2a: Gastrodon|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|upkeep
+|turn|44
+|
+|t:|1716755478
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100 tox
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|77/100 tox
+|
+|upkeep
+|turn|45
+|
+|t:|1716755482
+|move|p1a: Clefable|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|84/100
+|-enditem|p2a: Gastrodon|Leftovers|[from] move: Knock Off|[of] p1a: Clefable
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|54/100 tox
+|
+|upkeep
+|turn|46
+|
+|t:|1716755485
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|62/100
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|29/100 tox
+|
+|upkeep
+|turn|47
+|
+|t:|1716755488
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|79/100 tox
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|56/100 tox
+|
+|upkeep
+|turn|48
+|
+|t:|1716755494
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|40/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|90/100
+|
+|upkeep
+|turn|49
+|
+|t:|1716755497
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|67/100
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|33/100 tox
+|
+|upkeep
+|turn|50
+|
+|t:|1716755500
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|83/100 tox
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|58/100 tox
+|
+|upkeep
+|turn|51
+|
+|t:|1716755503
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|46/100
+|-unboost|p2a: Gastrodon|spa|1
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|96/100
+|
+|upkeep
+|turn|52
+|
+|t:|1716755511
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|96/100
+|
+|upkeep
+|turn|53
+|
+|t:|1716755514
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|96/100
+|-damage|p2a: Gastrodon|90/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|68/100
+|
+|upkeep
+|turn|54
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755549
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|47/100
+|-unboost|p2a: Gastrodon|spa|1
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|97/100
+|
+|upkeep
+|turn|55
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755563
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100 tox
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|85/100 tox
+|
+|upkeep
+|turn|56
+|
+|t:|1716755571
+|move|p1a: Clefable|Knock Off|p2a: Gastrodon
+|-crit|p2a: Gastrodon
+|-damage|p2a: Gastrodon|81/100
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|69/100 tox
+|
+|upkeep
+|turn|57
+|
+|t:|1716755575
+|move|p1a: Clefable|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|71/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|
+|upkeep
+|turn|58
+|
+|t:|1716755578
+|switch|p2a: Clefable|Clefable, F|96/100
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|
+|upkeep
+|turn|59
+|
+|t:|1716755587
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|66/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|39/100 tox
+|
+|upkeep
+|turn|60
+|
+|t:|1716755591
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|89/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|59/100 tox
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|61
+|
+|t:|1716755596
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|-heal|p1a: Melmetal|100/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1716755612
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|inactive|We Three Kings has 270 seconds left.
+|
+|t:|1716755648
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gastrodon|atk|1
+|move|p2a: Gastrodon|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|45/100
+|
+|-heal|p1a: Landorus|51/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|inactive|We Three Kings has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755679
+|switch|p2a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Toxic|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|-heal|p1a: Landorus|57/100|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1716755686
+|switch|p1a: Heatran|Heatran, M|94/100
+|-damage|p1a: Heatran|82/100|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Heatran
+|-sidestart|p1: We Three Kings|Spikes
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|66
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755694
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Heatran|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-heal|p1a: Heatran|94/100|[from] item: Leftovers
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1716755701
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Heatran|Earth Power|p2a: Tornadus
+|-immune|p2a: Tornadus
+|
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|68
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755717
+|switch|p1a: Rotom|Rotom-Wash|82/100
+|-damage|p1a: Rotom|70/100|[from] Stealth Rock
+|move|p2a: Tornadus|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|53/100
+|-enditem|p1a: Rotom|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|69
+|
+|t:|1716755725
+|move|p2a: Tornadus|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|41/100
+|
+|t:|1716755728
+|switch|p2a: Clefable|Clefable, F|100/100|[from] U-turn
+|move|p1a: Rotom|Pain Split|p2a: Clefable
+|-sethp|p2a: Clefable|66/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|86/100|[from] move: Pain Split
+|
+|upkeep
+|turn|70
+|
+|t:|1716755733
+|move|p1a: Rotom|Hydro Pump|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|83/100
+|
+|upkeep
+|turn|71
+|
+|t:|1716755742
+|move|p1a: Rotom|Hydro Pump|p2a: Clefable
+|-damage|p2a: Clefable|51/100
+|move|p2a: Clefable|Moonblast|p1a: Rotom
+|-damage|p1a: Rotom|55/100
+|
+|upkeep
+|turn|72
+|
+|t:|1716755746
+|move|p1a: Rotom|Hydro Pump|p2a: Clefable
+|-damage|p2a: Clefable|20/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|70/100
+|
+|upkeep
+|turn|73
+|
+|t:|1716755755
+|move|p1a: Rotom|Pain Split|p2a: Clefable
+|-sethp|p2a: Clefable|56/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|73/100|[from] move: Pain Split
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|74
+|
+|t:|1716755763
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|82/100
+|
+|t:|1716755765
+|switch|p1a: Clefable|Clefable, M|59/100 tox|[from] Volt Switch
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|31/100 tox
+|
+|upkeep
+|turn|75
+|
+|t:|1716755775
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|94/100
+|-damage|p2a: Gastrodon|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|81/100 tox
+|
+|upkeep
+|turn|76
+|inactive|We Three Kings has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|
+|t:|1716755817
+|move|p1a: Clefable|Moonblast|p2a: Gastrodon
+|-damage|p2a: Gastrodon|66/100
+|move|p2a: Gastrodon|Scald|p1a: Clefable
+|-damage|p1a: Clefable|57/100 tox
+|
+|upkeep
+|turn|77
+|
+|t:|1716755825
+|move|p1a: Clefable|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|55/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|
+|upkeep
+|turn|78
+|inactive|We Three Kings has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716755884
+|switch|p1a: Rotom|Rotom-Wash|73/100
+|-damage|p1a: Rotom|60/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|48/100
+|-status|p1a: Rotom|brn
+|
+|-damage|p1a: Rotom|41/100 brn|[from] brn
+|upkeep
+|turn|79
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716755897
+|switch|p2a: Clefable|Clefable, F|82/100
+|move|p1a: Rotom|Pain Split|p2a: Clefable
+|-sethp|p2a: Clefable|57/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|74/100 brn|[from] move: Pain Split
+|
+|-damage|p1a: Rotom|67/100 brn|[from] brn
+|upkeep
+|turn|80
+|inactive|We Three Kings has 240 seconds left.
+|
+|t:|1716755920
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|
+|t:|1716755933
+|switch|p1a: Heatran|Heatran, M|100/100|[from] Volt Switch
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-damage|p1a: Heatran|76/100|[from] Spikes
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|87/100
+|
+|-heal|p1a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|81
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716755956
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|61/100
+|-activate|p2a: Tornadus|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|48/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|82
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716755977
+|move|p2a: Tornadus|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|85/100
+|
+|t:|1716755978
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|100/100|[from] U-turn
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Gastrodon|[miss]
+|-miss|p1a: Heatran|p2a: Gastrodon
+|
+|-heal|p1a: Heatran|91/100|[from] item: Leftovers
+|upkeep
+|turn|83
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716756005
+|move|p1a: Heatran|Toxic|p2a: Gastrodon
+|-status|p2a: Gastrodon|tox
+|move|p2a: Gastrodon|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|60/100
+|
+|-heal|p1a: Heatran|67/100|[from] item: Leftovers
+|-damage|p2a: Gastrodon|88/100 tox|[from] psn
+|upkeep
+|turn|84
+|
+|t:|1716756010
+|switch|p1a: Rotom|Rotom-Wash|67/100 brn
+|-damage|p1a: Rotom|55/100 brn|[from] Stealth Rock
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|42/100 brn
+|
+|-damage|p2a: Gastrodon|76/100 tox|[from] psn
+|-damage|p1a: Rotom|36/100 brn|[from] brn
+|upkeep
+|turn|85
+|
+|t:|1716756016
+|switch|p2a: Clefable|Clefable, F|87/100
+|move|p1a: Rotom|Pain Split|p2a: Clefable
+|-sethp|p2a: Clefable|57/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|74/100 brn|[from] move: Pain Split
+|
+|-damage|p1a: Rotom|68/100 brn|[from] brn
+|upkeep
+|turn|86
+|
+|t:|1716756021
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|
+|t:|1716756023
+|switch|p1a: Landorus|Landorus-Therian, M|57/100|[from] Volt Switch
+|-damage|p1a: Landorus|45/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|87/100
+|
+|-heal|p1a: Landorus|51/100|[from] item: Leftovers
+|upkeep
+|turn|87
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1716756069
+|move|p1a: Landorus|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: We Three Kings|Spikes|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: We Three Kings|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|move|p2a: Clefable|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|41/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|88
+|inactive|Empo has 240 seconds left.
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716756112
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|move|p2a: Clefable|Stealth Rock|p1a: Landorus
+|-sidestart|p1: We Three Kings|move: Stealth Rock
+|
+|upkeep
+|turn|89
+|
+|t:|1716756117
+|move|p1a: Landorus|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p1: We Three Kings|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|97/100
+|
+|upkeep
+|turn|90
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716756147
+|switch|p1a: Heatran|Heatran, M|67/100
+|move|p2a: Clefable|Stealth Rock|p1a: Heatran
+|-sidestart|p1: We Three Kings|move: Stealth Rock
+|
+|-heal|p1a: Heatran|73/100|[from] item: Leftovers
+|upkeep
+|turn|91
+|inactive|Empo has 210 seconds left.
+|
+|t:|1716756163
+|switch|p2a: Tornadus|Tornadus-Therian, M|81/100
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|42/100
+|-activate|p2a: Tornadus|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|79/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|29/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|92
+|inactive|Empo has 210 seconds left.
+|inactive|We Three Kings has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1716756212
+|move|p2a: Tornadus|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|61/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|inactive|Empo has 150 seconds left.
+|
+|t:|1716756259
+|switch|p2a: Heatran|Heatran, M|94/100
+|turn|93
+|
+|t:|1716756273
+|switch|p1a: Rotom|Rotom-Wash|68/100 brn
+|-damage|p1a: Rotom|55/100 brn|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Rotom|[miss]
+|-miss|p2a: Heatran|p1a: Rotom
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Rotom|49/100 brn|[from] brn
+|upkeep
+|turn|94
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716756300
+|move|p1a: Rotom|Pain Split|p2a: Heatran
+|-sethp|p2a: Heatran|70/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|88/100 brn|[from] move: Pain Split
+|move|p2a: Heatran|Magma Storm|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|67/100 brn
+|-activate|p1a: Rotom|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|76/100|[from] item: Leftovers
+|-damage|p1a: Rotom|60/100 brn|[from] brn
+|-damage|p1a: Rotom|48/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|95
+|
+|t:|1716756305
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Rotom|Pain Split|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|82/100|[from] item: Leftovers
+|-damage|p1a: Rotom|42/100 brn|[from] brn
+|-damage|p1a: Rotom|29/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|96
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716756325
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|76/100 tox
+|move|p1a: Rotom|Pain Split|p2a: Gastrodon
+|-sethp|p2a: Gastrodon|48/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|68/100 brn|[from] move: Pain Split
+|
+|-damage|p2a: Gastrodon|42/100 tox|[from] psn
+|-damage|p1a: Rotom|61/100 brn|[from] brn
+|-end|p1a: Rotom|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|97
+|
+|t:|1716756332
+|switch|p1a: Clefable|Clefable, M|57/100 tox
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|92/100 tox
+|
+|-damage|p2a: Gastrodon|80/100 tox|[from] psn
+|upkeep
+|turn|98
+|
+|t:|1716756343
+|switch|p2a: Heatran|Heatran, M|82/100
+|move|p1a: Clefable|Stealth Rock|p2a: Heatran
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|99
+|inactive|We Three Kings has 270 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716756385
+|switch|p1a: Heatran|Heatran, M|61/100
+|-damage|p1a: Heatran|48/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-heal|p2a: Heatran|95/100|[from] item: Leftovers
+|upkeep
+|turn|100
+|
+|t:|1716756393
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|29/100
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Heatran|35/100|[from] item: Leftovers
+|upkeep
+|inactive|We Three Kings has 240 seconds left.
+|inactive|We Three Kings has 210 seconds left.
+|
+|t:|1716756474
+|switch|p1a: Rotom|Rotom-Wash|61/100 brn
+|-damage|p1a: Rotom|49/100 brn|[from] Stealth Rock
+|turn|101
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716756485
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Rotom|Hydro Pump|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|42/100|[from] item: Leftovers
+|-damage|p1a: Rotom|43/100 brn|[from] brn
+|upkeep
+|turn|102
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716756517
+|switch|p2a: Clefable|Clefable, F|97/100
+|move|p1a: Rotom|Hydro Pump|p2a: Clefable
+|-damage|p2a: Clefable|68/100
+|
+|-damage|p1a: Rotom|36/100 brn|[from] brn
+|upkeep
+|turn|103
+|inactive|We Three Kings has 180 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1716756543
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|46/100
+|
+|t:|1716756546
+|switch|p1a: Melmetal|Melmetal|100/100|[from] Volt Switch
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|96/100
+|
+|-heal|p1a: Melmetal|100/100|[from] item: Leftovers
+|upkeep
+|turn|104
+|inactive|We Three Kings has 180 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1716756596
+|switch|p2a: Skarmory|Skarmory, M, shiny|88/100
+|-damage|p2a: Skarmory|76/100|[from] Stealth Rock
+|move|p1a: Melmetal|Earthquake|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|upkeep
+|turn|105
+|inactive|We Three Kings has 180 seconds left.
+|
+|t:|1716756609
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Dragapult
+|-sidestart|p1: We Three Kings|Spikes
+|
+|upkeep
+|turn|106
+|
+|t:|1716756613
+|switch|p2a: Clefable|Clefable, F|96/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|57/100
+|
+|upkeep
+|turn|107
+|inactive|Empo has 60 seconds left.
+|inactive|We Three Kings has 180 seconds left.
+|
+|t:|1716756650
+|switch|p1a: Clefable|Clefable, M|57/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|29/100 tox
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|108
+|
+|t:|1716756655
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|79/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|51/100 tox
+|
+|upkeep
+|turn|109
+|inactive|We Three Kings has 180 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1716756661
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|41/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|8/100 tox
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|110
+|
+|t:|1716756665
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|58/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|29/100 tox
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|111
+|
+|t:|1716756668
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|30/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|80/100
+|
+|upkeep
+|turn|112
+|
+|t:|1716756678
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|10/100 tox
+|
+|upkeep
+|turn|113
+|inactive|We Three Kings has 210 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1716756697
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|114
+|inactive|Empo has 90 seconds left.
+|inactive|We Three Kings has 180 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1716756750
+|switch|p1a: Landorus|Landorus-Therian, M|41/100
+|-damage|p1a: Landorus|28/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|15/100
+|
+|upkeep
+|turn|115
+|
+|t:|1716756756
+|move|p1a: Landorus|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: We Three Kings|Spikes|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: We Three Kings|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|We Three Kings has 150 seconds left.
+|inactive|We Three Kings has 120 seconds left.
+|inactive|We Three Kings has 90 seconds left.
+|
+|t:|1716756848
+|switch|p1a: Rotom|Rotom-Wash|36/100 brn
+|turn|116
+|
+|t:|1716756850
+|move|p1a: Rotom|Pain Split|p2a: Clefable
+|-sethp|p2a: Clefable|64/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|83/100 brn|[from] move: Pain Split
+|move|p2a: Clefable|Stealth Rock|p1a: Rotom
+|-sidestart|p1: We Three Kings|move: Stealth Rock
+|
+|-damage|p1a: Rotom|77/100 brn|[from] brn
+|upkeep
+|turn|117
+|inactive|Empo has 90 seconds left.
+|
+|t:|1716756866
+|switch|p2a: Gastrodon|Gastrodon-East, M, shiny|80/100 tox
+|move|p1a: Rotom|Hydro Pump|p2a: Gastrodon
+|-ability|p2a: Gastrodon|Storm Drain|boost
+|-boost|p2a: Gastrodon|spa|1
+|
+|-damage|p2a: Gastrodon|74/100 tox|[from] psn
+|-damage|p1a: Rotom|71/100 brn|[from] brn
+|upkeep
+|turn|118
+|
+|t:|1716756881
+|move|p1a: Rotom|Volt Switch|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|53/100 brn
+|
+|-damage|p2a: Gastrodon|62/100 tox|[from] psn
+|-damage|p1a: Rotom|47/100 brn|[from] brn
+|upkeep
+|turn|119
+|inactive|Empo has 60 seconds left.
+|
+|t:|1716756915
+|move|p1a: Rotom|Volt Switch|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|27/100 brn
+|
+|-damage|p2a: Gastrodon|44/100 tox|[from] psn
+|-damage|p1a: Rotom|21/100 brn|[from] brn
+|upkeep
+|turn|120
+|inactive|Empo has 60 seconds left.
+|inactive|We Three Kings has 90 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1716756957
+|move|p1a: Rotom|Pain Split|p2a: Gastrodon
+|-sethp|p2a: Gastrodon|29/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|41/100 brn|[from] move: Pain Split
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|20/100 brn
+|
+|-damage|p2a: Gastrodon|5/100 tox|[from] psn
+|-damage|p1a: Rotom|14/100 brn|[from] brn
+|upkeep
+|turn|121
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|We Three Kings has 60 seconds left.
+|
+|t:|1716756989
+|move|p1a: Rotom|Pain Split|p2a: Gastrodon
+|-sethp|p2a: Gastrodon|7/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|10/100 brn|[from] move: Pain Split
+|move|p2a: Gastrodon|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-damage|p2a: Gastrodon|0 fnt|[from] psn
+|faint|p2a: Gastrodon
+|upkeep
+|inactive|Empo has 30 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1716757000
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Heatran|Heatran, M|42/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|122
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1716757008
+|move|p2a: Heatran|Earth Power|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|48/100
+|move|p1a: Melmetal|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Melmetal|54/100|[from] item: Leftovers
+|upkeep
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1716757012
+|switch|p2a: Skarmory|Skarmory, M, shiny|76/100
+|turn|123
+|
+|t:|1716757019
+|switch|p1a: Dragapult|Dragapult, M|88/100
+|-damage|p1a: Dragapult|76/100|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Dragapult
+|-sidestart|p1: We Three Kings|Spikes
+|
+|upkeep
+|turn|124
+|
+|t:|1716757029
+|switch|p2a: Clefable|Clefable, F|64/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|24/100
+|-unboost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|125
+|
+|t:|1716757032
+|move|p1a: Dragapult|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1716757033
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|126
+|inactive|Empo has 60 seconds left.
+|inactive|We Three Kings has 90 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1716757081
+|switch|p1a: Clefable|Clefable, M|10/100 tox
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1716757082
+|switch|p1a: Melmetal|Melmetal|54/100
+|-damage|p1a: Melmetal|48/100|[from] Stealth Rock
+|-damage|p1a: Melmetal|35/100|[from] Spikes
+|turn|127
+|
+|t:|1716757084
+|switch|p2a: Skarmory|Skarmory, M, shiny|76/100
+|move|p1a: Melmetal|Protect||[still]
+|-fail|p1a: Melmetal
+|
+|-heal|p1a: Melmetal|41/100|[from] item: Leftovers
+|upkeep
+|turn|128
+|
+|t:|1716757097
+|switch|p1a: Dragapult|Dragapult, M|76/100
+|-damage|p1a: Dragapult|64/100|[from] Stealth Rock
+|-damage|p1a: Dragapult|51/100|[from] Spikes
+|move|p2a: Skarmory|Spikes|p1a: Dragapult
+|-sidestart|p1: We Three Kings|Spikes
+|
+|upkeep
+|turn|129
+|
+|t:|1716757101
+|move|p1a: Dragapult|Shadow Ball|p2a: Skarmory
+|-damage|p2a: Skarmory|6/100
+|move|p2a: Skarmory|Spikes|p1a: Dragapult
+|-sidestart|p1: We Three Kings|Spikes
+|
+|upkeep
+|turn|130
+|
+|t:|1716757104
+|move|p1a: Dragapult|Shadow Ball|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1716757105
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|131
+|
+|t:|1716757107
+|move|p1a: Dragapult|Shadow Ball|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|28/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1716757110
+|switch|p1a: Melmetal|Melmetal|41/100
+|-damage|p1a: Melmetal|35/100|[from] Stealth Rock
+|-damage|p1a: Melmetal|10/100|[from] Spikes
+|turn|132
+|
+|t:|1716757112
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|16/100|[from] item: Leftovers
+|upkeep
+|turn|133
+|c|☆We Three Kings|ggs
+|
+|t:|1716757117
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|23/100|[from] item: Leftovers
+|upkeep
+|turn|134
+|c|☆Empo|unless?
+|
+|t:|1716757135
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|29/100|[from] item: Leftovers
+|upkeep
+|turn|135
+|inactive|Empo has 120 seconds left.
+|
+|t:|1716757151
+|move|p1a: Melmetal|Protect||[still]
+|-fail|p1a: Melmetal
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|win|Empo
+|c|☆Empo|ggs
+|c|☆We Three Kings|ggs
+|player|p2|
+|player|p1|

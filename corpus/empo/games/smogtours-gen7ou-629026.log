@@ -1,0 +1,603 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1653851817
+|gametype|singles
+|player|p1|JP192|2|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Weavile, F|item
+|poke|p1|Kartana|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Scizor, M|item
+|poke|p1|Garchomp, M|item
+|poke|p1|Kyurem-Black|item
+|poke|p2|Victini|item
+|poke|p2|Weavile, M|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Ferrothorn, F|item
+|poke|p2|Lopunny, M|item
+|poke|p2|Tapu Fini|item
+|teampreview
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|hf
+|c|☆JP192|hf
+|inactive|JP192 has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|JP192 has 210 seconds left.
+|
+|t:|1653851927
+|start
+|switch|p1a: Garchomp|Garchomp, M|420/420
+|switch|p2a: Lopunny|Lopunny, M, shiny|276/276
+|turn|1
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1653852039
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|382/382
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1653852046
+|switch|p1a: Weavile|Weavile, F|281/281
+|move|p2a: Landorus|Toxic|p1a: Weavile
+|-status|p1a: Weavile|tox
+|
+|-damage|p1a: Weavile|264/281 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1653852050
+|switch|p2a: Tapu Fini|Tapu Fini, shiny|344/344
+|-damage|p2a: Tapu Fini|301/344|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Weavile|Beat Up|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|285/344
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|264/344
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|246/344
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|229/344
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|213/344
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|192/344
+|-hitcount|p2a: Tapu Fini|6
+|
+|-heal|p2a: Tapu Fini|213/344|[from] item: Leftovers
+|-damage|p1a: Weavile|230/281 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|JP192 has 270 seconds left.
+|
+|t:|1653852081
+|switch|p1a: Scizor|Scizor, M|344/344
+|move|p2a: Tapu Fini|Defog|p1a: Scizor
+|-unboost|p1a: Scizor|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|234/344|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1653852091
+|detailschange|p1a: Scizor|Scizor-Mega, M
+|-mega|p1a: Scizor|Scizor|Scizorite
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Scizor
+|-damage|p1a: Scizor|172/344
+|move|p1a: Scizor|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|190/344
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653852120
+|switch|p1a: Kyurem|Kyurem-Black|391/391
+|-ability|p1a: Kyurem|Teravolt
+|
+|-heal|p2a: Tapu Fini|211/344|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653852135
+|switch|p2a: Victini|Victini|397/397
+|move|p1a: Kyurem|Fusion Bolt|p2a: Victini
+|-damage|p2a: Victini|226/397
+|
+|upkeep
+|turn|7
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|JP192 has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653852203
+|-zpower|p1a: Kyurem
+|move|p1a: Kyurem|Subzero Slammer|p2a: Victini|[zeffect]
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|1/397
+|move|p2a: Victini|Glaciate|p1a: Kyurem
+|-damage|p1a: Kyurem|333/391
+|-unboost|p1a: Kyurem|spe|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|inactive|JP192 has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653852252
+|move|p2a: Victini|V-create|p1a: Kyurem
+|-damage|p1a: Kyurem|26/391
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|move|p1a: Kyurem|Ice Beam|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|
+|t:|1653852281
+|switch|p2a: Weavile|Weavile, M, shiny|281/281
+|-ability|p2a: Weavile|Pressure
+|turn|9
+|inactive|JP192 has 180 seconds left.
+|inactive|JP192 has 150 seconds left.
+|
+|t:|1653852337
+|move|p2a: Weavile|Knock Off|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1653852351
+|switch|p1a: Scizor|Scizor-Mega, M|172/344
+|turn|10
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653852393
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|352/352
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|344/344
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1653852409
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: JP192|Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1653852427
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Scizor
+|-status|p1a: Scizor|par
+|
+|upkeep
+|turn|13
+|
+|t:|1653852434
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|382/382
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|move|p1a: Scizor|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|262/382
+|-damage|p1a: Scizor|287/344 par|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|t:|1653852452
+|switch|p1a: Landorus|Landorus-Therian, M|382/382
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|
+|upkeep
+|turn|14
+|
+|t:|1653852474
+|switch|p2a: Tapu Fini|Tapu Fini, shiny|211/344
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Landorus|Hidden Power|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|194/344
+|
+|-heal|p2a: Tapu Fini|215/344|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1653852481
+|move|p1a: Landorus|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|94/344
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Landorus
+|-damage|p1a: Landorus|191/382
+|
+|-heal|p1a: Landorus|214/382|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|115/344|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1653852489
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|352/352
+|move|p1a: Landorus|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|214/352
+|
+|-heal|p1a: Landorus|237/382|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|236/352|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|JP192 has 150 seconds left.
+|
+|t:|1653852501
+|move|p1a: Landorus|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|106/352
+|move|p2a: Ferrothorn|Leech Seed|p1a: Landorus
+|-start|p1a: Landorus|move: Leech Seed
+|
+|-heal|p1a: Landorus|260/382|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|128/352|[from] item: Leftovers
+|-damage|p1a: Landorus|213/382|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|175/352|[silent]
+|upkeep
+|turn|18
+|inactive|JP192 has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653852549
+|switch|p1a: Garchomp|Garchomp, M|420/420
+|-damage|p1a: Garchomp|368/420|[from] Spikes
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|262/382
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|19
+|
+|t:|1653852570
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Landorus|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-damage|p1a: Garchomp|342/420 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1653852586
+|move|p1a: Garchomp|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: JP192|move: Stealth Rock
+|
+|-damage|p1a: Garchomp|290/420 tox|[from] psn
+|-damage|p2a: Landorus|239/382 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653852604
+|switch|p1a: Landorus|Landorus-Therian, M|213/382
+|-damage|p1a: Landorus|166/382|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|141/382
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653852615
+|switch|p2a: Weavile|Weavile, M, shiny|281/281
+|-damage|p2a: Weavile|211/281|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Landorus|164/382|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1653852629
+|switch|p1a: Scizor|Scizor-Mega, M|287/344 par
+|-damage|p1a: Scizor|244/344 par|[from] Spikes
+|-damage|p1a: Scizor|201/344 par|[from] Stealth Rock
+|move|p2a: Weavile|Icicle Crash|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|150/344 par
+|
+|upkeep
+|turn|23
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653852657
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|175/352
+|-damage|p2a: Ferrothorn|153/352|[from] Stealth Rock
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|322/344 par
+|-singleturn|p1a: Scizor|move: Roost
+|
+|-heal|p2a: Ferrothorn|175/352|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1653852674
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: JP192|Spikes
+|
+|-heal|p2a: Ferrothorn|197/352|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1653852690
+|move|p1a: Scizor|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|23/352
+|-damage|p1a: Scizor|279/344 par|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|inactive|JP192 has 120 seconds left.
+|
+|t:|1653852719
+|switch|p1a: Garchomp|Garchomp, M|290/420 tox
+|-damage|p1a: Garchomp|220/420 tox|[from] Spikes
+|-damage|p1a: Garchomp|194/420 tox|[from] Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Garchomp
+|-start|p1a: Garchomp|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|45/352|[from] item: Leftovers
+|-damage|p1a: Garchomp|142/420 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|97/352|[silent]
+|-damage|p1a: Garchomp|116/420 tox|[from] psn
+|upkeep
+|turn|26
+|inactive|JP192 has 120 seconds left.
+|
+|t:|1653852733
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|239/382 tox
+|-damage|p2a: Landorus|192/382 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Roar|p2a: Landorus
+|drag|p2a: Lopunny|Lopunny, M, shiny|276/276
+|-damage|p2a: Lopunny|242/276|[from] Stealth Rock
+|
+|-damage|p1a: Garchomp|64/420 tox|[from] Leech Seed|[of] p2a: Lopunny
+|-heal|p2a: Lopunny|276/276|[silent]
+|-damage|p1a: Garchomp|12/420 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1653852746
+|detailschange|p2a: Lopunny|Lopunny-Mega, M, shiny
+|-mega|p2a: Lopunny|Lopunny|Lopunnite
+|move|p2a: Lopunny|Frustration|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Lopunny|242/276|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Lopunny|196/276|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|JP192 has 120 seconds left.
+|
+|t:|1653852770
+|switch|p1a: Kartana|Kartana|259/259
+|-damage|p1a: Kartana|216/259|[from] Spikes
+|-damage|p1a: Kartana|200/259|[from] Stealth Rock
+|turn|28
+|inactive|Empo has 60 seconds left.
+|
+|t:|1653852805
+|switch|p2a: Tapu Fini|Tapu Fini, shiny|115/344
+|-damage|p2a: Tapu Fini|72/344|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Kartana|Sacred Sword|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|25/344
+|
+|-heal|p2a: Tapu Fini|46/344|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|Empo has 60 seconds left.
+|inactive|JP192 has 90 seconds left.
+|
+|t:|1653852837
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|192/382 tox
+|-damage|p2a: Landorus|145/382 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Sacred Sword|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|111/382 tox
+|-damage|p1a: Kartana|157/259|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|88/382 tox|[from] psn
+|upkeep
+|turn|30
+|inactive|JP192 has 90 seconds left.
+|inactive|JP192 has 60 seconds left.
+|inactive|JP192 has 30 seconds left.
+|
+|t:|1653852915
+|switch|p1a: Weavile|Weavile, F|230/281 tox
+|-damage|p1a: Weavile|184/281 tox|[from] Spikes
+|-damage|p1a: Weavile|114/281 tox|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|inactive|JP192 has 30 seconds left this turn.
+|
+|t:|1653852921
+|switch|p2a: Lopunny|Lopunny-Mega, M, shiny|196/276
+|-damage|p2a: Lopunny|179/276|[from] Stealth Rock
+|
+|upkeep
+|inactive|JP192 has 30 seconds left.
+|
+|t:|1653852929
+|switch|p1a: Kartana|Kartana|157/259
+|-damage|p1a: Kartana|114/259|[from] Spikes
+|-damage|p1a: Kartana|98/259|[from] Stealth Rock
+|turn|31
+|inactive|JP192 has 30 seconds left.
+|
+|t:|1653852944
+|move|p2a: Lopunny|Fake Out|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|65/259
+|cant|p1a: Kartana|flinch
+|
+|upkeep
+|turn|32
+|inactive|JP192 has 30 seconds left.
+|
+|t:|1653852955
+|switch|p1a: Landorus|Landorus-Therian, M|164/382
+|-damage|p1a: Landorus|117/382|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Lopunny|atk|1
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|88/382 tox
+|-damage|p2a: Landorus|41/382 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|-heal|p1a: Landorus|140/382|[from] item: Leftovers
+|-damage|p2a: Landorus|18/382 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|33
+|inactive|JP192 has 30 seconds left.
+|
+|t:|1653852969
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: JP192|Spikes|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: JP192|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: JP192|move: Stealth Rock
+|
+|-heal|p1a: Landorus|163/382|[from] item: Leftovers
+|-damage|p2a: Landorus|0 fnt|[from] psn
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1653852970
+|switch|p2a: Lopunny|Lopunny-Mega, M, shiny|179/276
+|turn|34
+|inactive|JP192 has 30 seconds left.
+|inactive|JP192 has 20 seconds left.
+|
+|t:|1653852999
+|move|p2a: Lopunny|Frustration|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|JP192 has 25 seconds left this turn.
+|inactive|JP192 has 20 seconds left.
+|
+|t:|1653853004
+|switch|p1a: Kartana|Kartana|65/259
+|-damage|p1a: Kartana|49/259|[from] Stealth Rock
+|turn|35
+|inactive|JP192 has 30 seconds left this turn.
+|inactive|Empo has 90 seconds left.
+|inactive|JP192 has 20 seconds left.
+|inactive|JP192 has 15 seconds left.
+|
+|t:|1653853036
+|switch|p2a: Weavile|Weavile, M, shiny|211/281
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Kartana|Sacred Sword|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|inactive|JP192 has 20 seconds left this turn.
+|
+|t:|1653853037
+|switch|p2a: Lopunny|Lopunny-Mega, M, shiny|179/276
+|turn|36
+|inactive|JP192 has 30 seconds left this turn.
+|inactive|JP192 has 20 seconds left.
+|
+|t:|1653853051
+|move|p2a: Lopunny|Fake Out|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|16/259
+|cant|p1a: Kartana|flinch
+|
+|upkeep
+|turn|37
+|inactive|JP192 has 30 seconds left this turn.
+|inactive|JP192 has 20 seconds left.
+|inactive|JP192 has 15 seconds left.
+|
+|t:|1653853070
+|switch|p1a: Scizor|Scizor-Mega, M|279/344 par
+|-damage|p1a: Scizor|236/344 par|[from] Stealth Rock
+|move|p2a: Lopunny|Quick Attack|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|204/344 par
+|
+|upkeep
+|turn|38
+|inactive|JP192 has 25 seconds left this turn.
+|inactive|JP192 has 20 seconds left.
+|
+|t:|1653853079
+|move|p2a: Lopunny|High Jump Kick|p1a: Scizor
+|-damage|p1a: Scizor|18/344 par
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|39
+|inactive|JP192 has 30 seconds left this turn.
+|
+|t:|1653853089
+|move|p2a: Lopunny|Quick Attack|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|inactive|JP192 has 30 seconds left this turn.
+|c|☆JP192|ggs
+|c|☆Empo|ggs
+|
+|t:|1653853093
+|switch|p1a: Kartana|Kartana|16/259
+|-damage|p1a: Kartana|0 fnt|[from] Stealth Rock
+|faint|p1a: Kartana
+|
+|win|Empo
+

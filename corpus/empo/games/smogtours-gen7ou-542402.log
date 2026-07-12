@@ -1,0 +1,668 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1613320241
+|player|p1|soulgazer|#splxiiclassiest|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Reuniclus, F|item
+|poke|p1|Magearna|item
+|poke|p1|Heatran, M|item
+|poke|p1|Latias, F|item
+|poke|p1|Gliscor, M|item
+|poke|p1|Toxapex, M|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Magearna|item
+|poke|p2|Kartana|item
+|poke|p2|Medicham, F|item
+|poke|p2|Volcarona, M|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|+Enzonana|EMPOOO
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆soulgazer|hf
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613320347
+|start
+|switch|p1a: Suffragette City|Toxapex, M, shiny|304/304
+|switch|p2a: beamer kid|Rotom-Wash|304/304
+|turn|1
+|inactive|Empo has 240 seconds left.
+|
+|t:|1613320392
+|move|p2a: beamer kid|Will-O-Wisp|p1a: Suffragette City
+|-status|p1a: Suffragette City|brn
+|move|p1a: Suffragette City|Toxic Spikes|p2a: beamer kid
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-damage|p1a: Suffragette City|285/304 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1613320415
+|move|p2a: beamer kid|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|183/304 brn
+|
+|t:|1613320416
+|switch|p2a: guccy le boss|Magearna|364/364
+|move|p1a: Suffragette City|Toxic|p2a: guccy le boss
+|-immune|p2a: guccy le boss
+|
+|-heal|p1a: Suffragette City|202/304 brn|[from] item: Black Sludge
+|-damage|p1a: Suffragette City|183/304 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|soulgazer has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613320459
+|move|p2a: guccy le boss|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|105/304 brn
+|
+|t:|1613320461
+|switch|p2a: Caasi Netero|Landorus-Therian, M|381/381
+|-ability|p2a: Caasi Netero|Intimidate|boost
+|-unboost|p1a: Suffragette City|atk|1
+|move|p1a: Suffragette City|Scald|p2a: Caasi Netero
+|-supereffective|p2a: Caasi Netero
+|-damage|p2a: Caasi Netero|243/381
+|-status|p2a: Caasi Netero|brn
+|
+|-heal|p1a: Suffragette City|124/304 brn|[from] item: Black Sludge
+|-damage|p2a: Caasi Netero|220/381 brn|[from] brn
+|-damage|p1a: Suffragette City|105/304 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|soulgazer has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613320484
+|switch|p1a: Dirty Boys|Gliscor, M, shiny|352/352
+|move|p2a: Caasi Netero|Earthquake|p1a: Dirty Boys
+|-immune|p1a: Dirty Boys
+|
+|-damage|p2a: Caasi Netero|197/381 brn|[from] brn
+|-status|p1a: Dirty Boys|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1613320491
+|move|p2a: Caasi Netero|U-turn|p1a: Dirty Boys
+|-resisted|p1a: Dirty Boys
+|-damage|p1a: Dirty Boys|333/352 tox
+|
+|t:|1613320493
+|switch|p2a: guccy le boss|Magearna|364/364
+|move|p1a: Dirty Boys|Stealth Rock|p2a: guccy le boss
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-heal|p1a: Dirty Boys|352/352 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|
+|t:|1613320510
+|move|p1a: Dirty Boys|Earthquake|p2a: guccy le boss
+|-supereffective|p2a: guccy le boss
+|-damage|p2a: guccy le boss|182/364
+|move|p2a: guccy le boss|Volt Switch|p1a: Dirty Boys
+|-immune|p1a: Dirty Boys
+|
+|upkeep
+|turn|7
+|
+|t:|1613320518
+|switch|p2a: beamer kid|Rotom-Wash|304/304
+|-damage|p2a: beamer kid|266/304|[from] Stealth Rock
+|move|p1a: Dirty Boys|Earthquake|p2a: beamer kid
+|-immune|p2a: beamer kid|[from] ability: Levitate
+|
+|upkeep
+|turn|8
+|
+|t:|1613320524
+|move|p1a: Dirty Boys|Toxic|p2a: beamer kid
+|-status|p2a: beamer kid|tox
+|move|p2a: beamer kid|Hydro Pump|p1a: Dirty Boys
+|-supereffective|p1a: Dirty Boys
+|-damage|p1a: Dirty Boys|112/352 tox
+|
+|-heal|p1a: Dirty Boys|156/352 tox|[from] ability: Poison Heal
+|-damage|p2a: beamer kid|247/304 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1613320531
+|move|p1a: Dirty Boys|Roost|p1a: Dirty Boys
+|-heal|p1a: Dirty Boys|332/352 tox
+|-singleturn|p1a: Dirty Boys|move: Roost
+|move|p2a: beamer kid|Defog|p1a: Dirty Boys
+|-unboost|p1a: Dirty Boys|evasion|1
+|-sideend|p2: Empo|Toxic Spikes|[from] move: Defog|[of] p2a: beamer kid
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: beamer kid
+|
+|-heal|p1a: Dirty Boys|352/352 tox|[from] ability: Poison Heal
+|-damage|p2a: beamer kid|209/304 tox|[from] psn
+|upkeep
+|turn|10
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613320582
+|move|p1a: Dirty Boys|Stealth Rock|p2a: beamer kid
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: beamer kid|Hydro Pump|p1a: Dirty Boys
+|-supereffective|p1a: Dirty Boys
+|-damage|p1a: Dirty Boys|116/352 tox
+|
+|-heal|p1a: Dirty Boys|160/352 tox|[from] ability: Poison Heal
+|-damage|p2a: beamer kid|152/304 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613320588
+|move|p1a: Dirty Boys|Roost|p1a: Dirty Boys
+|-heal|p1a: Dirty Boys|336/352 tox
+|-singleturn|p1a: Dirty Boys|move: Roost
+|move|p2a: beamer kid|Defog|p1a: Dirty Boys
+|-unboost|p1a: Dirty Boys|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: beamer kid
+|
+|-heal|p1a: Dirty Boys|352/352 tox|[from] ability: Poison Heal
+|-damage|p2a: beamer kid|76/304 tox|[from] psn
+|upkeep
+|-enditem|p2a: beamer kid|Iapapa Berry|[eat]
+|-heal|p2a: beamer kid|228/304 tox|[from] item: Iapapa Berry
+|turn|12
+|
+|t:|1613320592
+|switch|p2a: Samuel D. Norton|Volcarona, M|311/311
+|move|p1a: Dirty Boys|Stealth Rock|p2a: Samuel D. Norton
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1613320681
+|move|p2a: Samuel D. Norton|Quiver Dance|p2a: Samuel D. Norton
+|-boost|p2a: Samuel D. Norton|spa|1
+|-boost|p2a: Samuel D. Norton|spd|1
+|-boost|p2a: Samuel D. Norton|spe|1
+|move|p1a: Dirty Boys|Earthquake|p2a: Samuel D. Norton
+|-damage|p2a: Samuel D. Norton|140/311
+|
+|upkeep
+|turn|14
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1613320721
+|move|p2a: Samuel D. Norton|Fire Blast|p1a: Dirty Boys
+|-crit|p1a: Dirty Boys
+|-damage|p1a: Dirty Boys|0 fnt
+|faint|p1a: Dirty Boys
+|
+|upkeep
+|inactive|soulgazer has 270 seconds left.
+|c|☆soulgazer|well
+|inactive|soulgazer has 240 seconds left.
+|c|☆soulgazer|gliscor ate guys
+|inactive|soulgazer has 210 seconds left.
+|
+|t:|1613320824
+|switch|p1a: Suffragette City|Toxapex, M, shiny|206/304 brn
+|turn|15
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1613320903
+|move|p2a: Samuel D. Norton|Hidden Power|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|82/304 brn
+|move|p1a: Suffragette City|Toxic|p2a: Samuel D. Norton
+|-status|p2a: Samuel D. Norton|tox
+|
+|-heal|p1a: Suffragette City|101/304 brn|[from] item: Black Sludge
+|-damage|p2a: Samuel D. Norton|121/311 tox|[from] psn
+|-damage|p1a: Suffragette City|82/304 brn|[from] brn
+|upkeep
+|turn|16
+|inactive|Empo has 60 seconds left.
+|
+|t:|1613320917
+|switch|p1a: Saviour Machine|Magearna|363/363
+|move|p2a: Samuel D. Norton|Fire Blast|p1a: Saviour Machine
+|-supereffective|p1a: Saviour Machine
+|-damage|p1a: Saviour Machine|0 fnt
+|faint|p1a: Saviour Machine
+|
+|-damage|p2a: Samuel D. Norton|83/311 tox|[from] psn
+|upkeep
+|
+|t:|1613320923
+|switch|p1a: Suffragette City|Toxapex, M, shiny|183/304 brn
+|turn|17
+|inactive|Empo has 60 seconds left.
+|
+|t:|1613320945
+|switch|p2a: GOJOU|Medicham, F|261/261
+|-damage|p2a: GOJOU|245/261|[from] Stealth Rock
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|304/304 brn
+|
+|-damage|p1a: Suffragette City|285/304 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1613320950
+|switch|p1a: Lady Grinning Soul|Reuniclus, F, shiny|424/424
+|detailschange|p2a: GOJOU|Medicham-Mega, F
+|-mega|p2a: GOJOU|Medicham|Medichamite
+|move|p2a: GOJOU|Ice Punch|p1a: Lady Grinning Soul
+|-damage|p1a: Lady Grinning Soul|293/424
+|
+|-heal|p1a: Lady Grinning Soul|319/424|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|soulgazer has 210 seconds left.
+|
+|t:|1613320960
+|switch|p2a: beamer kid|Rotom-Wash|228/304 tox
+|-damage|p2a: beamer kid|190/304 tox|[from] Stealth Rock
+|move|p1a: Lady Grinning Soul|Recover|p1a: Lady Grinning Soul
+|-heal|p1a: Lady Grinning Soul|424/424
+|
+|-damage|p2a: beamer kid|171/304 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1613320966
+|move|p2a: beamer kid|Defog|p1a: Lady Grinning Soul
+|-unboost|p1a: Lady Grinning Soul|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: beamer kid
+|move|p1a: Lady Grinning Soul|Calm Mind|p1a: Lady Grinning Soul
+|-boost|p1a: Lady Grinning Soul|spa|1
+|-boost|p1a: Lady Grinning Soul|spd|1
+|
+|-damage|p2a: beamer kid|133/304 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1613320978
+|move|p2a: beamer kid|Volt Switch|p1a: Lady Grinning Soul
+|-damage|p1a: Lady Grinning Soul|355/424
+|
+|t:|1613320981
+|switch|p2a: Caasi Netero|Landorus-Therian, M|197/381 brn
+|-ability|p2a: Caasi Netero|Intimidate|boost
+|-unboost|p1a: Lady Grinning Soul|atk|1
+|move|p1a: Lady Grinning Soul|Psyshock|p2a: Caasi Netero
+|-damage|p2a: Caasi Netero|4/381 brn
+|
+|-heal|p1a: Lady Grinning Soul|381/424|[from] item: Leftovers
+|-damage|p2a: Caasi Netero|0 fnt|[from] brn
+|faint|p2a: Caasi Netero
+|upkeep
+|
+|t:|1613320989
+|switch|p2a: Vegan Gains|Kartana|259/259
+|turn|22
+|
+|t:|1613321016
+|switch|p1a: Suffragette City|Toxapex, M, shiny|304/304 brn
+|move|p2a: Vegan Gains|Knock Off|p1a: Suffragette City
+|-damage|p1a: Suffragette City|198/304 brn
+|-enditem|p1a: Suffragette City|Black Sludge|[from] move: Knock Off|[of] p2a: Vegan Gains
+|
+|-damage|p1a: Suffragette City|179/304 brn|[from] brn
+|upkeep
+|turn|23
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613321039
+|switch|p2a: beamer kid|Rotom-Wash|133/304 tox
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|304/304 brn
+|
+|-damage|p2a: beamer kid|114/304 tox|[from] psn
+|-damage|p1a: Suffragette City|285/304 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1613321045
+|move|p2a: beamer kid|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|177/304 brn
+|
+|t:|1613321046
+|switch|p2a: Vegan Gains|Kartana|259/259
+|move|p1a: Suffragette City|Scald|p2a: Vegan Gains
+|-resisted|p2a: Vegan Gains
+|-damage|p2a: Vegan Gains|187/259
+|
+|-damage|p1a: Suffragette City|158/304 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613321068
+|switch|p1a: Queen Bitch|Latias, F, shiny|364/364
+|move|p2a: Vegan Gains|Leaf Blade|p1a: Queen Bitch
+|-resisted|p1a: Queen Bitch
+|-damage|p1a: Queen Bitch|248/364
+|
+|upkeep
+|turn|26
+|
+|t:|1613321078
+|switch|p2a: GOJOU|Medicham-Mega, F|245/261
+|detailschange|p1a: Queen Bitch|Latias-Mega, F, shiny
+|-mega|p1a: Queen Bitch|Latias|Latiasite
+|move|p1a: Queen Bitch|Roost|p1a: Queen Bitch
+|-heal|p1a: Queen Bitch|364/364
+|-singleturn|p1a: Queen Bitch|move: Roost
+|
+|upkeep
+|turn|27
+|inactive|soulgazer has 240 seconds left.
+|
+|t:|1613321090
+|move|p1a: Queen Bitch|Ice Beam|p2a: GOJOU
+|-damage|p2a: GOJOU|145/261
+|move|p2a: GOJOU|Ice Punch|p1a: Queen Bitch
+|-supereffective|p1a: Queen Bitch
+|-damage|p1a: Queen Bitch|114/364
+|
+|upkeep
+|turn|28
+|inactive|soulgazer has 240 seconds left.
+|
+|t:|1613321107
+|move|p1a: Queen Bitch|Ice Beam|p2a: GOJOU
+|-damage|p2a: GOJOU|32/261
+|move|p2a: GOJOU|Ice Punch|p1a: Queen Bitch
+|-supereffective|p1a: Queen Bitch
+|-damage|p1a: Queen Bitch|0 fnt
+|faint|p1a: Queen Bitch
+|
+|upkeep
+|
+|t:|1613321110
+|switch|p1a: Ashes to Ashes|Heatran, M, shiny|323/323
+|turn|29
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613321161
+|switch|p2a: Samuel D. Norton|Volcarona, M|83/311 tox
+|move|p1a: Ashes to Ashes|Lava Plume|p2a: Samuel D. Norton
+|-damage|p2a: Samuel D. Norton|0 fnt
+|faint|p2a: Samuel D. Norton
+|
+|upkeep
+|
+|t:|1613321164
+|switch|p2a: beamer kid|Rotom-Wash|114/304 tox
+|turn|30
+|inactive|Empo has 90 seconds left.
+|inactive|soulgazer has 240 seconds left.
+|
+|t:|1613321201
+|switch|p1a: Suffragette City|Toxapex, M, shiny|259/304 brn
+|move|p2a: beamer kid|Hydro Pump|p1a: Suffragette City|[miss]
+|-miss|p2a: beamer kid|p1a: Suffragette City
+|
+|-damage|p2a: beamer kid|95/304 tox|[from] psn
+|-damage|p1a: Suffragette City|240/304 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1613321210
+|move|p2a: beamer kid|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|136/304 brn
+|
+|t:|1613321212
+|switch|p2a: guccy le boss|Magearna|182/364
+|move|p1a: Suffragette City|Scald|p2a: guccy le boss
+|-damage|p2a: guccy le boss|152/364
+|-status|p2a: guccy le boss|brn
+|
+|-damage|p2a: guccy le boss|130/364 brn|[from] brn
+|-damage|p1a: Suffragette City|117/304 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1613321216
+|move|p2a: guccy le boss|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|35/304 brn
+|
+|t:|1613321220
+|switch|p2a: beamer kid|Rotom-Wash|95/304 tox
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|187/304 brn
+|
+|-damage|p2a: beamer kid|76/304 tox|[from] psn
+|-damage|p1a: Suffragette City|168/304 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1613321222
+|move|p2a: beamer kid|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|70/304 brn
+|
+|t:|1613321226
+|switch|p2a: Vegan Gains|Kartana|187/259
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|222/304 brn
+|
+|-damage|p1a: Suffragette City|203/304 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1613321229
+|move|p2a: Vegan Gains|Knock Off|p1a: Suffragette City
+|-damage|p1a: Suffragette City|134/304 brn
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|286/304 brn
+|
+|-damage|p1a: Suffragette City|267/304 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1613321233
+|switch|p2a: guccy le boss|Magearna|130/364 brn
+|move|p1a: Suffragette City|Scald|p2a: guccy le boss
+|-damage|p2a: guccy le boss|102/364 brn
+|
+|-damage|p2a: guccy le boss|80/364 brn|[from] brn
+|-damage|p1a: Suffragette City|248/304 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1613321235
+|move|p2a: guccy le boss|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|174/304 brn
+|
+|t:|1613321237
+|switch|p2a: beamer kid|Rotom-Wash|76/304 tox
+|move|p1a: Suffragette City|Scald|p2a: beamer kid
+|-resisted|p2a: beamer kid
+|-damage|p2a: beamer kid|55/304 tox
+|
+|-damage|p2a: beamer kid|36/304 tox|[from] psn
+|-damage|p1a: Suffragette City|155/304 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1613321240
+|move|p2a: beamer kid|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|53/304 brn
+|
+|t:|1613321241
+|switch|p2a: GOJOU|Medicham-Mega, F|32/261
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|205/304 brn
+|
+|-damage|p1a: Suffragette City|186/304 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1613321245
+|switch|p1a: Lady Grinning Soul|Reuniclus, F, shiny|381/424
+|move|p2a: GOJOU|Ice Punch|p1a: Lady Grinning Soul
+|-damage|p1a: Lady Grinning Soul|256/424
+|
+|-heal|p1a: Lady Grinning Soul|282/424|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1613321255
+|move|p2a: GOJOU|Ice Punch|p1a: Lady Grinning Soul
+|-damage|p1a: Lady Grinning Soul|139/424
+|move|p1a: Lady Grinning Soul|Psyshock|p2a: GOJOU
+|-damage|p2a: GOJOU|0 fnt
+|faint|p2a: GOJOU
+|
+|-heal|p1a: Lady Grinning Soul|165/424|[from] item: Leftovers
+|upkeep
+|
+|t:|1613321262
+|switch|p2a: Vegan Gains|Kartana|187/259
+|turn|40
+|
+|t:|1613321264
+|switch|p1a: Suffragette City|Toxapex, M, shiny|287/304 brn
+|move|p2a: Vegan Gains|Leaf Blade|p1a: Suffragette City
+|-damage|p1a: Suffragette City|142/304 brn
+|
+|-damage|p1a: Suffragette City|123/304 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1613321271
+|switch|p1a: Ashes to Ashes|Heatran, M, shiny|323/323
+|move|p2a: Vegan Gains|Leaf Blade|p1a: Ashes to Ashes
+|-resisted|p1a: Ashes to Ashes
+|-damage|p1a: Ashes to Ashes|275/323
+|
+|upkeep
+|turn|42
+|
+|t:|1613321276
+|switch|p2a: beamer kid|Rotom-Wash|36/304 tox
+|move|p1a: Ashes to Ashes|Lava Plume|p2a: beamer kid
+|-resisted|p2a: beamer kid
+|-damage|p2a: beamer kid|0 fnt
+|faint|p2a: beamer kid
+|
+|upkeep
+|
+|t:|1613321279
+|switch|p2a: Vegan Gains|Kartana|187/259
+|turn|43
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613321291
+|switch|p1a: Suffragette City|Toxapex, M, shiny|224/304 brn
+|move|p2a: Vegan Gains|Knock Off|p1a: Suffragette City
+|-damage|p1a: Suffragette City|161/304 brn
+|
+|-damage|p1a: Suffragette City|142/304 brn|[from] brn
+|upkeep
+|turn|44
+|inactive|Empo has 210 seconds left.
+|
+|t:|1613321296
+|switch|p2a: guccy le boss|Magearna|80/364 brn
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|294/304 brn
+|
+|-damage|p2a: guccy le boss|58/364 brn|[from] brn
+|-damage|p1a: Suffragette City|275/304 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1613321298
+|move|p2a: guccy le boss|Volt Switch|p1a: Suffragette City
+|-supereffective|p1a: Suffragette City
+|-damage|p1a: Suffragette City|201/304 brn
+|
+|t:|1613321300
+|switch|p2a: Vegan Gains|Kartana|187/259
+|move|p1a: Suffragette City|Scald|p2a: Vegan Gains
+|-resisted|p2a: Vegan Gains
+|-damage|p2a: Vegan Gains|117/259
+|
+|-damage|p1a: Suffragette City|182/304 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1613321302
+|move|p2a: Vegan Gains|Leaf Blade|p1a: Suffragette City
+|-damage|p1a: Suffragette City|43/304 brn
+|move|p1a: Suffragette City|Recover|p1a: Suffragette City
+|-heal|p1a: Suffragette City|195/304 brn
+|
+|-damage|p1a: Suffragette City|176/304 brn|[from] brn
+|upkeep
+|turn|47
+|inactive|Empo has 240 seconds left.
+|
+|t:|1613321308
+|switch|p1a: Ashes to Ashes|Heatran, M, shiny|275/323
+|move|p2a: Vegan Gains|Leaf Blade|p1a: Ashes to Ashes
+|-resisted|p1a: Ashes to Ashes
+|-damage|p1a: Ashes to Ashes|225/323
+|
+|upkeep
+|turn|48
+|
+|t:|1613321311
+|switch|p2a: guccy le boss|Magearna|58/364 brn
+|move|p1a: Ashes to Ashes|Lava Plume|p2a: guccy le boss
+|-supereffective|p2a: guccy le boss
+|-damage|p2a: guccy le boss|0 fnt
+|faint|p2a: guccy le boss
+|
+|upkeep
+|
+|t:|1613321313
+|switch|p2a: Vegan Gains|Kartana|117/259
+|turn|49
+|
+|t:|1613321314
+|move|p2a: Vegan Gains|Knock Off|p1a: Ashes to Ashes
+|-damage|p1a: Ashes to Ashes|83/323
+|-enditem|p1a: Ashes to Ashes|Choice Scarf|[from] move: Knock Off|[of] p2a: Vegan Gains
+|move|p1a: Ashes to Ashes|Lava Plume|p2a: Vegan Gains
+|-supereffective|p2a: Vegan Gains
+|-damage|p2a: Vegan Gains|0 fnt
+|faint|p2a: Vegan Gains
+|
+|win|soulgazer
+

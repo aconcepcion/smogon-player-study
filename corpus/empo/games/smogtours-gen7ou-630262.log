@@ -1,0 +1,503 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1654455738
+|gametype|singles
+|player|p1|Empo|#empo|
+|player|p2|starmaster|#ssdivserpents|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Kyurem-Black|item
+|poke|p1|Magearna|item
+|poke|p1|Medicham, F|item
+|poke|p1|Greninja, M|item
+|poke|p1|Tapu Koko|item
+|poke|p2|Latias, F|item
+|poke|p2|Magnezone|item
+|poke|p2|Chansey, F|item
+|poke|p2|Gliscor, M|item
+|poke|p2|Magearna|item
+|poke|p2|Slowbro, F|item
+|teampreview
+|c|+A HERO'S DESTINY|'-'
+|c|☆starmaster|hf
+|c|+TDK ✿|goo star
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|hf
+|inactive|Empo has 270 seconds left.
+|inactive|starmaster has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|starmaster has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1654455908
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|281/281
+|switch|p2a: Latias|Latias, F|364/364
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|inactive|Empo has 180 seconds left.
+|
+|t:|1654455935
+|detailschange|p2a: Latias|Latias-Mega, F
+|-mega|p2a: Latias|Latias|Latiasite
+|move|p1a: Tapu Koko|U-turn|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|268/364
+|inactive|Empo has 180 seconds left.
+|
+|t:|1654455952
+|switch|p1a: Magearna|Magearna|364/364
+|move|p2a: Latias|Roost|p2a: Latias
+|-heal|p2a: Latias|364/364
+|-singleturn|p2a: Latias|move: Roost
+|
+|upkeep
+|turn|2
+|inactive|starmaster has 270 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1654455993
+|move|p2a: Latias|Ice Beam|p1a: Magearna
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|322/364
+|move|p1a: Magearna|Ice Beam|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|210/364
+|-status|p2a: Latias|frz
+|
+|upkeep
+|turn|3
+|inactive|Empo has 150 seconds left.
+|inactive|starmaster has 240 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1654456042
+|switch|p1a: Medicham|Medicham, F|261/261
+|cant|p2a: Latias|frz
+|
+|upkeep
+|turn|4
+|
+|t:|1654456055
+|detailschange|p1a: Medicham|Medicham-Mega, F
+|-mega|p1a: Medicham|Medicham|Medichamite
+|cant|p2a: Latias|frz
+|move|p1a: Medicham|High Jump Kick|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|35/364 frz
+|
+|upkeep
+|turn|5
+|inactive|Empo has 120 seconds left.
+|
+|t:|1654456076
+|switch|p2a: Slowbro|Slowbro, F|394/394
+|move|p1a: Medicham|High Jump Kick|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|250/394
+|
+|-heal|p2a: Slowbro|274/394|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|inactive|Empo has 120 seconds left.
+|
+|t:|1654456106
+|switch|p1a: Greninja|Greninja, M|285/285
+|move|p2a: Slowbro|Scald|p1a: Greninja
+|-resisted|p1a: Greninja
+|-damage|p1a: Greninja|225/285
+|-status|p1a: Greninja|brn
+|
+|-heal|p2a: Slowbro|298/394|[from] item: Leftovers
+|-damage|p1a: Greninja|208/285 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1654456124
+|switch|p2a: Chansey|Chansey, F|701/701
+|move|p1a: Greninja|Spikes|p2a: Chansey
+|-sidestart|p2: starmaster|Spikes
+|
+|-damage|p1a: Greninja|191/285 brn|[from] brn
+|upkeep
+|turn|8
+|inactive|Empo has 90 seconds left.
+|
+|t:|1654456147
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Chansey|atk|1
+|move|p2a: Chansey|Seismic Toss|p1a: Landorus
+|-damage|p1a: Landorus|281/381
+|-damage|p2a: Chansey|585/701|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|upkeep
+|turn|9
+|inactive|Empo has 90 seconds left.
+|
+|t:|1654456154
+|move|p1a: Landorus|U-turn|p2a: Chansey
+|-damage|p2a: Chansey|492/701
+|
+|t:|1654456156
+|switch|p1a: Medicham|Medicham-Mega, F|261/261
+|move|p2a: Chansey|Stealth Rock|p1a: Medicham
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|inactive|starmaster has 240 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1654456183
+|move|p1a: Medicham|High Jump Kick|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1654456186
+|switch|p2a: Slowbro|Slowbro, F|394/394
+|-damage|p2a: Slowbro|345/394|[from] Spikes
+|turn|11
+|inactive|Empo has 90 seconds left.
+|
+|t:|1654456211
+|switch|p1a: Tapu Koko|Tapu Koko|281/281
+|-damage|p1a: Tapu Koko|246/281|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Slowbro|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|134/281
+|-status|p1a: Tapu Koko|brn
+|
+|-heal|p2a: Slowbro|369/394|[from] item: Leftovers
+|-damage|p1a: Tapu Koko|117/281 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|starmaster has 240 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1654456239
+|switch|p2a: Gliscor|Gliscor, M|353/353
+|move|p1a: Tapu Koko|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|343/353
+|inactive|Empo has 60 seconds left.
+|
+|t:|1654456253
+|switch|p1a: Kyurem|Kyurem-Black|391/391
+|-damage|p1a: Kyurem|294/391|[from] Stealth Rock
+|-ability|p1a: Kyurem|Teravolt
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|13
+|
+|t:|1654456257
+|switch|p2a: Magnezone|Magnezone|282/282
+|-damage|p2a: Magnezone|247/282|[from] Spikes
+|move|p1a: Kyurem|Fusion Bolt|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|141/282
+|
+|upkeep
+|turn|14
+|inactive|Empo has 60 seconds left.
+|
+|t:|1654456276
+|switch|p1a: Tapu Koko|Tapu Koko|117/281 brn
+|-damage|p1a: Tapu Koko|82/281 brn|[from] Stealth Rock
+|move|p2a: Magnezone|Flash Cannon|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1654456279
+|switch|p1a: Greninja|Greninja, M|191/285 brn
+|-damage|p1a: Greninja|156/285 brn|[from] Stealth Rock
+|turn|15
+|
+|t:|1654456286
+|switch|p2a: Magearna|Magearna|363/363
+|-damage|p2a: Magearna|318/363|[from] Spikes
+|move|p1a: Greninja|Surf|p2a: Magearna
+|-damage|p2a: Magearna|128/363
+|
+|-damage|p1a: Greninja|139/285 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1654456295
+|switch|p1a: Kyurem|Kyurem-Black|294/391
+|-damage|p1a: Kyurem|197/391|[from] Stealth Rock
+|-ability|p1a: Kyurem|Teravolt
+|switch|p2a: Slowbro|Slowbro, F|394/394
+|-damage|p2a: Slowbro|345/394|[from] Spikes
+|
+|-heal|p2a: Slowbro|369/394|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1654456303
+|move|p1a: Kyurem|Fusion Bolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|167/394
+|move|p2a: Slowbro|Thunder Wave|p1a: Kyurem
+|-status|p1a: Kyurem|par
+|
+|-heal|p2a: Slowbro|191/394|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1654456308
+|switch|p2a: Magnezone|Magnezone|141/282
+|-damage|p2a: Magnezone|106/282|[from] Spikes
+|-zpower|p1a: Kyurem
+|move|p1a: Kyurem|Subzero Slammer|p2a: Magnezone|[zeffect]
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|inactive|starmaster has 270 seconds left.
+|
+|t:|1654456326
+|switch|p2a: Magearna|Magearna|128/363
+|-damage|p2a: Magearna|83/363|[from] Spikes
+|turn|19
+|inactive|starmaster has 270 seconds left.
+|
+|t:|1654456334
+|move|p2a: Magearna|Fleur Cannon|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|-unboost|p2a: Magearna|spa|2
+|faint|p1a: Kyurem
+|-ability|p2a: Magearna|Soul-Heart|boost
+|-boost|p2a: Magearna|spa|1
+|
+|upkeep
+|
+|t:|1654456342
+|switch|p1a: Landorus|Landorus-Therian, M|281/381
+|-damage|p1a: Landorus|234/381|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Magearna|atk|1
+|turn|20
+|
+|t:|1654456367
+|move|p1a: Landorus|Stealth Rock|p2a: Magearna
+|-sidestart|p2: starmaster|move: Stealth Rock
+|move|p2a: Magearna|Pain Split|p1a: Landorus
+|-sethp|p1a: Landorus|158/381|[from] move: Pain Split|[silent]
+|-sethp|p2a: Magearna|158/363|[from] move: Pain Split
+|
+|upkeep
+|turn|21
+|inactive|starmaster has 270 seconds left.
+|
+|t:|1654456389
+|switch|p2a: Gliscor|Gliscor, M|343/353 tox
+|-damage|p2a: Gliscor|299/353 tox|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|343/353 tox|[from] ability: Poison Heal
+|upkeep
+|turn|22
+|inactive|starmaster has 270 seconds left.
+|
+|t:|1654456397
+|move|p2a: Gliscor|Facade|p1a: Landorus
+|-damage|p1a: Landorus|73/381
+|-damage|p2a: Gliscor|285/353 tox|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|253/353 tox
+|
+|t:|1654456410
+|switch|p1a: Medicham|Medicham-Mega, F|261/261
+|-damage|p1a: Medicham|245/261|[from] Stealth Rock
+|
+|-heal|p2a: Gliscor|297/353 tox|[from] ability: Poison Heal
+|upkeep
+|turn|23
+|
+|t:|1654456417
+|switch|p2a: Slowbro|Slowbro, F|322/394
+|-damage|p2a: Slowbro|273/394|[from] Spikes
+|-damage|p2a: Slowbro|224/394|[from] Stealth Rock
+|move|p1a: Medicham|High Jump Kick|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|86/394
+|
+|-heal|p2a: Slowbro|110/394|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1654456424
+|switch|p2a: Latias|Latias-Mega, F|35/364 frz
+|-damage|p2a: Latias|0 fnt|[from] Stealth Rock
+|faint|p2a: Latias
+|move|p1a: Medicham|High Jump Kick|p2: Latias|[notarget]
+|-fail|p1a: Medicham
+|
+|upkeep
+|
+|t:|1654456426
+|switch|p2a: Slowbro|Slowbro, F|241/394
+|-damage|p2a: Slowbro|192/394|[from] Spikes
+|-damage|p2a: Slowbro|143/394|[from] Stealth Rock
+|turn|25
+|
+|t:|1654456442
+|switch|p1a: Greninja|Greninja, M|139/285 brn
+|-damage|p1a: Greninja|104/285 brn|[from] Stealth Rock
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|340/394
+|
+|-heal|p2a: Slowbro|364/394|[from] item: Leftovers
+|-damage|p1a: Greninja|87/285 brn|[from] brn
+|upkeep
+|turn|26
+|inactive|Empo has 120 seconds left.
+|inactive|starmaster has 270 seconds left.
+|inactive|starmaster has 240 seconds left.
+|
+|t:|1654456521
+|switch|p2a: Magearna|Magearna|158/363
+|-damage|p2a: Magearna|113/363|[from] Spikes
+|-damage|p2a: Magearna|91/363|[from] Stealth Rock
+|move|p1a: Greninja|Dark Pulse|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|7/363
+|
+|-damage|p1a: Greninja|70/285 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1654456539
+|move|p1a: Greninja|Dark Pulse|p2a: Magearna
+|-resisted|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|-activate|p1a: Greninja|ability: Battle Bond
+|detailschange|p1a: Greninja|Greninja-Ash, M
+|
+|-damage|p1a: Greninja|53/285 brn|[from] brn
+|upkeep
+|
+|t:|1654456541
+|switch|p2a: Gliscor|Gliscor, M|297/353 tox
+|-damage|p2a: Gliscor|253/353 tox|[from] Stealth Rock
+|turn|28
+|inactive|Empo has 120 seconds left.
+|
+|t:|1654456570
+|switch|p1a: Magearna|Magearna|322/364
+|-damage|p1a: Magearna|300/364|[from] Stealth Rock
+|move|p2a: Gliscor|Roost|p2a: Gliscor
+|-heal|p2a: Gliscor|353/353 tox
+|-singleturn|p2a: Gliscor|move: Roost
+|
+|upkeep
+|turn|29
+|inactive|starmaster has 210 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|starmaster has 180 seconds left.
+|inactive|starmaster has 150 seconds left.
+|
+|t:|1654456655
+|switch|p2a: Slowbro|Slowbro, F|394/394
+|-damage|p2a: Slowbro|345/394|[from] Spikes
+|-damage|p2a: Slowbro|296/394|[from] Stealth Rock
+|move|p1a: Magearna|Ice Beam|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|236/394
+|
+|-heal|p2a: Slowbro|260/394|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|starmaster has 150 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1654456695
+|switch|p2a: Gliscor|Gliscor, M|353/353 tox
+|-damage|p2a: Gliscor|309/353 tox|[from] Stealth Rock
+|move|p1a: Magearna|Thunderbolt|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|353/353 tox|[from] ability: Poison Heal
+|upkeep
+|turn|31
+|inactive|starmaster has 120 seconds left.
+|
+|t:|1654456715
+|switch|p2a: Slowbro|Slowbro, F|391/394
+|-damage|p2a: Slowbro|342/394|[from] Spikes
+|-damage|p2a: Slowbro|293/394|[from] Stealth Rock
+|move|p1a: Magearna|Ice Beam|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|231/394
+|
+|-heal|p2a: Slowbro|255/394|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|starmaster has 120 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1654456763
+|switch|p2a: Gliscor|Gliscor, M|353/353 tox
+|-damage|p2a: Gliscor|309/353 tox|[from] Stealth Rock
+|move|p1a: Magearna|Thunderbolt|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-heal|p2a: Gliscor|353/353 tox|[from] ability: Poison Heal
+|upkeep
+|turn|33
+|inactive|Empo has 30 seconds left.
+|
+|t:|1654456784
+|move|p2a: Gliscor|Earthquake|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|112/364
+|move|p1a: Magearna|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|
+|upkeep
+|
+|t:|1654456792
+|switch|p2a: Slowbro|Slowbro, F|386/394
+|-damage|p2a: Slowbro|337/394|[from] Spikes
+|-damage|p2a: Slowbro|288/394|[from] Stealth Rock
+|turn|34
+|
+|t:|1654456794
+|move|p1a: Magearna|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|win|Empo
+

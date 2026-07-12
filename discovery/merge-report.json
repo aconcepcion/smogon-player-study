@@ -1,0 +1,16 @@
+{
+ "per_source_rows": {
+  "chatgpt": 52,
+  "gemini": 114
+ },
+ "unique_games_with_url": 55,
+ "corroborated_by_2plus": 3,
+ "single_source_only": {
+  "chatgpt": 46,
+  "gemini": 6
+ },
+ "replay_missing_rows": 76,
+ "rows_with_field_conflicts": 25,
+ "parse_problems": [],
+ "output": "discovery/empo-links.json"
+}

@@ -1,0 +1,2063 @@
+[
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-396168",
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Phase 2",
+  "date": "2019-10-15",
+  "format": "gen7ou",
+  "opponent": "pokeaimMD",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-stage-1-phase-2.3650000/",
+  "notes": "Verified match where Empo utilized an aggressive SM OU core.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-530161",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "xray",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-530163",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "xray",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-531313",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "beatiful",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses FREE XIMRAPTOR as the opponent's alt.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-531323",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "beatiful",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses FREE XIMRAPTOR as the opponent's alt.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-532021",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "John W",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-532032",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "John W",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-533278",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-533288",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-533296",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-626209",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "ArcticBreeze",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses Arct!c as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-626218",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "ArcticBreeze",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses Arct!c as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-627181",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "Ox the Fox",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-627187",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "Ox the Fox",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-627209",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Ox the Fox",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-629015",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "JP192",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-629026",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "JP192",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-630262",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-630281",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-630314",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-770676",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "We Three Kings",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-770690",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "We Three Kings",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-772011",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-772055",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-772080",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-773677",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "Welli0u",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-773679",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Welli0u",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-470762",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "1 True Lycan",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass; replay thread confirms regular-season entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-473406",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "blarghlfarghl",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass; replay thread confirms regular-season entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-474361",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "CTC",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Replay title uses KobeBeanBasedlord as the opponent's alt. Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-474806",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "1 True Lycan",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Second regular-season meeting; week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-478213",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "bro fist",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-479335",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "starry blanket",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Replay title shortens the opponent alt to starry. Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-480928",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Playoffs",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "Christo",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Playoff round was visibly beyond regular season in the replay thread; exact playoff round label not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-483115",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Finals",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "blarghlfarghl",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Finals replay.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-483972",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Finals Tiebreaker",
+  "date": "2020-01-05",
+  "format": "gen7ou",
+  "opponent": "KratosMana",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "SM OU tiebreaker listed in the finals section.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-500244",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 8",
+  "date": "2020-05-10",
+  "format": "gen6ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Record-breaking game securing Empo's historic 75-point qualifying mark.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/gen7ou-2330828926-qa1le35w9ere87cyr3j6ebs8vw9ibwlpw",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs",
+  "date": "2020-06-15",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Playoff matchup replication verified in post-match strategy review.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/gen7ou-2383788762-0l7dtkfcpcijdwxfsdg8d3qabpyov6ypw",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs",
+  "date": "2020-07-20",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Verified identical lineup mirror match.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-537288",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "z0mOG",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry. Date is the resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-538821",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "frisoeva",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "Replay title uses Empo Aurella as Empo's alt. SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-539312",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Relous",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-540413",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Robjr",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-542402",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "soulgazer",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-542981",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Devin",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "Replay title uses devwin as the opponent's alt. SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-548763",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Semifinals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Nat",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-548764",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Semifinals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Nat",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551237",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'L' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551243",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'W' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551299",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'W' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-562780",
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Century Express",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "WCoP 2021 group-stage archive entry. Date is the SS resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-563097",
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "RedEmption",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "Replay title shortens the opponent to Redemption. WCoP 2021 group-stage archive entry.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-562715",
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "CBU",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "WCoP 2021 group-stage archive entry. Date is the SS resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-790679",
+  "tournament": "Smogon Premier League",
+  "edition": "XV",
+  "stage": "Week 1",
+  "date": "2024-01-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xv-week-1.3734000/",
+  "notes": "Empo utilizing Landorus-Therian and Darkrai core.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-860383",
+  "tournament": "World Cup of Pokémon",
+  "edition": "XX",
+  "stage": "Finals",
+  "date": "2025-09-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-finals.3752000/",
+  "notes": "Decisive 78-turn match to secure the world title for team Italy.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "Vert",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Finals replay was listed in the opened archive, but the individual replay URL was not expanded in this pass. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "merge_conflicts": [
+   "format: 'gen9ou' vs 'gen7ou' (chatgpt)",
+   "format: 'gen9ou' vs 'gen8ou' (chatgpt)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIII",
+  "stage": "Playoffs - Round 1",
+  "date": "2017-05-15",
+  "format": "gen5ou",
+  "opponent": "FlamingVictini",
+  "result": "L",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-23-playoffs-round-1.3601200/",
+  "notes": "Game 1 of BO3 set. Replay unposted or deleted in historic playoffs archives.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen5ou' vs 'gen7ou' (gemini)",
+   "result: 'L' vs 'W' (gemini)",
+   "format: 'gen5ou' vs 'gen6ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 1",
+  "date": "2019-01-07",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-1.3646000/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 2",
+  "date": "2019-01-14",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-2.3646100/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 3",
+  "date": "2019-01-21",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-3.3646200/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 4",
+  "date": "2019-01-28",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-4.3646300/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 5",
+  "date": "2019-02-10",
+  "format": "gen7ou",
+  "opponent": "Ojama",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-5.3647000/",
+  "notes": "High-profile match highlighted in historic analysis; replay unposted.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 6",
+  "date": "2019-02-11",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-6.3647100/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 7",
+  "date": "2019-02-18",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-7.3647200/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 8",
+  "date": "2019-02-25",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-8.3647300/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Week 9",
+  "date": "2019-03-04",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-week-9.3647400/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Finals",
+  "date": "2019-03-24",
+  "format": "gen7ou",
+  "opponent": "blunder",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-finals.3648000/",
+  "notes": "Lobby restricted to private status; match notes describe late-game burn sequence.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "X",
+  "stage": "Playoffs",
+  "date": "2019-03-17",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-x-playoffs.3647900/",
+  "notes": "Replay omitted from final public archive.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 1",
+  "date": "2019-09-01",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-1.3649900/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 2",
+  "date": "2019-09-08",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-2.3649910/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 3",
+  "date": "2019-09-15",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-3.3649920/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 4",
+  "date": "2019-09-22",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-4.3649930/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 5",
+  "date": "2019-09-29",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-5.3649940/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 6",
+  "date": "2019-10-06",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-6.3649950/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 7",
+  "date": "2019-10-13",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-7.3649960/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Week 8",
+  "date": "2019-10-20",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-week-8.3649970/",
+  "notes": "Replay missing from weekly hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 1",
+  "date": "2020-01-06",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-1.3658500/",
+  "notes": "Official team season opener. Replay links expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 2",
+  "date": "2020-01-13",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-2.3658600/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 3",
+  "date": "2020-01-20",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "L",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-3.3658700/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 4",
+  "date": "2020-01-27",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-4.3658800/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 5",
+  "date": "2020-02-03",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-5.3658900/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 6",
+  "date": "2020-02-10",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "L",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-6.3659000/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 7",
+  "date": "2020-02-17",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-7.3659100/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 8",
+  "date": "2020-02-24",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-8.3659200/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Week 9",
+  "date": "2020-03-02",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-week-9.3659300/",
+  "notes": "Replay missing from weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Playoffs",
+  "date": "2020-03-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xi-playoffs.3659500/",
+  "notes": "Match unrecorded or hidden in team channels.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 1",
+  "date": "2020-03-22",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 2",
+  "date": "2020-03-29",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 3",
+  "date": "2020-04-05",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 4",
+  "date": "2020-04-12",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 5",
+  "date": "2020-04-19",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 6",
+  "date": "2020-04-26",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 7",
+  "date": "2020-05-03",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Replays for early structural brackets expired.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs - Round 1",
+  "date": "2020-06-01",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Game 1 of playoffs set. Replays expired or private.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen7ou' vs 'gen8ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs - Quarterfinals",
+  "date": "2020-06-08",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Game 1 of set. Replays expired or private.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen7ou' vs 'gen8ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Playoffs - Round 1",
+  "date": "2020-11-01",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-30-playoffs.3664900/",
+  "notes": "Replay omitted or expired in bracket logs.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Playoffs - Quarterfinals",
+  "date": "2020-11-08",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-30-playoffs.3664900/",
+  "notes": "Replay omitted or expired in bracket logs.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Playoffs - Semifinals",
+  "date": "2020-11-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-30-playoffs.3664900/",
+  "notes": "Replay omitted or expired in bracket logs.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Playoffs - Finals",
+  "date": "2020-11-22",
+  "format": "gen8ou",
+  "opponent": "SoulWind",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-30-playoffs.3664900/",
+  "notes": "Game 1 of finals. Replay inaccessible in public thread.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)",
+   "result: 'W' vs 'L' (gemini)",
+   "format: 'gen8ou' vs 'gen6ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Round 1",
+  "date": "2020-06-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/world-cup-of-pokemon-xv-round-1.3665500/",
+  "notes": "Replay link dead or deleted in weekly log.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2020-06-15' vs '2020-06-22' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Quarterfinals",
+  "date": "2020-07-06",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/world-cup-of-pokemon-xv-quarterfinals.3665600/",
+  "notes": "Replay link dead or deleted in weekly log.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Semifinals",
+  "date": "2020-07-20",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/world-cup-of-pokemon-xv-semifinals.3665700/",
+  "notes": "Replay link dead or deleted in weekly log.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XV",
+  "stage": "Finals",
+  "date": "2020-08-03",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "L",
+  "source_thread": "https://www.smogon.com/forums/threads/world-cup-of-pokemon-xv-finals.3665800/",
+  "notes": "Finals team series match. Replay link dead.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Round of 16",
+  "date": "2021-02-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-round-of-16.3681100/",
+  "notes": "Game 1 of BO3 set. Replay unposted.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Quarterfinals",
+  "date": "2021-03-01",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-quarterfinals.3681110/",
+  "notes": "Game 1 of BO3 set. Replay unposted.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Semifinals",
+  "date": "2021-03-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-semifinals.3681115/",
+  "notes": "Game 1 of BO3 set. Replay unposted.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 1",
+  "date": "2021-01-04",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-1.3675000/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 2",
+  "date": "2021-01-11",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-2.3675100/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 3",
+  "date": "2021-01-18",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-3.3675200/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 4",
+  "date": "2021-01-25",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-4.3675300/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 5",
+  "date": "2021-02-01",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-5.3675400/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 6",
+  "date": "2021-02-08",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-6.3675500/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 7",
+  "date": "2021-02-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-7.3675600/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 8",
+  "date": "2021-02-22",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-8.3675700/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Week 9",
+  "date": "2021-03-01",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xii-week-9.3675800/",
+  "notes": "Replay expired in weekly match hub.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Playoffs - Round 1",
+  "date": "2022-05-15",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-33-playoffs.3701000/",
+  "notes": "Game 1 of BO3 playoff set. Replays unposted or deleted.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Playoffs - Quarterfinals",
+  "date": "2022-05-22",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-33-playoffs.3701000/",
+  "notes": "Game 1 of BO3 set. Replays missing.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Playoffs - Semifinals",
+  "date": "2022-05-29",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-33-playoffs.3701000/",
+  "notes": "Game 1 of BO3 set.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Playoffs - Finals",
+  "date": "2022-06-05",
+  "format": "gen8ou",
+  "opponent": "Vert",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-33-playoffs.3701000/",
+  "notes": "Game 1 of BO3 finals. Replays unavailable.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)",
+   "result: 'W' vs 'L' (gemini)",
+   "format: 'gen8ou' vs 'gen6ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XX",
+  "stage": "Round 1",
+  "date": "2025-06-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-round-1.3751500/",
+  "notes": "Group stage game. Replay link unavailable.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2025-06-15' vs '2025-06-22' (gemini)",
+   "date: '2025-06-15' vs '2025-06-29' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XX",
+  "stage": "Quarterfinals",
+  "date": "2025-07-13",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-quarterfinals.3751600/",
+  "notes": "Quarterfinals lineup match.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XX",
+  "stage": "Semifinals",
+  "date": "2025-08-03",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "L",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-semifinals.3751700/",
+  "notes": "Semifinals series match.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "World Cup of Pokémon",
+  "edition": "XX",
+  "stage": "Semifinals Tiebreak",
+  "date": "2025-08-10",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-semifinals.3751700/",
+  "notes": "Critical tiebreak scenario to advance Italy.",
+  "sources": [
+   "gemini"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Playoffs - Round 1",
+  "date": "2025-11-01",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-36-playoffs.3761000/",
+  "notes": "Game 1 of BO3 set. Replays expired.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen9ou' vs 'gen8ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Playoffs - Quarterfinals",
+  "date": "2025-11-08",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-36-playoffs.3761000/",
+  "notes": "Game 1 of BO3 set. Replays expired.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen9ou' vs 'gen8ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Playoffs - Semifinals",
+  "date": "2025-11-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-36-playoffs.3761000/",
+  "notes": "Game 1 of BO3 set.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen9ou' vs 'gen8ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Playoffs - Finals",
+  "date": "2025-11-22",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-36-playoffs.3761000/",
+  "notes": "Game 1 of BO3 finals.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen9ou' vs 'gen8ou' (gemini)",
+   "result: 'W' vs 'L' (gemini)",
+   "format: 'gen9ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Masters",
+  "edition": "II",
+  "stage": "Playoffs - Round 1",
+  "date": "2025-11-10",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-masters-ii-bracket.3760000/",
+  "notes": "Game 1 of BO3 playoff set. Replays omitted from main thread.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Masters",
+  "edition": "II",
+  "stage": "Playoffs - Quarterfinals",
+  "date": "2025-11-17",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-masters-ii-bracket.3760000/",
+  "notes": "Game 1 of BO3 set. Replays omitted from main thread.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Masters",
+  "edition": "II",
+  "stage": "Playoffs - Semifinals",
+  "date": "2025-11-24",
+  "format": "gen8ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-masters-ii-bracket.3760000/",
+  "notes": "Game 1 of BO3 set.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)"
+  ]
+ },
+ {
+  "url": null,
+  "tournament": "Smogon Masters",
+  "edition": "II",
+  "stage": "Finals",
+  "date": "2025-12-10",
+  "format": "gen8ou",
+  "opponent": "ChrisPBacon",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-masters-ii-finals.3760000/",
+  "notes": "Game 1 of BO3 finals. Replay omitted from final logs.",
+  "sources": [
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "format: 'gen8ou' vs 'gen7ou' (gemini)",
+   "result: 'W' vs 'L' (gemini)",
+   "format: 'gen8ou' vs 'gen6ou' (gemini)"
+  ]
+ }
+]

@@ -1,0 +1,318 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|HYDREIGON SPECS|lucas|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|6
+|tier|[Gen 6] OU
+|clearpoke
+|poke|p1|Azelf|item
+|poke|p1|Pinsir, M|item
+|poke|p1|Bisharp, F|item
+|poke|p1|Excadrill, F|item
+|poke|p1|Dragonite, M|item
+|poke|p1|Manaphy|item
+|poke|p2|Xatu, F|item
+|poke|p2|Azumarill, F|item
+|poke|p2|Bisharp, M|item
+|poke|p2|Volcarona, F|item
+|poke|p2|Thundurus-Therian, M|item
+|poke|p2|Diancie|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|teampreview
+|c|+blarghlfarghl|-hs
+|c|☆HYDREIGON SPECS|glhs
+|c|+Ruft|GO EMPO
+|c|☆Empo|same
+|c|+Askov|-HS
+|c|☆Empo|/log Empo made the replay of this battle unlisted.
+|c|+Askov|.
+|c|+ChillShadow|-hs
+|c|+Askov|pussiou de usar o time hein hs
+|c|☆HYDREIGON SPECS|kkkkkkkkkkkkkkkkkkkkk
+|c|+Spl4sh|?
+|c|☆HYDREIGON SPECS|o splash me passo
+|c|☆HYDREIGON SPECS|essa porra
+|c|+blarghlfarghl|EMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOR
+|c|+Updated Kanto|the cteam
+|c|+Spl4sh|meu time é fogo
+|
+|start
+|switch|p1a: meshmenkey|Azelf|100/100
+|switch|p2a: Diancie|Diancie|100/100
+|turn|1
+|c|+Spl4sh|tb
+|c|+We Three Kings|make history empo
+|c|+pasy_g| (could beat bloo's record)
+|c|+Updated Kanto|meshmenkey
+|
+|move|p1a: meshmenkey|Hidden Power|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|32/100
+|move|p2a: Diancie|Moonblast|p1a: meshmenkey
+|-damage|p1a: meshmenkey|40/100
+|-unboost|p1a: meshmenkey|spa|1
+|
+|upkeep
+|turn|2
+|c|+We Three Kings|also what is this insane ct
+|c|+Raiza|owned
+|c|+blarghlfarghl|,
+|c|☆HYDREIGON SPECS|perdemos
+|c|+Askov|.
+|c|☆HYDREIGON SPECS|'-'
+|c|+Spl4sh|LOL
+|c|+blarghlfarghl|congrats empoor
+|c|☆HYDREIGON SPECS|congrats empoor
+|
+|detailschange|p2a: Diancie|Diancie-Mega
+|-mega|p2a: Diancie|Diancie|Diancite
+|move|p2a: Diancie|Protect|p2a: Diancie
+|-singleturn|p2a: Diancie|Protect
+|move|p1a: meshmenkey|Hidden Power|p2a: Diancie
+|-activate|p2a: Diancie|move: Protect
+|
+|upkeep
+|turn|3
+|c|+Vileman|perdemos
+|inactive|Empo has 270 seconds left.
+|c|+Askov|pera tem um xatu E diancie
+|c|+Askov|LOL
+|c|+fakenagol ♕|lets get it empo
+|c|☆HYDREIGON SPECS|LOLOL
+|c|+blarghlfarghl|oh wait he took off talon
+|inactive|HYDREIGON SPECS has 270 seconds left.
+|c|+blarghlfarghl|that mon hella won
+|c|+Updated Kanto|indeed
+|
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|move|p1a: meshmenkey|Hidden Power|p2a: Azumarill
+|-damage|p2a: Azumarill|88/100
+|
+|upkeep
+|turn|4
+|c|☆Empo|(this mon won) derek
+|c|+Askov|.
+|inactive|HYDREIGON SPECS has 270 seconds left.
+|c|+Spl4sh|como
+|c|+Spl4sh|ele sabia
+|
+|move|p2a: Azumarill|Aqua Jet|p1a: meshmenkey
+|-damage|p1a: meshmenkey|6/100
+|move|p1a: meshmenkey|Explosion|p2a: Azumarill
+|-damage|p2a: Azumarill|7/100
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|32/100|[from] item: Sitrus Berry
+|faint|p1a: meshmenkey
+|
+|upkeep
+|c|☆HYDREIGON SPECS|perdemos
+|c|+Vileman|kkkkkkk
+|c|+We Three Kings|chew
+|c|+Askov|LOL
+|c|☆HYDREIGON SPECS|kkkkkkkkkkkkkkkkk
+|c|+blarghlfarghl|mr eat
+|inactive|Empo has 240 seconds left.
+|c|+blarghlfarghl|who doesnt rocks
+|c|+Updated Kanto|he culda gone back to diancie noob-dog
+|c|+Heroic Troller|you were rocking t2
+|c|+Vileman|blargh i have bad news
+|c|+Vileman|u are poor
+|c|+baddummy|Bro..
+|c|+We Three Kings|beating the record is more important than winning tour
+|c|+We Three Kings|y/n
+|c|+blarghlfarghl|certainly
+|inactive|Empo has 210 seconds left.
+|
+|switch|p1a: Pinsir|Pinsir, M|100/100
+|turn|5
+|c|+bbeeaa|its over
+|inactive|Empo has 210 seconds left.
+|inactive|HYDREIGON SPECS has 270 seconds left.
+|c|+Spl4sh|perdemos aqui
+|c|+Spl4sh|rapaziada
+|c|+ChillShadow|actually neither of the players has lost all of their pokemon, so it is in fact not over
+|inactive|HYDREIGON SPECS has 240 seconds left.
+|c|+GOAO|mds
+|
+|detailschange|p1a: Pinsir|Pinsir-Mega, M
+|-mega|p1a: Pinsir|Pinsir|Pinsirite
+|move|p2a: Azumarill|Aqua Jet|p1a: Pinsir
+|-damage|p1a: Pinsir|72/100
+|move|p1a: Pinsir|Swords Dance|p1a: Pinsir
+|-boost|p1a: Pinsir|atk|2
+|
+|upkeep
+|turn|6
+|c|☆HYDREIGON SPECS|perdi
+|c|☆HYDREIGON SPECS|'-'
+|c|☆HYDREIGON SPECS|foi boa a run
+|c|☆HYDREIGON SPECS|rapaziada
+|c|+GOAO|o cara ta no jogo mias importante da historia, p quebrar o record do bloo
+|
+|move|p1a: Pinsir|Quick Attack|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|c|+GOAO|e ele ta cocntra o
+|c|+GOAO|HS
+|c|+fakenagol ♕|empo went goat mode
+|c|+GOAO|o IDIOTA do hs
+|
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|7
+|
+|move|p1a: Pinsir|Frustration|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|c|☆HYDREIGON SPECS|wtf
+|c|+We Three Kings|perdemos
+|c|+ggggd|gg.
+|c|☆HYDREIGON SPECS|me sabotara
+|c|+confide|wtf
+|c|☆HYDREIGON SPECS|m
+|c|+Updated Kanto|LETS GO EMPOOOOOOOOOO
+|c|+confide|died
+|c|☆HYDREIGON SPECS|'-'
+|c|+confide|LOLOL
+|c|+Caasi|HE DID IT
+|c|+Updated Kanto|EMPO DA GOAAAAAAAAAT
+|c|+confide|why did that DROP
+|c|☆HYDREIGON SPECS|gg '-'
+|c|☆HYDREIGON SPECS|parabens
+|c|+fakenagol ♕|empo went goat mode wtffff
+|c|+Corazan|empoor..
+|c|☆Empo|s/o meshmenkey
+|c|☆Empo|gg
+|inactive|HYDREIGON SPECS has 240 seconds left.
+|
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|8
+|c|+pasy_g| (could beat bloo's record)
+|c|+GOAO|falou gg forfeta
+|c|+GOAO|verme
+|c|+Askov|chamar o hs de ruim eh pouco
+|inactive|HYDREIGON SPECS has 240 seconds left.
+|c|☆HYDREIGON SPECS|cala boca
+|c|+Askov|GOAO
+|c|☆HYDREIGON SPECS|filho da puta
+|c|☆HYDREIGON SPECS|oO
+|c|+emre mor 9|lol
+|c|+GOAO|ele quis deixar o amigao
+|
+|switch|p2a: Diancie|Diancie-Mega|32/100
+|move|p1a: Pinsir|Close Combat|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|-unboost|p1a: Pinsir|def|1
+|-unboost|p1a: Pinsir|spd|1
+|faint|p2a: Diancie
+|
+|upkeep
+|
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|9
+|c|+GOAO|quebrar o record
+|c|+Askov|????
+|c|+GOAO|hs eh gente boa
+|inactive|HYDREIGON SPECS has 240 seconds left.
+|c|+Updated Kanto|no way
+|c|+Updated Kanto|did bish really tank +2 frustration
+|c|+Vileman|owo whats this
+|c|+ggggd|didnt kill back
+|c|+sjneider|y
+|c|+Askov|uma jogada GOAO
+|c|+GOAO|if empo wins he breaks all time record for points
+|
+|move|p2a: Bisharp|Sucker Punch|p1a: Pinsir
+|-damage|p1a: Pinsir|0 fnt
+|faint|p1a: Pinsir
+|
+|upkeep
+|c|+GOAO|vleman
+|c|+GOAO|'-'
+|c|+ChillShadow|oml
+|c|+Askov|brabo
+|
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|10
+|c|+Updated Kanto|dang
+|c|+Vileman|goaoaoaoaoaoa
+|c|+Updated Kanto|not over......
+|c|☆HYDREIGON SPECS|perdemos
+|c|+Spl4sh|pqp hs
+|inactive|HYDREIGON SPECS has 240 seconds left.
+|c|+Spl4sh|fez merd aien irmao
+|c|☆Empo|perdemos
+|c|☆HYDREIGON SPECS|pqp oq cara
+|c|+cleann|lets go boysssss
+|c|+GOAO|n quer vencer n entra no tour hs
+|c|+GOAO|verme 
+|c|☆HYDREIGON SPECS|tem que deixar o cara bater o recorde
+|c|☆HYDREIGON SPECS|'-'
+|
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Bisharp|Taunt|p1a: Dragonite
+|-start|p1a: Dragonite|move: Taunt
+|
+|upkeep
+|turn|11
+|c|+cleann|this aragonite is ready to sanitize
+|c|☆HYDREIGON SPECS|gg '-'
+|c|+Updated Kanto|empo kek u shulda frustrated cmon dawg
+|c|☆Empo|troo
+|c|+ggggd|.
+|c|+ChillShadow|.
+|c|+Raiza|.
+|c|+Vileman|LOL
+|c|+Ruft|dq him
+|c|+Askov|.
+|
+|move|p2a: Bisharp|Sucker Punch|p1a: Dragonite
+|-damage|p1a: Dragonite|71/100
+|move|p1a: Dragonite|Fire Punch|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|switch|p2a: Xatu|Xatu, F|100/100
+|turn|12
+|
+|move|p1a: Dragonite|Outrage|p2a: Xatu
+|-damage|p2a: Xatu|0 fnt
+|faint|p2a: Xatu
+|
+|upkeep
+|
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|13
+|
+|move|p1a: Dragonite|Outrage|p2a: Volcarona|[from]lockedmove
+|-damage|p2a: Volcarona|0 fnt
+|-start|p1a: Dragonite|confusion|[fatigue]
+|faint|p2a: Volcarona
+|
+|win|Empo
+|c|+blarghlfarghl|EMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOREMPOOR
+|c|☆Empo|gg
+|c|+Ruft|point record broken oml
+|c|☆HYDREIGON SPECS|gg
+|c|+Caasi|AYE
+|c|+blarghlfarghl|EMPOOREMPOOREMPOOREMPOOREMPOOREMPOOR
+|c|+golden009|75
+|c|+fakenagol ♕|empo so goat

@@ -1,0 +1,445 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1622304998
+|gametype|singles
+|player|p1|cbu|acetrainersnowf|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kyurem|
+|poke|p1|Kartana|
+|poke|p1|Blaziken, M|
+|poke|p1|Weavile, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Kartana|
+|teampreview
+|c|☆cbu|hf
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|cbu has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|cbu has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|cbu has 210 seconds left.
+|inactive|cbu has 180 seconds left.
+|
+|t:|1622305123
+|start
+|switch|p1a: beneath my veins|Weavile, F|281/281
+|switch|p2a: Thanos|Landorus-Therian, M|381/381
+|-ability|p2a: Thanos|Intimidate|boost
+|-unboost|p1a: beneath my veins|atk|1
+|turn|1
+|inactive|cbu has 240 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|cbu has 210 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622305250
+|switch|p2a: dame dane|Rotom-Wash|304/304
+|move|p1a: beneath my veins|Knock Off|p2a: dame dane
+|-damage|p2a: dame dane|203/304
+|-enditem|p2a: dame dane|Leftovers|[from] move: Knock Off|[of] p1a: beneath my veins
+|-damage|p1a: beneath my veins|253/281|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622305271
+|switch|p1a: never changed|Toxapex, M|304/304
+|move|p2a: dame dane|Volt Switch|p1a: never changed
+|-supereffective|p1a: never changed
+|-damage|p1a: never changed|190/304
+|-enditem|p1a: never changed|Eject Button
+|
+|t:|1622305274
+|switch|p1a: nothing's fine|Kyurem|391/391
+|-ability|p1a: nothing's fine|Pressure
+|
+|upkeep
+|turn|3
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1622305317
+|switch|p2a: NAGOL SARAFINA|Tapu Lele|281/281
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: NAGOL SARAFINA
+|move|p1a: nothing's fine|Freeze-Dry|p2a: NAGOL SARAFINA
+|-damage|p2a: NAGOL SARAFINA|154/281
+|
+|upkeep
+|turn|4
+|inactive|Empo has 150 seconds left.
+|inactive|cbu has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1622305358
+|switch|p1a: bound and broken|Landorus-Therian, M|381/381
+|-ability|p1a: bound and broken|Intimidate|boost
+|-unboost|p2a: NAGOL SARAFINA|atk|1
+|move|p2a: NAGOL SARAFINA|Psychic|p1a: bound and broken
+|-damage|p1a: bound and broken|134/381
+|
+|upkeep
+|turn|5
+|inactive|Empo has 120 seconds left.
+|
+|t:|1622305383
+|move|p2a: NAGOL SARAFINA|Psychic|p1a: bound and broken
+|-crit|p1a: bound and broken
+|-damage|p1a: bound and broken|0 fnt
+|faint|p1a: bound and broken
+|
+|upkeep
+|
+|t:|1622305385
+|switch|p1a: beneath my veins|Weavile, F|253/281
+|turn|6
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622305444
+|switch|p2a: dame dane|Rotom-Wash|203/304
+|move|p1a: beneath my veins|Knock Off|p2a: dame dane
+|-damage|p2a: dame dane|102/304
+|-damage|p1a: beneath my veins|225/281|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|cbu has 180 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1622305481
+|move|p1a: beneath my veins|Knock Off|p2a: dame dane
+|-damage|p2a: dame dane|5/304
+|-damage|p1a: beneath my veins|197/281|[from] item: Life Orb
+|move|p2a: dame dane|Volt Switch|p1a: beneath my veins
+|-damage|p1a: beneath my veins|98/281
+|
+|t:|1622305488
+|switch|p2a: Brainbreaker|Kartana|259/259
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|
+|t:|1622305492
+|switch|p1a: never changed|Toxapex, M|291/304
+|move|p2a: Brainbreaker|Leaf Blade|p1a: never changed
+|-damage|p1a: never changed|176/304
+|
+|upkeep
+|turn|9
+|inactive|Empo has 30 seconds left.
+|
+|t:|1622305523
+|switch|p2a: TRAILS OF FIRE|Heatran, M|386/386
+|switch|p1a: perfect sky|Kartana|259/259
+|
+|upkeep
+|turn|10
+|
+|t:|1622305530
+|switch|p1a: nothing's fine|Kyurem|391/391
+|-ability|p1a: nothing's fine|Pressure
+|move|p2a: TRAILS OF FIRE|Magma Storm|p1a: nothing's fine
+|-damage|p1a: nothing's fine|235/391
+|-activate|p1a: nothing's fine|move: Magma Storm|[of] p2a: TRAILS OF FIRE
+|
+|-damage|p1a: nothing's fine|187/391|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|inactive|cbu has 210 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1622305553
+|switch|p2a: NAGOL SARAFINA|Tapu Lele|154/281
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: NAGOL SARAFINA
+|move|p1a: nothing's fine|Flash Cannon|p2a: NAGOL SARAFINA
+|-supereffective|p2a: NAGOL SARAFINA
+|-crit|p2a: NAGOL SARAFINA
+|-damage|p2a: NAGOL SARAFINA|0 fnt
+|faint|p2a: NAGOL SARAFINA
+|
+|-end|p1a: nothing's fine|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|inactive|Empo has 30 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1622305568
+|switch|p2a: Posty :3|Weavile, F|281/281
+|-ability|p2a: Posty :3|Pressure
+|turn|12
+|inactive|Empo has 25 seconds left this turn.
+|inactive|cbu has 210 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|cbu has 180 seconds left.
+|
+|t:|1622305622
+|switch|p1a: never changed|Toxapex, M|277/304
+|move|p2a: Posty :3|Knock Off|p1a: never changed
+|-damage|p1a: never changed|216/304
+|
+|upkeep
+|turn|13
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1622305632
+|move|p2a: Posty :3|Knock Off|p1a: never changed
+|-damage|p1a: never changed|159/304
+|move|p1a: never changed|Scald|p2a: Posty :3
+|-damage|p2a: Posty :3|214/281
+|
+|upkeep
+|turn|14
+|inactive|cbu has 180 seconds left.
+|
+|t:|1622305637
+|switch|p2a: Thanos|Landorus-Therian, M|381/381
+|-ability|p2a: Thanos|Intimidate|boost
+|-unboost|p1a: never changed|atk|1
+|move|p1a: never changed|Scald|p2a: Thanos
+|-supereffective|p2a: Thanos
+|-damage|p2a: Thanos|231/381
+|
+|upkeep
+|turn|15
+|inactive|cbu has 180 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|inactive|cbu has 150 seconds left.
+|inactive|Empo has 10 seconds left.
+|
+|t:|1622305683
+|switch|p1a: perfect sky|Kartana|259/259
+|move|p2a: Thanos|Earthquake|p1a: perfect sky
+|-damage|p1a: perfect sky|43/259
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|inactive|Empo has 20 seconds left this turn.
+|inactive|Empo has 15 seconds left.
+|inactive|cbu has 150 seconds left.
+|inactive|Empo has 10 seconds left.
+|inactive|Empo has 5 seconds left.
+|
+|t:|1622305698
+|move|p1a: perfect sky|Knock Off|p2a: Thanos
+|-damage|p2a: Thanos|75/381
+|-enditem|p2a: Thanos|Soft Sand|[from] move: Knock Off|[of] p1a: perfect sky
+|move|p2a: Thanos|U-turn|p1a: perfect sky
+|-damage|p1a: perfect sky|0 fnt
+|faint|p1a: perfect sky
+|inactive|Empo has 10 seconds left this turn.
+|inactive|Empo has 5 seconds left.
+|
+|t:|1622305705
+|switch|p2a: Brainbreaker|Kartana|259/259
+|
+|upkeep
+|inactive|Empo has 10 seconds left this turn.
+|inactive|cbu has 150 seconds left.
+|
+|t:|1622305715
+|switch|p1a: never changed|Toxapex, M|260/304
+|turn|17
+|inactive|Empo has 20 seconds left this turn.
+|
+|t:|1622305719
+|switch|p2a: TRAILS OF FIRE|Heatran, M|386/386
+|move|p1a: never changed|Recover|p1a: never changed
+|-heal|p1a: never changed|304/304
+|
+|upkeep
+|turn|18
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1622305723
+|move|p2a: TRAILS OF FIRE|Magma Storm|p1a: never changed
+|-resisted|p1a: never changed
+|-damage|p1a: never changed|249/304
+|-activate|p1a: never changed|move: Magma Storm|[of] p2a: TRAILS OF FIRE
+|move|p1a: never changed|Scald|p2a: TRAILS OF FIRE
+|-supereffective|p2a: TRAILS OF FIRE
+|-damage|p2a: TRAILS OF FIRE|296/386
+|
+|-heal|p2a: TRAILS OF FIRE|320/386|[from] item: Leftovers
+|-damage|p1a: never changed|211/304|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1622305729
+|move|p2a: TRAILS OF FIRE|Earth Power|p1a: never changed
+|-supereffective|p1a: never changed
+|-damage|p1a: never changed|87/304
+|move|p1a: never changed|Scald|p2a: TRAILS OF FIRE
+|-supereffective|p2a: TRAILS OF FIRE
+|-damage|p2a: TRAILS OF FIRE|240/386
+|
+|-heal|p2a: TRAILS OF FIRE|264/386|[from] item: Leftovers
+|-damage|p1a: never changed|49/304|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1622305732
+|move|p2a: TRAILS OF FIRE|Earth Power|p1a: never changed
+|-supereffective|p1a: never changed
+|-damage|p1a: never changed|0 fnt
+|faint|p1a: never changed
+|
+|-heal|p2a: TRAILS OF FIRE|288/386|[from] item: Leftovers
+|upkeep
+|inactive|cbu has 180 seconds left.
+|
+|t:|1622305749
+|switch|p1a: all out of faith|Blaziken, M|301/301
+|turn|21
+|inactive|cbu has 180 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1622305787
+|switch|p2a: Thanos|Landorus-Therian, M|75/381
+|-ability|p2a: Thanos|Intimidate|boost
+|-unboost|p1a: all out of faith|atk|1
+|move|p1a: all out of faith|Close Combat|p2a: Thanos
+|-resisted|p2a: Thanos
+|-damage|p2a: Thanos|0 fnt
+|-unboost|p1a: all out of faith|def|1
+|-unboost|p1a: all out of faith|spd|1
+|faint|p2a: Thanos
+|
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|
+|t:|1622305794
+|switch|p2a: TRAILS OF FIRE|Heatran, M|288/386
+|turn|22
+|
+|t:|1622305801
+|switch|p1a: beneath my veins|Weavile, F|98/281
+|move|p2a: TRAILS OF FIRE|Magma Storm|p1a: beneath my veins
+|-supereffective|p1a: beneath my veins
+|-damage|p1a: beneath my veins|0 fnt
+|faint|p1a: beneath my veins
+|
+|-heal|p2a: TRAILS OF FIRE|312/386|[from] item: Leftovers
+|upkeep
+|
+|t:|1622305804
+|switch|p1a: all out of faith|Blaziken, M|301/301
+|turn|23
+|
+|t:|1622305815
+|move|p2a: TRAILS OF FIRE|Protect|p2a: TRAILS OF FIRE
+|-singleturn|p2a: TRAILS OF FIRE|Protect
+|move|p1a: all out of faith|Close Combat|p2a: TRAILS OF FIRE
+|-activate|p2a: TRAILS OF FIRE|move: Protect
+|
+|-heal|p2a: TRAILS OF FIRE|336/386|[from] item: Leftovers
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|turn|24
+|inactive|Empo has 30 seconds left.
+|
+|t:|1622305842
+|switch|p2a: dame dane|Rotom-Wash|5/304
+|move|p1a: all out of faith|Close Combat|p2a: dame dane
+|-damage|p2a: dame dane|0 fnt
+|-unboost|p1a: all out of faith|def|1
+|-unboost|p1a: all out of faith|spd|1
+|faint|p2a: dame dane
+|
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|inactive|Empo has 30 seconds left.
+|
+|t:|1622305847
+|switch|p2a: TRAILS OF FIRE|Heatran, M|336/386
+|turn|25
+|inactive|cbu has 210 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1622305871
+|move|p2a: TRAILS OF FIRE|Protect|p2a: TRAILS OF FIRE
+|-singleturn|p2a: TRAILS OF FIRE|Protect
+|move|p1a: all out of faith|Close Combat|p2a: TRAILS OF FIRE
+|-activate|p2a: TRAILS OF FIRE|move: Protect
+|
+|-heal|p2a: TRAILS OF FIRE|360/386|[from] item: Leftovers
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|turn|26
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1622305873
+|move|p1a: all out of faith|Close Combat|p2a: TRAILS OF FIRE
+|-supereffective|p2a: TRAILS OF FIRE
+|-damage|p2a: TRAILS OF FIRE|0 fnt
+|-unboost|p1a: all out of faith|def|1
+|-unboost|p1a: all out of faith|spd|1
+|faint|p2a: TRAILS OF FIRE
+|
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|inactive|Empo has 30 seconds left.
+|
+|t:|1622305887
+|switch|p2a: Brainbreaker|Kartana|259/259
+|turn|27
+|
+|t:|1622305892
+|move|p1a: all out of faith|Close Combat|p2a: Brainbreaker
+|-supereffective|p2a: Brainbreaker
+|-damage|p2a: Brainbreaker|0 fnt
+|-unboost|p1a: all out of faith|def|1
+|-unboost|p1a: all out of faith|spd|1
+|faint|p2a: Brainbreaker
+|
+|-ability|p1a: all out of faith|Speed Boost|boost
+|-boost|p1a: all out of faith|spe|1
+|upkeep
+|
+|t:|1622305894
+|switch|p2a: Posty :3|Weavile, F|214/281
+|-ability|p2a: Posty :3|Pressure
+|turn|28
+|
+|t:|1622305896
+|move|p2a: Posty :3|Ice Shard|p1a: all out of faith
+|-resisted|p1a: all out of faith
+|-damage|p1a: all out of faith|186/301
+|move|p1a: all out of faith|Close Combat|p2a: Posty :3
+|-supereffective|p2a: Posty :3
+|-damage|p2a: Posty :3|0 fnt
+|-unboost|p1a: all out of faith|def|1
+|-unboost|p1a: all out of faith|spd|1
+|faint|p2a: Posty :3
+|
+|win|cbu
+

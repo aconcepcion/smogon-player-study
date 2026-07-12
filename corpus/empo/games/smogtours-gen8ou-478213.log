@@ -1,0 +1,1158 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|bro fist|flannery|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Aegislash, M|
+|poke|p2|Clefable, F|
+|poke|p2|Ditto|
+|poke|p2|Chandelure, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Corviknight, M|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|+rylon †|hl
+|c|+SweetPosho|:pig:
+|c|%Aurella|EMPO!
+|c|+kek u_u|empo !
+|c|+Javoon|hola
+|c|+Raining Inside|chop
+|c|+rylon †|Javoon.
+|c|+SweetPosho|vamos maluma
+|inactive|Empo has 270 seconds left.
+|inactive|bro fist has 270 seconds left.
+|c|+Javoon|HOLA
+|c|+qsns|empo
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Dragapult
+|-sidestart|p1: Empo|move: Toxic Spikes
+|
+|-damage|p2a: Toxapex|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100 brn
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|95/100
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|94/100
+|-enditem|p2a: Kommo-o|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|4
+|
+|move|p2a: Kommo-o|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|move|p1a: Ferrothorn|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|89/100
+|
+|upkeep
+|turn|5
+|
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|-item|p1a: Aegislash|Air Balloon
+|move|p2a: Kommo-o|Stealth Rock|p1a: Aegislash
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100 brn
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|
+|-damage|p2a: Toxapex|95/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Excadrill|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|8
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-status|p1a: Dragapult|psn
+|-damage|p1a: Dragapult|88/100 psn|[from] Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|78/100 psn
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p2a: Ditto|Ditto|100/100|[from]move: U-turn
+|-transform|p2a: Ditto|p1a: Dragapult|[from] ability: Imposter
+|
+|-damage|p1a: Dragapult|66/100 psn|[from] psn
+|upkeep
+|turn|9
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p1a: Excadrill|Excadrill, M|97/100
+|-damage|p1a: Excadrill|94/100|[from] Stealth Rock
+|move|p2a: Ditto|U-turn|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|83/100
+|
+|switch|p2a: Kommo-o|Kommo-o, M|89/100|[from]move: U-turn
+|
+|upkeep
+|turn|10
+|
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|-damage|p1a: Aegislash|94/100|[from] Stealth Rock
+|-item|p1a: Aegislash|Air Balloon
+|move|p2a: Kommo-o|Body Press|p1a: Aegislash
+|-immune|p1a: Aegislash
+|
+|upkeep
+|turn|11
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Excadrill|Excadrill, M|83/100
+|-damage|p1a: Excadrill|80/100|[from] Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|move|p1a: Excadrill|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|88/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: Empo|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-sideend|p1: Empo|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Corviknight|U-turn|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|70/100
+|
+|switch|p2a: Kommo-o|Kommo-o, M|89/100|[from]move: U-turn
+|
+|upkeep
+|turn|13
+|
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Kommo-o|Stealth Rock|p1a: Hippowdon
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|83/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Hippowdon|Earthquake|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|switch|p2a: Chandelure|Chandelure, M|100/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Chandelure
+|-sidestart|p2: bro fist|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chandelure|94/100|[from] Sandstorm
+|upkeep
+|turn|16
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|move|p2a: Chandelure|Overheat|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|49/100
+|-unboost|p2a: Chandelure|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chandelure|88/100|[from] Sandstorm
+|upkeep
+|turn|17
+|inactive|bro fist has 240 seconds left.
+|
+|switch|p2a: Clefable|Clefable, F|63/100
+|move|p1a: Tyranitar|Ice Punch|p2a: Clefable
+|-damage|p2a: Clefable|31/100
+|
+|-weather|none
+|-heal|p2a: Clefable|37/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|bro fist has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|bro fist has 210 seconds left.
+|
+|move|p1a: Tyranitar|Ice Punch|p2a: Clefable
+|-damage|p2a: Clefable|6/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p2a: Clefable|12/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|bro fist has 210 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|switch|p1a: Excadrill|Excadrill, M|70/100
+|-damage|p1a: Excadrill|67/100|[from] Stealth Rock
+|move|p2a: Clefable|Protect||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p2a: Clefable|62/100|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Clefable|68/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Protect||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p2a: Clefable|74/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p2a: Kommo-o|Kommo-o, M|83/100
+|-damage|p2a: Kommo-o|76/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|72/100
+|
+|upkeep
+|turn|22
+|inactive|bro fist has 210 seconds left.
+|
+|switch|p2a: Corviknight|Corviknight, M|88/100
+|-damage|p2a: Corviknight|76/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|bro fist has 210 seconds left.
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100 brn
+|-damage|p2a: Toxapex|88/100 brn|[from] Stealth Rock
+|-damage|p2a: Toxapex|76/100 brn|[from] Spikes
+|move|p1a: Ferrothorn|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|63/100 brn
+|-enditem|p2a: Toxapex|Shed Shell|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-damage|p2a: Toxapex|57/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100 brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-damage|p2a: Toxapex|88/100 brn|[from] Leech Seed|[of] p1a: Ferrothorn
+|-damage|p2a: Toxapex|82/100 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|bro fist has 210 seconds left.
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|95/100
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Toxapex|70/100 brn|[from] Leech Seed|[of] p1a: Ferrothorn
+|-damage|p2a: Toxapex|64/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|switch|p2a: Corviknight|Corviknight, M|82/100
+|-damage|p2a: Corviknight|69/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|27
+|
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|28
+|
+|move|p2a: Corviknight|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p1: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: bro fist|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: bro fist|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: bro fist|Spikes
+|
+|-damage|p2a: Corviknight|75/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|29
+|inactive|Empo has 270 seconds left.
+|
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: bro fist|Spikes
+|
+|-damage|p2a: Corviknight|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|30
+|
+|move|p2a: Corviknight|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: bro fist|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: bro fist|Spikes
+|
+|-damage|p2a: Corviknight|75/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|31
+|
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Body Press|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|-damage|p2a: Corviknight|44/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|32
+|
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|94/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Ferrothorn|Body Press|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100
+|
+|-damage|p2a: Corviknight|39/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|33
+|
+|switch|p2a: Chandelure|Chandelure, M|88/100
+|-damage|p2a: Chandelure|76/100|[from] Spikes
+|move|p1a: Ferrothorn|Body Press|p2a: Chandelure
+|-immune|p2a: Chandelure
+|
+|upkeep
+|turn|34
+|inactive|bro fist has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|bro fist has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|switch|p1a: Tyranitar|Tyranitar, M|49/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Chandelure|Overheat|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|10/100
+|-unboost|p2a: Chandelure|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chandelure|70/100|[from] Sandstorm
+|upkeep
+|turn|35
+|
+|switch|p1a: Dragapult|Dragapult, F|66/100 psn
+|move|p2a: Chandelure|Overheat|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|29/100 psn
+|-unboost|p2a: Chandelure|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|23/100 psn|[from] Sandstorm
+|-damage|p2a: Chandelure|64/100|[from] Sandstorm
+|-damage|p1a: Dragapult|10/100 psn|[from] psn
+|upkeep
+|turn|36
+|
+|switch|p2a: Clefable|Clefable, F|74/100
+|move|p1a: Dragapult|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|67/100
+|inactive|Empo has 210 seconds left.
+|
+|switch|p1a: Excadrill|Excadrill, M|67/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|73/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Excadrill|Iron Head|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|79/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|switch|p2a: Toxapex|Toxapex, F|98/100 brn
+|-damage|p2a: Toxapex|85/100 brn|[from] Spikes
+|move|p1a: Excadrill|Iron Head|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|64/100 brn
+|
+|-weather|none
+|-damage|p2a: Toxapex|58/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|95/100 brn|[from] Sandstorm
+|-damage|p2a: Toxapex|89/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|switch|p2a: Corviknight|Corviknight, M|39/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hippowdon|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|41
+|inactive|Empo has 240 seconds left.
+|inactive|bro fist has 270 seconds left.
+|
+|move|p2a: Corviknight|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|93/100
+|
+|switch|p2a: Chandelure|Chandelure, M|64/100|[from]move: U-turn
+|-damage|p2a: Chandelure|51/100|[from] Spikes
+|move|p1a: Hippowdon|Earthquake|p2a: Chandelure
+|-supereffective|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|99/100|[from] item: Leftovers
+|upkeep
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p2a: Clefable|Clefable, F|79/100
+|turn|42
+|
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Hippowdon|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|56/100|[from] item: Leftovers
+|-heal|p1a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2: Toxapex|brn|[msg]
+|move|p1a: Hippowdon|Whirlwind|p2a: Clefable
+|drag|p2a: Corviknight|Corviknight, M|39/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|none
+|-heal|p2a: Corviknight|88/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|44
+|inactive|Empo has 270 seconds left.
+|
+|move|p2a: Corviknight|Defog|p1a: Hippowdon
+|-unboost|p1a: Hippowdon|evasion|1
+|-sideend|p2: bro fist|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Hippowdon|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: bro fist|move: Stealth Rock
+|
+|upkeep
+|turn|45
+|
+|move|p2a: Corviknight|Defog|p1a: Hippowdon
+|-unboost|p1a: Hippowdon|evasion|1
+|-sideend|p2: bro fist|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Hippowdon|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: bro fist|move: Stealth Rock
+|
+|upkeep
+|turn|46
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Corviknight|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: bro fist|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|47
+|
+|switch|p2a: Kommo-o|Kommo-o, M|72/100
+|move|p1a: Ferrothorn|Spikes|p2a: Kommo-o
+|-sidestart|p2: bro fist|Spikes
+|
+|upkeep
+|turn|48
+|
+|move|p2a: Kommo-o|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Empo|move: Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Kommo-o
+|-start|p2a: Kommo-o|move: Leech Seed
+|
+|-damage|p2a: Kommo-o|60/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|49
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: bro fist|Spikes
+|
+|upkeep
+|turn|50
+|
+|switch|p1a: Excadrill|Excadrill, M|67/100
+|-damage|p1a: Excadrill|64/100|[from] Stealth Rock
+|move|p2a: Toxapex|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|22/100
+|
+|upkeep
+|turn|51
+|
+|switch|p2a: Corviknight|Corviknight, M|88/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Excadrill|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|52
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|84/100
+|-damage|p2a: Corviknight|76/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from]move: U-turn
+|-damage|p2a: Toxapex|84/100|[from] Spikes
+|
+|-heal|p1a: Ferrothorn|91/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p1a: Ferrothorn|91/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|85/100 brn|[from] brn
+|upkeep
+|turn|54
+|
+|switch|p2a: Clefable|Clefable, F|56/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|
+|-heal|p2a: Clefable|62/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|91/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|85/100 brn|[from] brn
+|upkeep
+|turn|55
+|
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|91/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|85/100 brn|[from] brn
+|upkeep
+|turn|56
+|
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|74/100 brn
+|move|p1a: Ferrothorn|Leech Seed||[still]
+|-fail|p1a: Ferrothorn
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Ferrothorn|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|74/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Clefable|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|63/100
+|-unboost|p1a: Hippowdon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|69/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|switch|p2a: Corviknight|Corviknight, M|76/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hippowdon|Whirlwind|p2a: Corviknight
+|drag|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|76/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|70/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|75/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|switch|p2a: Corviknight|Corviknight, M|76/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hippowdon|Whirlwind|p2a: Corviknight
+|drag|p2a: Kommo-o|Kommo-o, M|60/100
+|-damage|p2a: Kommo-o|35/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|29/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|81/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|switch|p2a: Corviknight|Corviknight, M|76/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hippowdon|Whirlwind|p2a: Corviknight
+|drag|p2a: Clefable|Clefable, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|88/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Hippowdon|Whirlwind|p2a: Clefable
+|drag|p2a: Kommo-o|Kommo-o, M|29/100
+|-damage|p2a: Kommo-o|4/100|[from] Spikes
+|
+|-weather|none
+|-heal|p1a: Hippowdon|94/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|switch|p2a: Corviknight|Corviknight, M|76/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hippowdon|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|100/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Hippowdon|99/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|74/100 brn
+|-damage|p1a: Ferrothorn|68/100 brn|[from] Stealth Rock
+|move|p2a: Corviknight|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p1: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: bro fist|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Ferrothorn|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|68/100 brn|[from] brn
+|upkeep
+|turn|64
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p1a: Ferrothorn|74/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|68/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|move|p2a: Toxapex|Toxic Spikes|p1a: Ferrothorn
+|-sidestart|p1: Empo|move: Toxic Spikes
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|74/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|84/100 brn|[silent]
+|-damage|p1a: Ferrothorn|78/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p1a: Ferrothorn|84/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|78/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|66/100 brn
+|-unboost|p1a: Ferrothorn|spa|1
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: bro fist|Spikes
+|
+|-heal|p1a: Ferrothorn|72/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|66/100 brn|[from] brn
+|upkeep
+|turn|68
+|
+|switch|p1a: Hippowdon|Hippowdon, M|99/100
+|-status|p1a: Hippowdon|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Clefable|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|67/100 psn
+|-unboost|p1a: Hippowdon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|73/100 psn|[from] item: Leftovers
+|-damage|p1a: Hippowdon|61/100 psn|[from] psn
+|upkeep
+|turn|69
+|
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100 psn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hippowdon|88/100 psn|[from] psn
+|upkeep
+|turn|70
+|
+|move|p2a: Clefable|Moonblast|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|36/100 psn
+|move|p1a: Hippowdon|Stealth Rock|p2a: Clefable
+|-sidestart|p2: bro fist|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|42/100 psn|[from] item: Leftovers
+|-damage|p1a: Hippowdon|30/100 psn|[from] psn
+|upkeep
+|turn|71
+|
+|switch|p1a: Aegislash|Aegislash, M|94/100
+|-item|p1a: Aegislash|Air Balloon
+|move|p2a: Clefable|Moonblast|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|79/100
+|-enditem|p1a: Aegislash|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|72
+|
+|switch|p1a: Excadrill|Excadrill, M|22/100
+|switch|p2a: Kommo-o|Kommo-o, M|4/100
+|-damage|p2a: Kommo-o|0 fnt|[from] Stealth Rock
+|faint|p2a: Kommo-o
+|
+|-weather|none
+|upkeep
+|
+|switch|p2a: Ditto|Ditto|100/100
+|-damage|p2a: Ditto|76/100|[from] Spikes
+|-damage|p2a: Ditto|63/100|[from] Stealth Rock
+|-transform|p2a: Ditto|p1a: Excadrill|[from] ability: Imposter
+|turn|73
+|
+|switch|p1a: Dragapult|Dragapult, F|10/100 psn
+|move|p2a: Ditto|Earthquake|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|66/100 brn
+|turn|74
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|76/100|[from] Spikes
+|-damage|p2a: Toxapex|64/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Body Press|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|59/100
+|
+|-heal|p1a: Ferrothorn|72/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|66/100 brn|[from] brn
+|upkeep
+|turn|75
+|
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|72/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|82/100 brn|[silent]
+|-damage|p1a: Ferrothorn|76/100 brn|[from] brn
+|upkeep
+|turn|76
+|inactive|Empo has 270 seconds left.
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100 brn
+|move|p1a: Ferrothorn|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|
+|-heal|p1a: Ferrothorn|77/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|72/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|87/100 brn|[silent]
+|-damage|p1a: Ferrothorn|81/100 brn|[from] brn
+|upkeep
+|turn|77
+|
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|98/100
+|
+|-heal|p1a: Ferrothorn|87/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|81/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|switch|p1a: Aegislash|Aegislash, M|79/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|79
+|inactive|Empo has 240 seconds left.
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|76/100|[from] Spikes
+|-damage|p2a: Toxapex|64/100|[from] Stealth Rock
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|
+|-heal|p2a: Toxapex|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|80
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|81/100 brn
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Ferrothorn|87/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|81/100 brn|[from] brn
+|upkeep
+|turn|81
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|75/100 brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|92/100 brn|[silent]
+|-damage|p1a: Ferrothorn|86/100 brn|[from] brn
+|upkeep
+|turn|82
+|inactive|Empo has 240 seconds left.
+|inactive|bro fist has 270 seconds left.
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|81/100 brn
+|move|p1a: Ferrothorn|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|
+|-heal|p1a: Ferrothorn|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|72/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|98/100 brn|[silent]
+|-damage|p1a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|83
+|inactive|bro fist has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|
+|-heal|p1a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|84
+|inactive|bro fist has 270 seconds left.
+|
+|switch|p2a: Clefable|Clefable, F|98/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|85
+|
+|switch|p1a: Aegislash|Aegislash, M|79/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|86
+|
+|switch|p1a: Excadrill|Excadrill, M|22/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p2a: Toxapex|64/100|[from] Spikes
+|
+|-heal|p2a: Toxapex|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|87
+|
+|switch|p2a: Corviknight|Corviknight, M|82/100
+|-damage|p2a: Corviknight|69/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Excadrill|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|58/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: Empo|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|upkeep
+|turn|88
+|
+|switch|p1a: Tyranitar|Tyranitar, M|10/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Corviknight|Defog|p1a: Tyranitar
+|-unboost|p1a: Tyranitar|evasion|1
+|-sideend|p2: bro fist|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: bro fist|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|89
+|
+|move|p1a: Tyranitar|Stone Edge|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|switch|p2a: Ditto|Ditto|63/100
+|-transform|p2a: Ditto|p1a: Tyranitar|[from] ability: Imposter
+|turn|90
+|inactive|Empo has 240 seconds left.
+|
+|switch|p1a: Hippowdon|Hippowdon, M|30/100 psn
+|move|p2a: Ditto|Fire Punch|p1a: Hippowdon
+|-damage|p1a: Hippowdon|15/100 psn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|21/100 psn|[from] item: Leftovers
+|-damage|p1a: Hippowdon|9/100 psn|[from] psn
+|upkeep
+|turn|91
+|
+|move|p2a: Ditto|Fire Punch|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|switch|p1a: Excadrill|Excadrill, M|22/100
+|turn|92
+|inactive|bro fist has 270 seconds left.
+|inactive|bro fist has 240 seconds left.
+|
+|switch|p2a: Clefable|Clefable, F|98/100
+|move|p1a: Excadrill|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|
+|-weather|none
+|upkeep
+|turn|93
+|inactive|bro fist has 210 seconds left.
+|
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Excadrill|Earthquake|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|upkeep
+|turn|94
+|inactive|bro fist has 210 seconds left.
+|
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Excadrill|Earthquake|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|upkeep
+|turn|95
+|
+|move|p2a: Clefable|Protect||[still]
+|-fail|p2a: Clefable
+|move|p1a: Excadrill|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|switch|p2a: Ditto|Ditto|63/100
+|-transform|p2a: Ditto|p1a: Excadrill|[from] ability: Imposter
+|turn|96
+|inactive|bro fist has 210 seconds left.
+|
+|switch|p1a: Tyranitar|Tyranitar, M|10/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Ditto|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|91/100 brn
+|turn|97
+|inactive|Empo has 270 seconds left.
+|inactive|bro fist has 210 seconds left.
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: bro fist|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Sandstorm
+|-heal|p1a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|98
+|inactive|bro fist has 210 seconds left.
+|
+|switch|p2a: Ditto|Ditto|63/100
+|-damage|p2a: Ditto|51/100|[from] Spikes
+|-transform|p2a: Ditto|p1a: Ferrothorn|[from] ability: Imposter
+|move|p1a: Ferrothorn|Body Press|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|31/100
+|-damage|p1a: Ferrothorn|79/100 brn|[from] ability: Iron Barbs|[of] p2a: Ditto
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|85/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|79/100 brn|[from] brn
+|upkeep
+|turn|99
+|inactive|bro fist has 210 seconds left.
+|
+|move|p2a: Ditto|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|40/100 brn
+|-damage|p2a: Ditto|18/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Body Press|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|-damage|p1a: Ferrothorn|27/100 brn|[from] ability: Iron Barbs|[of] p2a: Ditto
+|faint|p2a: Ditto
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|33/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|27/100 brn|[from] brn
+|upkeep
+|
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|turn|100
+|
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|22/100 brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|28/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|39/100 brn|[silent]
+|-damage|p1a: Ferrothorn|32/100 brn|[from] brn
+|upkeep
+|turn|101
+|c|☆bro fist|gg
+|-message|bro fist forfeited.
+|
+|win|Empo
+|c|☆Empo|gg

@@ -1,0 +1,567 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1606671281
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|xray|266|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Clefable, F|
+|poke|p1|Spectrier|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Heatran, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Pheromosa|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆xray|hf
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|inactive|xray has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|xray has 240 seconds left.
+|inactive|xray has 210 seconds left.
+|
+|t:|1606671384
+|start
+|switch|p1a: dons meetup|Landorus-Therian, M|319/319
+|switch|p2a: Toxapex|Toxapex, M|303/303
+|-ability|p1a: dons meetup|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|turn|1
+|
+|t:|1606671403
+|move|p1a: dons meetup|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|265/303
+|-damage|p1a: dons meetup|266/319|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|inactive|Empo has 270 seconds left.
+|
+|t:|1606671415
+|switch|p1a: sup (kid)|Clefable, F|394/394
+|move|p2a: Toxapex|Scald|p1a: sup (kid)
+|-damage|p1a: sup (kid)|334/394
+|-status|p1a: sup (kid)|brn
+|
+|-heal|p1a: sup (kid)|358/394 brn|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|xray has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|xray has 240 seconds left.
+|
+|t:|1606671466
+|switch|p2a: Heatran|Heatran, F|386/386
+|move|p1a: sup (kid)|Stealth Rock|p2a: Heatran
+|-sidestart|p2: xray|move: Stealth Rock
+|
+|-heal|p1a: sup (kid)|382/394 brn|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1606671474
+|move|p2a: Heatran|Stealth Rock|p1a: sup (kid)
+|-sidestart|p1: Empo|move: Stealth Rock
+|move|p1a: sup (kid)|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|361/386
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: sup (kid)
+|
+|-heal|p1a: sup (kid)|394/394 brn|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Empo has 270 seconds left.
+|
+|t:|1606671490
+|move|p2a: Heatran|Magma Storm|p1a: sup (kid)
+|-damage|p1a: sup (kid)|237/394 brn
+|-activate|p1a: sup (kid)|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: sup (kid)|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|341/386
+|
+|-heal|p1a: sup (kid)|261/394 brn|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1606671495
+|move|p2a: Heatran|Taunt|p1a: sup (kid)
+|-start|p1a: sup (kid)|move: Taunt
+|cant|p1a: sup (kid)|move: Taunt|Soft-Boiled
+|
+|-heal|p1a: sup (kid)|285/394 brn|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1606671502
+|move|p2a: Heatran|Earth Power|p1a: sup (kid)
+|-damage|p1a: sup (kid)|191/394 brn
+|move|p1a: sup (kid)|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|320/386
+|-unboost|p2a: Heatran|spa|1
+|
+|-heal|p1a: sup (kid)|215/394 brn|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|xray has 240 seconds left.
+|
+|t:|1606671520
+|move|p2a: Heatran|Magma Storm|p1a: sup (kid)
+|-damage|p1a: sup (kid)|115/394 brn
+|move|p1a: sup (kid)|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|299/386
+|
+|-heal|p1a: sup (kid)|139/394 brn|[from] item: Leftovers
+|-end|p1a: sup (kid)|move: Taunt
+|upkeep
+|turn|8
+|
+|t:|1606671532
+|move|p2a: Heatran|Taunt|p1a: sup (kid)
+|-start|p1a: sup (kid)|move: Taunt
+|move|p1a: sup (kid)|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|278/386
+|-unboost|p2a: Heatran|spa|1
+|
+|-heal|p1a: sup (kid)|163/394 brn|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1606671536
+|switch|p2a: Toxapex|Toxapex, M|303/303
+|-damage|p2a: Toxapex|266/303|[from] Stealth Rock
+|move|p1a: sup (kid)|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|227/303
+|
+|-heal|p1a: sup (kid)|187/394 brn|[from] item: Leftovers
+|-end|p1a: sup (kid)|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1606671541
+|move|p1a: sup (kid)|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|190/303
+|move|p2a: Toxapex|Knock Off|p1a: sup (kid)
+|-resisted|p1a: sup (kid)
+|-crit|p1a: sup (kid)
+|-damage|p1a: sup (kid)|153/394 brn
+|-enditem|p1a: sup (kid)|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-end|p1a: sup (kid)|move: Taunt
+|upkeep
+|turn|11
+|
+|t:|1606671547
+|switch|p2a: Tapu Lele|Tapu Lele|281/281
+|-damage|p2a: Tapu Lele|246/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: sup (kid)|Soft-Boiled|p1a: sup (kid)
+|-heal|p1a: sup (kid)|350/394 brn
+|
+|upkeep
+|turn|12
+|inactive|xray has 240 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|xray has 210 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1606671631
+|switch|p1a: Houston|Heatran, M|386/386
+|-damage|p1a: Houston|338/386|[from] Stealth Rock
+|move|p2a: Tapu Lele|Psychic|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|221/386
+|
+|-heal|p1a: Houston|245/386|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|xray has 180 seconds left.
+|
+|t:|1606671675
+|switch|p2a: Heatran|Heatran, F|278/386
+|-damage|p2a: Heatran|230/386|[from] Stealth Rock
+|move|p1a: Houston|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-heal|p1a: Houston|269/386|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1606671679
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|switch|p1a: dons meetup|Landorus-Therian, M|266/319
+|-damage|p1a: dons meetup|227/319|[from] Stealth Rock
+|-ability|p1a: dons meetup|Intimidate|boost
+|-unboost|p2a: Mandibuzz|atk|1
+|
+|upkeep
+|turn|15
+|inactive|xray has 180 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1606671691
+|move|p1a: dons meetup|Stone Edge|p2a: Mandibuzz|[miss]
+|-miss|p1a: dons meetup|p2a: Mandibuzz
+|move|p2a: Mandibuzz|U-turn|p1a: dons meetup
+|-resisted|p1a: dons meetup
+|-damage|p1a: dons meetup|214/319
+|inactive|xray has 180 seconds left.
+|
+|t:|1606671697
+|switch|p2a: Garchomp|Garchomp, F|357/357
+|-damage|p2a: Garchomp|335/357|[from] Stealth Rock
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|inactive|xray has 180 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|xray has 150 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1606671761
+|move|p2a: Garchomp|Fire Blast|p1a: dons meetup
+|-damage|p1a: dons meetup|109/319
+|-damage|p2a: Garchomp|300/357|[from] item: Life Orb
+|move|p1a: dons meetup|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|209/357
+|-damage|p1a: dons meetup|70/319|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1606671787
+|switch|p1a: the boof|Spectrier|341/341
+|-damage|p1a: the boof|299/341|[from] Stealth Rock
+|
+|-heal|p1a: the boof|320/341|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|xray has 120 seconds left.
+|
+|t:|1606671818
+|move|p1a: the boof|Substitute|p1a: the boof
+|-start|p1a: the boof|Substitute
+|-damage|p1a: the boof|235/341
+|move|p2a: Garchomp|Earthquake|p1a: the boof
+|-end|p1a: the boof|Substitute
+|-damage|p2a: Garchomp|174/357|[from] item: Life Orb
+|
+|-heal|p1a: the boof|256/341|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|xray has 120 seconds left.
+|
+|t:|1606671832
+|move|p1a: the boof|Substitute|p1a: the boof
+|-start|p1a: the boof|Substitute
+|-damage|p1a: the boof|171/341
+|move|p2a: Garchomp|Scale Shot|p1a: the boof
+|-activate|p1a: the boof|move: Substitute|[damage]
+|-end|p1a: the boof|Substitute
+|-damage|p1a: the boof|81/341
+|-damage|p1a: the boof|0 fnt
+|-hitcount|p1a: the boof|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|-damage|p2a: Garchomp|139/357|[from] item: Life Orb
+|faint|p1a: the boof
+|
+|upkeep
+|
+|t:|1606671841
+|switch|p1a: To Be Continued|Rillaboom, M|341/341
+|-damage|p1a: To Be Continued|299/341|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: To Be Continued
+|turn|19
+|inactive|Empo has 210 seconds left.
+|inactive|xray has 120 seconds left.
+|
+|t:|1606671859
+|move|p1a: To Be Continued|Grassy Glide|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: To Be Continued|257/341|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: To Be Continued|223/341|[from] item: Life Orb
+|faint|p2a: Garchomp
+|
+|-heal|p1a: To Be Continued|244/341|[from] Grassy Terrain
+|upkeep
+|
+|t:|1606671869
+|switch|p2a: Tapu Lele|Tapu Lele|246/281
+|-damage|p2a: Tapu Lele|211/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|20
+|inactive|xray has 120 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1606671905
+|switch|p1a: Houston|Heatran, M|269/386
+|-damage|p1a: Houston|221/386|[from] Stealth Rock
+|move|p2a: Tapu Lele|Psychic|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|109/386
+|
+|-heal|p1a: Houston|133/386|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|xray has 120 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|xray has 90 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606671959
+|switch|p2a: Heatran|Heatran, F|230/386
+|-damage|p2a: Heatran|182/386|[from] Stealth Rock
+|move|p1a: Houston|Magma Storm|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-heal|p1a: Houston|157/386|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606671986
+|move|p1a: Houston|Protect|p1a: Houston
+|-singleturn|p1a: Houston|Protect
+|move|p2a: Heatran|Earth Power|p1a: Houston
+|-activate|p1a: Houston|move: Protect
+|
+|-heal|p1a: Houston|181/386|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Empo has 120 seconds left.
+|inactive|xray has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1606672054
+|switch|p1a: dons meetup|Landorus-Therian, M|70/319
+|-damage|p1a: dons meetup|31/319|[from] Stealth Rock
+|-ability|p1a: dons meetup|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: dons meetup|[miss]
+|-miss|p2a: Heatran|p1a: dons meetup
+|
+|upkeep
+|turn|24
+|inactive|xray has 30 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1606672095
+|move|p1a: dons meetup|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|xray has 30 seconds left.
+|inactive|xray has 20 seconds left.
+|
+|t:|1606672111
+|switch|p2a: Tapu Lele|Tapu Lele|211/281
+|-damage|p2a: Tapu Lele|176/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|25
+|inactive|xray has 30 seconds left this turn.
+|
+|t:|1606672115
+|move|p2a: Tapu Lele|Psychic|p1a: dons meetup
+|-damage|p1a: dons meetup|0 fnt
+|faint|p1a: dons meetup
+|
+|upkeep
+|
+|t:|1606672119
+|switch|p1a: GOJOU|Kartana|259/259
+|-damage|p1a: GOJOU|243/259|[from] Stealth Rock
+|turn|26
+|inactive|Empo has 60 seconds left.
+|inactive|xray has 30 seconds left.
+|
+|t:|1606672161
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|move|p1a: GOJOU|Leaf Blade|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|281/423
+|
+|upkeep
+|turn|27
+|inactive|Empo has 60 seconds left.
+|
+|t:|1606672171
+|switch|p1a: Houston|Heatran, M|181/386
+|-damage|p1a: Houston|133/386|[from] Stealth Rock
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|423/423
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-heal|p1a: Houston|157/386|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1606672181
+|move|p2a: Mandibuzz|U-turn|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|149/386
+|
+|t:|1606672184
+|switch|p2a: Toxapex|Toxapex, M|291/303
+|-damage|p2a: Toxapex|254/303|[from] Stealth Rock
+|move|p1a: Houston|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|200/303
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Houston
+|
+|-heal|p1a: Houston|173/386|[from] item: Leftovers
+|-damage|p2a: Toxapex|163/303|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|29
+|
+|t:|1606672205
+|move|p1a: Houston|Protect|p1a: Houston
+|-singleturn|p1a: Houston|Protect
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|303/303
+|
+|-heal|p1a: Houston|197/386|[from] item: Leftovers
+|-damage|p2a: Toxapex|266/303|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|30
+|inactive|Empo has 60 seconds left.
+|
+|t:|1606672233
+|move|p1a: Houston|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|144/303
+|move|p2a: Toxapex|Knock Off|p1a: Houston
+|-damage|p1a: Houston|153/386
+|-enditem|p1a: Houston|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-damage|p2a: Toxapex|107/303|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|31
+|
+|t:|1606672241
+|move|p1a: Houston|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1606672244
+|switch|p2a: Pheromosa|Pheromosa|283/283
+|-damage|p2a: Pheromosa|248/283|[from] Stealth Rock
+|turn|32
+|inactive|xray has 60 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1606672301
+|switch|p1a: sup (kid)|Clefable, F|350/394 brn
+|move|p2a: Pheromosa|Quiver Dance|p2a: Pheromosa
+|-boost|p2a: Pheromosa|spa|1
+|-boost|p2a: Pheromosa|spd|1
+|-boost|p2a: Pheromosa|spe|1
+|
+|upkeep
+|turn|33
+|inactive|Empo has 30 seconds left.
+|inactive|xray has 30 seconds left.
+|
+|t:|1606672327
+|move|p2a: Pheromosa|Quiver Dance|p2a: Pheromosa
+|-boost|p2a: Pheromosa|spa|1
+|-boost|p2a: Pheromosa|spd|1
+|-boost|p2a: Pheromosa|spe|1
+|move|p1a: sup (kid)|Moonblast|p2a: Pheromosa
+|-supereffective|p2a: Pheromosa
+|-damage|p2a: Pheromosa|2/283
+|
+|upkeep
+|turn|34
+|inactive|Empo has 30 seconds left.
+|inactive|xray has 30 seconds left.
+|
+|t:|1606672340
+|switch|p1a: Houston|Heatran, M|153/386
+|-damage|p1a: Houston|105/386|[from] Stealth Rock
+|move|p2a: Pheromosa|Ice Beam|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|40/386
+|-damage|p2a: Pheromosa|0 fnt|[from] item: Life Orb
+|faint|p2a: Pheromosa
+|
+|upkeep
+|
+|t:|1606672343
+|switch|p2a: Tapu Lele|Tapu Lele|176/281
+|-damage|p2a: Tapu Lele|141/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|35
+|
+|t:|1606672346
+|move|p1a: Houston|Protect|p1a: Houston
+|-singleturn|p1a: Houston|Protect
+|move|p2a: Tapu Lele|Psychic|p1a: Houston
+|-activate|p1a: Houston|move: Protect
+|
+|upkeep
+|turn|36
+|
+|t:|1606672350
+|move|p1a: Houston|Protect||[still]
+|-fail|p1a: Houston
+|move|p2a: Tapu Lele|Psychic|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|0 fnt
+|faint|p1a: Houston
+|
+|upkeep
+|
+|t:|1606672352
+|switch|p1a: GOJOU|Kartana|243/259
+|-damage|p1a: GOJOU|227/259|[from] Stealth Rock
+|turn|37
+|
+|t:|1606672355
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|move|p1a: GOJOU|Smart Strike|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|207/423
+|
+|upkeep
+|turn|38
+|
+|t:|1606672358
+|move|p1a: GOJOU|Smart Strike|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|-ability|p1a: GOJOU|Beast Boost|boost
+|-boost|p1a: GOJOU|atk|1
+|
+|upkeep
+|c|☆xray|gg
+|c|☆Empo|gg
+|-message|xray forfeited.
+|
+|win|Empo
+

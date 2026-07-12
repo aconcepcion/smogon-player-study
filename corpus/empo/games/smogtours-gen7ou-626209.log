@@ -1,0 +1,424 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1652555244
+|gametype|singles
+|player|p1|Arct!c|hilbert-wonderlauncher|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Medicham, M|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Magearna|item
+|poke|p1|Greninja, M|item
+|poke|p1|Tapu Koko|item
+|poke|p1|Hawlucha, M|item
+|poke|p2|Garchomp, F|item
+|poke|p2|Hippowdon, F|item
+|poke|p2|Greninja, M|item
+|poke|p2|Celesteela|item
+|poke|p2|Excadrill, M|item
+|poke|p2|Toxapex, M|item
+|teampreview
+|c|☆Empo|hf
+|c|☆Arct!c|hf
+|c|+Niko|st?
+|c|+STABLEPRINCE 聖|EMPOAT
+|inactive|Arct!c has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|+Nalorium|Go arctic smh
+|c|+pepebowie|GO ARCTIC
+|c|+revenge killer|baston
+|inactive|Arct!c has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Arct!c has 210 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1652555405
+|start
+|switch|p1a: Real As It Gets|Greninja, M|285/285
+|switch|p2a: Hippowdon|Hippowdon, F|420/420
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|Arct!c has 270 seconds left.
+|
+|t:|1652555434
+|switch|p2a: Greninja|Greninja, M|285/285
+|move|p1a: Real As It Gets|Spikes|p2a: Greninja
+|-sidestart|p2: Empo|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Greninja|268/285|[from] Sandstorm
+|-damage|p1a: Real As It Gets|268/285|[from] Sandstorm
+|upkeep
+|turn|2
+|inactive|Arct!c has 270 seconds left.
+|inactive|Arct!c has 240 seconds left.
+|
+|t:|1652555482
+|switch|p1a: Reminder|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Reminder
+|move|p2a: Greninja|Spikes|p1a: Reminder
+|-sidestart|p1: Arct!c|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Reminder|264/281|[from] Sandstorm
+|-damage|p2a: Greninja|251/285|[from] Sandstorm
+|upkeep
+|turn|3
+|inactive|Arct!c has 240 seconds left.
+|
+|t:|1652555493
+|switch|p1a: Run This Town|Landorus-Therian, M|381/381
+|-ability|p1a: Run This Town|Intimidate|boost
+|-unboost|p2a: Greninja|atk|1
+|switch|p2a: Celesteela|Celesteela|398/398
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|inactive|Arct!c has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Arct!c has 210 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Arct!c has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1652555579
+|switch|p2a: Hippowdon|Hippowdon, F|420/420
+|-damage|p2a: Hippowdon|368/420|[from] Spikes
+|move|p1a: Run This Town|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|inactive|Arct!c has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|Arct!c has 120 seconds left.
+|
+|t:|1652555654
+|switch|p1a: Real As It Gets|Greninja, M|268/285
+|-damage|p1a: Real As It Gets|233/285|[from] Spikes
+|move|p2a: Hippowdon|Stealth Rock|p1a: Real As It Gets
+|-sidestart|p1: Arct!c|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Real As It Gets|216/285|[from] Sandstorm
+|upkeep
+|turn|6
+|inactive|Arct!c has 90 seconds left.
+|
+|t:|1652555703
+|switch|p2a: Celesteela|Celesteela|398/398
+|-damage|p2a: Celesteela|349/398|[from] Stealth Rock
+|move|p1a: Real As It Gets|Hydro Pump|p2a: Celesteela
+|-damage|p2a: Celesteela|220/398
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Real As It Gets|199/285|[from] Sandstorm
+|-heal|p2a: Celesteela|244/398|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|7
+|inactive|Arct!c has 60 seconds left.
+|
+|t:|1652555723
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Real As It Gets|Hydro Pump|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Real As It Gets|182/285|[from] Sandstorm
+|-heal|p2a: Celesteela|268/398|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1652555730
+|move|p1a: Real As It Gets|Hydro Pump|p2a: Celesteela
+|-damage|p2a: Celesteela|147/398
+|move|p2a: Celesteela|Leech Seed|p1a: Real As It Gets
+|-start|p1a: Real As It Gets|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Celesteela|171/398|[from] item: Leftovers
+|-damage|p1a: Real As It Gets|147/285|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|206/398|[silent]
+|upkeep
+|turn|9
+|inactive|Arct!c has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1652555774
+|switch|p1a: Empire SoM|Medicham, M|261/261
+|-damage|p1a: Empire SoM|245/261|[from] Stealth Rock
+|-damage|p1a: Empire SoM|213/261|[from] Spikes
+|move|p2a: Celesteela|Protect||[still]
+|-fail|p2a: Celesteela
+|
+|-heal|p2a: Celesteela|230/398|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652555801
+|switch|p2a: Hippowdon|Hippowdon, F|368/420
+|-damage|p2a: Hippowdon|316/420|[from] Spikes
+|-damage|p2a: Hippowdon|290/420|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|detailschange|p1a: Empire SoM|Medicham-Mega, M
+|-mega|p1a: Empire SoM|Medicham|Medichamite
+|move|p1a: Empire SoM|Ice Punch|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|70/420
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Empire SoM|197/261|[from] Sandstorm
+|upkeep
+|turn|11
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652555808
+|move|p1a: Empire SoM|High Jump Kick|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Empire SoM|181/261|[from] Sandstorm
+|upkeep
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652555810
+|switch|p2a: Excadrill|Excadrill, M|361/361
+|-damage|p2a: Excadrill|316/361|[from] Spikes
+|-damage|p2a: Excadrill|305/361|[from] Stealth Rock
+|turn|12
+|
+|t:|1652555816
+|switch|p1a: Run This Town|Landorus-Therian, M|381/381
+|-damage|p1a: Run This Town|334/381|[from] Stealth Rock
+|-ability|p1a: Run This Town|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|13
+|inactive|Empo has 90 seconds left.
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|
+|t:|1652555847
+|switch|p1a: Thank You|Hawlucha, M|321/321
+|-damage|p1a: Thank You|281/321|[from] Stealth Rock
+|move|p2a: Excadrill|Rapid Spin|p1a: Thank You
+|-damage|p1a: Thank You|233/321
+|-sideend|p2: Empo|Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-sideend|p2: Empo|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Thank You|213/321|[from] Sandstorm
+|upkeep
+|turn|14
+|inactive|Arct!c has 25 seconds left this turn.
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652555855
+|move|p2a: Excadrill|Iron Head|p1a: Thank You
+|-crit|p1a: Thank You
+|-damage|p1a: Thank You|0 fnt
+|faint|p1a: Thank You
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Arct!c has 25 seconds left this turn.
+|
+|t:|1652555857
+|switch|p1a: Run This Town|Landorus-Therian, M|334/381
+|-damage|p1a: Run This Town|287/381|[from] Stealth Rock
+|-ability|p1a: Run This Town|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|turn|15
+|inactive|Arct!c has 30 seconds left.
+|
+|t:|1652555868
+|-zpower|p2a: Excadrill
+|move|p2a: Excadrill|Corkscrew Crash|p1a: Run This Town|[zeffect]
+|-damage|p1a: Run This Town|11/381
+|move|p1a: Run This Town|Smack Down|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|285/361
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|16
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652555887
+|switch|p1a: Young Forever|Magearna|363/363
+|-damage|p1a: Young Forever|341/363|[from] Stealth Rock
+|-damage|p1a: Young Forever|296/363|[from] Spikes
+|move|p2a: Excadrill|Iron Head|p1a: Young Forever
+|-damage|p1a: Young Forever|164/363
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652555891
+|switch|p1a: Run This Town|Landorus-Therian, M|11/381
+|-damage|p1a: Run This Town|0 fnt|[from] Stealth Rock
+|faint|p1a: Run This Town
+|move|p2a: Excadrill|Earthquake|p1: Run This Town|[notarget]
+|-fail|p2a: Excadrill
+|
+|-weather|none
+|upkeep
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652555908
+|switch|p1a: Empire SoM|Medicham-Mega, M|181/261
+|-damage|p1a: Empire SoM|149/261|[from] Spikes
+|-damage|p1a: Empire SoM|133/261|[from] Stealth Rock
+|turn|18
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652555917
+|switch|p2a: Celesteela|Celesteela|230/398
+|move|p1a: Empire SoM|High Jump Kick|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|upkeep
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652555919
+|switch|p2a: Garchomp|Garchomp, F|357/357
+|turn|19
+|inactive|Arct!c has 30 seconds left.
+|
+|t:|1652555932
+|switch|p1a: Young Forever|Magearna|164/363
+|-damage|p1a: Young Forever|119/363|[from] Spikes
+|-damage|p1a: Young Forever|97/363|[from] Stealth Rock
+|move|p2a: Garchomp|Earthquake|p1a: Young Forever
+|-supereffective|p1a: Young Forever
+|-damage|p1a: Young Forever|0 fnt
+|faint|p1a: Young Forever
+|
+|upkeep
+|inactive|Arct!c has 30 seconds left.
+|
+|t:|1652555945
+|switch|p1a: Reminder|Tapu Koko|264/281
+|-damage|p1a: Reminder|229/281|[from] Stealth Rock
+|-damage|p1a: Reminder|194/281|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Reminder
+|turn|20
+|inactive|Arct!c has 30 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|
+|t:|1652555967
+|switch|p2a: Excadrill|Excadrill, M|285/361
+|move|p1a: Reminder|Hidden Power|p2a: Excadrill
+|-damage|p2a: Excadrill|177/361
+|-damage|p1a: Reminder|166/281|[from] item: Life Orb
+|
+|upkeep
+|turn|21
+|inactive|Arct!c has 25 seconds left this turn.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|
+|t:|1652555979
+|switch|p1a: Empire SoM|Medicham-Mega, M|133/261
+|-damage|p1a: Empire SoM|101/261|[from] Spikes
+|-damage|p1a: Empire SoM|85/261|[from] Stealth Rock
+|move|p2a: Excadrill|Earthquake|p1a: Empire SoM
+|-damage|p1a: Empire SoM|0 fnt
+|faint|p1a: Empire SoM
+|
+|upkeep
+|inactive|Arct!c has 20 seconds left this turn.
+|
+|t:|1652555981
+|switch|p1a: Real As It Gets|Greninja, M|147/285
+|-damage|p1a: Real As It Gets|112/285|[from] Spikes
+|-damage|p1a: Real As It Gets|77/285|[from] Stealth Rock
+|turn|22
+|inactive|Arct!c has 30 seconds left this turn.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|
+|t:|1652555999
+|switch|p1a: Reminder|Tapu Koko|166/281
+|-damage|p1a: Reminder|131/281|[from] Stealth Rock
+|-damage|p1a: Reminder|96/281|[from] Spikes
+|switch|p2a: Garchomp|Garchomp, F|357/357
+|
+|upkeep
+|turn|23
+|inactive|Arct!c has 25 seconds left this turn.
+|c|☆Arct!c|gg
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652556011
+|move|p1a: Reminder|Hidden Power|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|14/357
+|-damage|p1a: Reminder|68/281|[from] item: Life Orb
+|move|p2a: Garchomp|Earthquake|p1a: Reminder
+|-supereffective|p1a: Reminder
+|-damage|p1a: Reminder|0 fnt
+|faint|p1a: Reminder
+|
+|upkeep
+|inactive|Arct!c has 25 seconds left this turn.
+|c|☆Empo|gg
+|
+|t:|1652556015
+|switch|p1a: Real As It Gets|Greninja, M|77/285
+|-damage|p1a: Real As It Gets|42/285|[from] Spikes
+|-damage|p1a: Real As It Gets|7/285|[from] Stealth Rock
+|turn|24
+|
+|t:|1652556019
+|switch|p2a: Toxapex|Toxapex, M|304/304
+|move|p1a: Real As It Gets|Dark Pulse|p2a: Toxapex
+|-damage|p2a: Toxapex|237/304
+|
+|-heal|p2a: Toxapex|256/304|[from] item: Black Sludge
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|25
+|
+|t:|1652556022
+|move|p1a: Real As It Gets|Dark Pulse|p2a: Toxapex
+|-damage|p2a: Toxapex|192/304
+|move|p2a: Toxapex|Scald|p1a: Real As It Gets
+|-resisted|p1a: Real As It Gets
+|-damage|p1a: Real As It Gets|0 fnt
+|faint|p1a: Real As It Gets
+|
+|win|Empo
+

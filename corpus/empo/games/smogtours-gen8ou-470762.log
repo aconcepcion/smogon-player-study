@@ -1,0 +1,2173 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|1 True Lycan|blackbelt-gen1|
+|player|p2|Empo|#splxiruiners|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Dugtrio, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Rotom-Heat|
+|poke|p1|Tyranitar, F|
+|poke|p1|Sylveon, F|
+|poke|p2|Sylveon, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Hydreigon, F|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆1 True Lycan|hf
+|c|☆Empo|same
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: ME LO SENTO|Hydreigon, F|100/100
+|turn|1
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100
+|move|p2a: ME LO SENTO|Thunder Wave|p1a: Sylveon
+|-status|p1a: Sylveon|par
+|
+|upkeep
+|turn|2
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: SUGO|Toxapex, M|100/100
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|
+|upkeep
+|turn|4
+|
+|switch|p2a: ME LO SENTO|Hydreigon, F|100/100
+|move|p1a: Rotom|Volt Switch|p2a: ME LO SENTO
+|-resisted|p2a: ME LO SENTO
+|-damage|p2a: ME LO SENTO|83/100
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100 par|[from]move: Volt Switch
+|
+|-heal|p2a: ME LO SENTO|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|c|+a rabbit|enzo dong
+|
+|switch|p2a: SUGO|Toxapex, M|100/100
+|move|p1a: Toxapex|Scald|p2a: SUGO
+|-resisted|p2a: SUGO
+|-damage|p2a: SUGO|94/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|88/100|[from] Sandstorm
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: SUGO|94/100|[from] item: Black Sludge
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|
+|move|p2a: SUGO|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: SUGO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|88/100|[from] Sandstorm
+|-damage|p1a: Toxapex|87/100|[from] Sandstorm
+|-heal|p2a: SUGO|94/100|[from] item: Black Sludge
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|move|p2a: SUGO|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|87/100
+|move|p1a: Toxapex|Scald|p2a: SUGO
+|-resisted|p2a: SUGO
+|-damage|p2a: SUGO|87/100
+|-status|p2a: SUGO|brn
+|
+|-weather|none
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-heal|p1a: Toxapex|93/100|[from] item: Black Sludge
+|-damage|p2a: SUGO|87/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|-damage|p1a: Sylveon|88/100 par|[from] Stealth Rock
+|move|p2a: SUGO|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|79/100 par
+|
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-heal|p1a: Sylveon|85/100 par|[from] item: Leftovers
+|-damage|p2a: SUGO|87/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Sylveon|Mystical Fire|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-damage|p2a: GUARDA COME FLEXO|72/100
+|-unboost|p2a: GUARDA COME FLEXO|spa|1
+|
+|-heal|p2a: GUARDA COME FLEXO|78/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|91/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p1a: Sylveon|97/100 par|[from] item: Leftovers
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: SUGO|Toxic|p1a: Tyranitar
+|-status|p1a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|88/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|100/100 tox|[from] move: Wish|[wisher] Sylveon
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|94/100 tox|[from] psn
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|move|p1a: Tyranitar|Stealth Rock|p2a: SUGO
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: SUGO|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|74/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|82/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|81/100 tox|[from] item: Leftovers
+|-heal|p2a: SUGO|88/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|68/100 tox|[from] psn
+|-damage|p2a: SUGO|82/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|68/100
+|-damage|p2a: PIANO PIANO WAY|61/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|82/100|[from] Sandstorm
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|44/100
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|38/100|[from] Sandstorm
+|-heal|p1a: Toxapex|44/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|inactive|1 True Lycan has 270 seconds left.
+|
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|76/100
+|
+|-weather|none
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|78/100
+|-damage|p2a: GUARDA COME FLEXO|66/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: GUARDA COME FLEXO|72/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|switch|p1a: Toxapex|Toxapex, F|77/100
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|47/100
+|
+|-heal|p2a: GUARDA COME FLEXO|53/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|83/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|move|p2a: GUARDA COME FLEXO|Roost|p2a: GUARDA COME FLEXO
+|-heal|p2a: GUARDA COME FLEXO|100/100
+|-singleturn|p2a: GUARDA COME FLEXO|move: Roost
+|move|p1a: Toxapex|Toxic Spikes|p2a: GUARDA COME FLEXO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|
+|upkeep
+|turn|22
+|inactive|1 True Lycan has 270 seconds left.
+|
+|move|p1a: Rotom|Overheat|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-end|p2a: GUARDA COME FLEXO|Substitute
+|-unboost|p1a: Rotom|spa|2
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|61/100
+|-damage|p2a: GUARDA COME FLEXO|93/100|[from] Recoil
+|
+|-heal|p1a: Rotom|68/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|99/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|-heal|p1a: Rotom|74/100|[from] item: Leftovers
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|switch|p2a: ME LO SENTO|Hydreigon, F|89/100
+|move|p1a: Rotom|Volt Switch|p2a: ME LO SENTO
+|-resisted|p2a: ME LO SENTO
+|-damage|p2a: ME LO SENTO|70/100
+|
+|switch|p1a: Sylveon|Sylveon, F|97/100 par|[from]move: Volt Switch
+|
+|-heal|p2a: ME LO SENTO|76/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|76/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Sylveon|Mystical Fire|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|54/100
+|-unboost|p2a: PIANO PIANO WAY|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sylveon|94/100 par|[from] Sandstorm
+|-heal|p1a: Sylveon|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|switch|p1a: Corviknight|Corviknight, F|99/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|move|p1a: Corviknight|Brave Bird|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|80/100
+|-damage|p1a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|-damage|p1a: Corviknight|77/100|[from] Recoil
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|83/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|move|p1a: Corviknight|Defog|p2a: PIANO PIANO WAY
+|-unboost|p2a: PIANO PIANO WAY|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|89/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|move|p1a: Corviknight|Brave Bird|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|80/100
+|-damage|p1a: Corviknight|72/100|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|-damage|p1a: Corviknight|65/100|[from] Recoil
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Corviknight|71/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|move|p1a: Corviknight|Defog|p2a: PIANO PIANO WAY
+|-unboost|p2a: PIANO PIANO WAY|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100
+|
+|-heal|p1a: Corviknight|77/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|move|p1a: Corviknight|Body Press|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|88/100
+|-damage|p1a: Corviknight|61/100|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-heal|p1a: Corviknight|67/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|99/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p2a: GUARDA COME FLEXO|100/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|switch|p1a: Rotom|Rotom-Heat|74/100
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|76/100
+|
+|-heal|p1a: Rotom|80/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|82/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|move|p1a: Rotom|Discharge|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-end|p2a: GUARDA COME FLEXO|Substitute
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|57/100
+|-damage|p2a: GUARDA COME FLEXO|77/100|[from] Recoil
+|
+|-heal|p1a: Rotom|63/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|83/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|switch|p2a: ARCOBALENO|Sylveon, F|100/100
+|move|p1a: Rotom|Volt Switch|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|85/100
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Tyranitar|Tyranitar, F|68/100 tox|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ARCOBALENO|79/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|74/100 tox|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|85/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|68/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|88/100
+|move|p1a: Tyranitar|Heavy Slam|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|81/100
+|-damage|p1a: Tyranitar|52/100 tox|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|58/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|45/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|switch|p1a: Corviknight|Corviknight, F|73/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|79/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|83/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: GUARDA COME FLEXO|89/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|switch|p2a: ME LO SENTO|Hydreigon, F|76/100
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|-weather|none
+|-heal|p2a: ME LO SENTO|82/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|move|p2a: ME LO SENTO|Dark Pulse|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|89/100 par
+|
+|-heal|p2a: ME LO SENTO|88/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|95/100 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|89/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|cant|p1a: Sylveon|par
+|
+|-heal|p2a: GUARDA COME FLEXO|95/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|77/100
+|-damage|p2a: GUARDA COME FLEXO|89/100|[from] Recoil
+|
+|-heal|p2a: GUARDA COME FLEXO|95/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|84/100|[from] item: Black Sludge
+|upkeep
+|turn|43
+|
+|switch|p1a: Rotom|Rotom-Heat|63/100
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|70/100
+|
+|-heal|p1a: Rotom|69/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|76/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|move|p1a: Rotom|Volt Switch|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-end|p2a: GUARDA COME FLEXO|Substitute
+|
+|switch|p1a: Corviknight|Corviknight, F|85/100|[from]move: Volt Switch
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|74/100
+|-damage|p2a: GUARDA COME FLEXO|73/100|[from] Recoil
+|
+|-heal|p2a: GUARDA COME FLEXO|79/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|80/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|switch|p1a: Rotom|Rotom-Heat|69/100
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|44/100
+|-damage|p2a: GUARDA COME FLEXO|74/100|[from] Recoil
+|
+|-heal|p1a: Rotom|50/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|80/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|81/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Rotom|Volt Switch|p2a: PIANO PIANO WAY
+|-immune|p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|44/100|[from] Sandstorm
+|-heal|p1a: Rotom|50/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|switch|p1a: Corviknight|Corviknight, F|80/100
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: ME LO SENTO|Hydreigon, F|88/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ME LO SENTO|82/100|[from] Sandstorm
+|-heal|p2a: ME LO SENTO|88/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|80/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sylveon|94/100 par|[from] Sandstorm
+|-heal|p2a: GUARDA COME FLEXO|86/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|switch|p1a: Corviknight|Corviknight, F|86/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|61/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: GUARDA COME FLEXO|67/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|
+|-weather|none
+|-heal|p2a: GUARDA COME FLEXO|73/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: GUARDA COME FLEXO|79/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Toxic Spikes|p2a: GUARDA COME FLEXO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p2a: GUARDA COME FLEXO|85/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: GUARDA COME FLEXO|91/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|switch|p1a: Rotom|Rotom-Heat|50/100
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|
+|-heal|p1a: Rotom|57/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|97/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|move|p1a: Rotom|Volt Switch|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-end|p2a: GUARDA COME FLEXO|Substitute
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from]move: Volt Switch
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|72/100
+|
+|-heal|p2a: GUARDA COME FLEXO|78/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|switch|p2a: ME LO SENTO|Hydreigon, F|88/100
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|
+|-heal|p2a: ME LO SENTO|94/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|78/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p2a: GUARDA COME FLEXO|84/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|switch|p1a: Tyranitar|Tyranitar, F|45/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|94/100 tox|[from] move: Wish|[wisher] Sylveon
+|-heal|p2a: GUARDA COME FLEXO|65/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|turn|60
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Tyranitar|Stealth Rock|p2a: GUARDA COME FLEXO
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: GUARDA COME FLEXO|71/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|88/100 tox|[from] psn
+|upkeep
+|turn|61
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|66/100
+|-damage|p2a: GUARDA COME FLEXO|63/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|60/100|[from] Sandstorm
+|-heal|p2a: GUARDA COME FLEXO|69/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|66/100|[from] item: Black Sludge
+|upkeep
+|turn|62
+|
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|34/100
+|-damage|p2a: GUARDA COME FLEXO|61/100|[from] Recoil
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|28/100|[from] Sandstorm
+|-heal|p2a: GUARDA COME FLEXO|67/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|34/100|[from] item: Black Sludge
+|upkeep
+|turn|63
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|84/100
+|
+|-weather|none
+|-heal|p2a: GUARDA COME FLEXO|73/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|91/100|[from] item: Black Sludge
+|upkeep
+|turn|64
+|
+|move|p2a: GUARDA COME FLEXO|Roost|p2a: GUARDA COME FLEXO
+|-heal|p2a: GUARDA COME FLEXO|100/100
+|-singleturn|p2a: GUARDA COME FLEXO|move: Roost
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|97/100|[from] item: Black Sludge
+|upkeep
+|turn|65
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Toxic Spikes|p2a: GUARDA COME FLEXO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|66
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-damage|p2a: SUGO|88/100 brn|[from] Stealth Rock
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|move|p2a: SUGO|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: SUGO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|68
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|move|p2a: SUGO|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|91/100 par
+|
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-heal|p1a: Sylveon|97/100 par|[from] item: Leftovers
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|69
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-damage|p2a: GUARDA COME FLEXO|88/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Sylveon|Mystical Fire|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-damage|p2a: GUARDA COME FLEXO|60/100
+|-unboost|p2a: GUARDA COME FLEXO|spa|1
+|
+|-heal|p2a: GUARDA COME FLEXO|66/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-damage|p2a: SUGO|88/100 brn|[from] Stealth Rock
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|switch|p1a: Rotom|Rotom-Heat|57/100
+|
+|-heal|p1a: Rotom|63/100|[from] item: Leftovers
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|71
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|81/100
+|-damage|p2a: PIANO PIANO WAY|74/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Rotom|Volt Switch|p2a: PIANO PIANO WAY
+|-immune|p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|57/100|[from] Sandstorm
+|-heal|p1a: Rotom|63/100|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|73
+|
+|switch|p2a: ME LO SENTO|Hydreigon, F|94/100
+|-damage|p2a: ME LO SENTO|82/100|[from] Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: ME LO SENTO
+|-resisted|p2a: ME LO SENTO
+|-damage|p2a: ME LO SENTO|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ME LO SENTO|66/100|[from] Sandstorm
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: ME LO SENTO|72/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|74
+|
+|switch|p1a: Sylveon|Sylveon, F|100/100 par
+|-damage|p1a: Sylveon|88/100 par|[from] Stealth Rock
+|move|p2a: ME LO SENTO|Flash Cannon|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|57/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ME LO SENTO|66/100|[from] Sandstorm
+|-damage|p1a: Sylveon|50/100 par|[from] Sandstorm
+|-heal|p2a: ME LO SENTO|72/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|57/100 par|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|move|p2a: ME LO SENTO|Flash Cannon|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|25/100 par
+|move|p1a: Sylveon|Hyper Voice|p2a: ME LO SENTO
+|-supereffective|p2a: ME LO SENTO
+|-damage|p2a: ME LO SENTO|0 fnt
+|faint|p2a: ME LO SENTO
+|
+|-weather|none
+|-heal|p1a: Sylveon|31/100 par|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|66/100
+|-damage|p2a: GUARDA COME FLEXO|54/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|turn|76
+|inactive|1 True Lycan has 270 seconds left.
+|
+|switch|p1a: Corviknight|Corviknight, F|92/100
+|-damage|p1a: Corviknight|80/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|29/100
+|
+|-heal|p2a: GUARDA COME FLEXO|35/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Corviknight|Body Press|p2a: GUARDA COME FLEXO
+|-activate|p2a: GUARDA COME FLEXO|move: Substitute|[damage]
+|
+|-heal|p2a: GUARDA COME FLEXO|41/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|
+|-heal|p2a: GUARDA COME FLEXO|47/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|79
+|
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|51/100
+|-damage|p2a: GUARDA COME FLEXO|36/100|[from] Recoil
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: GUARDA COME FLEXO|42/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|57/100|[from] item: Black Sludge
+|upkeep
+|turn|80
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: GUARDA COME FLEXO|48/100|[from] item: Leftovers
+|upkeep
+|turn|81
+|
+|move|p2a: GUARDA COME FLEXO|Roost|p2a: GUARDA COME FLEXO
+|-heal|p2a: GUARDA COME FLEXO|98/100
+|-singleturn|p2a: GUARDA COME FLEXO|move: Roost
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: GUARDA COME FLEXO|100/100|[from] item: Leftovers
+|upkeep
+|turn|82
+|
+|switch|p1a: Corviknight|Corviknight, F|92/100
+|-damage|p1a: Corviknight|79/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|84
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|58/100
+|-damage|p2a: GUARDA COME FLEXO|90/100|[from] Recoil
+|
+|-heal|p2a: GUARDA COME FLEXO|96/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|64/100|[from] item: Black Sludge
+|upkeep
+|turn|85
+|
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|23/100
+|-damage|p2a: GUARDA COME FLEXO|85/100|[from] Recoil
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|73/100
+|
+|-heal|p2a: GUARDA COME FLEXO|91/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|79/100|[from] item: Black Sludge
+|upkeep
+|turn|86
+|
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|33/100
+|-damage|p2a: GUARDA COME FLEXO|80/100|[from] Recoil
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: GUARDA COME FLEXO|86/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|39/100|[from] item: Black Sludge
+|upkeep
+|turn|87
+|
+|move|p2a: GUARDA COME FLEXO|Bulk Up|p2a: GUARDA COME FLEXO
+|-boost|p2a: GUARDA COME FLEXO|atk|1
+|-boost|p2a: GUARDA COME FLEXO|def|1
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|89/100
+|
+|-heal|p2a: GUARDA COME FLEXO|92/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|96/100|[from] item: Black Sludge
+|upkeep
+|turn|88
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|89
+|
+|switch|p1a: Sylveon|Sylveon, F|31/100 par
+|move|p2a: SUGO|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|21/100 par
+|
+|-heal|p2a: SUGO|100/100 brn|[from] item: Black Sludge
+|-heal|p1a: Sylveon|27/100 par|[from] item: Leftovers
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|90
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|74/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sylveon|21/100 par|[from] Sandstorm
+|-heal|p1a: Sylveon|27/100 par|[from] item: Leftovers
+|upkeep
+|turn|91
+|
+|cant|p1a: Sylveon|par
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Sylveon
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sylveon|21/100 par|[from] Sandstorm
+|-heal|p1a: Sylveon|71/100 par|[from] move: Wish|[wisher] Sylveon
+|-heal|p1a: Sylveon|77/100 par|[from] item: Leftovers
+|upkeep
+|turn|92
+|
+|switch|p1a: Corviknight|Corviknight, F|91/100
+|-damage|p1a: Corviknight|79/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|93
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|92/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: GUARDA COME FLEXO|98/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|94
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|74/100
+|move|p1a: Corviknight|Body Press|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|61/100
+|-damage|p1a: Corviknight|75/100|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|
+|-weather|none
+|-heal|p1a: Corviknight|81/100|[from] item: Leftovers
+|upkeep
+|turn|95
+|
+|switch|p1a: Rotom|Rotom-Heat|63/100
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100
+|
+|-heal|p1a: Rotom|69/100|[from] item: Leftovers
+|upkeep
+|turn|96
+|
+|switch|p1a: Corviknight|Corviknight, F|81/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Corviknight
+|drag|p1a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|97
+|
+|switch|p2a: ARCOBALENO|Sylveon, F|85/100
+|switch|p1a: Corviknight|Corviknight, F|81/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p1a: Corviknight|87/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|91/100|[from] item: Leftovers
+|upkeep
+|turn|98
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: ARCOBALENO|Wish|p2a: ARCOBALENO
+|
+|-heal|p2a: ARCOBALENO|97/100|[from] item: Leftovers
+|upkeep
+|turn|99
+|
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: ARCOBALENO
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p2a: ARCOBALENO|100/100|[from] move: Wish|[wisher] ARCOBALENO
+|-heal|p1a: Toxapex|91/100|[from] item: Black Sludge
+|upkeep
+|turn|100
+|
+|switch|p1a: Rotom|Rotom-Heat|69/100
+|move|p2a: ARCOBALENO|Wish|p2a: ARCOBALENO
+|
+|-heal|p1a: Rotom|75/100|[from] item: Leftovers
+|upkeep
+|turn|101
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: ARCOBALENO|Mystical Fire|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|61/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-heal|p1a: Rotom|68/100|[from] item: Leftovers
+|upkeep
+|turn|102
+|
+|move|p1a: Rotom|Discharge|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|72/100
+|move|p2a: ARCOBALENO|Mystical Fire|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|55/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-heal|p1a: Rotom|61/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|78/100|[from] item: Leftovers
+|upkeep
+|turn|103
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: ARCOBALENO|Mystical Fire|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|49/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-heal|p1a: Rotom|55/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|84/100|[from] item: Leftovers
+|upkeep
+|turn|104
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: ARCOBALENO|Mystical Fire|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|41/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-heal|p1a: Rotom|47/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|91/100|[from] item: Leftovers
+|upkeep
+|turn|105
+|
+|move|p1a: Rotom|Discharge|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|52/100
+|move|p2a: ARCOBALENO|Mystical Fire|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|34/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-heal|p1a: Rotom|40/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|58/100|[from] item: Leftovers
+|upkeep
+|turn|106
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Rotom|Volt Switch|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|32/100
+|
+|switch|p1a: Dugtrio|Dugtrio, M|100/100|[from]move: Volt Switch
+|move|p2a: ARCOBALENO|Wish|p2a: ARCOBALENO
+|
+|-heal|p2a: ARCOBALENO|38/100|[from] item: Leftovers
+|upkeep
+|turn|107
+|
+|switch|p1a: Rotom|Rotom-Heat|40/100
+|move|p2a: ARCOBALENO|Protect||[still]
+|-fail|p2a: ARCOBALENO
+|
+|-heal|p2a: ARCOBALENO|88/100|[from] move: Wish|[wisher] ARCOBALENO
+|-heal|p1a: Rotom|47/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|94/100|[from] item: Leftovers
+|upkeep
+|turn|108
+|
+|move|p1a: Rotom|Volt Switch|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|78/100
+|
+|switch|p1a: Corviknight|Corviknight, F|87/100|[from]move: Volt Switch
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|68/100
+|
+|-heal|p1a: Corviknight|74/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|84/100|[from] item: Leftovers
+|upkeep
+|turn|109
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Rotom|Rotom-Heat|47/100
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|22/100
+|
+|-heal|p1a: Rotom|28/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|90/100|[from] item: Leftovers
+|upkeep
+|turn|110
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Rotom|Volt Switch|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|74/100
+|
+|switch|p1a: Sylveon|Sylveon, F|77/100 par|[from]move: Volt Switch
+|move|p2a: ARCOBALENO|Wish|p2a: ARCOBALENO
+|
+|-heal|p2a: ARCOBALENO|80/100|[from] item: Leftovers
+|-heal|p1a: Sylveon|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|111
+|
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Sylveon
+|-damage|p1a: Sylveon|60/100 par
+|move|p1a: Sylveon|Wish|p1a: Sylveon
+|
+|-heal|p2a: ARCOBALENO|100/100|[from] move: Wish|[wisher] ARCOBALENO
+|-heal|p1a: Sylveon|66/100 par|[from] item: Leftovers
+|upkeep
+|turn|112
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|switch|p1a: Rotom|Rotom-Heat|28/100
+|
+|-heal|p1a: Rotom|100/100|[from] move: Wish|[wisher] Sylveon
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|113
+|
+|move|p1a: Rotom|Volt Switch|p2a: SUGO
+|-supereffective|p2a: SUGO
+|-damage|p2a: SUGO|43/100 brn
+|
+|switch|p1a: Sylveon|Sylveon, F|66/100 par|[from]move: Volt Switch
+|move|p2a: SUGO|Scald|p1a: Sylveon
+|-damage|p1a: Sylveon|57/100 par
+|
+|-heal|p2a: SUGO|49/100 brn|[from] item: Black Sludge
+|-heal|p1a: Sylveon|63/100 par|[from] item: Leftovers
+|-damage|p2a: SUGO|43/100 brn|[from] brn
+|upkeep
+|turn|114
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|98/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|switch|p1a: Dugtrio|Dugtrio, M|100/100
+|
+|-heal|p2a: GUARDA COME FLEXO|100/100|[from] item: Leftovers
+|upkeep
+|turn|115
+|
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|switch|p2a: SUGO|Toxapex, M|76/100 brn
+|
+|-heal|p2a: SUGO|82/100 brn|[from] item: Black Sludge
+|-damage|p2a: SUGO|76/100 brn|[from] brn
+|upkeep
+|turn|116
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Rotom|Volt Switch|p2a: PIANO PIANO WAY
+|-immune|p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|94/100|[from] Sandstorm
+|-heal|p1a: Rotom|100/100|[from] item: Leftovers
+|upkeep
+|turn|117
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Corviknight|Corviknight, F|74/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|80/100|[from] item: Leftovers
+|upkeep
+|turn|118
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|119
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|100/100
+|switch|p1a: Tyranitar|Tyranitar, F|88/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|88/100 tox|[from] psn
+|upkeep
+|turn|120
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Tyranitar|Stealth Rock|p2a: PIANO PIANO WAY
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Tyranitar|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|82/100 tox|[from] psn
+|upkeep
+|turn|121
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Corviknight|Corviknight, F|86/100
+|-damage|p1a: Corviknight|73/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Corviknight
+|drag|p1a: Dugtrio|Dugtrio, M|100/100
+|-damage|p1a: Dugtrio|95/100|[from] Stealth Rock
+|
+|upkeep
+|turn|122
+|
+|switch|p1a: Corviknight|Corviknight, F|73/100
+|-damage|p1a: Corviknight|61/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Corviknight
+|drag|p1a: Sylveon|Sylveon, F|63/100 par
+|-damage|p1a: Sylveon|50/100 par|[from] Stealth Rock
+|
+|-heal|p1a: Sylveon|57/100 par|[from] item: Leftovers
+|upkeep
+|turn|123
+|
+|switch|p1a: Corviknight|Corviknight, F|61/100
+|-damage|p1a: Corviknight|49/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p1a: Corviknight|55/100|[from] item: Leftovers
+|upkeep
+|turn|124
+|
+|move|p1a: Corviknight|Defog|p2a: PIANO PIANO WAY
+|-unboost|p2a: PIANO PIANO WAY|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p1a: Corviknight|61/100|[from] item: Leftovers
+|upkeep
+|turn|125
+|
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|upkeep
+|turn|126
+|
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|-damage|p1a: Rotom|76/100|[from] Stealth Rock
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|upkeep
+|turn|127
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|76/100|[from] Sandstorm
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|upkeep
+|turn|128
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|move|p1a: Rotom|Overheat|p2a: SUGO
+|-resisted|p2a: SUGO
+|-damage|p2a: SUGO|53/100 brn
+|-unboost|p1a: Rotom|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|76/100|[from] Sandstorm
+|-damage|p2a: SUGO|47/100 brn|[from] Sandstorm
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|-heal|p2a: SUGO|53/100 brn|[from] item: Black Sludge
+|-damage|p2a: SUGO|47/100 brn|[from] brn
+|upkeep
+|turn|129
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|100/100
+|move|p1a: Rotom|Discharge|p2a: PIANO PIANO WAY
+|-immune|p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|76/100|[from] Sandstorm
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|upkeep
+|turn|130
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Rotom
+|drag|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|82/100|[from] Sandstorm
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|131
+|
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|45/100
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|65/100
+|
+|-weather|none
+|-heal|p1a: Toxapex|51/100|[from] item: Black Sludge
+|upkeep
+|turn|132
+|
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Toxapex
+|drag|p1a: Tyranitar|Tyranitar, F|82/100 tox
+|-damage|p1a: Tyranitar|69/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|76/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|69/100 tox|[from] psn
+|upkeep
+|turn|133
+|
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|134
+|
+|move|p1a: Corviknight|Defog|p2a: PIANO PIANO WAY
+|-unboost|p2a: PIANO PIANO WAY|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|turn|135
+|inactive|1 True Lycan has 270 seconds left.
+|
+|move|p1a: Corviknight|Brave Bird|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|80/100
+|-damage|p1a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p2a: PIANO PIANO WAY
+|-damage|p1a: Corviknight|76/100|[from] Recoil
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|136
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|none
+|-heal|p1a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|137
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|80/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|switch|p1a: Rotom|Rotom-Heat|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|76/100|[from] Sandstorm
+|-heal|p1a: Rotom|82/100|[from] item: Leftovers
+|upkeep
+|turn|138
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Rotom
+|drag|p1a: Sylveon|Sylveon, F|57/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sylveon|50/100 par|[from] Sandstorm
+|-heal|p1a: Sylveon|57/100 par|[from] item: Leftovers
+|upkeep
+|turn|139
+|
+|switch|p1a: Corviknight|Corviknight, F|88/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|140
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|141
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|80/100
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|142
+|
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|43/100
+|-status|p2a: PIANO PIANO WAY|brn
+|
+|-damage|p2a: PIANO PIANO WAY|36/100 brn|[from] brn
+|upkeep
+|turn|143
+|
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|86/100 brn
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|53/100 brn
+|
+|-damage|p2a: PIANO PIANO WAY|47/100 brn|[from] brn
+|upkeep
+|turn|144
+|
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|97/100 brn
+|move|p1a: Toxapex|Toxic Spikes|p2a: PIANO PIANO WAY
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-damage|p2a: PIANO PIANO WAY|91/100 brn|[from] brn
+|upkeep
+|turn|145
+|
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|55/100 brn
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Toxapex
+|drag|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|-damage|p2a: PIANO PIANO WAY|49/100 brn|[from] brn
+|upkeep
+|turn|146
+|
+|switch|p2a: SUGO|Toxapex, M|80/100 brn
+|-sideend|p2: Empo|move: Toxic Spikes|[of] p2a: SUGO
+|move|p1a: Corviknight|Defog|p2a: SUGO
+|-unboost|p2a: SUGO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p1a: Corviknight|99/100|[from] item: Leftovers
+|-heal|p2a: SUGO|86/100 brn|[from] item: Black Sludge
+|-damage|p2a: SUGO|80/100 brn|[from] brn
+|upkeep
+|turn|147
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|49/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: PIANO PIANO WAY|43/100 brn|[from] brn
+|upkeep
+|turn|148
+|
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|93/100 brn
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|55/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: PIANO PIANO WAY|49/100 brn|[from] brn
+|upkeep
+|turn|149
+|
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|99/100 brn
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|63/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: PIANO PIANO WAY|56/100 brn|[from] brn
+|upkeep
+|turn|150
+|
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100 brn
+|move|p1a: Toxapex|Scald|p2a: PIANO PIANO WAY
+|-supereffective|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|64/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: PIANO PIANO WAY|58/100 brn|[from] brn
+|upkeep
+|turn|151
+|
+|switch|p2a: ARCOBALENO|Sylveon, F|100/100
+|move|p1a: Toxapex|Scald|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|92/100
+|
+|-weather|none
+|-heal|p2a: ARCOBALENO|98/100|[from] item: Leftovers
+|upkeep
+|turn|152
+|
+|switch|p1a: Rotom|Rotom-Heat|82/100
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|56/100
+|
+|-heal|p1a: Rotom|62/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|100/100|[from] item: Leftovers
+|upkeep
+|turn|153
+|
+|move|p1a: Rotom|Volt Switch|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|84/100
+|
+|switch|p1a: Corviknight|Corviknight, F|99/100|[from]move: Volt Switch
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|81/100
+|
+|-heal|p1a: Corviknight|87/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|90/100|[from] item: Leftovers
+|upkeep
+|turn|154
+|
+|move|p1a: Corviknight|Brave Bird|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|46/100
+|-damage|p1a: Corviknight|73/100|[from] Recoil
+|move|p2a: ARCOBALENO|Hyper Voice|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|54/100
+|
+|-heal|p1a: Corviknight|60/100|[from] item: Leftovers
+|-heal|p2a: ARCOBALENO|52/100|[from] item: Leftovers
+|upkeep
+|turn|155
+|
+|move|p1a: Corviknight|Brave Bird|p2a: ARCOBALENO
+|-crit|p2a: ARCOBALENO
+|-damage|p2a: ARCOBALENO|0 fnt
+|-damage|p1a: Corviknight|43/100|[from] Recoil
+|faint|p2a: ARCOBALENO
+|
+|-heal|p1a: Corviknight|49/100|[from] item: Leftovers
+|upkeep
+|c|☆1 True Lycan|sry
+|inactive|Empo has 270 seconds left.
+|
+|switch|p2a: PIANO PIANO WAY|Hippowdon, F|58/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: PIANO PIANO WAY
+|turn|156
+|
+|switch|p1a: Rotom|Rotom-Heat|62/100
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|100/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|56/100|[from] Sandstorm
+|-heal|p1a: Rotom|62/100|[from] item: Leftovers
+|-damage|p2a: PIANO PIANO WAY|94/100 brn|[from] brn
+|upkeep
+|turn|157
+|
+|move|p1a: Rotom|Overheat|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|32/100 brn
+|-unboost|p1a: Rotom|spa|2
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Rotom
+|drag|p1a: Tyranitar|Tyranitar, F|69/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|76/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|69/100 tox|[from] psn
+|-damage|p2a: PIANO PIANO WAY|26/100 brn|[from] brn
+|upkeep
+|turn|158
+|inactive|1 True Lycan has 270 seconds left.
+|
+|switch|p1a: Rotom|Rotom-Heat|62/100
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|76/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|56/100|[from] Sandstorm
+|-heal|p1a: Rotom|62/100|[from] item: Leftovers
+|-damage|p2a: PIANO PIANO WAY|70/100 brn|[from] brn
+|upkeep
+|turn|159
+|inactive|1 True Lycan has 270 seconds left.
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: PIANO PIANO WAY|Whirlwind|p1a: Rotom
+|drag|p1a: Dugtrio|Dugtrio, M|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: PIANO PIANO WAY|64/100 brn|[from] brn
+|upkeep
+|turn|160
+|
+|move|p1a: Dugtrio|Earthquake|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|32/100 brn
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|82/100 brn
+|
+|-weather|none
+|-damage|p2a: PIANO PIANO WAY|76/100 brn|[from] brn
+|upkeep
+|turn|161
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Dugtrio|Earthquake|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|43/100 brn
+|move|p2a: PIANO PIANO WAY|Stealth Rock|p1a: Dugtrio
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-damage|p2a: PIANO PIANO WAY|37/100 brn|[from] brn
+|upkeep
+|turn|162
+|
+|move|p1a: Dugtrio|Earthquake|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|3/100 brn
+|move|p2a: PIANO PIANO WAY|Slack Off|p2a: PIANO PIANO WAY
+|-heal|p2a: PIANO PIANO WAY|53/100 brn
+|
+|-damage|p2a: PIANO PIANO WAY|47/100 brn|[from] brn
+|upkeep
+|turn|163
+|
+|move|p1a: Dugtrio|Earthquake|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|14/100 brn
+|move|p2a: PIANO PIANO WAY|Earthquake|p1a: Dugtrio
+|-damage|p1a: Dugtrio|46/100
+|
+|-damage|p2a: PIANO PIANO WAY|7/100 brn|[from] brn
+|upkeep
+|turn|164
+|
+|move|p1a: Dugtrio|Earthquake|p2a: PIANO PIANO WAY
+|-damage|p2a: PIANO PIANO WAY|0 fnt
+|faint|p2a: PIANO PIANO WAY
+|
+|upkeep
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|turn|165
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Corviknight|Corviknight, F|49/100
+|-damage|p1a: Corviknight|37/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: SUGO|Scald|p1a: Corviknight
+|-damage|p1a: Corviknight|21/100
+|
+|-heal|p1a: Corviknight|27/100|[from] item: Leftovers
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|166
+|
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|77/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: SUGO|Scald|p1a: Corviknight
+|-damage|p1a: Corviknight|59/100
+|-status|p1a: Corviknight|brn
+|
+|-heal|p1a: Corviknight|65/100 brn|[from] item: Leftovers
+|-heal|p2a: SUGO|100/100 brn|[from] item: Black Sludge
+|-damage|p1a: Corviknight|59/100 brn|[from] brn
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|167
+|inactive|Empo has 270 seconds left.
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Defog|p2a: GUARDA COME FLEXO
+|-unboost|p2a: GUARDA COME FLEXO|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|-heal|p1a: Corviknight|65/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|59/100 brn|[from] brn
+|upkeep
+|turn|168
+|
+|move|p2a: GUARDA COME FLEXO|Brave Bird|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|47/100 brn
+|-damage|p2a: GUARDA COME FLEXO|96/100|[from] Recoil
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|97/100 brn
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: GUARDA COME FLEXO|100/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|169
+|inactive|Empo has 240 seconds left.
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|switch|p1a: Tyranitar|Tyranitar, F|69/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|94/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|76/100 tox|[from] item: Leftovers
+|-heal|p2a: SUGO|100/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|69/100 tox|[from] psn
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|turn|170
+|inactive|Empo has 240 seconds left.
+|
+|move|p1a: Tyranitar|Stealth Rock|p2a: SUGO
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: SUGO|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|50/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|88/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|56/100 tox|[from] item: Leftovers
+|-heal|p2a: SUGO|94/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|44/100 tox|[from] psn
+|-damage|p2a: SUGO|88/100 brn|[from] brn
+|upkeep
+|turn|171
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|100/100
+|-damage|p2a: GUARDA COME FLEXO|88/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Tyranitar|Crunch|p2a: GUARDA COME FLEXO
+|-damage|p2a: GUARDA COME FLEXO|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: GUARDA COME FLEXO|60/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|50/100 tox|[from] item: Leftovers
+|-damage|p1a: Tyranitar|32/100 tox|[from] psn
+|upkeep
+|turn|172
+|
+|switch|p2a: SUGO|Toxapex, M|100/100 brn
+|-damage|p2a: SUGO|88/100 brn|[from] Stealth Rock
+|move|p1a: Tyranitar|Fire Punch|p2a: SUGO
+|-resisted|p2a: SUGO
+|-damage|p2a: SUGO|81/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: SUGO|75/100 brn|[from] Sandstorm
+|-heal|p1a: Tyranitar|38/100 tox|[from] item: Leftovers
+|-heal|p2a: SUGO|81/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|13/100 tox|[from] psn
+|-damage|p2a: SUGO|75/100 brn|[from] brn
+|upkeep
+|turn|173
+|
+|move|p1a: Tyranitar|Crunch|p2a: SUGO
+|-damage|p2a: SUGO|49/100 brn
+|-unboost|p2a: SUGO|def|1
+|move|p2a: SUGO|Recover|p2a: SUGO
+|-heal|p2a: SUGO|99/100 brn
+|
+|-weather|none
+|-heal|p1a: Tyranitar|19/100 tox|[from] item: Leftovers
+|-heal|p2a: SUGO|100/100 brn|[from] item: Black Sludge
+|-damage|p1a: Tyranitar|0 fnt|[from] psn
+|faint|p1a: Tyranitar
+|-damage|p2a: SUGO|94/100 brn|[from] brn
+|upkeep
+|
+|switch|p1a: Dugtrio|Dugtrio, M|46/100
+|turn|174
+|
+|move|p1a: Dugtrio|Earthquake|p2a: SUGO
+|-supereffective|p2a: SUGO
+|-damage|p2a: SUGO|0 fnt
+|faint|p2a: SUGO
+|
+|upkeep
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|60/100
+|-damage|p2a: GUARDA COME FLEXO|48/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|turn|175
+|inactive|Empo has 270 seconds left.
+|
+|switch|p1a: Rotom|Rotom-Heat|62/100
+|switch|p2a: BINGO|Excadrill, M|100/100
+|-damage|p2a: BINGO|97/100|[from] Stealth Rock
+|
+|-heal|p1a: Rotom|68/100|[from] item: Leftovers
+|-heal|p2a: BINGO|100/100|[from] item: Leftovers
+|upkeep
+|turn|176
+|
+|switch|p1a: Corviknight|Corviknight, F|94/100 brn
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|48/100
+|-damage|p2a: GUARDA COME FLEXO|36/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|
+|-heal|p2a: GUARDA COME FLEXO|42/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|177
+|
+|switch|p2a: BINGO|Excadrill, M|100/100
+|-damage|p2a: BINGO|97/100|[from] Stealth Rock
+|switch|p1a: Rotom|Rotom-Heat|68/100
+|
+|-heal|p1a: Rotom|74/100|[from] item: Leftovers
+|-heal|p2a: BINGO|100/100|[from] item: Leftovers
+|upkeep
+|turn|178
+|
+|switch|p1a: Corviknight|Corviknight, F|94/100 brn
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|42/100
+|-damage|p2a: GUARDA COME FLEXO|29/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|
+|-heal|p2a: GUARDA COME FLEXO|35/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|179
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: BINGO|Excadrill, M|100/100
+|-damage|p2a: BINGO|97/100|[from] Stealth Rock
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|-heal|p2a: BINGO|100/100|[from] item: Leftovers
+|upkeep
+|turn|180
+|
+|switch|p1a: Rotom|Rotom-Heat|74/100
+|move|p2a: BINGO|Earthquake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|-heal|p1a: Rotom|81/100|[from] item: Leftovers
+|upkeep
+|turn|181
+|
+|switch|p1a: Corviknight|Corviknight, F|94/100 brn
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|35/100
+|-damage|p2a: GUARDA COME FLEXO|23/100|[from] Stealth Rock
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|
+|-heal|p2a: GUARDA COME FLEXO|29/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|182
+|
+|switch|p2a: BINGO|Excadrill, M|100/100
+|-damage|p2a: BINGO|97/100|[from] Stealth Rock
+|move|p1a: Corviknight|Body Press|p2a: BINGO
+|-supereffective|p2a: BINGO
+|-damage|p2a: BINGO|61/100
+|
+|-heal|p2a: BINGO|68/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|183
+|
+|move|p2a: BINGO|Rapid Spin|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|89/100 brn
+|-sideend|p2: Empo|Stealth Rock|[from] move: Rapid Spin|[of] p2a: BINGO
+|-boost|p2a: BINGO|spe|1
+|move|p1a: Corviknight|Body Press|p2a: BINGO
+|-supereffective|p2a: BINGO
+|-damage|p2a: BINGO|33/100
+|
+|-heal|p2a: BINGO|40/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|95/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|89/100 brn|[from] brn
+|upkeep
+|turn|184
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|29/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|move|p1a: Corviknight|Body Press|p2a: GUARDA COME FLEXO
+|-damage|p2a: GUARDA COME FLEXO|19/100
+|
+|-heal|p2a: GUARDA COME FLEXO|25/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|95/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|89/100 brn|[from] brn
+|upkeep
+|turn|185
+|
+|switch|p2a: BINGO|Excadrill, M|40/100
+|move|p1a: Corviknight|Body Press|p2a: BINGO
+|-supereffective|p2a: BINGO
+|-damage|p2a: BINGO|5/100
+|
+|-heal|p2a: BINGO|11/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|95/100 brn|[from] item: Leftovers
+|-damage|p1a: Corviknight|89/100 brn|[from] brn
+|upkeep
+|turn|186
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|25/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|switch|p1a: Rotom|Rotom-Heat|81/100
+|
+|-heal|p1a: Rotom|87/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|31/100|[from] item: Leftovers
+|upkeep
+|turn|187
+|
+|switch|p2a: BINGO|Excadrill, M|11/100
+|move|p1a: Rotom|Overheat|p2a: BINGO
+|-supereffective|p2a: BINGO
+|-damage|p2a: BINGO|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: BINGO
+|
+|-heal|p1a: Rotom|93/100|[from] item: Leftovers
+|upkeep
+|
+|switch|p2a: GUARDA COME FLEXO|Corviknight, M|31/100
+|-ability|p2a: GUARDA COME FLEXO|Pressure
+|turn|188
+|c|☆1 True Lycan|gg
+|
+|move|p1a: Rotom|Discharge|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-damage|p2a: GUARDA COME FLEXO|5/100
+|move|p2a: GUARDA COME FLEXO|Roost|p2a: GUARDA COME FLEXO
+|-heal|p2a: GUARDA COME FLEXO|55/100
+|-singleturn|p2a: GUARDA COME FLEXO|move: Roost
+|
+|-heal|p1a: Rotom|99/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|61/100|[from] item: Leftovers
+|upkeep
+|turn|189
+|
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|36/100
+|
+|-heal|p1a: Rotom|100/100|[from] item: Leftovers
+|-heal|p2a: GUARDA COME FLEXO|42/100|[from] item: Leftovers
+|upkeep
+|turn|190
+|
+|move|p1a: Rotom|Discharge|p2a: GUARDA COME FLEXO
+|-supereffective|p2a: GUARDA COME FLEXO
+|-end|p2a: GUARDA COME FLEXO|Substitute
+|move|p2a: GUARDA COME FLEXO|Substitute|p2a: GUARDA COME FLEXO
+|-start|p2a: GUARDA COME FLEXO|Substitute
+|-damage|p2a: GUARDA COME FLEXO|17/100
+|
+|-heal|p2a: GUARDA COME FLEXO|23/100|[from] item: Leftovers
+|upkeep
+|turn|191
+|-message|Empo forfeited.
+|
+|win|1 True Lycan

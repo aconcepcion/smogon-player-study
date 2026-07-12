@@ -1,0 +1,197 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1607891855
+|player|p1|John W|psychic-gen4|
+|player|p2|Empo|swimmer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|6
+|tier|[Gen 6] OU
+|clearpoke
+|poke|p1|Metagross|item
+|poke|p1|Clefable, F|item
+|poke|p1|Magnezone|item
+|poke|p1|Gastrodon-East, M|item
+|poke|p1|Zapdos|item
+|poke|p1|Tornadus-Therian, M|item
+|poke|p2|Shuckle, M|item
+|poke|p2|Scizor, F|item
+|poke|p2|Bisharp, F|item
+|poke|p2|Manaphy|item
+|poke|p2|Thundurus-Therian, M|item
+|poke|p2|Gengar, M|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|teampreview
+|c|+fakenagol ♕|empo please go goat mode in honor of fatty and yuze and 'ra
+|c|+DKM|Gl empo
+|c|☆John W|hf
+|c|☆Empo|hf
+|c|+HYDREIGON SPECS|opa
+|c|+Dread Arceus|oh
+|c|+Justamente|In
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|
+|t:|1607891897
+|start
+|switch|p1a: Metagross|Metagross|302/302
+|switch|p2a: Shuckle|Shuckle, M|243/243
+|turn|1
+|
+|t:|1607891909
+|detailschange|p1a: Metagross|Metagross-Mega
+|-mega|p1a: Metagross|Metagross|Metagrossite
+|move|p1a: Metagross|Stealth Rock|p2a: Shuckle
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Shuckle|Sticky Web|p1a: Metagross
+|-sidestart|p1: John W|move: Sticky Web
+|
+|upkeep
+|turn|2
+|inactive|Empo has 270 seconds left.
+|
+|t:|1607891945
+|move|p1a: Metagross|Zen Headbutt|p2a: Shuckle
+|-damage|p2a: Shuckle|162/243
+|-enditem|p2a: Shuckle|Red Card|[of] p1a: Metagross
+|drag|p1a: Gastrodon|Gastrodon-East, M|426/426
+|-activate|p1a: Gastrodon|move: Sticky Web
+|-unboost|p1a: Gastrodon|spe|1
+|move|p2a: Shuckle|Stealth Rock|p1a: Gastrodon
+|-sidestart|p1: John W|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|Empo has 270 seconds left.
+|inactive|John W has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|John W has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607892042
+|move|p2a: Shuckle|Final Gambit|p1a: Gastrodon
+|-damage|p1a: Gastrodon|264/426
+|faint|p2a: Shuckle
+|move|p1a: Gastrodon|Scald|p2: Shuckle|[notarget]
+|-fail|p1a: Gastrodon
+|
+|-heal|p1a: Gastrodon|290/426|[from] item: Leftovers
+|upkeep
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607892049
+|switch|p2a: Gengar|Gengar, M|261/261
+|-damage|p2a: Gengar|229/261|[from] Stealth Rock
+|turn|4
+|inactive|John W has 240 seconds left.
+|inactive|John W has 210 seconds left.
+|
+|t:|1607892087
+|switch|p1a: Tornadus|Tornadus-Therian, M|323/323
+|-damage|p1a: Tornadus|243/323|[from] Stealth Rock
+|move|p2a: Gengar|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|140/323
+|
+|upkeep
+|turn|5
+|inactive|John W has 210 seconds left.
+|
+|t:|1607892102
+|move|p1a: Tornadus|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|49/261
+|-enditem|p2a: Gengar|Focus Sash|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Gengar|Counter|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|inactive|John W has 210 seconds left.
+|
+|t:|1607892136
+|switch|p1a: Metagross|Metagross-Mega|302/302
+|-damage|p1a: Metagross|284/302|[from] Stealth Rock
+|-activate|p1a: Metagross|move: Sticky Web
+|-unboost|p1a: Metagross|spe|1
+|turn|6
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607892168
+|switch|p2a: Banjiya Blues|Manaphy|404/404
+|-damage|p2a: Banjiya Blues|354/404|[from] Stealth Rock
+|move|p1a: Metagross|Bullet Punch|p2a: Banjiya Blues
+|-resisted|p2a: Banjiya Blues
+|-damage|p2a: Banjiya Blues|302/404
+|
+|-heal|p2a: Banjiya Blues|327/404|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Empo has 180 seconds left.
+|inactive|John W has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|John W has 150 seconds left.
+|inactive|John W has 120 seconds left.
+|inactive|John W has 90 seconds left.
+|
+|t:|1607892291
+|move|p2a: Banjiya Blues|Tail Glow|p2a: Banjiya Blues
+|-boost|p2a: Banjiya Blues|spa|3
+|move|p1a: Metagross|Zen Headbutt|p2a: Banjiya Blues|[miss]
+|-miss|p1a: Metagross|p2a: Banjiya Blues
+|
+|-heal|p2a: Banjiya Blues|352/404|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|John W has 90 seconds left.
+|
+|t:|1607892314
+|move|p2a: Banjiya Blues|Tail Glow|p2a: Banjiya Blues
+|-boost|p2a: Banjiya Blues|spa|3
+|move|p1a: Metagross|Zen Headbutt|p2a: Banjiya Blues
+|-damage|p2a: Banjiya Blues|163/404
+|
+|-heal|p2a: Banjiya Blues|188/404|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1607892331
+|move|p1a: Metagross|Bullet Punch|p2a: Banjiya Blues
+|-resisted|p2a: Banjiya Blues
+|-damage|p2a: Banjiya Blues|140/404
+|move|p2a: Banjiya Blues|Surf|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-heal|p2a: Banjiya Blues|165/404|[from] item: Leftovers
+|upkeep
+|
+|t:|1607892342
+|switch|p1a: Gastrodon|Gastrodon-East, M|290/426
+|-damage|p1a: Gastrodon|264/426|[from] Stealth Rock
+|-activate|p1a: Gastrodon|move: Sticky Web
+|-unboost|p1a: Gastrodon|spe|1
+|turn|10
+|
+|t:|1607892345
+|move|p2a: Banjiya Blues|Ice Beam|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|-heal|p2a: Banjiya Blues|190/404|[from] item: Leftovers
+|upkeep
+|c|☆John W|ggs
+|c|☆Empo|ggs
+|c|☆John W|gl in finals
+|c|☆Empo|ty
+|-message|John W forfeited.
+|
+|win|Empo
+

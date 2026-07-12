@@ -1,0 +1,757 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1611949413
+|player|p1|relous|#splxiiwolfpack|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Reuniclus, M|item
+|poke|p1|Gastrodon, M|item
+|poke|p1|Skarmory, M|item
+|poke|p1|Clefable, F|item
+|poke|p1|Latias, F|item
+|poke|p1|Heatran, M|item
+|poke|p2|Kartana|item
+|poke|p2|Mawile, M|item
+|poke|p2|Seismitoad, M|item
+|poke|p2|Chansey, F|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Magnezone|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|☆relous|hf
+|c|☆Empo|hf
+|c|+daunt vs|in
+|c|+AquaVanillla|EMPO
+|c|+Lord_Enz|RELOUS
+|c|+emma stone fan ❤|EMPO
+|c|+Lord_Enz|ABFAHRT
+|c|+WarumFelix|luca!
+|c|+Lord_Enz|JAAAAAAAAAAAAA
+|inactive|relous has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|+100percentpureheat|empoverty
+|c|+mael|relouusss
+|c|+Niko|god vs relous
+|c|+AquaVanillla|CHAD
+|inactive|relous has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|c|+SweetPosho|isnt that leftiez's bw team
+|c|+SweetPosho|lmao
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 210 seconds left.
+|
+|t:|1611949523
+|start
+|switch|p1a: Latias|Latias, F|363/363
+|switch|p2a: Updated Kekto|Chansey, F|701/701
+|turn|1
+|inactive|Empo has 240 seconds left.
+|
+|t:|1611949552
+|switch|p1a: Clefable|Clefable, F|394/394
+|move|p2a: Updated Kekto|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|upkeep
+|turn|2
+|inactive|Empo has 240 seconds left.
+|inactive|relous has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1611949605
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|294/394 par
+|move|p1a: Clefable|Thunder Wave|p2a: Updated Kekto
+|-status|p2a: Updated Kekto|par
+|
+|-heal|p1a: Clefable|318/394 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1611949612
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|399/399
+|move|p1a: Clefable|Stealth Rock|p2a: CHAMPAGNE SHOWERS
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-heal|p1a: Clefable|342/394 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Empo has 210 seconds left.
+|inactive|relous has 270 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1611949670
+|move|p2a: CHAMPAGNE SHOWERS|Stealth Rock|p1a: Clefable
+|-sidestart|p1: relous|move: Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: CHAMPAGNE SHOWERS
+|-damage|p2a: CHAMPAGNE SHOWERS|270/399
+|
+|-heal|p1a: Clefable|366/394 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|relous has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1611949704
+|switch|p2a: Updated Kekto|Chansey, F|701/701
+|-damage|p2a: Updated Kekto|614/701|[from] Stealth Rock
+|switch|p1a: Reuniclus|Reuniclus, M|424/424
+|
+|upkeep
+|turn|6
+|inactive|relous has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|relous has 210 seconds left.
+|
+|t:|1611949743
+|switch|p1a: Gastrodon|Gastrodon, M|416/416
+|-damage|p1a: Gastrodon|390/416|[from] Stealth Rock
+|move|p2a: Updated Kekto|Thunder Wave|p1a: Gastrodon
+|-immune|p1a: Gastrodon
+|
+|-heal|p1a: Gastrodon|416/416|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|relous has 210 seconds left.
+|
+|t:|1611949768
+|switch|p1a: Clefable|Clefable, F|366/394 par
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|266/394 par
+|
+|-heal|p1a: Clefable|290/394 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1611949777
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|190/394 par
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|387/394 par
+|
+|-heal|p1a: Clefable|394/394 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|relous has 210 seconds left.
+|
+|t:|1611949784
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|294/394 par
+|move|p1a: Clefable|Moonblast|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|545/701
+|-unboost|p2a: Updated Kekto|spa|1
+|
+|-heal|p1a: Clefable|318/394 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1611949787
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|218/394 par
+|cant|p1a: Clefable|par
+|
+|-heal|p1a: Clefable|242/394 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Empo has 150 seconds left.
+|
+|t:|1611949814
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Clefable
+|-damage|p1a: Clefable|142/394 par
+|move|p1a: Clefable|Thunder Wave|p2a: Updated Kekto
+|-status|p2a: Updated Kekto|par
+|
+|-heal|p1a: Clefable|166/394 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|relous has 210 seconds left.
+|
+|t:|1611949840
+|move|p1a: Clefable|Thunder Wave|p2a: Updated Kekto|[miss]
+|-miss|p1a: Clefable|p2a: Updated Kekto
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|
+|-heal|p1a: Clefable|190/394 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1611949844
+|-curestatus|p2a: Updated Kekto|par|[from] ability: Natural Cure
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|270/399
+|-damage|p2a: CHAMPAGNE SHOWERS|246/399|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|387/394 par
+|
+|-heal|p2a: CHAMPAGNE SHOWERS|399/399|[from] move: Wish|[wisher] Updated Kekto
+|-heal|p1a: Clefable|394/394 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Empo has 150 seconds left.
+|
+|t:|1611949869
+|move|p2a: CHAMPAGNE SHOWERS|Infestation|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|388/394 par
+|-activate|p1a: Clefable|move: Infestation|[of] p2a: CHAMPAGNE SHOWERS
+|move|p1a: Clefable|Moonblast|p2a: CHAMPAGNE SHOWERS
+|-damage|p2a: CHAMPAGNE SHOWERS|257/399
+|-unboost|p2a: CHAMPAGNE SHOWERS|spa|1
+|
+|-heal|p1a: Clefable|394/394 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Empo has 120 seconds left.
+|
+|t:|1611949892
+|switch|p2a: Updated Kekto|Chansey, F|545/701
+|-damage|p2a: Updated Kekto|458/701|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|386/701
+|
+|-end|p1a: Clefable|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|16
+|
+|t:|1611949898
+|switch|p1a: Gastrodon|Gastrodon, M|416/416
+|-damage|p1a: Gastrodon|390/416|[from] Stealth Rock
+|move|p2a: Updated Kekto|Thunder Wave|p1a: Gastrodon
+|-immune|p1a: Gastrodon
+|
+|-heal|p1a: Gastrodon|416/416|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|relous has 240 seconds left.
+|
+|t:|1611949910
+|move|p2a: Updated Kekto|Soft-Boiled|p2a: Updated Kekto
+|-heal|p2a: Updated Kekto|701/701
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|647/701
+|-status|p2a: Updated Kekto|brn
+|
+|-damage|p2a: Updated Kekto|604/701 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|relous has 240 seconds left.
+|
+|t:|1611949915
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|462/701 brn
+|
+|-damage|p2a: Updated Kekto|419/701 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1611949923
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|316/416
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|283/701 brn
+|
+|-heal|p2a: Updated Kekto|633/701 brn|[from] move: Wish|[wisher] Updated Kekto
+|-heal|p1a: Gastrodon|342/416|[from] item: Leftovers
+|-damage|p2a: Updated Kekto|590/701 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1611949927
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|457/701 brn
+|
+|-heal|p1a: Gastrodon|368/416|[from] item: Leftovers
+|-damage|p2a: Updated Kekto|414/701 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1611949934
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|268/416
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|363/701 brn
+|
+|-heal|p2a: Updated Kekto|701/701 brn|[from] move: Wish|[wisher] Updated Kekto
+|-heal|p1a: Gastrodon|294/416|[from] item: Leftovers
+|-damage|p2a: Updated Kekto|658/701 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1611949943
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|416/416
+|
+|-damage|p2a: Updated Kekto|615/701 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1611949946
+|-curestatus|p2a: Updated Kekto|brn|[from] ability: Natural Cure
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|257/399
+|-damage|p2a: CHAMPAGNE SHOWERS|233/399|[from] Stealth Rock
+|move|p1a: Gastrodon|Scald|p2a: CHAMPAGNE SHOWERS
+|-heal|p2a: CHAMPAGNE SHOWERS|332/399|[from] ability: Water Absorb|[of] p1a: Gastrodon
+|
+|-heal|p2a: CHAMPAGNE SHOWERS|399/399|[from] move: Wish|[wisher] Updated Kekto
+|upkeep
+|turn|24
+|
+|t:|1611949954
+|switch|p1a: Reuniclus|Reuniclus, M|424/424
+|move|p2a: CHAMPAGNE SHOWERS|Infestation|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|392/424
+|-activate|p1a: Reuniclus|move: Infestation|[of] p2a: CHAMPAGNE SHOWERS
+|
+|upkeep
+|turn|25
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1611949992
+|move|p2a: CHAMPAGNE SHOWERS|Earthquake|p1a: Reuniclus
+|-damage|p1a: Reuniclus|265/424
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|26
+|inactive|Empo has 180 seconds left.
+|
+|t:|1611950029
+|switch|p2a: Updated Kekto|Chansey, F|615/701
+|-damage|p2a: Updated Kekto|528/701|[from] Stealth Rock
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|424/424
+|
+|-end|p1a: Reuniclus|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|27
+|inactive|relous has 270 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1611950052
+|switch|p1a: Gastrodon|Gastrodon, M|416/416
+|-damage|p1a: Gastrodon|390/416|[from] Stealth Rock
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|290/416
+|
+|-heal|p1a: Gastrodon|316/416|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1611950060
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|216/416
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|383/701
+|
+|-heal|p1a: Gastrodon|242/416|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1611950074
+|move|p2a: Updated Kekto|Soft-Boiled|p2a: Updated Kekto
+|-heal|p2a: Updated Kekto|701/701
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|646/701
+|
+|-heal|p1a: Gastrodon|268/416|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1611950077
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|416/416
+|
+|upkeep
+|turn|31
+|
+|t:|1611950081
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|316/416
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|591/701
+|
+|-heal|p2a: Updated Kekto|701/701|[from] move: Wish|[wisher] Updated Kekto
+|-heal|p1a: Gastrodon|342/416|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1611950085
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|563/701
+|
+|-heal|p1a: Gastrodon|368/416|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1611950089
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|268/416
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-crit|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|484/701
+|
+|-heal|p2a: Updated Kekto|701/701|[from] move: Wish|[wisher] Updated Kekto
+|-heal|p1a: Gastrodon|294/416|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1611950092
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Scald|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|644/701
+|
+|-heal|p1a: Gastrodon|320/416|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1611950096
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|399/399
+|-damage|p2a: CHAMPAGNE SHOWERS|375/399|[from] Stealth Rock
+|move|p1a: Gastrodon|Scald|p2a: CHAMPAGNE SHOWERS
+|-heal|p2a: CHAMPAGNE SHOWERS|399/399|[from] ability: Water Absorb|[of] p1a: Gastrodon
+|
+|-heal|p1a: Gastrodon|346/416|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|Empo has 210 seconds left.
+|
+|t:|1611950134
+|switch|p1a: Clefable|Clefable, F|394/394 par
+|move|p2a: CHAMPAGNE SHOWERS|Infestation|p1a: Clefable
+|-resisted|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|386/394 par
+|-activate|p1a: Clefable|move: Infestation|[of] p2a: CHAMPAGNE SHOWERS
+|
+|-heal|p1a: Clefable|394/394 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|inactive|Empo has 210 seconds left.
+|
+|t:|1611950144
+|move|p2a: CHAMPAGNE SHOWERS|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|223/394 par
+|move|p1a: Clefable|Moonblast|p2a: CHAMPAGNE SHOWERS
+|-damage|p2a: CHAMPAGNE SHOWERS|255/399
+|
+|-heal|p1a: Clefable|247/394 par|[from] item: Leftovers
+|upkeep
+|turn|38
+|inactive|Empo has 210 seconds left.
+|inactive|relous has 270 seconds left.
+|
+|t:|1611950182
+|-zpower|p2a: CHAMPAGNE SHOWERS
+|move|p2a: CHAMPAGNE SHOWERS|Tectonic Rage|p1a: Clefable|[zeffect]
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|inactive|relous has 240 seconds left.
+|
+|t:|1611950224
+|switch|p1a: Reuniclus|Reuniclus, M|424/424
+|turn|39
+|
+|t:|1611950227
+|switch|p2a: Updated Kekto|Chansey, F|644/701
+|-damage|p2a: Updated Kekto|557/701|[from] Stealth Rock
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|40
+|inactive|relous has 240 seconds left.
+|
+|t:|1611950254
+|move|p2a: Updated Kekto|Thunder Wave|p1a: Reuniclus|[miss]
+|-miss|p2a: Updated Kekto|p1a: Reuniclus
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|41
+|
+|t:|1611950274
+|move|p2a: Updated Kekto|Thunder Wave|p1a: Reuniclus
+|-status|p1a: Reuniclus|par
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|42
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1611950333
+|switch|p2a: GuccyArmor|Kartana|259/259
+|-damage|p2a: GuccyArmor|243/259|[from] Stealth Rock
+|move|p1a: Reuniclus|Psyshock|p2a: GuccyArmor
+|-resisted|p2a: GuccyArmor
+|-damage|p2a: GuccyArmor|130/259
+|
+|upkeep
+|turn|43
+|inactive|relous has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|relous has 210 seconds left.
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950408
+|switch|p1a: Skarmory|Skarmory, M|334/334
+|-damage|p1a: Skarmory|293/334|[from] Stealth Rock
+|move|p2a: GuccyArmor|Knock Off|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|101/334
+|-damage|p2a: GuccyArmor|87/259|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-enditem|p1a: Skarmory|Rocky Helmet|[from] move: Knock Off|[of] p2a: GuccyArmor
+|
+|upkeep
+|turn|44
+|inactive|relous has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1611950424
+|switch|p2a: #nagols-homework|Magnezone|291/291
+|-damage|p2a: #nagols-homework|273/291|[from] Stealth Rock
+|move|p1a: Skarmory|Spikes|p2a: #nagols-homework
+|-sidestart|p2: Empo|Spikes
+|
+|upkeep
+|turn|45
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950432
+|move|p2a: #nagols-homework|Thunderbolt|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950442
+|switch|p1a: Heatran|Heatran, M|386/386
+|-damage|p1a: Heatran|338/386|[from] Stealth Rock
+|turn|46
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950455
+|switch|p2a: Caasi Netero|Landorus-Therian, M|343/343
+|-damage|p2a: Caasi Netero|301/343|[from] Stealth Rock
+|-ability|p2a: Caasi Netero|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Lava Plume|p2a: Caasi Netero
+|-damage|p2a: Caasi Netero|133/343
+|
+|-heal|p1a: Heatran|362/386|[from] item: Leftovers
+|upkeep
+|turn|47
+|inactive|relous has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1611950482
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Caasi Netero|Defog|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|386/386|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|relous has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1611950498
+|switch|p1a: Reuniclus|Reuniclus, M|424/424 par
+|move|p2a: Caasi Netero|Defog|p1a: Reuniclus
+|-unboost|p1a: Reuniclus|evasion|1
+|-sideend|p1: relous|Stealth Rock|[from] move: Defog|[of] p2a: Caasi Netero
+|-sideend|p2: Empo|Spikes|[from] move: Defog|[of] p2a: Caasi Netero
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Caasi Netero
+|
+|upkeep
+|turn|49
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950509
+|switch|p2a: Samuel D. Norton|Mawile, M|265/265
+|-ability|p2a: Samuel D. Norton|Intimidate|boost
+|-unboost|p1a: Reuniclus|atk|1
+|cant|p1a: Reuniclus|par
+|
+|upkeep
+|turn|50
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950525
+|switch|p1a: Heatran|Heatran, M|386/386
+|detailschange|p2a: Samuel D. Norton|Mawile-Mega, M
+|-mega|p2a: Samuel D. Norton|Mawile|Mawilite
+|move|p2a: Samuel D. Norton|Knock Off|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|88/386
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Samuel D. Norton
+|
+|upkeep
+|turn|51
+|
+|t:|1611950539
+|switch|p1a: Latias|Latias, F|363/363
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|255/399
+|
+|upkeep
+|turn|52
+|
+|t:|1611950559
+|switch|p2a: Updated Kekto|Chansey, F|557/701
+|detailschange|p1a: Latias|Latias-Mega, F
+|-mega|p1a: Latias|Latias|Latiasite
+|move|p1a: Latias|Ice Beam|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|495/701
+|
+|upkeep
+|turn|53
+|
+|t:|1611950566
+|switch|p1a: Gastrodon|Gastrodon, M|346/416
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Gastrodon
+|-damage|p1a: Gastrodon|246/416
+|
+|-heal|p1a: Gastrodon|272/416|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1611950576
+|move|p2a: Updated Kekto|Wish|p2a: Updated Kekto
+|move|p1a: Gastrodon|Earthquake|p2a: Updated Kekto
+|-damage|p2a: Updated Kekto|366/701
+|
+|-heal|p1a: Gastrodon|298/416|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1611950584
+|switch|p1a: Reuniclus|Reuniclus, M|424/424 par
+|move|p2a: Updated Kekto|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|324/424 par
+|
+|-heal|p2a: Updated Kekto|701/701|[from] move: Wish|[wisher] Updated Kekto
+|upkeep
+|turn|56
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950593
+|switch|p2a: CHAMPAGNE SHOWERS|Seismitoad, M|255/399
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|57
+|inactive|relous has 180 seconds left.
+|
+|t:|1611950629
+|move|p2a: CHAMPAGNE SHOWERS|Earthquake|p1a: Reuniclus
+|-damage|p1a: Reuniclus|186/424 par
+|move|p1a: Reuniclus|Shadow Ball|p2a: CHAMPAGNE SHOWERS
+|-damage|p2a: CHAMPAGNE SHOWERS|105/399
+|
+|upkeep
+|turn|58
+|
+|t:|1611950640
+|switch|p2a: Samuel D. Norton|Mawile-Mega, M|265/265
+|cant|p1a: Reuniclus|par
+|
+|upkeep
+|turn|59
+|
+|t:|1611950650
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|move|p2a: Samuel D. Norton|Knock Off|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|135/363
+|
+|upkeep
+|turn|60
+|
+|t:|1611950656
+|move|p1a: Latias|Thunder Wave|p2a: Samuel D. Norton|[miss]
+|-miss|p1a: Latias|p2a: Samuel D. Norton
+|move|p2a: Samuel D. Norton|Knock Off|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1611950661
+|switch|p1a: Heatran|Heatran, M|88/386
+|turn|61
+|
+|t:|1611950665
+|move|p2a: Samuel D. Norton|Sucker Punch|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1611950669
+|switch|p1a: Gastrodon|Gastrodon, M|298/416
+|turn|62
+|inactive|Empo has 210 seconds left.
+|
+|t:|1611950686
+|move|p2a: Samuel D. Norton|Play Rough|p1a: Gastrodon|[miss]
+|-miss|p2a: Samuel D. Norton|p1a: Gastrodon
+|move|p1a: Gastrodon|Earthquake|p2a: Samuel D. Norton
+|-supereffective|p2a: Samuel D. Norton
+|-damage|p2a: Samuel D. Norton|89/265
+|
+|-heal|p1a: Gastrodon|324/416|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1611950690
+|move|p2a: Samuel D. Norton|Play Rough|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1611950693
+|switch|p1a: Reuniclus|Reuniclus, M|186/424 par
+|turn|64
+|c|☆relous|gg
+|c|☆Empo|gg
+|
+|t:|1611950698
+|move|p2a: Samuel D. Norton|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|win|Empo
+

@@ -1,0 +1,1539 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1653077274
+|gametype|singles
+|player|p1|Ox the Fox|#splxiiiruiners|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Toxapex, M|item
+|poke|p1|Latias, F|item
+|poke|p1|Tyranitar, M|item
+|poke|p1|Excadrill, F|item
+|poke|p1|Celesteela|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p2|Tornadus-Therian, M|item
+|poke|p2|Swampert, M|item
+|poke|p2|Reuniclus, F|item
+|poke|p2|Skarmory, M|item
+|poke|p2|Krookodile, M|item
+|poke|p2|Chansey, F|item
+|teampreview
+|inactive|Ox the Fox also wants the timer to be on.
+|c|☆Ox the Fox|glhf
+|c|☆Empo|cool team
+|c|+blarghlfarghl|go empoor
+|c|☆Empo|u2
+|c|☆Ox the Fox|ty :D
+|c|+blarghlfarghl|np
+|c|☆Empo|hello blarghlfarghl
+|inactive|Ox the Fox has 270 seconds left.
+|c|+blarghlfarghl|hello empoor i am here to support u
+|c|+pais|blarghlfarghl..
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|LMAO
+|inactive|Ox the Fox has 240 seconds left.
+|c|☆Empo|ox set it 
+|c|☆Empo|blargh
+|c|☆Empo|sheesh
+|c|☆Empo|get owned
+|
+|t:|1653077361
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|switch|p2a: Swampert|Swampert, M, shiny|403/403
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|turn|1
+|inactive|Ox the Fox has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1653077427
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|
+|upkeep
+|turn|2
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653077514
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|Spikes
+|move|p1a: Toxapex|Toxic Spikes|p2a: Skarmory
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1653077532
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|424/424
+|-status|p2a: Reuniclus|psn
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|363/424 psn
+|
+|upkeep
+|turn|4
+|inactive|Empo has 150 seconds left.
+|c|☆Ox the Fox|whyd u build a team 6-0d by reuni..
+|inactive|Ox the Fox has 240 seconds left.
+|inactive|Ox the Fox has 210 seconds left.
+|
+|t:|1653077599
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Reuniclus|atk|1
+|move|p2a: Reuniclus|Psyshock|p1a: Landorus
+|-damage|p1a: Landorus|257/381
+|
+|upkeep
+|turn|5
+|inactive|Empo has 150 seconds left.
+|inactive|Ox the Fox has 180 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653077649
+|switch|p1a: Celesteela|Celesteela|397/397
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|
+|upkeep
+|turn|6
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653077672
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|301/301
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Spikes
+|
+|-heal|p1a: Toxapex|284/303|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1653077689
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|184/303
+|move|p1a: Toxapex|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-heal|p1a: Toxapex|202/303|[from] item: Black Sludge
+|-damage|p2a: Tornadus|283/301 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1653077713
+|move|p2a: Tornadus|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p1: Ox the Fox|Spikes|[from] move: Defog|[of] p2a: Tornadus
+|-sideend|p2: Empo|Toxic Spikes|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|303/303
+|
+|-damage|p2a: Tornadus|247/301 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1653077718
+|switch|p2a: Swampert|Swampert, M, shiny|403/403
+|move|p1a: Toxapex|Toxic Spikes|p2a: Swampert
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|upkeep
+|turn|10
+|inactive|Ox the Fox has 150 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653077759
+|detailschange|p2a: Swampert|Swampert-Mega, M, shiny
+|-mega|p2a: Swampert|Swampert|Swampertite
+|move|p2a: Swampert|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|move|p1a: Toxapex|Toxic|p2a: Swampert
+|-status|p2a: Swampert|tox
+|
+|-damage|p2a: Swampert|378/403 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653077775
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|301/301 tox
+|move|p1a: Toxapex|Recover||[still]
+|-fail|p1a: Toxapex|heal
+|
+|-damage|p2a: Tornadus|283/301 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1653077777
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|209/303
+|-start|p1a: Toxapex|confusion
+|-activate|p1a: Toxapex|confusion
+|move|p1a: Toxapex|Scald|p2a: Tornadus
+|-damage|p2a: Tornadus|216/301 tox
+|
+|-heal|p1a: Toxapex|227/303|[from] item: Black Sludge
+|-damage|p2a: Tornadus|180/301 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1653077781
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|125/303
+|-end|p1a: Toxapex|confusion
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|277/303
+|
+|-heal|p1a: Toxapex|295/303|[from] item: Black Sludge
+|-damage|p2a: Tornadus|126/301 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|Ox the Fox has 150 seconds left.
+|
+|t:|1653077789
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|378/403 tox
+|move|p1a: Toxapex|Scald|p2a: Swampert
+|-damage|p2a: Swampert|339/403 tox
+|
+|-heal|p1a: Toxapex|303/303|[from] item: Black Sludge
+|-damage|p2a: Swampert|314/403 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1653077792
+|switch|p1a: Celesteela|Celesteela|397/397
+|-damage|p1a: Celesteela|348/397|[from] Stealth Rock
+|move|p2a: Swampert|Earthquake|p1a: Celesteela
+|-immune|p1a: Celesteela
+|
+|-heal|p1a: Celesteela|372/397|[from] item: Leftovers
+|-damage|p2a: Swampert|264/403 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1653077801
+|move|p2a: Swampert|Scald|p1a: Celesteela
+|-crit|p1a: Celesteela
+|-damage|p1a: Celesteela|269/397
+|-status|p1a: Celesteela|brn
+|move|p1a: Celesteela|Heavy Slam|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|231/403 tox
+|
+|-heal|p1a: Celesteela|293/397 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|156/403 tox|[from] psn
+|-damage|p1a: Celesteela|269/397 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1653077810
+|move|p2a: Swampert|Rest|p2a: Swampert
+|-status|p2a: Swampert|slp|[from] move: Rest
+|-heal|p2a: Swampert|403/403 slp|[silent]
+|move|p1a: Celesteela|Leech Seed|p2a: Swampert
+|-start|p2a: Swampert|move: Leech Seed
+|
+|-heal|p1a: Celesteela|293/397 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|353/403 slp|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|343/397 brn|[silent]
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|Ox the Fox has 150 seconds left.
+|inactive|Ox the Fox has 120 seconds left.
+|
+|t:|1653077872
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|226/301 tox
+|switch|p1a: Tyranitar|Tyranitar, M|341/341
+|-damage|p1a: Tyranitar|299/341|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|208/301 tox|[from] Sandstorm
+|-damage|p2a: Tornadus|190/301 tox|[from] psn
+|upkeep
+|turn|19
+|inactive|Ox the Fox has 120 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653077904
+|move|p2a: Tornadus|Superpower|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|3/341
+|-unboost|p2a: Tornadus|atk|1
+|-unboost|p2a: Tornadus|def|1
+|move|p1a: Tyranitar|Pursuit|p2a: Tornadus
+|-damage|p2a: Tornadus|69/301 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|51/301 tox|[from] Sandstorm
+|-damage|p2a: Tornadus|15/301 tox|[from] psn
+|upkeep
+|turn|20
+|inactive|Empo has 120 seconds left.
+|inactive|Ox the Fox has 90 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653078001
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Stealth Rock
+|-zpower|p2a: Tornadus
+|move|p2a: Tornadus|Supersonic Skystrike|p1a: Toxapex|[zeffect]
+|-damage|p1a: Toxapex|113/303
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|0 fnt|[from] Sandstorm
+|-damage|p1a: Toxapex|95/303|[from] Sandstorm
+|faint|p2a: Tornadus
+|-heal|p1a: Toxapex|113/303|[from] item: Black Sludge
+|upkeep
+|
+|t:|1653078009
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|363/424 psn
+|turn|21
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|Ox the Fox has 30 seconds left.
+|
+|t:|1653078049
+|switch|p1a: Latias|Latias, F|363/363
+|-damage|p1a: Latias|318/363|[from] Stealth Rock
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|296/363|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1653078058
+|switch|p2a: Pose|Chansey, F, shiny|703/703
+|-status|p2a: Pose|psn
+|detailschange|p1a: Latias|Latias-Mega, F
+|-mega|p1a: Latias|Latias|Latiasite
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|-weather|none
+|-damage|p2a: Pose|616/703 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1653078064
+|switch|p1a: Excadrill|Excadrill, F|361/361
+|-damage|p1a: Excadrill|350/361|[from] Stealth Rock
+|move|p2a: Pose|Seismic Toss|p1a: Excadrill
+|-damage|p1a: Excadrill|250/361
+|
+|-heal|p1a: Excadrill|272/361|[from] item: Leftovers
+|-damage|p2a: Pose|529/703 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1653078067
+|-curestatus|p2a: Pose|psn|[from] ability: Natural Cure
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|move|p1a: Excadrill|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|327/334
+|-damage|p1a: Excadrill|212/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-sideend|p1: Ox the Fox|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|234/361|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1653078080
+|switch|p1a: Toxapex|Toxapex, M|214/303
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Toxapex|232/303|[from] item: Black Sludge
+|upkeep
+|turn|26
+|
+|t:|1653078094
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|363/424 psn
+|move|p1a: Toxapex|Toxic Spikes|p2a: Reuniclus
+|-sidestart|p2: Empo|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|250/303|[from] item: Black Sludge
+|upkeep
+|turn|27
+|
+|t:|1653078098
+|switch|p1a: Latias|Latias-Mega, F|296/363
+|move|p2a: Reuniclus|Thunder|p1a: Latias|[miss]
+|-miss|p2a: Reuniclus|p1a: Latias
+|
+|upkeep
+|turn|28
+|
+|t:|1653078112
+|switch|p2a: Pose|Chansey, F, shiny|529/703
+|-status|p2a: Pose|tox
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|-damage|p2a: Pose|486/703 tox|[from] psn
+|upkeep
+|turn|29
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653078144
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Spikes
+|move|p2a: Pose|Heal Bell|p2a: Pose
+|-activate|p2a: Pose|move: Heal Bell
+|-curestatus|p2a: Pose|tox|[msg]
+|-curestatus|p2: Reuniclus|psn|[msg]
+|-curestatus|p2: Swampert|slp|[msg]
+|
+|-heal|p1a: Toxapex|284/303|[from] item: Black Sludge
+|upkeep
+|turn|30
+|
+|t:|1653078154
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|353/403
+|-status|p2a: Swampert|tox
+|switch|p1a: Landorus|Landorus-Therian, M|257/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|
+|-damage|p2a: Swampert|328/403 tox|[from] psn
+|upkeep
+|turn|31
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653078183
+|switch|p2a: Skarmory|Skarmory, M, shiny|327/334
+|-zpower|p1a: Landorus
+|move|p1a: Landorus|Supersonic Skystrike|p2a: Skarmory|[zeffect]
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|236/334
+|
+|upkeep
+|turn|32
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653078190
+|move|p1a: Landorus|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Landorus
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|upkeep
+|turn|33
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653078201
+|switch|p1a: Celesteela|Celesteela|319/397 brn
+|move|p2a: Skarmory|Spikes|p1a: Celesteela
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|34
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653078226
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|363/424
+|-status|p2a: Reuniclus|tox
+|switch|p1a: Latias|Latias-Mega, F|296/363
+|
+|upkeep
+|turn|35
+|
+|t:|1653078234
+|switch|p2a: Skarmory|Skarmory, M, shiny|236/334
+|-damage|p2a: Skarmory|195/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|36
+|
+|t:|1653078247
+|move|p1a: Latias|Reflect Type|p2a: Skarmory
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Landorus|Landorus-Therian, M|257/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Skarmory|atk|1
+|
+|upkeep
+|turn|37
+|
+|t:|1653078253
+|switch|p1a: Celesteela|Celesteela|319/397 brn
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1653078257
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|363/424 tox
+|switch|p1a: Latias|Latias-Mega, F|296/363
+|
+|upkeep
+|turn|39
+|
+|t:|1653078284
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|-damage|p2a: Skarmory|293/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|40
+|inactive|Ox the Fox has 90 seconds left.
+|
+|t:|1653078303
+|move|p1a: Latias|Reflect Type|p2a: Skarmory
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Celesteela|Celesteela|319/397 brn
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1653078309
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|363/424 tox
+|move|p1a: Celesteela|Flamethrower|p2a: Reuniclus
+|-damage|p2a: Reuniclus|270/424 tox
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1653078326
+|switch|p1a: Latias|Latias-Mega, F|296/363
+|move|p2a: Reuniclus|Thunder|p1a: Latias
+|-resisted|p1a: Latias
+|-crit|p1a: Latias
+|-damage|p1a: Latias|243/363
+|
+|upkeep
+|turn|43
+|
+|t:|1653078330
+|switch|p2a: Skarmory|Skarmory, M, shiny|293/334
+|-damage|p2a: Skarmory|252/334|[from] Stealth Rock
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|363/363
+|-singleturn|p1a: Latias|move: Roost
+|
+|upkeep
+|turn|44
+|
+|t:|1653078337
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|228/303|[from] Spikes
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Toxapex|246/303|[from] item: Black Sludge
+|upkeep
+|turn|45
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653078343
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|328/403 tox
+|-damage|p2a: Swampert|303/403 tox|[from] Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Swampert
+|-damage|p2a: Swampert|258/403 tox
+|
+|-heal|p1a: Toxapex|264/303|[from] item: Black Sludge
+|-damage|p2a: Swampert|233/403 tox|[from] psn
+|upkeep
+|turn|46
+|inactive|Ox the Fox has 120 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653078363
+|move|p2a: Swampert|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Swampert
+|-damage|p2a: Swampert|188/403 tox
+|
+|-heal|p1a: Toxapex|282/303|[from] item: Black Sludge
+|-damage|p2a: Swampert|138/403 tox|[from] psn
+|upkeep
+|turn|47
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653078386
+|move|p2a: Swampert|Rest|p2a: Swampert
+|-status|p2a: Swampert|slp|[from] move: Rest
+|-heal|p2a: Swampert|403/403 slp|[silent]
+|move|p1a: Toxapex|Scald|p2a: Swampert
+|-damage|p2a: Swampert|364/403 slp
+|
+|-heal|p1a: Toxapex|300/303|[from] item: Black Sludge
+|upkeep
+|turn|48
+|inactive|Ox the Fox has 90 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653078432
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|-damage|p2a: Skarmory|293/334|[from] Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|223/334
+|
+|-heal|p1a: Toxapex|303/303|[from] item: Black Sludge
+|upkeep
+|turn|49
+|inactive|Empo has 90 seconds left.
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653078468
+|switch|p1a: Excadrill|Excadrill, F|234/361
+|-damage|p1a: Excadrill|144/361|[from] Spikes
+|-damage|p1a: Excadrill|133/361|[from] Stealth Rock
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Excadrill|155/361|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1653078476
+|move|p1a: Excadrill|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|327/334
+|-damage|p1a: Excadrill|95/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-sideend|p1: Ox the Fox|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-sideend|p1: Ox the Fox|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Skarmory|Spikes|p1a: Excadrill
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Excadrill|117/361|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1653078481
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Spikes
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Toxapex|284/303|[from] item: Black Sludge
+|upkeep
+|turn|52
+|
+|t:|1653078485
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|Spikes
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|249/334
+|-status|p2a: Skarmory|brn
+|
+|-heal|p1a: Toxapex|302/303|[from] item: Black Sludge
+|-damage|p2a: Skarmory|229/334 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1653078489
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334 brn
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|256/334 brn
+|
+|-heal|p1a: Toxapex|303/303|[from] item: Black Sludge
+|-damage|p2a: Skarmory|236/334 brn|[from] brn
+|upkeep
+|turn|54
+|
+|t:|1653078492
+|switch|p2a: Pose|Chansey, F, shiny|486/703
+|-damage|p2a: Pose|399/703|[from] Stealth Rock
+|-status|p2a: Pose|tox
+|move|p1a: Toxapex|Scald|p2a: Pose
+|-damage|p2a: Pose|365/703 tox
+|
+|-damage|p2a: Pose|322/703 tox|[from] psn
+|upkeep
+|turn|55
+|
+|t:|1653078498
+|switch|p1a: Landorus|Landorus-Therian, M|257/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Pose|atk|1
+|move|p2a: Pose|Soft-Boiled|p2a: Pose
+|-heal|p2a: Pose|674/703 tox
+|
+|-damage|p2a: Pose|588/703 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1653078502
+|move|p1a: Landorus|Swords Dance|p1a: Landorus
+|-boost|p1a: Landorus|atk|2
+|move|p2a: Pose|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-damage|p1a: Landorus|234/381 tox|[from] psn
+|-damage|p2a: Pose|459/703 tox|[from] psn
+|upkeep
+|turn|57
+|
+|t:|1653078522
+|switch|p1a: Celesteela|Celesteela|319/397 brn
+|-curestatus|p2a: Pose|tox|[from] ability: Natural Cure
+|switch|p2a: Skarmory|Skarmory, M, shiny|236/334 brn
+|-damage|p2a: Skarmory|195/334 brn|[from] Stealth Rock
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p2a: Skarmory|175/334 brn|[from] brn
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|58
+|inactive|Ox the Fox has 90 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653078582
+|switch|p2a: Pose|Chansey, F, shiny|459/703
+|-status|p2a: Pose|tox
+|-damage|p2a: Pose|372/703 tox|[from] Stealth Rock
+|move|p1a: Celesteela|Flamethrower|p2a: Pose
+|-damage|p2a: Pose|325/703 tox
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p2a: Pose|282/703 tox|[from] psn
+|-damage|p1a: Celesteela|319/397 brn|[from] brn
+|upkeep
+|turn|59
+|
+|t:|1653078599
+|move|p1a: Celesteela|Leech Seed|p2a: Pose
+|-start|p2a: Pose|move: Leech Seed
+|move|p2a: Pose|Soft-Boiled|p2a: Pose
+|-heal|p2a: Pose|634/703 tox
+|
+|-heal|p1a: Celesteela|343/397 brn|[from] item: Leftovers
+|-damage|p2a: Pose|547/703 tox|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|397/397 brn|[silent]
+|-damage|p2a: Pose|461/703 tox|[from] psn
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|60
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653078621
+|move|p1a: Celesteela|Heavy Slam|p2a: Pose
+|-damage|p2a: Pose|363/703 tox
+|move|p2a: Pose|Heal Bell|p2a: Pose
+|-activate|p2a: Pose|move: Heal Bell
+|-curestatus|p2a: Pose|tox|[msg]
+|-curestatus|p2: Reuniclus|tox|[msg]
+|-curestatus|p2: Skarmory|brn|[msg]
+|-curestatus|p2: Swampert|slp|[msg]
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p2a: Pose|276/703|[from] Leech Seed|[of] p1a: Celesteela
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1653078625
+|switch|p1a: Excadrill|Excadrill, F|117/361
+|-damage|p1a: Excadrill|27/361|[from] Spikes
+|move|p2a: Pose|Soft-Boiled|p2a: Pose
+|-heal|p2a: Pose|628/703
+|
+|-heal|p1a: Excadrill|49/361|[from] item: Leftovers
+|-damage|p2a: Pose|541/703|[from] Leech Seed|[of] p1a: Excadrill
+|-heal|p1a: Excadrill|136/361|[silent]
+|upkeep
+|turn|62
+|
+|t:|1653078631
+|switch|p2a: Skarmory|Skarmory, M, shiny|175/334
+|-damage|p2a: Skarmory|134/334|[from] Stealth Rock
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|-heal|p1a: Excadrill|158/361|[from] item: Leftovers
+|upkeep
+|turn|63
+|c|☆Ox the Fox|craig moment?
+|inactive|Ox the Fox has 30 seconds left.
+|inactive|Ox the Fox has 20 seconds left.
+|
+|t:|1653078675
+|move|p1a: Excadrill|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|38/334
+|-damage|p1a: Excadrill|98/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|205/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Excadrill|120/361|[from] item: Leftovers
+|upkeep
+|turn|64
+|inactive|Ox the Fox has 30 seconds left this turn.
+|inactive|Ox the Fox has 20 seconds left.
+|inactive|Ox the Fox has 15 seconds left.
+|
+|t:|1653078691
+|move|p1a: Excadrill|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|190/334
+|-damage|p1a: Excadrill|60/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-sideend|p1: Ox the Fox|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Excadrill|82/361|[from] item: Leftovers
+|upkeep
+|turn|65
+|inactive|Ox the Fox has 25 seconds left this turn.
+|
+|t:|1653078695
+|switch|p1a: Celesteela|Celesteela|373/397 brn
+|move|p2a: Skarmory|Spikes|p1a: Celesteela
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|66
+|inactive|Ox the Fox has 30 seconds left.
+|
+|t:|1653078700
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|270/424
+|-status|p2a: Reuniclus|tox
+|move|p1a: Celesteela|Leech Seed|p2a: Reuniclus
+|-start|p2a: Reuniclus|move: Leech Seed
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1653078710
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|424/424 tox
+|
+|upkeep
+|turn|68
+|
+|t:|1653078715
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|-damage|p2a: Skarmory|293/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|69
+|
+|t:|1653078719
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skarmory|Spikes|p1a: Latias
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|upkeep
+|turn|70
+|
+|t:|1653078722
+|move|p1a: Latias|Stored Power|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|86/334
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|253/303|[from] Spikes
+|
+|-heal|p1a: Toxapex|271/303|[from] item: Black Sludge
+|upkeep
+|turn|71
+|c|☆Ox the Fox|not him
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653078734
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|253/334
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|172/334
+|
+|-heal|p1a: Toxapex|289/303|[from] item: Black Sludge
+|upkeep
+|turn|72
+|
+|t:|1653078737
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Ox the Fox|Spikes
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|97/334
+|
+|-heal|p1a: Toxapex|303/303|[from] item: Black Sludge
+|upkeep
+|turn|73
+|
+|t:|1653078743
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|264/334
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|192/334
+|
+|upkeep
+|turn|74
+|
+|t:|1653078747
+|switch|p2a: Pose|Chansey, F, shiny|541/703
+|-damage|p2a: Pose|454/703|[from] Stealth Rock
+|-status|p2a: Pose|tox
+|move|p1a: Toxapex|Scald|p2a: Pose
+|-damage|p2a: Pose|414/703 tox
+|
+|-damage|p2a: Pose|371/703 tox|[from] psn
+|upkeep
+|turn|75
+|inactive|Ox the Fox has 90 seconds left.
+|
+|t:|1653078754
+|switch|p1a: Celesteela|Celesteela|373/397 brn
+|move|p2a: Pose|Soft-Boiled|p2a: Pose
+|-heal|p2a: Pose|703/703 tox
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p2a: Pose|617/703 tox|[from] psn
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|76
+|
+|t:|1653078760
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|-curestatus|p2a: Pose|tox|[from] ability: Natural Cure
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|364/403
+|-status|p2a: Swampert|tox
+|-damage|p2a: Swampert|339/403 tox|[from] Stealth Rock
+|
+|-damage|p2a: Swampert|314/403 tox|[from] psn
+|upkeep
+|turn|77
+|
+|t:|1653078763
+|switch|p2a: Skarmory|Skarmory, M, shiny|192/334
+|-damage|p2a: Skarmory|151/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|78
+|
+|t:|1653078766
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Celesteela|Celesteela|373/397 brn
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|79
+|
+|t:|1653078771
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|314/403 tox
+|-damage|p2a: Swampert|289/403 tox|[from] Stealth Rock
+|move|p1a: Celesteela|Flamethrower|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|264/403 tox
+|
+|-heal|p1a: Celesteela|397/397 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|239/403 tox|[from] psn
+|-damage|p1a: Celesteela|373/397 brn|[from] brn
+|upkeep
+|turn|80
+|
+|t:|1653078775
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|move|p2a: Swampert|Stealth Rock|p1a: Latias
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|
+|-damage|p2a: Swampert|189/403 tox|[from] psn
+|upkeep
+|turn|81
+|inactive|Empo has 270 seconds left.
+|
+|t:|1653078824
+|switch|p2a: Pose|Chansey, F, shiny|617/703
+|-status|p2a: Pose|tox
+|-damage|p2a: Pose|530/703 tox|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|-damage|p2a: Pose|487/703 tox|[from] psn
+|upkeep
+|turn|82
+|
+|t:|1653078827
+|switch|p1a: Celesteela|Celesteela|373/397 brn
+|-damage|p1a: Celesteela|324/397 brn|[from] Stealth Rock
+|move|p2a: Pose|Heal Bell|p2a: Pose
+|-activate|p2a: Pose|move: Heal Bell
+|-curestatus|p2a: Pose|tox|[msg]
+|-curestatus|p2: Reuniclus|tox|[msg]
+|-curestatus|p2: Swampert|tox|[msg]
+|
+|-heal|p1a: Celesteela|348/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|324/397 brn|[from] brn
+|upkeep
+|turn|83
+|
+|t:|1653078831
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|424/424
+|-status|p2a: Reuniclus|tox
+|move|p1a: Celesteela|Leech Seed|p2a: Reuniclus
+|-start|p2a: Reuniclus|move: Leech Seed
+|
+|-heal|p1a: Celesteela|348/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|324/397 brn|[from] brn
+|upkeep
+|turn|84
+|inactive|Ox the Fox has 150 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Ox the Fox has 120 seconds left.
+|
+|t:|1653078883
+|switch|p1a: Tyranitar|Tyranitar, M|3/341
+|-damage|p1a: Tyranitar|0 fnt|[from] Spikes
+|faint|p1a: Tyranitar
+|move|p2a: Reuniclus|Psyshock|p1: Tyranitar|[notarget]
+|-fail|p2a: Reuniclus
+|
+|upkeep
+|
+|t:|1653078885
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|-damage|p1a: Latias|318/363|[from] Stealth Rock
+|turn|85
+|
+|t:|1653078888
+|switch|p2a: Pose|Chansey, F, shiny|487/703
+|-status|p2a: Pose|tox
+|-damage|p2a: Pose|400/703 tox|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|-damage|p2a: Pose|357/703 tox|[from] psn
+|upkeep
+|turn|86
+|inactive|Ox the Fox has 120 seconds left.
+|
+|t:|1653078920
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|228/303|[from] Spikes
+|-damage|p1a: Toxapex|191/303|[from] Stealth Rock
+|move|p2a: Pose|Soft-Boiled|p2a: Pose
+|-heal|p2a: Pose|703/703 tox
+|
+|-heal|p1a: Toxapex|209/303|[from] item: Black Sludge
+|-damage|p2a: Pose|617/703 tox|[from] psn
+|upkeep
+|turn|87
+|
+|t:|1653078930
+|-curestatus|p2a: Pose|tox|[from] ability: Natural Cure
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|424/424 tox
+|switch|p1a: Celesteela|Celesteela|324/397 brn
+|-damage|p1a: Celesteela|275/397 brn|[from] Stealth Rock
+|
+|-heal|p1a: Celesteela|299/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|275/397 brn|[from] brn
+|upkeep
+|turn|88
+|
+|t:|1653078936
+|switch|p1a: Latias|Latias-Mega, F|318/363
+|-damage|p1a: Latias|273/363|[from] Stealth Rock
+|switch|p2a: Skarmory|Skarmory, M, shiny|151/334
+|-damage|p2a: Skarmory|110/334|[from] Stealth Rock
+|
+|upkeep
+|turn|89
+|
+|t:|1653078944
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|277/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|90
+|
+|t:|1653078950
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Excadrill|Excadrill, F|82/361
+|-damage|p1a: Excadrill|71/361|[from] Stealth Rock
+|-damage|p1a: Excadrill|0 fnt|[from] Spikes
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1653078959
+|switch|p1a: Latias|Latias-Mega, F|273/363
+|-damage|p1a: Latias|228/363|[from] Stealth Rock
+|turn|91
+|
+|t:|1653078963
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|363/363
+|-singleturn|p1a: Latias|move: Roost
+|move|p2a: Skarmory|Spikes||[still]
+|-fail|p2a: Skarmory
+|
+|upkeep
+|turn|92
+|
+|t:|1653078967
+|move|p1a: Latias|Reflect Type|p2a: Skarmory
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Skarmory
+|move|p2a: Skarmory|Spikes||[still]
+|-fail|p2a: Skarmory
+|
+|upkeep
+|turn|93
+|
+|t:|1653078970
+|move|p1a: Latias|Reflect Type|p2a: Skarmory
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Skarmory
+|move|p2a: Skarmory|Spikes||[still]
+|-fail|p2a: Skarmory
+|
+|upkeep
+|turn|94
+|
+|t:|1653078972
+|switch|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Stealth Rock
+|-damage|p1a: Toxapex|191/303|[from] Spikes
+|move|p2a: Skarmory|Counter||[still]
+|-fail|p2a: Skarmory
+|
+|-heal|p1a: Toxapex|209/303|[from] item: Black Sludge
+|upkeep
+|turn|95
+|
+|t:|1653078976
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|424/424 tox
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|357/424 tox
+|
+|-heal|p1a: Toxapex|227/303|[from] item: Black Sludge
+|upkeep
+|turn|96
+|
+|t:|1653078978
+|switch|p1a: Latias|Latias-Mega, F|363/363
+|-damage|p1a: Latias|318/363|[from] Stealth Rock
+|move|p2a: Reuniclus|Psyshock|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|273/363
+|
+|upkeep
+|turn|97
+|
+|t:|1653078982
+|switch|p2a: Skarmory|Skarmory, M, shiny|277/334
+|-damage|p2a: Skarmory|236/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|98
+|
+|t:|1653078985
+|move|p1a: Latias|Reflect Type|p2a: Skarmory
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Celesteela|Celesteela|275/397 brn
+|-damage|p1a: Celesteela|226/397 brn|[from] Stealth Rock
+|
+|-heal|p1a: Celesteela|250/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|226/397 brn|[from] brn
+|upkeep
+|turn|99
+|
+|t:|1653078988
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|357/424 tox
+|switch|p1a: Latias|Latias-Mega, F|273/363
+|-damage|p1a: Latias|228/363|[from] Stealth Rock
+|
+|upkeep
+|turn|100
+|
+|t:|1653078991
+|switch|p1a: Celesteela|Celesteela|226/397 brn
+|-damage|p1a: Celesteela|177/397 brn|[from] Stealth Rock
+|switch|p2a: Skarmory|Skarmory, M, shiny|236/334
+|-damage|p2a: Skarmory|195/334|[from] Stealth Rock
+|
+|-heal|p1a: Celesteela|201/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|177/397 brn|[from] brn
+|upkeep
+|turn|101
+|
+|t:|1653078993
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|357/424 tox
+|switch|p1a: Latias|Latias-Mega, F|228/363
+|-damage|p1a: Latias|183/363|[from] Stealth Rock
+|
+|upkeep
+|turn|102
+|
+|t:|1653078996
+|switch|p2a: Skarmory|Skarmory, M, shiny|195/334
+|-damage|p2a: Skarmory|154/334|[from] Stealth Rock
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|
+|upkeep
+|turn|103
+|
+|t:|1653079005
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|321/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|104
+|
+|t:|1653079010
+|move|p1a: Latias|Stored Power|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|121/334
+|move|p2a: Skarmory|Whirlwind|p1a: Latias
+|drag|p1a: Toxapex|Toxapex, M|303/303
+|-damage|p1a: Toxapex|266/303|[from] Stealth Rock
+|-damage|p1a: Toxapex|191/303|[from] Spikes
+|
+|-heal|p1a: Toxapex|209/303|[from] item: Black Sludge
+|upkeep
+|turn|105
+|
+|t:|1653079018
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|288/334
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|210/334
+|
+|-heal|p1a: Toxapex|227/303|[from] item: Black Sludge
+|upkeep
+|turn|106
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1653079081
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|357/424 tox
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|294/424 tox
+|
+|-heal|p1a: Toxapex|245/303|[from] item: Black Sludge
+|upkeep
+|turn|107
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1653079123
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|233/424 tox
+|move|p2a: Reuniclus|Psyshock|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|71/303
+|
+|-heal|p1a: Toxapex|89/303|[from] item: Black Sludge
+|upkeep
+|turn|108
+|inactive|Empo has 210 seconds left.
+|inactive|Ox the Fox has 270 seconds left.
+|
+|t:|1653079165
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|241/303
+|move|p2a: Reuniclus|Psyshock|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|89/303
+|
+|-heal|p1a: Toxapex|107/303|[from] item: Black Sludge
+|upkeep
+|turn|109
+|
+|t:|1653079168
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|259/303
+|move|p2a: Reuniclus|Thunder|p1a: Toxapex|[miss]
+|-miss|p2a: Reuniclus|p1a: Toxapex
+|
+|-heal|p1a: Toxapex|277/303|[from] item: Black Sludge
+|upkeep
+|turn|110
+|inactive|Ox the Fox has 270 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653079197
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|169/424 tox
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|381/424 tox
+|
+|-heal|p1a: Toxapex|295/303|[from] item: Black Sludge
+|upkeep
+|turn|111
+|
+|t:|1653079204
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|315/424 tox
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-heal|p1a: Toxapex|303/303|[from] item: Black Sludge
+|upkeep
+|turn|112
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653079255
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|275/424 tox
+|move|p2a: Reuniclus|Psyshock|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|45/303
+|
+|-heal|p1a: Toxapex|63/303|[from] item: Black Sludge
+|upkeep
+|turn|113
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653079280
+|move|p1a: Toxapex|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|230/424 tox
+|move|p2a: Reuniclus|Psyshock|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|
+|t:|1653079285
+|switch|p1a: Latias|Latias-Mega, F|183/363
+|-damage|p1a: Latias|138/363|[from] Stealth Rock
+|turn|114
+|
+|t:|1653079289
+|switch|p2a: Skarmory|Skarmory, M, shiny|210/334
+|-damage|p2a: Skarmory|169/334|[from] Stealth Rock
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|320/363
+|-singleturn|p1a: Latias|move: Roost
+|
+|upkeep
+|turn|115
+|
+|t:|1653079293
+|switch|p1a: Celesteela|Celesteela|177/397 brn
+|-damage|p1a: Celesteela|128/397 brn|[from] Stealth Rock
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|334/334
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Celesteela|152/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|128/397 brn|[from] brn
+|upkeep
+|turn|116
+|
+|t:|1653079296
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|230/424 tox
+|move|p1a: Celesteela|Flamethrower|p2a: Reuniclus
+|-damage|p2a: Reuniclus|143/424 tox
+|
+|-heal|p1a: Celesteela|152/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|128/397 brn|[from] brn
+|upkeep
+|turn|117
+|
+|t:|1653079300
+|switch|p1a: Landorus|Landorus-Therian, M|234/381 tox
+|-damage|p1a: Landorus|187/381 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Reuniclus|atk|1
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|355/424 tox
+|
+|-damage|p1a: Landorus|164/381 tox|[from] psn
+|upkeep
+|turn|118
+|
+|t:|1653079304
+|switch|p1a: Celesteela|Celesteela|128/397 brn
+|-damage|p1a: Celesteela|79/397 brn|[from] Stealth Rock
+|move|p2a: Reuniclus|Psyshock|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|31/397 brn
+|
+|-heal|p1a: Celesteela|55/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|31/397 brn|[from] brn
+|upkeep
+|turn|119
+|
+|t:|1653079310
+|move|p1a: Celesteela|Flamethrower|p2a: Reuniclus
+|-damage|p2a: Reuniclus|268/424 tox
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|424/424 tox
+|
+|-heal|p1a: Celesteela|55/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|31/397 brn|[from] brn
+|upkeep
+|turn|120
+|
+|t:|1653079312
+|move|p1a: Celesteela|Flamethrower|p2a: Reuniclus
+|-damage|p2a: Reuniclus|335/424 tox
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-heal|p1a: Celesteela|55/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|31/397 brn|[from] brn
+|upkeep
+|turn|121
+|
+|t:|1653079314
+|move|p1a: Celesteela|Flamethrower|p2a: Reuniclus
+|-damage|p2a: Reuniclus|281/424 tox
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|424/424 tox
+|
+|-heal|p1a: Celesteela|55/397 brn|[from] item: Leftovers
+|-damage|p1a: Celesteela|31/397 brn|[from] brn
+|upkeep
+|turn|122
+|
+|t:|1653079316
+|move|p1a: Celesteela|Heavy Slam|p2a: Reuniclus
+|-damage|p2a: Reuniclus|361/424 tox
+|-damage|p1a: Celesteela|0 fnt|[from] item: Rocky Helmet|[of] p2a: Reuniclus
+|faint|p1a: Celesteela
+|move|p2a: Reuniclus|Psyshock|p1: Celesteela|[notarget]
+|-fail|p2a: Reuniclus
+|
+|upkeep
+|
+|t:|1653079318
+|switch|p1a: Landorus|Landorus-Therian, M|164/381 tox
+|-damage|p1a: Landorus|117/381 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Reuniclus|atk|1
+|turn|123
+|inactive|Empo has 240 seconds left.
+|
+|t:|1653079328
+|switch|p2a: Swampert|Swampert-Mega, M, shiny|189/403
+|-status|p2a: Swampert|tox
+|-damage|p2a: Swampert|164/403 tox|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-damage|p1a: Landorus|94/381 tox|[from] psn
+|upkeep
+|
+|t:|1653079330
+|switch|p2a: Krookodile|Krookodile, M, shiny|331/331
+|-damage|p2a: Krookodile|311/331|[from] Stealth Rock
+|-status|p2a: Krookodile|tox
+|turn|124
+|
+|t:|1653079332
+|move|p2a: Krookodile|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|-damage|p2a: Krookodile|291/331 tox|[from] psn
+|upkeep
+|c|☆Empo|ggs
+|
+|t:|1653079335
+|switch|p1a: Latias|Latias-Mega, F|320/363
+|-damage|p1a: Latias|275/363|[from] Stealth Rock
+|turn|125
+|
+|t:|1653079337
+|move|p2a: Krookodile|Knock Off|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|9/363
+|move|p1a: Latias|Reflect Type|p2a: Krookodile
+|-start|p1a: Latias|typechange|[from] move: Reflect Type|[of] p2a: Krookodile
+|
+|-damage|p2a: Krookodile|251/331 tox|[from] psn
+|upkeep
+|turn|126
+|
+|t:|1653079339
+|move|p2a: Krookodile|Knock Off|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|win|Empo
+

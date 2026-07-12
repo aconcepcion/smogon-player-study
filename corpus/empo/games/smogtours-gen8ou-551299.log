@@ -1,0 +1,1590 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1616918115
+|player|p1|Empo|#empo|
+|player|p2|Lord_Enz|lucas|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Clefable, M|
+|poke|p1|Kartana|
+|poke|p1|Blacephalon|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Buzzwole|
+|poke|p2|Hydreigon, F|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|chat|+fakenagol ♕|༼ つ ◕◕ ༽つ EMPO TAKE MY ENERGY ༼ つ ◕◕ ༽つ
+|chat|☆Lord_Enz|hf
+|chat|☆Empo|hf
+|
+|t:|1616918115
+|start
+|switch|p1a: Clefable|Clefable, M|394/394
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|turn|1
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|274/303
+|-enditem|p2a: Toxapex|Focus Sash|[from] move: Knock Off|[of] p1a: Clefable
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|370/394
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|2
+|chat|☆Empo|wild
+|
+|t:|1616918115
+|move|p1a: Clefable|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|move|p2a: Toxapex|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|upkeep
+|turn|3
+|
+|t:|1616918115
+|move|p1a: Clefable|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|235/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|355/394 tox
+|
+|upkeep
+|turn|4
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|215/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|339/394 tox
+|
+|upkeep
+|turn|5
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|195/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|323/394 tox
+|
+|upkeep
+|turn|6
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|174/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|308/394 tox
+|
+|upkeep
+|turn|7
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|156/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|291/394 tox
+|
+|upkeep
+|turn|8
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|138/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|277/394 tox
+|
+|upkeep
+|turn|9
+|
+|t:|1616918115
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394 tox
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|380/394 tox
+|
+|upkeep
+|turn|10
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|118/303
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|270/303
+|
+|upkeep
+|turn|11
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|250/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|365/394 tox
+|
+|upkeep
+|turn|12
+|
+|t:|1616918115
+|move|p1a: Clefable|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|213/303
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|13
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|191/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|350/394 tox
+|
+|upkeep
+|turn|14
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|172/303
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|303/303
+|
+|upkeep
+|turn|15
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|282/303
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|16
+|
+|t:|1616918115
+|move|p1a: Clefable|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|244/303
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|17
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|224/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|335/394 tox
+|
+|upkeep
+|turn|18
+|
+|t:|1616918115
+|move|p1a: Clefable|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|204/303
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|319/394 tox
+|
+|upkeep
+|turn|19
+|
+|t:|1616918115
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|20
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-damage|p2a: Corviknight|350/399|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|329/399
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|
+|-heal|p2a: Corviknight|353/399|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|-damage|p2a: Hydreigon|308/351|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|189/351
+|
+|-heal|p2a: Hydreigon|210/351|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1616918115
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1616918115
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|-damage|p2a: Toxapex|266/303|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|240/303
+|
+|t:|1616918115
+|switch|p1a: Heatran|Heatran, M|386/386
+|
+|upkeep
+|turn|24
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|-damage|p2a: Hydreigon|308/351|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|246/351
+|-activate|p2a: Hydreigon|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Hydreigon|267/351|[from] item: Leftovers
+|-damage|p2a: Hydreigon|224/351|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|25
+|
+|t:|1616918115
+|move|p2a: Hydreigon|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|122/386
+|-unboost|p1a: Heatran|spd|1
+|move|p1a: Heatran|Toxic|p2a: Hydreigon|[miss]
+|-miss|p1a: Heatran|p2a: Hydreigon
+|
+|-heal|p2a: Hydreigon|245/351|[from] item: Leftovers
+|-heal|p1a: Heatran|146/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|202/351|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1616918115
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|-end|p2a: Hydreigon|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|27
+|
+|t:|1616918115
+|move|p2a: Hydreigon|Roost||[still]
+|-fail|p2a: Hydreigon|heal
+|move|p1a: Landorus|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|153/351
+|
+|t:|1616918115
+|switch|p1a: Kartana|Kartana|259/259
+|
+|-heal|p2a: Hydreigon|174/351|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|-damage|p2a: Toxapex|266/303|[from] Stealth Rock
+|
+|upkeep
+|turn|29
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|319/394 tox
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|303/394 tox
+|
+|upkeep
+|turn|30
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|353/399
+|-damage|p2a: Corviknight|304/399|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|253/399
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Clefable
+|
+|upkeep
+|turn|31
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|32
+|
+|t:|1616918115
+|switch|p2a: Landorus|Landorus-Therian, M|373/373
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blacephalon|atk|1
+|move|p1a: Blacephalon|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|60/373
+|
+|-heal|p2a: Landorus|83/373|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1616918115
+|move|p1a: Blacephalon|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|174/351
+|turn|34
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|303/394 tox
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|350/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|-heal|p2a: Hydreigon|351/351|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|253/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|36
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|37
+|
+|t:|1616918115
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|move|p1a: Blacephalon|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|98/303
+|
+|upkeep
+|turn|38
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|243/351
+|
+|-heal|p2a: Hydreigon|264/351|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|303/394 tox
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|40
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|253/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|41
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|42
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|238/351
+|
+|-heal|p2a: Hydreigon|259/351|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|303/394 tox
+|move|p2a: Hydreigon|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|214/394 tox
+|-unboost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Hydreigon|280/351|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|253/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394 tox
+|
+|upkeep
+|turn|45
+|
+|t:|1616918115
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|399/399
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|46
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|47
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|280/351
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|160/351
+|
+|-heal|p2a: Hydreigon|181/351|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|394/394 tox
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|49
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|50
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|51
+|
+|t:|1616918115
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Blacephalon|Flamethrower|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|228/351
+|
+|-heal|p2a: Hydreigon|249/351|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1616918115
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|53
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|54
+|
+|t:|1616918115
+|move|p1a: Landorus|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|356/381
+|
+|t:|1616918115
+|switch|p2a: Toxapex|Toxapex, F, shiny|199/303
+|
+|upkeep
+|turn|55
+|
+|t:|1616918115
+|switch|p2a: Buzzwole|Buzzwole, shiny|417/417
+|move|p1a: Landorus|U-turn|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|387/417
+|
+|t:|1616918115
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|
+|-heal|p2a: Buzzwole|413/417|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1616918115
+|switch|p2a: Toxapex|Toxapex, F, shiny|300/303
+|move|p1a: Blacephalon|Trick|p2a: Toxapex
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Toxapex
+|-item|p2a: Toxapex|Choice Specs|[from] move: Trick
+|-enditem|p1a: Blacephalon|Choice Specs|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|57
+|
+|t:|1616918115
+|switch|p1a: Clefable|Clefable, M|394/394 tox
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|378/394 tox
+|
+|upkeep
+|turn|58
+|
+|t:|1616918115
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|59
+|player|p1|Player 1|#empo|
+|player|p2|Player 2|lucas|
+|html|<div class="broadcast broadcast-blue"><strong>This is an imported replay</strong><br />Players will need to be manually added with <code>/addplayer</code> or <code>/restoreplayers</code></div>
+|inactive|Empo has 270 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|inactiveoff|Battle timer is now OFF.
+|player|p1|Empo|#empo
+|c|★phiwings99|/log Empo was added to the battle as Player 1 by phiwings99.
+|player|p2|Lord_Enz|lucas
+|c|★phiwings99|/log Lord_Enz was added to the battle as Player 2 by phiwings99.
+|player|p1|Empo|#empo|
+|player|p2|Lord_Enz|lucas|
+|c|★phiwings99|you guys good?
+|c|+Enzonana|EMPO
+|c|+sp ACE FORCE mEEPS|SPACE FORCE meeps
+|c|+Nelson|kek
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|y
+|c|★phiwings99|PHEW
+|
+|t:|1616918250
+|switch|p1a: Heatran|Heatran, M|146/386
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Heatran|170/386|[from] item: Leftovers
+|upkeep
+|turn|60
+|c|☆Lord_Enz|yup
+|c|☆Empo|timer on?
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by phiwings99)
+|
+|t:|1616918268
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|161/386
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918275
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Heatran|Toxic|p2a: Hydreigon|[miss]
+|-miss|p1a: Heatran|p2a: Hydreigon
+|
+|-heal|p1a: Heatran|185/386|[from] item: Leftovers
+|upkeep
+|turn|61
+|inactive|Lord_Enz has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918294
+|switch|p1a: Clefable|Clefable, M|378/394 tox
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|62
+|
+|t:|1616918303
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|345/399
+|
+|upkeep
+|turn|63
+|
+|t:|1616918315
+|move|p2a: Corviknight|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|222/394 tox
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|64
+|
+|t:|1616918325
+|move|p2a: Corviknight|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|66/394 tox
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|263/394 tox
+|
+|upkeep
+|turn|65
+|
+|t:|1616918337
+|switch|p1a: Heatran|Heatran, M|185/386
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Heatran|209/386|[from] item: Leftovers
+|upkeep
+|turn|66
+|
+|t:|1616918345
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|198/386
+|
+|t:|1616918350
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Heatran|Toxic|p2a: Hydreigon
+|-status|p2a: Hydreigon|tox
+|
+|-heal|p1a: Heatran|222/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|330/351 tox|[from] psn
+|upkeep
+|turn|67
+|
+|t:|1616918369
+|switch|p1a: Clefable|Clefable, M|263/394 tox
+|move|p2a: Hydreigon|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|170/394 tox
+|
+|-heal|p2a: Hydreigon|351/351 tox|[from] item: Leftovers
+|-damage|p2a: Hydreigon|309/351 tox|[from] psn
+|upkeep
+|turn|68
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918396
+|switch|p2a: Corviknight|Corviknight, F, shiny|345/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|367/394 tox
+|
+|upkeep
+|turn|69
+|
+|t:|1616918410
+|switch|p1a: Heatran|Heatran, M|222/386
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|211/386
+|
+|t:|1616918417
+|switch|p2a: Buzzwole|Buzzwole, shiny|413/417
+|
+|-heal|p2a: Buzzwole|417/417|[from] item: Leftovers
+|-heal|p1a: Heatran|235/386|[from] item: Leftovers
+|upkeep
+|turn|70
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918442
+|switch|p1a: Clefable|Clefable, M|367/394 tox
+|move|p2a: Buzzwole|Toxic|p1a: Clefable
+|-fail|p1a: Clefable|tox
+|
+|upkeep
+|turn|71
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918455
+|switch|p2a: Corviknight|Corviknight, F, shiny|345/399
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|
+|upkeep
+|turn|72
+|
+|t:|1616918468
+|switch|p2a: Clefable|Clefable, M|394/394
+|move|p1a: Blacephalon|Trick|p2a: Clefable
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Clefable
+|-enditem|p2a: Clefable|Leftovers|[silent]|[from] move: Trick
+|-item|p1a: Blacephalon|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|73
+|
+|t:|1616918483
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|216/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|74
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918533
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|75
+|
+|t:|1616918558
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|216/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|76
+|
+|t:|1616918571
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Shadow Ball|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|77
+|
+|t:|1616918583
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|228/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|78
+|
+|t:|1616918590
+|move|p1a: Blacephalon|Overheat|p2a: Clefable|[miss]
+|-miss|p1a: Blacephalon|p2a: Clefable
+|move|p2a: Clefable|Heal Bell|p2a: Clefable
+|-activate|p2a: Clefable|move: Heal Bell
+|-curestatus|p2: Hydreigon|tox|[msg]
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|79
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616918638
+|switch|p1a: Heatran|Heatran, M|235/386
+|switch|p2a: Hydreigon|Hydreigon, F|309/351
+|
+|-heal|p2a: Hydreigon|330/351|[from] item: Leftovers
+|-heal|p1a: Heatran|259/386|[from] item: Leftovers
+|upkeep
+|turn|80
+|
+|t:|1616918650
+|switch|p1a: Clefable|Clefable, M|367/394 tox
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|310/394 tox
+|
+|-heal|p2a: Hydreigon|351/351|[from] item: Leftovers
+|upkeep
+|turn|81
+|
+|t:|1616918660
+|switch|p2a: Corviknight|Corviknight, F, shiny|345/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|82
+|
+|t:|1616918670
+|switch|p1a: Heatran|Heatran, M|259/386
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Heatran|283/386|[from] item: Leftovers
+|upkeep
+|turn|83
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616918715
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|272/386
+|
+|t:|1616918719
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Heatran|Toxic|p2a: Hydreigon|[miss]
+|-miss|p1a: Heatran|p2a: Hydreigon
+|
+|-heal|p1a: Heatran|296/386|[from] item: Leftovers
+|upkeep
+|turn|84
+|
+|t:|1616918731
+|switch|p1a: Clefable|Clefable, M|310/394 tox
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|85
+|
+|t:|1616918743
+|switch|p2a: Corviknight|Corviknight, F, shiny|345/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394 tox
+|
+|upkeep
+|turn|86
+|
+|t:|1616918760
+|move|p2a: Corviknight|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|238/394 tox
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|87
+|
+|t:|1616918767
+|switch|p1a: Heatran|Heatran, M|296/386
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Heatran|320/386|[from] item: Leftovers
+|upkeep
+|turn|88
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918797
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|399/399
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Heatran|344/386|[from] item: Leftovers
+|upkeep
+|turn|89
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918809
+|move|p2a: Corviknight|Iron Head|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|326/386
+|move|p1a: Heatran|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Heatran|350/386|[from] item: Leftovers
+|upkeep
+|turn|90
+|
+|t:|1616918819
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|340/386
+|
+|t:|1616918825
+|switch|p2a: Hydreigon|Hydreigon, F|351/351
+|move|p1a: Heatran|Magma Storm|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|285/351
+|-activate|p2a: Hydreigon|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Hydreigon|306/351|[from] item: Leftovers
+|-heal|p1a: Heatran|364/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|263/351|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|91
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918849
+|switch|p1a: Clefable|Clefable, M|238/394 tox
+|move|p2a: Hydreigon|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|152/394 tox
+|
+|-heal|p2a: Hydreigon|284/351|[from] item: Leftovers
+|-end|p2a: Hydreigon|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|92
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918860
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|349/394 tox
+|
+|upkeep
+|turn|93
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918870
+|switch|p1a: Heatran|Heatran, M|364/386
+|move|p2a: Corviknight|Iron Head|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|348/386
+|
+|-heal|p1a: Heatran|372/386|[from] item: Leftovers
+|upkeep
+|turn|94
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616918881
+|move|p2a: Corviknight|Iron Head|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|354/386
+|cant|p1a: Heatran|flinch
+|
+|-heal|p1a: Heatran|378/386|[from] item: Leftovers
+|upkeep
+|turn|95
+|
+|t:|1616918888
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|368/386
+|
+|t:|1616918893
+|switch|p2a: Hydreigon|Hydreigon, F|284/351
+|move|p1a: Heatran|Magma Storm|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|216/351
+|-activate|p2a: Hydreigon|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Hydreigon|237/351|[from] item: Leftovers
+|-heal|p1a: Heatran|386/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|194/351|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|96
+|
+|t:|1616918905
+|move|p2a: Hydreigon|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|130/386
+|move|p1a: Heatran|Toxic|p2a: Hydreigon|[miss]
+|-miss|p1a: Heatran|p2a: Hydreigon
+|
+|-heal|p2a: Hydreigon|215/351|[from] item: Leftovers
+|-heal|p1a: Heatran|154/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|172/351|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|97
+|
+|t:|1616918930
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|348/351
+|-singleturn|p2a: Hydreigon|move: Roost
+|move|p1a: Heatran|Toxic|p2a: Hydreigon
+|-status|p2a: Hydreigon|tox
+|
+|-heal|p2a: Hydreigon|351/351 tox|[from] item: Leftovers
+|-heal|p1a: Heatran|178/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|330/351 tox|[from] psn
+|-damage|p2a: Hydreigon|287/351 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|98
+|
+|t:|1616918948
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Hydreigon|Earth Power|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p2a: Hydreigon|308/351 tox|[from] item: Leftovers
+|-heal|p1a: Heatran|202/386|[from] item: Leftovers
+|-damage|p2a: Hydreigon|266/351 tox|[from] psn
+|-damage|p2a: Hydreigon|223/351 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|99
+|
+|t:|1616918954
+|switch|p1a: Landorus|Landorus-Therian, M|356/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|351/351 tox
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|-damage|p2a: Hydreigon|288/351 tox|[from] psn
+|-end|p2a: Hydreigon|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|100
+|
+|t:|1616918962
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|379/399
+|
+|t:|1616918968
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|
+|upkeep
+|turn|101
+|
+|t:|1616918987
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|move|p1a: Blacephalon|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|177/303
+|
+|upkeep
+|turn|102
+|
+|t:|1616919004
+|switch|p1a: Clefable|Clefable, M|349/394 tox
+|switch|p2a: Clefable|Clefable, M|394/394
+|
+|upkeep
+|turn|103
+|
+|t:|1616919019
+|move|p1a: Clefable|Stealth Rock|p2a: Clefable
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|move|p2a: Clefable|Heal Bell|p2a: Clefable
+|-activate|p2a: Clefable|move: Heal Bell
+|-curestatus|p2: Hydreigon|tox|[msg]
+|
+|upkeep
+|turn|104
+|
+|t:|1616919027
+|switch|p1a: Heatran|Heatran, M|202/386
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Heatran|226/386|[from] item: Leftovers
+|upkeep
+|turn|105
+|
+|t:|1616919044
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Heatran|Magma Storm|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p1a: Heatran|250/386|[from] item: Leftovers
+|upkeep
+|turn|106
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616919071
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|switch|p2a: Hydreigon|Hydreigon, F|288/351
+|-damage|p2a: Hydreigon|245/351|[from] Stealth Rock
+|
+|-heal|p2a: Hydreigon|266/351|[from] item: Leftovers
+|upkeep
+|turn|107
+|
+|t:|1616919077
+|switch|p1a: Landorus|Landorus-Therian, M|356/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|switch|p2a: Corviknight|Corviknight, F, shiny|379/399
+|-damage|p2a: Corviknight|330/399|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|108
+|
+|t:|1616919080
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|307/399
+|
+|t:|1616919083
+|switch|p1a: Heatran|Heatran, M|250/386
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Heatran|274/386|[from] item: Leftovers
+|upkeep
+|turn|109
+|
+|t:|1616919086
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|399/399
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Heatran|298/386|[from] item: Leftovers
+|upkeep
+|turn|110
+|
+|t:|1616919103
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Corviknight|Defog|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|322/386|[from] item: Leftovers
+|upkeep
+|turn|111
+|
+|t:|1616919112
+|switch|p2a: Hydreigon|Hydreigon, F|266/351
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|
+|-heal|p2a: Hydreigon|287/351|[from] item: Leftovers
+|upkeep
+|turn|112
+|
+|t:|1616919121
+|switch|p1a: Clefable|Clefable, M|349/394 tox
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|-heal|p2a: Hydreigon|308/351|[from] item: Leftovers
+|upkeep
+|turn|113
+|
+|t:|1616919125
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|upkeep
+|turn|114
+|
+|t:|1616919131
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|115
+|
+|t:|1616919140
+|switch|p2a: Toxapex|Toxapex, F, shiny|278/303
+|move|p1a: Blacephalon|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|151/303
+|-unboost|p2a: Toxapex|spd|1
+|
+|upkeep
+|turn|116
+|
+|t:|1616919149
+|switch|p2a: Hydreigon|Hydreigon, F|308/351
+|move|p1a: Blacephalon|Flamethrower|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|229/351
+|
+|-heal|p2a: Hydreigon|250/351|[from] item: Leftovers
+|upkeep
+|turn|117
+|
+|t:|1616919161
+|switch|p1a: Landorus|Landorus-Therian, M|356/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hydreigon|atk|1
+|move|p2a: Hydreigon|Dark Pulse|p1a: Landorus
+|-damage|p1a: Landorus|215/381
+|
+|-heal|p2a: Hydreigon|271/351|[from] item: Leftovers
+|upkeep
+|turn|118
+|
+|t:|1616919167
+|switch|p2a: Corviknight|Corviknight, F, shiny|399/399
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|380/399
+|
+|t:|1616919174
+|switch|p1a: Heatran|Heatran, M|322/386
+|
+|-heal|p1a: Heatran|346/386|[from] item: Leftovers
+|upkeep
+|turn|119
+|
+|t:|1616919181
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|399/399
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Magma Storm|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|91/399
+|-activate|p2a: Corviknight|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|370/386|[from] item: Leftovers
+|-damage|p2a: Corviknight|42/399|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|120
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616919240
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|242/399
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Earth Power|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|42/399
+|
+|-heal|p1a: Heatran|386/386|[from] item: Leftovers
+|-damage|p2a: Corviknight|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p2a: Corviknight
+|upkeep
+|
+|t:|1616919258
+|switch|p2a: Hydreigon|Hydreigon, F|271/351
+|turn|121
+|
+|t:|1616919276
+|switch|p1a: Clefable|Clefable, M|349/394 tox
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|289/394 tox
+|
+|-heal|p2a: Hydreigon|292/351|[from] item: Leftovers
+|upkeep
+|turn|122
+|
+|t:|1616919284
+|switch|p2a: Toxapex|Toxapex, F, shiny|252/303
+|move|p1a: Clefable|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|213/303
+|
+|upkeep
+|turn|123
+|
+|t:|1616919294
+|switch|p2a: Hydreigon|Hydreigon, F|292/351
+|move|p1a: Clefable|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|-heal|p2a: Hydreigon|313/351|[from] item: Leftovers
+|upkeep
+|turn|124
+|
+|t:|1616919301
+|switch|p2a: Toxapex|Toxapex, F, shiny|303/303
+|-damage|p2a: Toxapex|266/303|[from] Stealth Rock
+|switch|p1a: Landorus|Landorus-Therian, M|215/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|
+|upkeep
+|turn|125
+|inactive|Empo disconnected and has 300 seconds to reconnect!
+|player|p1|
+|inactive|Empo reconnected and has 290 seconds left.
+|player|p1|Empo|#empo
+|c|☆Empo|t
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616919395
+|move|p1a: Landorus|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1616919402
+|switch|p2a: Hydreigon|Hydreigon, F|313/351
+|-damage|p2a: Hydreigon|270/351|[from] Stealth Rock
+|turn|126
+|
+|t:|1616919419
+|move|p2a: Hydreigon|Dark Pulse|p1a: Landorus
+|-damage|p1a: Landorus|79/381
+|move|p1a: Landorus|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|86/351
+|
+|t:|1616919425
+|switch|p1a: Kartana|Kartana|259/259
+|
+|-heal|p2a: Hydreigon|107/351|[from] item: Leftovers
+|upkeep
+|turn|127
+|
+|t:|1616919432
+|switch|p2a: Buzzwole|Buzzwole, shiny|417/417
+|-damage|p2a: Buzzwole|365/417|[from] Stealth Rock
+|move|p1a: Kartana|Smart Strike|p2a: Buzzwole
+|-damage|p2a: Buzzwole|262/417
+|
+|-heal|p2a: Buzzwole|288/417|[from] item: Leftovers
+|upkeep
+|turn|128
+|
+|t:|1616919442
+|switch|p1a: Clefable|Clefable, M|289/394 tox
+|move|p2a: Buzzwole|Toxic|p1a: Clefable
+|-fail|p1a: Clefable|tox
+|
+|-heal|p2a: Buzzwole|314/417|[from] item: Leftovers
+|upkeep
+|turn|129
+|
+|t:|1616919448
+|switch|p2a: Clefable|Clefable, M|394/394
+|-damage|p2a: Clefable|345/394|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|240/394
+|
+|upkeep
+|turn|130
+|
+|t:|1616919455
+|switch|p1a: Blacephalon|Blacephalon|247/247
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|131
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616919475
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|132
+|
+|t:|1616919478
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|216/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|133
+|
+|t:|1616919485
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|134
+|
+|t:|1616919496
+|move|p1a: Blacephalon|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|237/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|135
+|
+|t:|1616919505
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|136
+|
+|t:|1616919510
+|move|p1a: Blacephalon|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|229/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|137
+|
+|t:|1616919518
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|394/394|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|138
+|
+|t:|1616919527
+|move|p1a: Blacephalon|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|247/394
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|139
+|
+|t:|1616919535
+|move|p1a: Blacephalon|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|78/394
+|move|p2a: Clefable|Moonblast|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|180/247
+|-unboost|p1a: Blacephalon|spa|1
+|
+|-heal|p2a: Clefable|275/394|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Blacephalon|195/247|[from] item: Leftovers
+|upkeep
+|turn|140
+|
+|t:|1616919546
+|move|p1a: Blacephalon|Overheat|p2a: Clefable
+|-damage|p2a: Clefable|19/394
+|-unboost|p1a: Blacephalon|spa|2
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p1a: Blacephalon|210/247|[from] item: Leftovers
+|upkeep
+|turn|141
+|
+|t:|1616919560
+|switch|p1a: Kartana|Kartana|259/259
+|switch|p2a: Hydreigon|Hydreigon, F|107/351
+|-damage|p2a: Hydreigon|64/351|[from] Stealth Rock
+|
+|-heal|p2a: Hydreigon|261/351|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Hydreigon|282/351|[from] item: Leftovers
+|upkeep
+|turn|142
+|
+|t:|1616919565
+|switch|p2a: Buzzwole|Buzzwole, shiny|314/417
+|-damage|p2a: Buzzwole|262/417|[from] Stealth Rock
+|move|p1a: Kartana|Knock Off|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|210/417
+|-enditem|p2a: Buzzwole|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|143
+|
+|t:|1616919573
+|switch|p1a: Clefable|Clefable, M|289/394 tox
+|switch|p2a: Hydreigon|Hydreigon, F|282/351
+|-damage|p2a: Hydreigon|239/351|[from] Stealth Rock
+|
+|-heal|p2a: Hydreigon|260/351|[from] item: Leftovers
+|upkeep
+|turn|144
+|
+|t:|1616919576
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|232/394 tox
+|move|p1a: Clefable|Moonblast|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|c|☆Empo|ggs
+|c|☆Lord_Enz|ggs 
+|c|☆Lord_Enz|grats
+|c|☆Empo|ty
+|c|☆Lord_Enz|well deserved man
+|-message|Lord_Enz forfeited.
+|
+|win|Empo
+

@@ -1,0 +1,507 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|1 True Lycan|blackbelt-gen1|
+|player|p2|Empo|lucas|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Gyarados, F|
+|poke|p1|Aegislash, F|
+|poke|p1|Clefable, F|
+|poke|p1|Seismitoad, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, M|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆1 True Lycan|hf
+|c|☆Empo|hf
+|c|+ASKOV|EMPO
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|1 True Lycan has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: BARREN VALLEY|Dragapult, M|100/100
+|turn|1
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|100/100
+|switch|p1a: Clefable|Clefable, F|100/100
+|
+|upkeep
+|turn|2
+|
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|move|p2a: WATERFALL CAVE|Toxic Spikes|p1a: Seismitoad
+|-sidestart|p1: 1 True Lycan|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|move|p1a: Seismitoad|Stealth Rock|p2a: WATERFALL CAVE
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: WATERFALL CAVE|Toxic|p1a: Seismitoad
+|-status|p1a: Seismitoad|tox
+|
+|-damage|p1a: Seismitoad|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: WATERFALL CAVE|Toxic Spikes|p1a: Mandibuzz
+|-sidestart|p1: 1 True Lycan|move: Toxic Spikes
+|
+|upkeep
+|turn|5
+|
+|switch|p2a: NORTHERN DESERT|Tyranitar, F|100/100
+|-damage|p2a: NORTHERN DESERT|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: NORTHERN DESERT
+|move|p1a: Mandibuzz|Knock Off|p2a: NORTHERN DESERT
+|-resisted|p2a: NORTHERN DESERT
+|-damage|p2a: NORTHERN DESERT|79/100
+|-enditem|p2a: NORTHERN DESERT|Shed Shell|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Seismitoad|Seismitoad, M|94/100 tox
+|move|p2a: NORTHERN DESERT|Stealth Rock|p1a: Seismitoad
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Seismitoad|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Seismitoad|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|switch|p2a: SEALED RUIN|Corviknight, M|100/100
+|-damage|p2a: SEALED RUIN|88/100|[from] Stealth Rock
+|-ability|p2a: SEALED RUIN|Pressure
+|move|p1a: Seismitoad|Scald|p2a: SEALED RUIN
+|-damage|p2a: SEALED RUIN|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Seismitoad|100/100 tox|[from] item: Leftovers
+|-heal|p2a: SEALED RUIN|75/100|[from] item: Leftovers
+|-damage|p1a: Seismitoad|88/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: SEALED RUIN|Roost|p2a: SEALED RUIN
+|-heal|p2a: SEALED RUIN|100/100
+|-singleturn|p2a: SEALED RUIN|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|c|☆Empo|test
+|inactive|Empo disconnected and has 300 seconds to reconnect!
+|player|p2|
+|inactive|Empo reconnected and has 280 seconds left.
+|player|p2|Empo|lucas
+|inactive|Empo has 270 seconds left.
+|
+|switch|p2a: NORTHERN DESERT|Tyranitar, F|79/100
+|-damage|p2a: NORTHERN DESERT|67/100|[from] Stealth Rock
+|move|p1a: Mandibuzz|Defog|p2a: NORTHERN DESERT
+|-unboost|p2a: NORTHERN DESERT|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|-sideend|p1: 1 True Lycan|Toxic Spikes|[from] move: Defog|[of] p1a: Mandibuzz
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|-weather|none
+|upkeep
+|turn|10
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: NORTHERN DESERT|atk|1
+|move|p2a: NORTHERN DESERT|Stealth Rock|p1a: Gyarados
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: BARREN VALLEY|Dragapult, M|100/100
+|move|p1a: Gyarados|Earthquake|p2a: BARREN VALLEY
+|-damage|p2a: BARREN VALLEY|53/100
+|
+|-heal|p2a: BARREN VALLEY|59/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: BARREN VALLEY|Will-O-Wisp|p1a: Clefable
+|-status|p1a: Clefable|brn
+|
+|-heal|p2a: BARREN VALLEY|65/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|move|p2a: BARREN VALLEY|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|91/100 brn
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|100/100|[from]move: U-turn
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|brn|[msg]
+|-curestatus|p1: Seismitoad|tox|[msg]
+|
+|-heal|p1a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Seismitoad|Seismitoad, M|88/100
+|-damage|p1a: Seismitoad|82/100|[from] Stealth Rock
+|move|p2a: WATERFALL CAVE|Toxic Spikes|p1a: Seismitoad
+|-sidestart|p1: 1 True Lycan|move: Toxic Spikes
+|
+|-heal|p1a: Seismitoad|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|move|p1a: Seismitoad|Stealth Rock|p2a: WATERFALL CAVE
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: WATERFALL CAVE|Toxic|p1a: Seismitoad
+|-status|p1a: Seismitoad|tox
+|
+|-heal|p1a: Seismitoad|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Seismitoad|88/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|move|p1a: Seismitoad|Scald|p2a: WATERFALL CAVE
+|-resisted|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|90/100
+|-status|p2a: WATERFALL CAVE|brn
+|move|p2a: WATERFALL CAVE|Toxic|p1a: Seismitoad
+|-fail|p1a: Seismitoad|tox
+|
+|-heal|p1a: Seismitoad|94/100 tox|[from] item: Leftovers
+|-heal|p2a: WATERFALL CAVE|96/100 brn|[from] item: Black Sludge
+|-damage|p1a: Seismitoad|82/100 tox|[from] psn
+|-damage|p2a: WATERFALL CAVE|90/100 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|-damage|p1a: Aegislash|94/100|[from] Stealth Rock
+|move|p2a: WATERFALL CAVE|Toxic|p1a: Aegislash
+|-immune|p1a: Aegislash
+|
+|-heal|p2a: WATERFALL CAVE|96/100 brn|[from] item: Black Sludge
+|-damage|p2a: WATERFALL CAVE|90/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Claw|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|51/100 brn
+|move|p2a: WATERFALL CAVE|Scald|p1a: Aegislash
+|-damage|p1a: Aegislash|60/100
+|-status|p1a: Aegislash|brn
+|
+|-heal|p2a: WATERFALL CAVE|57/100 brn|[from] item: Black Sludge
+|-damage|p1a: Aegislash|54/100 brn|[from] brn
+|-damage|p2a: WATERFALL CAVE|51/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|-damage|p1a: Gyarados|76/100|[from] Stealth Rock
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: WATERFALL CAVE|atk|1
+|move|p2a: WATERFALL CAVE|Recover|p2a: WATERFALL CAVE
+|-heal|p2a: WATERFALL CAVE|100/100 brn
+|
+|-heal|p1a: Gyarados|82/100|[from] item: Leftovers
+|-damage|p2a: WATERFALL CAVE|95/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|switch|p2a: BARREN VALLEY|Dragapult, M|65/100
+|-damage|p2a: BARREN VALLEY|53/100|[from] Stealth Rock
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-heal|p1a: Gyarados|88/100|[from] item: Leftovers
+|-heal|p2a: BARREN VALLEY|59/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|1 True Lycan has 240 seconds left.
+|
+|switch|p2a: SEALED RUIN|Corviknight, M|100/100
+|-damage|p2a: SEALED RUIN|88/100|[from] Stealth Rock
+|-ability|p2a: SEALED RUIN|Pressure
+|move|p1a: Gyarados|Earthquake|p2a: SEALED RUIN
+|-immune|p2a: SEALED RUIN
+|
+|-heal|p1a: Gyarados|94/100|[from] item: Leftovers
+|-heal|p2a: SEALED RUIN|94/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Gyarados|Waterfall|p2a: SEALED RUIN
+|-damage|p2a: SEALED RUIN|52/100
+|cant|p2a: SEALED RUIN|flinch
+|
+|-heal|p1a: Gyarados|99/100|[from] item: Leftovers
+|-heal|p2a: SEALED RUIN|58/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|1 True Lycan has 240 seconds left.
+|
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: SEALED RUIN|U-turn|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|91/100
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|switch|p2a: NORTHERN DESERT|Tyranitar, F|67/100|[from]move: U-turn
+|-damage|p2a: NORTHERN DESERT|54/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: NORTHERN DESERT
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gyarados|84/100|[from] Sandstorm
+|-heal|p1a: Gyarados|91/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|100/100 brn
+|-damage|p2a: WATERFALL CAVE|88/100 brn|[from] Stealth Rock
+|move|p1a: Gyarados|Waterfall|p2a: WATERFALL CAVE
+|-resisted|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|62/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gyarados|84/100|[from] Sandstorm
+|-damage|p2a: WATERFALL CAVE|56/100 brn|[from] Sandstorm
+|-heal|p1a: Gyarados|91/100|[from] item: Leftovers
+|-heal|p2a: WATERFALL CAVE|62/100 brn|[from] item: Black Sludge
+|-damage|p2a: WATERFALL CAVE|56/100 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|Empo has 90 seconds left.
+|
+|switch|p2a: THE NIGHTMARE|Aegislash, M|100/100
+|-damage|p2a: THE NIGHTMARE|94/100|[from] Stealth Rock
+|move|p1a: Gyarados|Substitute|p1a: Gyarados
+|-start|p1a: Gyarados|Substitute
+|-damage|p1a: Gyarados|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gyarados|60/100|[from] Sandstorm
+|-heal|p1a: Gyarados|66/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|-formechange|p2a: THE NIGHTMARE|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: THE NIGHTMARE|Shadow Sneak|p1a: Gyarados
+|-end|p1a: Gyarados|Substitute
+|move|p1a: Gyarados|Earthquake|p2a: THE NIGHTMARE
+|-supereffective|p2a: THE NIGHTMARE
+|-damage|p2a: THE NIGHTMARE|0 fnt
+|faint|p2a: THE NIGHTMARE
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gyarados|60/100|[from] Sandstorm
+|-heal|p1a: Gyarados|66/100|[from] item: Leftovers
+|upkeep
+|c|☆Empo|gg
+|inactive|Empo has 90 seconds left.
+|
+|switch|p2a: QUICKSAND PIT|Excadrill, F|100/100
+|-damage|p2a: QUICKSAND PIT|97/100|[from] Stealth Rock
+|turn|27
+|inactive|1 True Lycan has 270 seconds left.
+|
+|switch|p1a: Seismitoad|Seismitoad, M|82/100 tox
+|-damage|p1a: Seismitoad|76/100 tox|[from] Stealth Rock
+|move|p2a: QUICKSAND PIT|Iron Head|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|63/100 tox
+|
+|-weather|none
+|-heal|p2a: QUICKSAND PIT|100/100|[from] item: Leftovers
+|-heal|p1a: Seismitoad|69/100 tox|[from] item: Leftovers
+|-damage|p1a: Seismitoad|63/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|89/100 brn
+|-damage|p2a: WATERFALL CAVE|77/100 brn|[from] Stealth Rock
+|move|p1a: Seismitoad|Scald|p2a: WATERFALL CAVE
+|-resisted|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|67/100 brn
+|
+|-heal|p1a: Seismitoad|69/100 tox|[from] item: Leftovers
+|-heal|p2a: WATERFALL CAVE|73/100 brn|[from] item: Black Sludge
+|-damage|p1a: Seismitoad|57/100 tox|[from] psn
+|-damage|p2a: WATERFALL CAVE|67/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|switch|p1a: Clefable|Clefable, F|97/100
+|-status|p1a: Clefable|psn
+|switch|p2a: QUICKSAND PIT|Excadrill, F|100/100
+|-damage|p2a: QUICKSAND PIT|97/100|[from] Stealth Rock
+|
+|-heal|p2a: QUICKSAND PIT|100/100|[from] item: Leftovers
+|-heal|p1a: Clefable|100/100 psn|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: QUICKSAND PIT|Iron Head|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|73/100
+|
+|upkeep
+|turn|31
+|
+|move|p2a: QUICKSAND PIT|Iron Head|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|43/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|93/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|32
+|inactive|Empo has 120 seconds left.
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|100/100 brn
+|-damage|p2a: WATERFALL CAVE|88/100 brn|[from] Stealth Rock
+|move|p1a: Mandibuzz|Knock Off|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|75/100 brn
+|-enditem|p2a: WATERFALL CAVE|Black Sludge|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|-damage|p2a: WATERFALL CAVE|69/100 brn|[from] brn
+|upkeep
+|turn|33
+|c|☆1 True Lycan|bit of an n word moment from me
+|
+|switch|p1a: Clefable|Clefable, F|100/100 psn
+|move|p2a: WATERFALL CAVE|Recover|p2a: WATERFALL CAVE
+|-heal|p2a: WATERFALL CAVE|100/100 brn
+|
+|-damage|p2a: WATERFALL CAVE|95/100 brn|[from] brn
+|upkeep
+|turn|34
+|c|☆Empo|u still win
+|
+|switch|p2a: QUICKSAND PIT|Excadrill, F|100/100
+|-damage|p2a: QUICKSAND PIT|97/100|[from] Stealth Rock
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|psn|[msg]
+|-curestatus|p1: Aegislash|brn|[msg]
+|-curestatus|p1: Seismitoad|tox|[msg]
+|
+|-heal|p2a: QUICKSAND PIT|100/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|switch|p1a: Mandibuzz|Mandibuzz, F|93/100
+|move|p2a: QUICKSAND PIT|Swords Dance|p2a: QUICKSAND PIT
+|-boost|p2a: QUICKSAND PIT|atk|2
+|
+|upkeep
+|turn|36
+|
+|switch|p2a: WATERFALL CAVE|Toxapex, M|100/100 brn
+|-damage|p2a: WATERFALL CAVE|88/100 brn|[from] Stealth Rock
+|move|p1a: Mandibuzz|Foul Play|p2a: WATERFALL CAVE
+|-damage|p2a: WATERFALL CAVE|77/100 brn
+|
+|-damage|p2a: WATERFALL CAVE|71/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|switch|p1a: Clefable|Clefable, F|100/100
+|-status|p1a: Clefable|psn
+|move|p2a: WATERFALL CAVE|Toxic||[still]
+|-fail|p2a: WATERFALL CAVE
+|
+|-damage|p2a: WATERFALL CAVE|66/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|switch|p2a: QUICKSAND PIT|Excadrill, F|100/100
+|-damage|p2a: QUICKSAND PIT|97/100|[from] Stealth Rock
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p2a: QUICKSAND PIT|100/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|switch|p1a: Gyarados|Gyarados, F|66/100
+|-damage|p1a: Gyarados|41/100|[from] Stealth Rock
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: QUICKSAND PIT|atk|1
+|move|p2a: QUICKSAND PIT|Rapid Spin|p1a: Gyarados
+|-damage|p1a: Gyarados|28/100
+|-sideend|p2: Empo|Stealth Rock|[from] move: Rapid Spin|[of] p2a: QUICKSAND PIT
+|-boost|p2a: QUICKSAND PIT|spe|1
+|
+|-heal|p1a: Gyarados|88/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Gyarados|94/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|inactive|Empo has 150 seconds left.
+|
+|switch|p2a: BARREN VALLEY|Dragapult, M|59/100
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-heal|p1a: Gyarados|99/100|[from] item: Leftovers
+|-heal|p2a: BARREN VALLEY|65/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|move|p1a: Gyarados|Earthquake|p2a: BARREN VALLEY
+|-damage|p2a: BARREN VALLEY|0 fnt
+|faint|p2a: BARREN VALLEY
+|
+|-heal|p1a: Gyarados|100/100|[from] item: Leftovers
+|upkeep
+|c|☆Empo|gg
+|-message|Empo forfeited.
+|
+|win|1 True Lycan

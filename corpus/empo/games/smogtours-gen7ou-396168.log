@@ -1,0 +1,347 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|aim|143
+|player|p2|Empo|1
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Diancie|item
+|poke|p1|Heatran, F|item
+|poke|p1|Weavile, F|item
+|poke|p1|Tapu Bulu|item
+|poke|p1|Zapdos|item
+|poke|p1|Zygarde|item
+|poke|p2|Charizard, F|item
+|poke|p2|Weavile, F|item
+|poke|p2|Gastrodon, F|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Ferrothorn, F|item
+|poke|p2|Tapu Koko|item
+|teampreview
+|c|+z0mOG|EMPONATOR
+|c|☆aim|hf
+|c|☆Empo|u2
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|inactive|aim has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|aim has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|start
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|switch|p2a: DREFGOLD|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: DREFGOLD
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|turn|1
+|
+|switch|p1a: Diancie|Diancie|100/100
+|move|p2a: DREFGOLD|U-turn|p1a: Diancie
+|-resisted|p1a: Diancie
+|-damage|p1a: Diancie|88/100
+|inactive|Empo has 210 seconds left.
+|
+|switch|p2a: ERNIA|Ferrothorn, F|100/100
+|
+|-heal|p1a: Diancie|94/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|inactive|Empo has 210 seconds left.
+|
+|switch|p2a: DREFGOLD|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: DREFGOLD
+|detailschange|p1a: Diancie|Diancie-Mega
+|-mega|p1a: Diancie|Diancie|Diancite
+|move|p1a: Diancie|Protect|p1a: Diancie
+|-fail|p1a: Diancie
+|
+|upkeep
+|turn|3
+|inactive|Empo has 210 seconds left.
+|inactive|aim has 240 seconds left.
+|
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|move|p2a: DREFGOLD|U-turn|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|83/100
+|
+|switch|p2a: MAMBOLOSCO|Charizard, F|100/100
+|
+|-heal|p1a: Tapu Bulu|89/100|[from] item: Leftovers
+|-heal|p1a: Tapu Bulu|95/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|Empo has 210 seconds left.
+|inactive|aim has 240 seconds left.
+|
+|switch|p1a: Diancie|Diancie-Mega|94/100
+|detailschange|p2a: MAMBOLOSCO|Charizard-Mega-Y, F
+|-mega|p2a: MAMBOLOSCO|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: MAMBOLOSCO
+|move|p2a: MAMBOLOSCO|Solar Beam|p1a: Diancie|[still]
+|-prepare|p2a: MAMBOLOSCO|Solar Beam|p1a: Diancie
+|-anim|p2a: MAMBOLOSCO|Solar Beam|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0
+|faint|p1a: Diancie
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Zygarde|Zygarde|100/100
+|-ability|p1a: Zygarde|Aura Break
+|turn|5
+|inactive|Empo has 180 seconds left.
+|
+|switch|p2a: SFERA|Landorus-Therian, M|100/100
+|-ability|p2a: SFERA|Intimidate|boost
+|-unboost|p1a: Zygarde|atk|1
+|move|p1a: Zygarde|Dragon Dance|p1a: Zygarde
+|-boost|p1a: Zygarde|atk|1
+|-boost|p1a: Zygarde|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|inactive|Empo has 180 seconds left.
+|
+|move|p1a: Zygarde|Dragon Dance|p1a: Zygarde
+|-boost|p1a: Zygarde|atk|1
+|-boost|p1a: Zygarde|spe|1
+|move|p2a: SFERA|Earthquake|p1a: Zygarde
+|-damage|p1a: Zygarde|82/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zygarde|88/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|move|p1a: Zygarde|Thousand Arrows|p2a: SFERA
+|-damage|p2a: SFERA|53/100
+|-start|p2a: SFERA|Smack Down
+|move|p2a: SFERA|Hidden Power|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|43/100
+|-enditem|p1a: Zygarde|Weakness Policy
+|-boost|p1a: Zygarde|atk|2
+|-boost|p1a: Zygarde|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Zygarde|50/100|[from] Grassy Terrain
+|-heal|p2a: SFERA|59/100|[from] item: Leftovers
+|-heal|p2a: SFERA|65/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|inactive|aim has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|switch|p2a: TEDUA|Gastrodon, F|100/100
+|move|p1a: Zygarde|Thousand Arrows|p2a: TEDUA
+|-damage|p2a: TEDUA|0
+|faint|p2a: TEDUA
+|
+|-weather|none
+|upkeep
+|
+|switch|p2a: SFERA|Landorus-Therian, M|65/100
+|-ability|p2a: SFERA|Intimidate|boost
+|-unboost|p1a: Zygarde|atk|1
+|turn|9
+|
+|move|p1a: Zygarde|Thousand Arrows|p2a: SFERA
+|-damage|p2a: SFERA|6/100
+|-start|p2a: SFERA|Smack Down
+|move|p2a: SFERA|Hidden Power|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|4/100
+|
+|-heal|p2a: SFERA|12/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Empo has 150 seconds left.
+|
+|move|p1a: Zygarde|Thousand Arrows|p2a: SFERA
+|-damage|p2a: SFERA|0
+|faint|p2a: SFERA
+|
+|upkeep
+|
+|switch|p2a: EDO FENDY|Weavile, F|100/100
+|-ability|p2a: EDO FENDY|Pressure
+|turn|11
+|
+|move|p1a: Zygarde|Extreme Speed|p2a: EDO FENDY
+|-damage|p2a: EDO FENDY|20/100
+|move|p2a: EDO FENDY|Ice Shard|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|0
+|faint|p1a: Zygarde
+|
+|upkeep
+|inactive|aim has 270 seconds left.
+|inactive|aim has 240 seconds left.
+|
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|12
+|inactive|Empo has 180 seconds left.
+|
+|switch|p2a: DREFGOLD|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: DREFGOLD
+|move|p1a: Heatran|Magma Storm|p2a: DREFGOLD
+|-damage|p2a: DREFGOLD|5/100
+|-activate|p2a: DREFGOLD|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: DREFGOLD|0|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|faint|p2a: DREFGOLD
+|inactive|Empo has 180 seconds left.
+|
+|switch|p2a: MAMBOLOSCO|Charizard-Mega-Y, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: MAMBOLOSCO
+|turn|13
+|inactive|aim has 240 seconds left.
+|
+|move|p2a: MAMBOLOSCO|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|7/100
+|move|p1a: Heatran|Magma Storm|p2a: MAMBOLOSCO
+|-resisted|p2a: MAMBOLOSCO
+|-crit|p2a: MAMBOLOSCO
+|-damage|p2a: MAMBOLOSCO|35/100
+|-activate|p2a: MAMBOLOSCO|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: MAMBOLOSCO|22/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|inactive|Empo has 180 seconds left.
+|
+|move|p2a: MAMBOLOSCO|Solar Beam|p1a: Heatran|[still]
+|-prepare|p2a: MAMBOLOSCO|Solar Beam|p1a: Heatran
+|-anim|p2a: MAMBOLOSCO|Solar Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0
+|faint|p1a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|15
+|inactive|Empo has 180 seconds left.
+|
+|-activate|p2a: MAMBOLOSCO|move: Pursuit
+|move|p1a: Weavile|Pursuit|p2a: MAMBOLOSCO|[from]Pursuit
+|-damage|p2a: MAMBOLOSCO|0
+|faint|p2a: MAMBOLOSCO
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|switch|p2a: ERNIA|Ferrothorn, F|100/100
+|turn|16
+|
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: EDO FENDY|Weavile, F|20/100
+|-ability|p2a: EDO FENDY|Pressure
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|inactive|aim has 270 seconds left.
+|
+|switch|p1a: Tapu Bulu|Tapu Bulu|95/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|move|p2a: EDO FENDY|Icicle Crash|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|2/100
+|
+|-weather|none
+|-heal|p2a: EDO FENDY|26/100|[from] Grassy Terrain
+|-heal|p1a: Tapu Bulu|8/100|[from] item: Leftovers
+|-heal|p1a: Tapu Bulu|14/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|move|p2a: EDO FENDY|Icicle Crash|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|0
+|faint|p1a: Tapu Bulu
+|
+|-heal|p2a: EDO FENDY|33/100|[from] Grassy Terrain
+|upkeep
+|
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|19
+|inactive|aim has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|move|p2a: EDO FENDY|Icicle Crash|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|47/100
+|cant|p1a: Weavile|flinch
+|
+|-heal|p2a: EDO FENDY|39/100|[from] Grassy Terrain
+|-heal|p1a: Weavile|53/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|inactive|aim has 270 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|move|p2a: EDO FENDY|Icicle Crash|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0
+|faint|p1a: Weavile
+|
+|-heal|p2a: EDO FENDY|45/100|[from] Grassy Terrain
+|upkeep
+|
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|21
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|switch|p2a: ERNIA|Ferrothorn, F|100/100
+|move|p1a: Zapdos|Heat Wave|p2a: ERNIA
+|-supereffective|p2a: ERNIA
+|-crit|p2a: ERNIA
+|-damage|p2a: ERNIA|0
+|faint|p2a: ERNIA
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|switch|p2a: EDO FENDY|Weavile, F|45/100
+|-ability|p2a: EDO FENDY|Pressure
+|turn|22
+|c|☆aim|does weavile
+|c|☆aim|have a stronger
+|c|☆aim|ice move
+|c|☆Empo|n
+|
+|move|p2a: EDO FENDY|Icicle Crash|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|17/100
+|move|p1a: Zapdos|Heat Wave|p2a: EDO FENDY
+|-supereffective|p2a: EDO FENDY
+|-damage|p2a: EDO FENDY|0
+|faint|p2a: EDO FENDY
+|
+|win|aim
+|c|☆aim|gg
+|c|☆Empo|gg

@@ -1,0 +1,515 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|starry|crasherwake|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Rotom-Heat|
+|poke|p1|Clefable, F|
+|poke|p1|Hippowdon, F|
+|poke|p1|Aegislash, F|
+|poke|p2|Jirachi|
+|poke|p2|Togekiss, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Zeraora|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, M|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆starry|not an agent i see
+|c|☆starry|have fun buddy 
+|inactive|Empo has 270 seconds left.
+|inactive|starry has 270 seconds left.
+|c|☆Empo|Hf
+|c|☆starry|nah dont do that
+|c|☆starry|ik ur not on mobile
+|inactive|Empo has 240 seconds left.
+|
+|start
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|switch|p2a: odin|Dragapult, M|100/100
+|turn|1
+|inactive|Empo has 270 seconds left.
+|inactive|starry has 270 seconds left.
+|
+|move|p2a: odin|Draco Meteor|p1a: Rotom
+|-damage|p1a: Rotom|29/100
+|-unboost|p2a: odin|spa|2
+|move|p1a: Rotom|Discharge|p2a: odin
+|-resisted|p2a: odin
+|-damage|p2a: odin|82/100
+|
+|upkeep
+|turn|2
+|inactive|Empo has 270 seconds left.
+|
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: odin|Thunder Wave|p1a: Hippowdon
+|-immune|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: odin|76/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|move|p2a: odin|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|91/100
+|-damage|p2a: odin|59/100|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|inactive|starry has 240 seconds left.
+|
+|switch|p2a: foat.|Corviknight, M|100/100|[from]move: U-turn
+|-ability|p2a: foat.|Pressure
+|move|p1a: Hippowdon|Stealth Rock|p2a: foat.
+|-sidestart|p2: starry|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|move|p1a: Hippowdon|Stealth Rock||[still]
+|-fail|p1a: Hippowdon
+|move|p2a: foat.|Defog|p1a: Hippowdon
+|-unboost|p1a: Hippowdon|evasion|1
+|-sideend|p2: starry|Stealth Rock|[from] move: Defog|[of] p2a: foat.
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|move|p1a: Hippowdon|Stealth Rock|p2a: foat.
+|-sidestart|p2: starry|move: Stealth Rock
+|move|p2a: foat.|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|84/100
+|-damage|p2a: foat.|84/100|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|switch|p2a: kevin garrett|Togekiss, F|100/100|[from]move: U-turn
+|-damage|p2a: kevin garrett|76/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|70/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|76/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|switch|p1a: Rotom|Rotom-Heat|29/100
+|move|p2a: kevin garrett|Substitute|p2a: kevin garrett
+|-start|p2a: kevin garrett|Substitute
+|-damage|p2a: kevin garrett|51/100
+|
+|-weather|none
+|-heal|p2a: kevin garrett|57/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|move|p1a: Rotom|Discharge|p2a: kevin garrett
+|-supereffective|p2a: kevin garrett
+|-end|p2a: kevin garrett|Substitute
+|move|p2a: kevin garrett|Air Slash|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|9/100
+|
+|-heal|p2a: kevin garrett|63/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|switch|p2a: fv|Zeraora|100/100
+|-damage|p2a: fv|88/100|[from] Stealth Rock
+|move|p1a: Rotom|Pain Split|p2a: fv
+|-sethp|p2a: fv|49/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|51/100|[from] move: Pain Split
+|
+|upkeep
+|turn|9
+|
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: fv|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|84/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: fv
+|
+|upkeep
+|turn|10
+|
+|switch|p2a: foat.|Corviknight, M|84/100
+|-damage|p2a: foat.|71/100|[from] Stealth Rock
+|-ability|p2a: foat.|Pressure
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-heal|p2a: foat.|78/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|move|p2a: foat.|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: starry|Stealth Rock|[from] move: Defog|[of] p2a: foat.
+|move|p1a: Ferrothorn|Knock Off|p2a: foat.
+|-damage|p2a: foat.|63/100
+|-enditem|p2a: foat.|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|12
+|
+|switch|p2a: tpp (my enemy)|Jirachi|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: tpp (my enemy)
+|-start|p2a: tpp (my enemy)|move: Leech Seed
+|
+|-damage|p2a: tpp (my enemy)|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|13
+|c|☆starry|fuk
+|inactive|Empo has 270 seconds left.
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: tpp (my enemy)|Trick|p1a: Toxapex
+|-activate|p2a: tpp (my enemy)|move: Trick|[of] p1a: Toxapex
+|-item|p1a: Toxapex|Choice Scarf|[from] move: Trick
+|-item|p2a: tpp (my enemy)|Black Sludge|[from] move: Trick
+|
+|-damage|p2a: tpp (my enemy)|76/100|[from] item: Black Sludge
+|-damage|p2a: tpp (my enemy)|64/100|[from] Leech Seed|[of] p1a: Toxapex
+|upkeep
+|turn|14
+|
+|move|p2a: tpp (my enemy)|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|
+|switch|p2a: odin|Dragapult, M|59/100|[from]move: U-turn
+|move|p1a: Toxapex|Scald|p2a: odin
+|-resisted|p2a: odin
+|-damage|p2a: odin|47/100
+|-status|p2a: odin|brn
+|
+|-damage|p2a: odin|41/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|move|p2a: odin|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|91/100
+|
+|switch|p2a: kevin garrett|Togekiss, F|63/100|[from]move: U-turn
+|move|p1a: Toxapex|Scald|p2a: kevin garrett
+|-damage|p2a: kevin garrett|46/100
+|-status|p2a: kevin garrett|brn
+|
+|-heal|p2a: kevin garrett|53/100 brn|[from] item: Leftovers
+|-damage|p2a: kevin garrett|46/100 brn|[from] brn
+|upkeep
+|turn|16
+|c|☆starry|fukkk
+|
+|switch|p2a: odin|Dragapult, M|41/100 brn
+|switch|p1a: Rotom|Rotom-Heat|51/100
+|
+|-damage|p2a: odin|35/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|switch|p2a: tpp (my enemy)|Jirachi|64/100
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|
+|-damage|p2a: tpp (my enemy)|51/100|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|move|p2a: tpp (my enemy)|Healing Wish|p2a: tpp (my enemy)
+|faint|p2a: tpp (my enemy)
+|move|p1a: Toxapex|Scald|p2: tpp (my enemy)|[notarget]
+|-fail|p1a: Toxapex
+|
+|upkeep
+|
+|switch|p2a: kevin garrett|Togekiss, F|46/100 brn
+|-heal|p2a: kevin garrett|100/100|[from] move: Healing Wish
+|turn|19
+|
+|switch|p1a: Rotom|Rotom-Heat|51/100
+|move|p2a: kevin garrett|Substitute|p2a: kevin garrett
+|-start|p2a: kevin garrett|Substitute
+|-damage|p2a: kevin garrett|76/100
+|
+|-heal|p2a: kevin garrett|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|move|p1a: Rotom|Discharge|p2a: kevin garrett
+|-supereffective|p2a: kevin garrett
+|-end|p2a: kevin garrett|Substitute
+|move|p2a: kevin garrett|Air Slash|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|33/100
+|
+|-heal|p2a: kevin garrett|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p2a: odin|Dragapult, M|35/100 brn
+|move|p1a: Rotom|Overheat|p2a: odin
+|-resisted|p2a: odin
+|-damage|p2a: odin|4/100 brn
+|-unboost|p1a: Rotom|spa|2
+|
+|-damage|p2a: odin|0 fnt|[from] brn
+|faint|p2a: odin
+|upkeep
+|
+|switch|p2a: fv|Zeraora|49/100
+|turn|22
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: fv|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|-damage|p2a: fv|36/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: fv
+|
+|upkeep
+|turn|23
+|
+|switch|p2a: leo|Kommo-o, M|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: leo
+|-resisted|p2a: leo
+|-damage|p2a: leo|93/100
+|-enditem|p2a: leo|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|24
+|
+|switch|p1a: GuccyArmor|Aegislash, F|100/100
+|-item|p1a: GuccyArmor|Air Balloon
+|move|p2a: leo|Stealth Rock|p1a: GuccyArmor
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|25
+|c|☆starry|gay set
+|
+|move|p2a: leo|Taunt|p1a: GuccyArmor
+|-start|p1a: GuccyArmor|move: Taunt
+|-formechange|p1a: GuccyArmor|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: GuccyArmor|Shadow Claw|p2a: leo
+|-damage|p2a: leo|64/100
+|
+|upkeep
+|turn|26
+|inactive|starry has 270 seconds left.
+|inactive|starry has 240 seconds left.
+|
+|switch|p2a: foat.|Corviknight, M|63/100
+|-ability|p2a: foat.|Pressure
+|move|p1a: GuccyArmor|Shadow Claw|p2a: foat.
+|-damage|p2a: foat.|36/100
+|
+|upkeep
+|turn|27
+|
+|move|p1a: GuccyArmor|Shadow Claw|p2a: foat.
+|-damage|p2a: foat.|8/100
+|move|p2a: foat.|U-turn|p1a: GuccyArmor
+|-resisted|p1a: GuccyArmor
+|-damage|p1a: GuccyArmor|92/100
+|-enditem|p1a: GuccyArmor|Air Balloon
+|
+|switch|p2a: leo|Kommo-o, M|64/100|[from]move: U-turn
+|
+|-end|p1a: GuccyArmor|move: Taunt
+|upkeep
+|turn|28
+|
+|switch|p1a: Hippowdon|Hippowdon, F|84/100
+|-damage|p1a: Hippowdon|77/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: leo|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: leo|58/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|move|p2a: leo|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|move|p1a: Hippowdon|Earthquake|p2a: leo
+|-damage|p2a: leo|32/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: leo|26/100|[from] Sandstorm
+|upkeep
+|turn|30
+|
+|switch|p2a: kevin garrett|Togekiss, F|88/100
+|switch|p1a: Clefable|Clefable, F|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|82/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|88/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|move|p2a: kevin garrett|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|move|p1a: Clefable|Moonblast|p2a: kevin garrett
+|-damage|p2a: kevin garrett|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|51/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|57/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|c|☆starry|dont fail me now u fuckin asshole
+|
+|switch|p1a: Rotom|Rotom-Heat|33/100
+|move|p2a: kevin garrett|Substitute|p2a: kevin garrett
+|-start|p2a: kevin garrett|Substitute
+|-damage|p2a: kevin garrett|32/100
+|
+|-weather|none
+|-heal|p2a: kevin garrett|38/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|move|p1a: Rotom|Discharge|p2a: kevin garrett
+|-supereffective|p2a: kevin garrett
+|-end|p2a: kevin garrett|Substitute
+|move|p2a: kevin garrett|Air Slash|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|15/100
+|
+|-heal|p2a: kevin garrett|45/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|switch|p2a: foat.|Corviknight, M|8/100
+|-ability|p2a: foat.|Pressure
+|move|p1a: Rotom|Overheat|p2a: foat.|[miss]
+|-miss|p1a: Rotom|p2a: foat.
+|
+|upkeep
+|turn|35
+|c|☆starry|foat.
+|inactive|starry has 270 seconds left.
+|
+|move|p1a: Rotom|Discharge|p2a: foat.
+|-supereffective|p2a: foat.
+|-damage|p2a: foat.|0 fnt
+|faint|p2a: foat.
+|
+|upkeep
+|
+|switch|p2a: fv|Zeraora|36/100
+|turn|36
+|
+|switch|p1a: Hippowdon|Hippowdon, F|64/100
+|-damage|p1a: Hippowdon|58/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: fv|Volt Switch|p1a: Hippowdon
+|-immune|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: fv|30/100|[from] Sandstorm
+|upkeep
+|turn|37
+|
+|switch|p2a: kevin garrett|Togekiss, F|45/100
+|switch|p1a: GuccyArmor|Aegislash, F|92/100
+|-damage|p1a: GuccyArmor|86/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|38/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|45/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|inactive|starry has 270 seconds left.
+|
+|move|p2a: kevin garrett|Thunder Wave|p1a: GuccyArmor
+|-status|p1a: GuccyArmor|par
+|cant|p1a: GuccyArmor|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|38/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|45/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|-formechange|p1a: GuccyArmor|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: GuccyArmor|Shadow Sneak|p2a: kevin garrett
+|-damage|p2a: kevin garrett|18/100
+|move|p2a: kevin garrett|Substitute|p2a: kevin garrett
+|-fail|p2a: kevin garrett|move: Substitute|[weak]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|12/100|[from] Sandstorm
+|-heal|p2a: kevin garrett|18/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|switch|p2a: fv|Zeraora|30/100
+|move|p1a: GuccyArmor|Shadow Sneak|p2a: fv
+|-damage|p2a: fv|0 fnt
+|faint|p2a: fv
+|
+|-weather|none
+|upkeep
+|
+|switch|p2a: leo|Kommo-o, M|26/100
+|turn|41
+|
+|switch|p1a: Hippowdon|Hippowdon, F|58/100
+|-damage|p1a: Hippowdon|52/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: leo|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: leo|20/100|[from] Sandstorm
+|upkeep
+|turn|42
+|
+|switch|p1a: Ferrothorn|Ferrothorn, F|83/100
+|-damage|p1a: Ferrothorn|77/100|[from] Stealth Rock
+|move|p2a: leo|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: leo|13/100|[from] Sandstorm
+|upkeep
+|turn|43
+|
+|move|p2a: leo|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|move|p1a: Ferrothorn|Body Press|p2a: leo
+|-damage|p2a: leo|0 fnt
+|faint|p2a: leo
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|switch|p2a: kevin garrett|Togekiss, F|18/100
+|turn|44
+|
+|move|p2a: kevin garrett|Air Slash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|27/100
+|move|p1a: Ferrothorn|Knock Off|p2a: kevin garrett
+|-resisted|p2a: kevin garrett
+|-damage|p2a: kevin garrett|6/100
+|-enditem|p2a: kevin garrett|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: kevin garrett|0 fnt|[from] Sandstorm
+|faint|p2a: kevin garrett
+|
+|win|Empo
+|upkeep

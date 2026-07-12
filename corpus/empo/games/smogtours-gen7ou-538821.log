@@ -1,0 +1,507 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1611523914
+|player|p1|frisoeva|#splxiiraiders|
+|player|p2|Aurella|#ssdivmambas|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Celesteela|item
+|poke|p1|Alakazam, M|item
+|poke|p1|Tyranitar, F|item
+|poke|p1|Rotom-Wash|item
+|poke|p1|Amoonguss, F|item
+|poke|p1|Garchomp, F|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Necrozma|item
+|poke|p2|Tapu Koko|item
+|poke|p2|Mawile, F|item
+|poke|p2|Serperior, F|item
+|poke|p2|Victini|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|☆frisoeva|hf
+|c|☆Aurella|u2
+|c|+a hero's destiny|'-'
+|c|+AquaVanillla|jk
+|c|@ALlCE|omg
+|c|@ALlCE|in
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|frisoeva has 270 seconds left.
+|inactive|Aurella has 270 seconds left.
+|inactive|Aurella has 240 seconds left.
+|inactive|frisoeva has 240 seconds left.
+|inactive|Aurella has 210 seconds left.
+|
+|t:|1611524005
+|start
+|switch|p1a: Garchomp|Garchomp, F|357/357
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|319/319
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|1
+|
+|t:|1611524014
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Aurella|move: Stealth Rock
+|move|p2a: Landorus|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: frisoeva|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1611524026
+|switch|p1a: Celesteela|Celesteela|397/397
+|-damage|p1a: Celesteela|348/397|[from] Stealth Rock
+|move|p2a: Landorus|Explosion|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|193/397
+|faint|p2a: Landorus
+|
+|-heal|p1a: Celesteela|217/397|[from] item: Leftovers
+|upkeep
+|inactive|Aurella has 270 seconds left.
+|inactive|Aurella has 240 seconds left.
+|
+|t:|1611524075
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|343/343
+|-damage|p2a: Tapu Koko|301/343|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|3
+|inactive|Aurella has 240 seconds left.
+|
+|t:|1611524092
+|switch|p1a: Garchomp|Garchomp, F|357/357
+|-damage|p1a: Garchomp|335/357|[from] Stealth Rock
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: Aurella|Reflect
+|
+|upkeep
+|turn|4
+|inactive|Aurella has 240 seconds left.
+|
+|t:|1611524132
+|move|p2a: Tapu Koko|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|272/357
+|-damage|p2a: Tapu Koko|259/343|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1611524139
+|switch|p2a: Serperior|Serperior, F, shiny|291/291
+|-damage|p2a: Serperior|255/291|[from] Stealth Rock
+|move|p1a: Garchomp|Earthquake|p2a: Serperior
+|-resisted|p2a: Serperior
+|-damage|p2a: Serperior|210/291
+|
+|-heal|p2a: Serperior|228/291|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Aurella has 210 seconds left.
+|
+|t:|1611524165
+|switch|p1a: Amoonguss|Amoonguss, F|431/431
+|-damage|p1a: Amoonguss|378/431|[from] Stealth Rock
+|move|p2a: Serperior|Glare|p1a: Amoonguss
+|-status|p1a: Amoonguss|par
+|
+|-heal|p2a: Serperior|246/291|[from] item: Leftovers
+|-heal|p1a: Amoonguss|404/431 par|[from] item: Black Sludge
+|upkeep
+|turn|6
+|inactive|Aurella has 210 seconds left.
+|
+|t:|1611524188
+|switch|p2a: Mawile|Mawile, F, shiny|262/262
+|-damage|p2a: Mawile|246/262|[from] Stealth Rock
+|-ability|p2a: Mawile|Intimidate|boost
+|-unboost|p1a: Amoonguss|atk|1
+|cant|p1a: Amoonguss|par
+|
+|-heal|p1a: Amoonguss|430/431 par|[from] item: Black Sludge
+|upkeep
+|turn|7
+|inactive|frisoeva has 270 seconds left.
+|
+|t:|1611524222
+|switch|p1a: Rotom|Rotom-Wash|304/304
+|-damage|p1a: Rotom|266/304|[from] Stealth Rock
+|detailschange|p2a: Mawile|Mawile-Mega, F, shiny
+|-mega|p2a: Mawile|Mawile|Mawilite
+|move|p2a: Mawile|Thunder Punch|p1a: Rotom
+|-damage|p1a: Rotom|96/304
+|
+|-heal|p1a: Rotom|115/304|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|inactive|frisoeva has 270 seconds left.
+|
+|t:|1611524243
+|switch|p2a: Serperior|Serperior, F, shiny|246/291
+|-damage|p2a: Serperior|210/291|[from] Stealth Rock
+|move|p1a: Rotom|Will-O-Wisp|p2a: Serperior
+|-status|p2a: Serperior|brn
+|
+|-heal|p2a: Serperior|228/291 brn|[from] item: Leftovers
+|-heal|p1a: Rotom|134/304|[from] item: Leftovers
+|-damage|p2a: Serperior|210/291 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|Aurella has 180 seconds left.
+|inactive|frisoeva has 240 seconds left.
+|inactive|Aurella has 150 seconds left.
+|
+|t:|1611524314
+|switch|p1a: Alakazam|Alakazam, M|251/251
+|move|p2a: Serperior|Leaf Storm|p1a: Alakazam
+|-damage|p1a: Alakazam|88/251
+|-boost|p2a: Serperior|spa|2
+|
+|-heal|p2a: Serperior|228/291 brn|[from] item: Leftovers
+|-damage|p2a: Serperior|210/291 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|Aurella has 150 seconds left.
+|inactive|frisoeva has 210 seconds left.
+|inactive|Aurella has 120 seconds left.
+|
+|t:|1611524356
+|switch|p2a: Mawile|Mawile-Mega, F, shiny|246/262
+|-damage|p2a: Mawile|230/262|[from] Stealth Rock
+|detailschange|p1a: Alakazam|Alakazam-Mega, M
+|-mega|p1a: Alakazam|Alakazam|Alakazite
+|-ability|p1a: Alakazam|Huge Power|[from] ability: Trace|[of] p2a: Mawile
+|move|p1a: Alakazam|Psychic|p2a: Mawile
+|-resisted|p2a: Mawile
+|-damage|p2a: Mawile|124/262
+|
+|-sideend|p2: Aurella|Reflect
+|upkeep
+|turn|11
+|inactive|frisoeva has 210 seconds left.
+|inactive|Aurella has 120 seconds left.
+|
+|t:|1611524373
+|switch|p1a: Rotom|Rotom-Wash|134/304
+|-damage|p1a: Rotom|96/304|[from] Stealth Rock
+|move|p2a: Mawile|Play Rough|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1611524381
+|switch|p1a: Garchomp|Garchomp, F|272/357
+|-damage|p1a: Garchomp|250/357|[from] Stealth Rock
+|turn|12
+|inactive|frisoeva has 210 seconds left.
+|inactive|Aurella has 120 seconds left.
+|inactive|Aurella has 90 seconds left.
+|inactive|Aurella has 60 seconds left.
+|
+|t:|1611524476
+|switch|p2a: Serperior|Serperior, F, shiny|210/291 brn
+|-damage|p2a: Serperior|174/291 brn|[from] Stealth Rock
+|move|p1a: Garchomp|Earthquake|p2a: Serperior
+|-resisted|p2a: Serperior
+|-damage|p2a: Serperior|76/291 brn
+|
+|-heal|p2a: Serperior|94/291 brn|[from] item: Leftovers
+|-damage|p2a: Serperior|76/291 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1611524481
+|switch|p1a: Amoonguss|Amoonguss, F|431/431 par
+|-damage|p1a: Amoonguss|378/431 par|[from] Stealth Rock
+|move|p2a: Serperior|Leaf Storm|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|341/431 par
+|-boost|p2a: Serperior|spa|2
+|
+|-heal|p2a: Serperior|94/291 brn|[from] item: Leftovers
+|-heal|p1a: Amoonguss|367/431 par|[from] item: Black Sludge
+|-damage|p2a: Serperior|76/291 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1611524489
+|move|p2a: Serperior|Hidden Power|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|187/431 par
+|move|p1a: Amoonguss|Hidden Power|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|-heal|p1a: Amoonguss|213/431 par|[from] item: Black Sludge
+|upkeep
+|
+|t:|1611524498
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|259/343
+|-damage|p2a: Tapu Koko|217/343|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|15
+|inactive|Aurella has 60 seconds left.
+|
+|t:|1611524511
+|move|p2a: Tapu Koko|Light Screen|p2a: Tapu Koko
+|-sidestart|p2: Aurella|move: Light Screen
+|move|p1a: Amoonguss|Giga Drain|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|170/343
+|-heal|p1a: Amoonguss|237/431 par|[from] drain|[of] p2a: Tapu Koko
+|
+|-heal|p1a: Amoonguss|263/431 par|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1611524535
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: Aurella|Reflect
+|cant|p1a: Amoonguss|par
+|
+|-heal|p1a: Amoonguss|289/431 par|[from] item: Black Sludge
+|upkeep
+|turn|17
+|inactive|Aurella has 60 seconds left.
+|
+|t:|1611524551
+|move|p2a: Tapu Koko|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|206/431 par
+|
+|t:|1611524555
+|switch|p2a: Victini|Victini|341/341
+|-damage|p2a: Victini|256/341|[from] Stealth Rock
+|move|p1a: Amoonguss|Stun Spore|p2a: Victini|[miss]
+|-miss|p1a: Amoonguss|p2a: Victini
+|
+|-heal|p1a: Amoonguss|232/431 par|[from] item: Black Sludge
+|upkeep
+|turn|18
+|inactive|Aurella has 60 seconds left.
+|
+|t:|1611524575
+|move|p2a: Victini|Searing Shot|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|inactive|frisoeva has 210 seconds left.
+|inactive|frisoeva has 180 seconds left.
+|
+|t:|1611524622
+|switch|p1a: Garchomp|Garchomp, F|250/357
+|-damage|p1a: Garchomp|228/357|[from] Stealth Rock
+|turn|19
+|inactive|frisoeva has 180 seconds left.
+|
+|t:|1611524635
+|move|p1a: Garchomp|Earthquake|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|75/341
+|-zpower|p2a: Victini
+|move|p2a: Victini|Z-Celebrate|p2a: Victini|[anim]Celebrate
+|-boost|p2a: Victini|atk|1|[zeffect]
+|-boost|p2a: Victini|def|1|[zeffect]
+|-boost|p2a: Victini|spa|1|[zeffect]
+|-boost|p2a: Victini|spd|1|[zeffect]
+|-boost|p2a: Victini|spe|1|[zeffect]
+|-activate|p2a: Victini|move: Celebrate
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|20
+|inactive|frisoeva has 180 seconds left.
+|
+|t:|1611524646
+|switch|p1a: Tyranitar|Tyranitar, F|351/351
+|-damage|p1a: Tyranitar|308/351|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Victini|Stored Power|p1a: Tyranitar
+|-immune|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|54/341|[from] Sandstorm
+|upkeep
+|turn|21
+|inactive|frisoeva has 180 seconds left.
+|inactive|frisoeva has 150 seconds left.
+|
+|t:|1611524686
+|switch|p1a: Celesteela|Celesteela|217/397
+|-damage|p1a: Celesteela|168/397|[from] Stealth Rock
+|move|p2a: Victini|Focus Blast|p1a: Celesteela|[miss]
+|-miss|p2a: Victini|p1a: Celesteela
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|33/341|[from] Sandstorm
+|-heal|p1a: Celesteela|192/397|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1611524696
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Victini|Searing Shot|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|12/341|[from] Sandstorm
+|-heal|p1a: Celesteela|216/397|[from] item: Leftovers
+|-sideend|p2: Aurella|move: Light Screen
+|upkeep
+|turn|23
+|inactive|frisoeva has 150 seconds left.
+|inactive|Aurella has 60 seconds left.
+|
+|t:|1611524763
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Victini|Focus Blast|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|0 fnt|[from] Sandstorm
+|faint|p2a: Victini
+|-heal|p1a: Celesteela|240/397|[from] item: Leftovers
+|-sideend|p2: Aurella|Reflect
+|upkeep
+|inactive|Aurella has 30 seconds left.
+|inactive|Aurella has 20 seconds left.
+|
+|t:|1611524788
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|170/343
+|-damage|p2a: Tapu Koko|128/343|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|24
+|inactive|Aurella has 30 seconds left this turn.
+|inactive|Aurella has 20 seconds left.
+|inactive|Aurella has 15 seconds left.
+|
+|t:|1611524806
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: Aurella|Reflect
+|move|p1a: Celesteela|Heavy Slam|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|47/343
+|
+|-weather|none
+|-heal|p1a: Celesteela|264/397|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Aurella has 25 seconds left this turn.
+|inactive|Aurella has 20 seconds left.
+|
+|t:|1611524826
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Tapu Koko|Taunt|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-heal|p1a: Celesteela|288/397|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|Aurella has 30 seconds left this turn.
+|inactive|Aurella has 20 seconds left.
+|inactive|frisoeva has 120 seconds left.
+|
+|t:|1611524863
+|switch|p1a: Alakazam|Alakazam-Mega, M|88/251
+|-damage|p1a: Alakazam|57/251|[from] Stealth Rock
+|-ability|p1a: Alakazam|Electric Surge|[from] ability: Trace|[of] p2a: Tapu Koko
+|move|p2a: Tapu Koko|Taunt|p1a: Alakazam
+|-start|p1a: Alakazam|move: Taunt
+|
+|upkeep
+|turn|27
+|inactive|Aurella has 30 seconds left this turn.
+|inactive|Aurella has 20 seconds left.
+|
+|t:|1611524878
+|switch|p2a: Mawile|Mawile-Mega, F, shiny|124/262
+|-damage|p2a: Mawile|108/262|[from] Stealth Rock
+|move|p1a: Alakazam|Psychic|p2a: Mawile
+|-resisted|p2a: Mawile
+|-damage|p2a: Mawile|0 fnt
+|faint|p2a: Mawile
+|
+|upkeep
+|inactive|Aurella has 25 seconds left this turn.
+|inactive|Aurella has 20 seconds left.
+|
+|t:|1611524884
+|switch|p2a: Necrozma|Necrozma, shiny|398/398
+|-damage|p2a: Necrozma|349/398|[from] Stealth Rock
+|turn|28
+|inactive|Aurella has 30 seconds left this turn.
+|inactive|frisoeva has 120 seconds left.
+|
+|t:|1611524892
+|switch|p1a: Celesteela|Celesteela|288/397
+|-damage|p1a: Celesteela|239/397|[from] Stealth Rock
+|move|p2a: Necrozma|Rock Polish|p2a: Necrozma
+|-boost|p2a: Necrozma|spe|2
+|
+|-heal|p1a: Celesteela|263/397|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|29
+|inactive|Aurella has 30 seconds left.
+|
+|t:|1611524905
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|move|p1a: Celesteela|Leech Seed|p2a: Necrozma
+|-start|p2a: Necrozma|move: Leech Seed
+|
+|-heal|p1a: Celesteela|287/397|[from] item: Leftovers
+|-damage|p2a: Necrozma|300/398|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|336/397|[silent]
+|upkeep
+|turn|30
+|inactive|Aurella has 30 seconds left.
+|
+|t:|1611524915
+|move|p2a: Necrozma|Calm Mind|p2a: Necrozma
+|-boost|p2a: Necrozma|spa|1
+|-boost|p2a: Necrozma|spd|1
+|move|p1a: Celesteela|Heavy Slam|p2a: Necrozma
+|-damage|p2a: Necrozma|253/398
+|
+|-heal|p1a: Celesteela|360/397|[from] item: Leftovers
+|-damage|p2a: Necrozma|204/398|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|397/397|[silent]
+|upkeep
+|turn|31
+|inactive|Aurella has 30 seconds left.
+|inactive|frisoeva has 120 seconds left.
+|
+|t:|1611524952
+|move|p2a: Necrozma|Stored Power|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|258/397
+|move|p1a: Celesteela|Heavy Slam|p2a: Necrozma
+|-damage|p2a: Necrozma|153/398
+|
+|-heal|p1a: Celesteela|282/397|[from] item: Leftovers
+|-damage|p2a: Necrozma|104/398|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|331/397|[silent]
+|-sideend|p2: Aurella|Reflect
+|upkeep
+|turn|32
+|inactive|Aurella has 30 seconds left.
+|c|☆Aurella|gg
+|c|☆frisoeva|gg
+|-message|Aurella forfeited.
+|
+|win|frisoeva
+|inactive|Aurella has 30 seconds left this turn.
+

@@ -1,0 +1,310 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1616245289
+|player|p1|Nat|#nat|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Kyurem|
+|poke|p1|Kartana|
+|poke|p1|Zeraora|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Heatran, M|
+|poke|p2|Kartana|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Tapu Lele|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆Nat|hf
+|c|☆Empo|hf
+|c|+STABLEPRINCE 聖|EMPOAT
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Nat has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Nat has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Nat has 210 seconds left.
+|
+|t:|1616245394
+|start
+|switch|p1a: a knee itch|Tapu Fini|343/343
+|switch|p2a: Tapu Lele|Tapu Lele|281/281
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: a knee itch
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616245406
+|switch|p1a: neider (comedian)|Heatran, F|386/386
+|move|p2a: Tapu Lele|Focus Blast|p1a: neider (comedian)|[miss]
+|-miss|p2a: Tapu Lele|p1a: neider (comedian)
+|
+|upkeep
+|turn|2
+|inactive|Empo has 270 seconds left.
+|inactive|Nat has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616245474
+|move|p2a: Tapu Lele|Focus Blast|p1a: neider (comedian)|[miss]
+|-miss|p2a: Tapu Lele|p1a: neider (comedian)
+|move|p1a: neider (comedian)|Magma Storm|p2a: Tapu Lele|[miss]
+|-miss|p1a: neider (comedian)|p2a: Tapu Lele
+|
+|upkeep
+|turn|3
+|
+|t:|1616245479
+|move|p2a: Tapu Lele|Focus Blast|p1a: neider (comedian)
+|-supereffective|p1a: neider (comedian)
+|-damage|p1a: neider (comedian)|84/386
+|move|p1a: neider (comedian)|Heavy Slam|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-heal|p1a: neider (comedian)|108/386|[from] item: Leftovers
+|upkeep
+|
+|t:|1616245494
+|switch|p2a: pastato|Landorus-Therian, M|381/381
+|-ability|p2a: pastato|Intimidate|boost
+|-unboost|p1a: neider (comedian)|atk|1
+|turn|4
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616245512
+|switch|p1a: chinese room pal|Kartana|259/259
+|move|p2a: pastato|Stealth Rock|p1a: chinese room pal
+|-sidestart|p1: Nat|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616245522
+|move|p1a: chinese room pal|Leaf Blade|p2a: pastato
+|-damage|p2a: pastato|50/381
+|move|p2a: pastato|Earthquake|p1a: chinese room pal
+|-damage|p1a: chinese room pal|49/259
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|inactive|Nat has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616245577
+|switch|p2a: Kartana|Kartana|259/259
+|move|p1a: chinese room pal|Leaf Blade|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|195/259
+|
+|upkeep
+|turn|7
+|inactive|Empo has 180 seconds left.
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616245607
+|switch|p1a: absolutely capping|Landorus-Therian, M|381/381
+|-damage|p1a: absolutely capping|334/381|[from] Stealth Rock
+|-ability|p1a: absolutely capping|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Knock Off|p1a: absolutely capping
+|-crit|p1a: absolutely capping
+|-damage|p1a: absolutely capping|169/381
+|-enditem|p1a: absolutely capping|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|8
+|inactive|Empo has 150 seconds left.
+|inactive|Nat has 210 seconds left.
+|
+|t:|1616245659
+|switch|p2a: Rotom|Rotom-Wash|304/304
+|move|p1a: absolutely capping|Stealth Rock|p2a: Rotom
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|inactive|Empo has 120 seconds left.
+|inactive|Nat has 180 seconds left.
+|
+|t:|1616245708
+|switch|p1a: false in boston|Zeraora|317/317
+|move|p2a: Rotom|Hydro Pump|p1a: false in boston
+|-damage|p1a: false in boston|169/317
+|
+|upkeep
+|turn|10
+|
+|t:|1616245717
+|move|p1a: false in boston|Knock Off|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|200/304
+|-enditem|p2a: Rotom|Leftovers|[from] move: Knock Off|[of] p1a: false in boston
+|move|p2a: Rotom|Hydro Pump|p1a: false in boston
+|-damage|p1a: false in boston|3/317
+|
+|upkeep
+|turn|11
+|
+|t:|1616245725
+|move|p1a: false in boston|Close Combat|p2a: Rotom
+|-damage|p2a: Rotom|105/304
+|-unboost|p1a: false in boston|def|1
+|-unboost|p1a: false in boston|spd|1
+|move|p2a: Rotom|Hydro Pump|p1a: false in boston
+|-damage|p1a: false in boston|0 fnt
+|faint|p1a: false in boston
+|
+|upkeep
+|inactive|Nat has 150 seconds left.
+|
+|t:|1616245760
+|switch|p1a: chinese room pal|Kartana|49/259
+|-damage|p1a: chinese room pal|33/259|[from] Stealth Rock
+|turn|12
+|inactive|Nat has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616245804
+|move|p1a: chinese room pal|Sacred Sword|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-ability|p1a: chinese room pal|Beast Boost|boost
+|-boost|p1a: chinese room pal|atk|1
+|
+|upkeep
+|
+|t:|1616245808
+|switch|p2a: Kartana|Kartana|195/259
+|-damage|p2a: Kartana|179/259|[from] Stealth Rock
+|turn|13
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616245840
+|move|p2a: Kartana|Smart Strike|p1a: chinese room pal
+|-resisted|p1a: chinese room pal
+|-damage|p1a: chinese room pal|0 fnt
+|faint|p1a: chinese room pal
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|inactive|Nat has 120 seconds left.
+|inactive|Nat has 90 seconds left.
+|
+|t:|1616245904
+|switch|p1a: absolutely capping|Landorus-Therian, M|169/381
+|-damage|p1a: absolutely capping|122/381|[from] Stealth Rock
+|-ability|p1a: absolutely capping|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|turn|14
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616245921
+|move|p2a: Kartana|Smart Strike|p1a: absolutely capping
+|-damage|p1a: absolutely capping|0 fnt
+|faint|p1a: absolutely capping
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|inactive|Nat has 60 seconds left.
+|
+|t:|1616245940
+|switch|p1a: neider (comedian)|Heatran, F|108/386
+|-damage|p1a: neider (comedian)|60/386|[from] Stealth Rock
+|turn|15
+|inactive|Nat has 60 seconds left.
+|
+|t:|1616245954
+|switch|p2a: Garchomp|Garchomp, F|357/357
+|-damage|p2a: Garchomp|335/357|[from] Stealth Rock
+|move|p1a: neider (comedian)|Magma Storm|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|257/357
+|-activate|p2a: Garchomp|move: Magma Storm|[of] p1a: neider (comedian)
+|
+|-heal|p1a: neider (comedian)|84/386|[from] item: Leftovers
+|-damage|p2a: Garchomp|213/357|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|inactive|Nat has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Nat has 30 seconds left.
+|inactive|Nat has 20 seconds left.
+|
+|t:|1616246006
+|move|p2a: Garchomp|Earthquake|p1a: neider (comedian)
+|-supereffective|p1a: neider (comedian)
+|-damage|p1a: neider (comedian)|0 fnt
+|faint|p1a: neider (comedian)
+|
+|-end|p2a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|inactive|Nat has 25 seconds left this turn.
+|inactive|Nat has 20 seconds left.
+|
+|t:|1616246012
+|switch|p1a: a knee itch|Tapu Fini|343/343
+|-damage|p1a: a knee itch|301/343|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: a knee itch
+|turn|17
+|inactive|Nat has 30 seconds left this turn.
+|inactive|Nat has 20 seconds left.
+|inactive|Nat has 15 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616246056
+|move|p1a: a knee itch|Surf|p2a: Garchomp
+|-damage|p2a: Garchomp|102/357
+|move|p2a: Garchomp|Earthquake|p1a: a knee itch
+|-damage|p1a: a knee itch|87/343
+|
+|upkeep
+|turn|18
+|inactive|Nat has 25 seconds left this turn.
+|
+|t:|1616246060
+|move|p1a: a knee itch|Surf|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|inactive|Nat has 30 seconds left this turn.
+|
+|t:|1616246062
+|switch|p2a: Kartana|Kartana|179/259
+|-damage|p2a: Kartana|163/259|[from] Stealth Rock
+|turn|19
+|
+|t:|1616246064
+|move|p2a: Kartana|Smart Strike|p1a: a knee itch
+|-damage|p1a: a knee itch|0 fnt
+|faint|p1a: a knee itch
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|c|☆Nat|gg
+|-message|Nat forfeited.
+|
+|win|Empo
+

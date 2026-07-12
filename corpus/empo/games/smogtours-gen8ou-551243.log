@@ -1,0 +1,778 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1616914701
+|player|p1|Empo|#empo|
+|player|p2|Lord_Enz|lucas|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Hippowdon, F|
+|poke|p1|Clefable, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Reuniclus, F|
+|poke|p1|Toxapex, F|
+|poke|p2|Blacephalon|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Jirachi|
+|poke|p2|Toxapex, F|
+|poke|p2|Kyurem|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|+hyogafodex|!help hangman
+/hangman allows users to play the popular game hangman in PS rooms.
+Accepts the following commands:
+/hangman create [word], [hint] - Makes a new hangman game. Requires: % @ # &
+/hangman guess [letter] - Makes a guess for the letter entered.
+/hangman guess [word] - Same as a letter, but guesses an entire word.
+/hangman display - Displays the game.
+/hangman end - Ends the game of hangman before the man is hanged or word is guessed. Requires: % @ # &
+/hangman [enable/disable] - Enables or disables hangman from being started in a room. Requires: # &
+/hangman random [tag]- Runs a random hangman, if the room has any added. 
+If a tag is given, randomizes from only terms with those tags. Requires: % @ # &
+/hangman addrandom [word], [...hints] - Adds an entry for [word] with the [hints] provided to the room's hangman pool. Requires: % @ # &
+/hangman removerandom [word][, hints] - Removes data from the hangman entry for [word]. If hints are given, removes only those hints. Otherwise it removes the entire entry. Requires: % @ & #
+/hangman addtag [word], [...tags] - Adds tags to the hangman term matching [word]. Requires: % @ & #
+/hangman untag [term][, ...tags] - Removes tags from the hangman [term]. If tags are given, removes only those tags. Requires: % @ # * 
+/hangman terms - Displays all random hangman in a room. Requires: % @ # &
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|hf
+|c|☆Lord_Enz|same
+|inactive|Empo has 270 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616914788
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|419/419
+|switch|p2a: Panther Ausf.A|Kyurem|405/405
+|-ability|p2a: Panther Ausf.A|Pressure
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914806
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|move|p2a: Panther Ausf.A|Substitute|p2a: Panther Ausf.A
+|-start|p2a: Panther Ausf.A|Substitute
+|-damage|p2a: Panther Ausf.A|304/405
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Panther Ausf.A|279/405|[from] Sandstorm
+|-damage|p1a: Toxapex|285/304|[from] Sandstorm
+|-heal|p1a: Toxapex|304/304|[from] item: Black Sludge
+|upkeep
+|turn|2
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914825
+|move|p2a: Panther Ausf.A|Freeze-Dry|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|82/304
+|move|p1a: Toxapex|Poison Jab|p2a: Panther Ausf.A
+|-activate|p2a: Panther Ausf.A|move: Substitute|[damage]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Panther Ausf.A|254/405|[from] Sandstorm
+|-damage|p1a: Toxapex|63/304|[from] Sandstorm
+|-heal|p1a: Toxapex|82/304|[from] item: Black Sludge
+|upkeep
+|turn|3
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914839
+|switch|p1a: Reuniclus|Reuniclus, F|411/411
+|move|p2a: Panther Ausf.A|Freeze-Dry|p1a: Reuniclus
+|-damage|p1a: Reuniclus|296/411
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Panther Ausf.A|229/405|[from] Sandstorm
+|-heal|p1a: Reuniclus|321/411|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914854
+|switch|p2a: Blacephalon|Blacephalon|247/247
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|411/411
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blacephalon|232/247|[from] Sandstorm
+|upkeep
+|turn|5
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914868
+|switch|p1a: Hippowdon|Hippowdon, F|419/419
+|move|p2a: Blacephalon|Shadow Ball|p1a: Hippowdon
+|-damage|p1a: Hippowdon|224/419
+|
+|-weather|none
+|-heal|p1a: Hippowdon|250/419|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1616914879
+|switch|p2a: Landorus|Landorus-Therian, M|381/381
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p1a: Hippowdon|276/419|[from] item: Leftovers
+|-damage|p2a: Landorus|358/381 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1616914894
+|move|p2a: Landorus|Toxic|p1a: Hippowdon
+|-status|p1a: Hippowdon|tox
+|move|p1a: Hippowdon|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|-heal|p2a: Landorus|381/381 tox|[from] item: Leftovers
+|-heal|p1a: Hippowdon|302/419 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|335/381 tox|[from] psn
+|-damage|p1a: Hippowdon|276/419 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914923
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|switch|p1a: Clefable|Clefable, M|394/394
+|
+|upkeep
+|turn|9
+|inactive|Empo has 270 seconds left.
+|
+|t:|1616914939
+|switch|p1a: Toxapex|Toxapex, F|183/304
+|move|p2a: Mandibuzz|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|-heal|p1a: Toxapex|202/304|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1616914952
+|switch|p2a: Toxapex|Toxapex, F|304/304
+|move|p1a: Toxapex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|273/304
+|-enditem|p2a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-heal|p1a: Toxapex|221/304|[from] item: Black Sludge
+|upkeep
+|turn|11
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616915009
+|switch|p1a: Clefable|Clefable, M|394/394
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|371/394
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|12
+|
+|t:|1616915019
+|move|p1a: Clefable|Thunder Wave|p2a: Toxapex
+|-status|p2a: Toxapex|par
+|move|p2a: Toxapex|Toxic Spikes|p1a: Clefable
+|-sidestart|p1: Empo|move: Toxic Spikes
+|
+|upkeep
+|turn|13
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616915053
+|move|p1a: Clefable|Thunder Wave|p2a: Toxapex
+|-fail|p2a: Toxapex|par
+|move|p2a: Toxapex|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|354/394
+|
+|upkeep
+|turn|14
+|inactive|Empo has 210 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915084
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Hippowdon|tox|[msg]
+|cant|p2a: Toxapex|par
+|
+|upkeep
+|turn|15
+|inactive|Empo has 210 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915098
+|switch|p1a: Reuniclus|Reuniclus, F|411/411
+|-status|p1a: Reuniclus|psn
+|cant|p2a: Toxapex|par
+|
+|upkeep
+|turn|16
+|
+|t:|1616915106
+|switch|p2a: Jirachi|Jirachi|341/341
+|move|p1a: Reuniclus|Thunder|p2a: Jirachi
+|-damage|p2a: Jirachi|230/341
+|-status|p2a: Jirachi|par
+|
+|-heal|p2a: Jirachi|251/341 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Empo has 210 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915158
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|-sideend|p1: Empo|move: Toxic Spikes|[of] p1a: Toxapex
+|move|p2a: Jirachi|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|265/304
+|
+|-heal|p2a: Jirachi|272/341 par|[from] item: Leftovers
+|-heal|p1a: Toxapex|284/304|[from] item: Black Sludge
+|upkeep
+|turn|18
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915183
+|switch|p2a: Toxapex|Toxapex, F|304/304 par
+|switch|p1a: Hippowdon|Hippowdon, F|276/419
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|285/304 par|[from] Sandstorm
+|-heal|p1a: Hippowdon|302/419|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915217
+|move|p1a: Hippowdon|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|move|p2a: Toxapex|Knock Off|p1a: Hippowdon
+|-damage|p1a: Hippowdon|260/419
+|-enditem|p1a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|266/304 par|[from] Sandstorm
+|upkeep
+|turn|20
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915239
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|419/419
+|cant|p2a: Toxapex|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|247/304 par|[from] Sandstorm
+|upkeep
+|turn|21
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915254
+|switch|p2a: Landorus|Landorus-Therian, M|335/381 tox
+|-damage|p2a: Landorus|288/381 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|311/381 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|288/381 tox|[from] psn
+|upkeep
+|turn|22
+|inactive|Empo has 180 seconds left.
+|inactive|Lord_Enz has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1616915300
+|switch|p1a: Skarmory|Skarmory, M|333/333
+|move|p2a: Landorus|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Landorus|311/381 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|265/381 tox|[from] psn
+|upkeep
+|turn|23
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915315
+|switch|p2a: Blacephalon|Blacephalon|232/247
+|-damage|p2a: Blacephalon|171/247|[from] Stealth Rock
+|switch|p1a: Hippowdon|Hippowdon, F|419/419
+|-damage|p1a: Hippowdon|393/419|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blacephalon|156/247|[from] Sandstorm
+|upkeep
+|turn|24
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915331
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|move|p1a: Hippowdon|Earthquake|p2a: Mandibuzz
+|-immune|p2a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|25
+|inactive|Empo has 150 seconds left.
+|
+|t:|1616915371
+|move|p2a: Mandibuzz|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|359/419
+|
+|t:|1616915381
+|switch|p2a: Toxapex|Toxapex, F|304/304 par
+|-damage|p2a: Toxapex|266/304 par|[from] Stealth Rock
+|move|p1a: Hippowdon|Toxic||[still]
+|-fail|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|247/304 par|[from] Sandstorm
+|upkeep
+|turn|26
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915391
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|move|p1a: Hippowdon|Earthquake|p2a: Mandibuzz
+|-immune|p2a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|27
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915402
+|move|p2a: Mandibuzz|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|327/419
+|
+|t:|1616915407
+|switch|p2a: Toxapex|Toxapex, F|304/304 par
+|-damage|p2a: Toxapex|266/304 par|[from] Stealth Rock
+|move|p1a: Hippowdon|Toxic||[still]
+|-fail|p1a: Hippowdon
+|
+|-weather|none
+|upkeep
+|turn|28
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915416
+|move|p1a: Hippowdon|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|114/304 par
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|266/304 par
+|
+|upkeep
+|turn|29
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915430
+|switch|p1a: Tapu Koko|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|cant|p2a: Toxapex|par
+|
+|upkeep
+|turn|30
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915450
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|36/304 par
+|move|p2a: Toxapex|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|250/281
+|-enditem|p1a: Tapu Koko|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|31
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915466
+|switch|p2a: Jirachi|Jirachi|272/341 par
+|-damage|p2a: Jirachi|251/341 par|[from] Stealth Rock
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|194/341 par
+|
+|-heal|p2a: Jirachi|215/341 par|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616915484
+|switch|p2a: Landorus|Landorus-Therian, M|265/381 tox
+|-damage|p2a: Landorus|218/381 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Koko|atk|1
+|move|p1a: Tapu Koko|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|171/381 tox
+|inactive|Empo has 150 seconds left.
+|
+|t:|1616915528
+|switch|p1a: Hippowdon|Hippowdon, F|327/419
+|-damage|p1a: Hippowdon|301/419|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|194/381 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|171/381 tox|[from] psn
+|upkeep
+|turn|33
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616915555
+|move|p2a: Landorus|Toxic|p1a: Hippowdon
+|-status|p1a: Hippowdon|tox
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|419/419 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Landorus|194/381 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|148/381 tox|[from] psn
+|-damage|p1a: Hippowdon|393/419 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|34
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616915571
+|switch|p2a: Mandibuzz|Mandibuzz, F|423/423
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|419/419 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hippowdon|367/419 tox|[from] psn
+|upkeep
+|turn|35
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616915582
+|switch|p1a: Tapu Koko|Tapu Koko|250/281
+|-damage|p1a: Tapu Koko|215/281|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Mandibuzz|Defog|p1a: Tapu Koko
+|-unboost|p1a: Tapu Koko|evasion|1
+|-sideend|p1: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|-fieldend|move: Electric Terrain
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Koko|198/281|[from] Sandstorm
+|upkeep
+|turn|36
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616915596
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|189/423
+|move|p2a: Mandibuzz|U-turn|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|175/281
+|
+|t:|1616915604
+|switch|p2a: Panther Ausf.A|Kyurem|229/405
+|-ability|p2a: Panther Ausf.A|Pressure
+|
+|-weather|none
+|upkeep
+|turn|37
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616915632
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Panther Ausf.A
+|-supereffective|p2a: Panther Ausf.A
+|-damage|p2a: Panther Ausf.A|19/405
+|move|p2a: Panther Ausf.A|Roost|p2a: Panther Ausf.A
+|-heal|p2a: Panther Ausf.A|222/405
+|-singleturn|p2a: Panther Ausf.A|move: Roost
+|
+|upkeep
+|turn|38
+|
+|t:|1616915643
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Panther Ausf.A
+|-supereffective|p2a: Panther Ausf.A
+|-damage|p2a: Panther Ausf.A|6/405
+|move|p2a: Panther Ausf.A|Roost|p2a: Panther Ausf.A
+|-heal|p2a: Panther Ausf.A|209/405
+|-singleturn|p2a: Panther Ausf.A|move: Roost
+|
+|upkeep
+|turn|39
+|
+|t:|1616915661
+|switch|p2a: Jirachi|Jirachi|215/341 par
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|158/341 par
+|
+|-heal|p2a: Jirachi|179/341 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915703
+|move|p1a: Tapu Koko|U-turn|p2a: Jirachi
+|-damage|p2a: Jirachi|127/341 par
+|
+|t:|1616915707
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|cant|p2a: Jirachi|par
+|
+|-heal|p2a: Jirachi|148/341 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915724
+|switch|p1a: Hippowdon|Hippowdon, F|367/419 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|cant|p2a: Jirachi|par
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Jirachi|169/341 par|[from] item: Leftovers
+|-damage|p1a: Hippowdon|341/419 tox|[from] psn
+|upkeep
+|turn|42
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915734
+|move|p2a: Jirachi|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|230/419 tox
+|move|p1a: Hippowdon|Stealth Rock|p2a: Jirachi
+|-sidestart|p2: Lord_Enz|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Jirachi|190/341 par|[from] item: Leftovers
+|-damage|p1a: Hippowdon|178/419 tox|[from] psn
+|upkeep
+|turn|43
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915747
+|switch|p2a: Mandibuzz|Mandibuzz, F|189/423
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|285/304|[from] Sandstorm
+|-heal|p1a: Toxapex|304/304|[from] item: Black Sludge
+|upkeep
+|turn|44
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915766
+|move|p2a: Mandibuzz|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p2: Lord_Enz|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|move|p1a: Toxapex|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|171/423
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|285/304|[from] Sandstorm
+|-heal|p1a: Toxapex|304/304|[from] item: Black Sludge
+|upkeep
+|turn|45
+|
+|t:|1616915779
+|switch|p1a: Clefable|Clefable, M|354/394
+|move|p2a: Mandibuzz|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|338/394
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915790
+|switch|p2a: Jirachi|Jirachi|190/341 par
+|
+|-weather|none
+|-heal|p2a: Jirachi|211/341 par|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1616915800
+|switch|p1a: Skarmory|Skarmory, M|333/333
+|move|p2a: Jirachi|Zen Headbutt|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|297/333
+|-damage|p2a: Jirachi|155/341 par|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|-heal|p2a: Jirachi|176/341 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1616915823
+|move|p1a: Skarmory|Spikes|p2a: Jirachi
+|-sidestart|p2: Lord_Enz|Spikes
+|move|p2a: Jirachi|Zen Headbutt|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|261/333
+|-damage|p2a: Jirachi|120/341 par|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|-heal|p2a: Jirachi|141/341 par|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915849
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|switch|p2a: Mandibuzz|Mandibuzz, F|171/423
+|
+|upkeep
+|turn|49
+|inactive|Empo has 90 seconds left.
+|
+|t:|1616915859
+|switch|p1a: Tapu Koko|Tapu Koko|175/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Mandibuzz|Defog|p1a: Tapu Koko
+|-unboost|p1a: Tapu Koko|evasion|1
+|-sideend|p2: Lord_Enz|Spikes|[from] move: Defog|[of] p2a: Mandibuzz
+|-fieldend|move: Electric Terrain
+|
+|upkeep
+|turn|50
+|
+|t:|1616915869
+|switch|p2a: Toxapex|Toxapex, F|137/304 par
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1616915878
+|switch|p2a: Landorus|Landorus-Therian, M|148/381 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Koko|atk|1
+|turn|51
+|
+|t:|1616915887
+|move|p1a: Tapu Koko|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|127/381 tox
+|
+|t:|1616915895
+|switch|p1a: Skarmory|Skarmory, M|261/333
+|move|p2a: Landorus|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|-heal|p2a: Landorus|150/381 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|127/381 tox|[from] psn
+|upkeep
+|turn|52
+|inactive|Empo has 120 seconds left.
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915907
+|switch|p2a: Blacephalon|Blacephalon|156/247
+|move|p1a: Skarmory|Spikes|p2a: Blacephalon
+|-sidestart|p2: Lord_Enz|Spikes
+|
+|upkeep
+|turn|53
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915916
+|switch|p1a: Toxapex|Toxapex, F|304/304
+|-damage|p1a: Toxapex|266/304|[from] Stealth Rock
+|move|p2a: Blacephalon|Shadow Ball|p1a: Toxapex
+|-damage|p1a: Toxapex|121/304
+|
+|-heal|p1a: Toxapex|140/304|[from] item: Black Sludge
+|upkeep
+|turn|54
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915927
+|move|p2a: Blacephalon|Shadow Ball|p1a: Toxapex
+|-damage|p1a: Toxapex|14/304
+|move|p1a: Toxapex|Knock Off|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|-enditem|p2a: Blacephalon|Choice Specs|[from] move: Knock Off|[of] p1a: Toxapex
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Toxapex|33/304|[from] item: Black Sludge
+|upkeep
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915939
+|switch|p2a: Panther Ausf.A|Kyurem|209/405
+|-damage|p2a: Panther Ausf.A|159/405|[from] Spikes
+|-ability|p2a: Panther Ausf.A|Pressure
+|turn|55
+|inactive|Lord_Enz has 270 seconds left.
+|
+|t:|1616915966
+|switch|p1a: Clefable|Clefable, M|338/394
+|move|p2a: Panther Ausf.A|Roost|p2a: Panther Ausf.A
+|-heal|p2a: Panther Ausf.A|362/405
+|-singleturn|p2a: Panther Ausf.A|move: Roost
+|
+|upkeep
+|turn|56
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616915992
+|move|p2a: Panther Ausf.A|Freeze-Dry|p1a: Clefable
+|-damage|p1a: Clefable|194/394
+|move|p1a: Clefable|Moonblast|p2a: Panther Ausf.A
+|-supereffective|p2a: Panther Ausf.A
+|-damage|p2a: Panther Ausf.A|174/405
+|
+|upkeep
+|turn|57
+|inactive|Lord_Enz has 240 seconds left.
+|
+|t:|1616916001
+|move|p2a: Panther Ausf.A|Freeze-Dry|p1a: Clefable
+|-damage|p1a: Clefable|39/394
+|move|p1a: Clefable|Moonblast|p2a: Panther Ausf.A
+|-supereffective|p2a: Panther Ausf.A
+|-damage|p2a: Panther Ausf.A|0 fnt
+|faint|p2a: Panther Ausf.A
+|
+|upkeep
+|inactive|Lord_Enz has 240 seconds left.
+|c|☆Lord_Enz|gg
+|c|☆Empo|gg
+|-message|Lord_Enz forfeited.
+|
+|win|Empo
+

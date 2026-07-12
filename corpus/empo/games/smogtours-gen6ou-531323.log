@@ -1,0 +1,168 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1607354766
+|player|p1|FREE XIMRAPTOR|hilbert|
+|player|p2|Empo|swimmer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|6
+|tier|[Gen 6] OU
+|clearpoke
+|poke|p1|Volcanion|item
+|poke|p1|Metagross|item
+|poke|p1|Tornadus-Therian, M|item
+|poke|p1|Garchomp, F|item
+|poke|p1|Excadrill, M|item
+|poke|p1|Rotom-Wash|item
+|poke|p2|Shuckle, M|item
+|poke|p2|Scizor, M|item
+|poke|p2|Bisharp, F|item
+|poke|p2|Manaphy|item
+|poke|p2|Thundurus-Therian, M|item
+|poke|p2|Gengar, M|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|teampreview
+|c|+Xevara †|\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/
+|c|+Justamente|In
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|☆FREE XIMRAPTOR|hf
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607354847
+|start
+|switch|p1a: Volcanion|Volcanion|301/301
+|switch|p2a: Shuckle|Shuckle, M|243/243
+|turn|1
+|
+|t:|1607354852
+|move|p1a: Volcanion|Steam Eruption|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|45/243
+|-enditem|p2a: Shuckle|Red Card|[of] p1a: Volcanion
+|drag|p1a: Rotom|Rotom-Wash|303/303
+|move|p2a: Shuckle|Sticky Web|p1a: Rotom
+|-sidestart|p1: FREE XIMRAPTOR|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1607354860
+|switch|p2a: Banjiya Blues|Manaphy|404/404
+|move|p1a: Rotom|Hydro Pump|p2a: Banjiya Blues
+|-resisted|p2a: Banjiya Blues
+|-damage|p2a: Banjiya Blues|330/404
+|
+|-heal|p2a: Banjiya Blues|355/404|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1607354867
+|switch|p2a: Thundurus|Thundurus-Therian, M|301/301
+|move|p1a: Rotom|Volt Switch|p2a: Thundurus
+|-immune|p2a: Thundurus|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1607354875
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|move|p1a: Rotom|Hydro Pump|p2a: Thundurus
+|-damage|p2a: Thundurus|142/301
+|-enditem|p2a: Thundurus|Sitrus Berry|[eat]
+|-heal|p2a: Thundurus|217/301|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|5
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607354952
+|switch|p1a: Excadrill|Excadrill, M|361/361
+|-activate|p1a: Excadrill|move: Sticky Web
+|-unboost|p1a: Excadrill|spe|1
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Thundurus|Thunderbolt|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|6
+|
+|t:|1607354959
+|switch|p1a: Tornadus|Tornadus-Therian, M|357/357
+|move|p2a: Thundurus|Focus Blast|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|224/357
+|
+|upkeep
+|turn|7
+|inactive|Empo has 240 seconds left.
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|
+|t:|1607355008
+|move|p1a: Tornadus|U-turn|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|182/301
+|
+|t:|1607355011
+|switch|p1a: Excadrill|Excadrill, M|361/361
+|-activate|p1a: Excadrill|move: Sticky Web
+|-unboost|p1a: Excadrill|spe|1
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Thundurus|Hidden Power|p1a: Excadrill
+|-damage|p1a: Excadrill|136/361
+|
+|upkeep
+|turn|8
+|
+|t:|1607355024
+|switch|p1a: Tornadus|Tornadus-Therian, M|343/357
+|move|p2a: Thundurus|Hidden Power|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|c|☆FREE XIMRAPTOR|cmom
+|c|☆FREE XIMRAPTOR|im hp ice
+|inactive|FREE XIMRAPTOR has 180 seconds left.
+|
+|t:|1607355068
+|switch|p1a: Metagross|Metagross|301/301
+|-activate|p1a: Metagross|move: Sticky Web
+|-fail|p1a: Metagross|unboost|[from] ability: Clear Body|[of] p1a: Metagross
+|turn|9
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607355103
+|detailschange|p1a: Metagross|Metagross-Mega
+|-mega|p1a: Metagross|Metagross|Metagrossite
+|move|p2a: Thundurus|Thunderbolt|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|upkeep
+|c|☆FREE XIMRAPTOR|star
+|c|☆FREE XIMRAPTOR|can you shut
+|c|☆FREE XIMRAPTOR|ity wasnt over
+|c|☆FREE XIMRAPTOR|but whatever
+|c|☆FREE XIMRAPTOR|ggs
+|c|☆Empo|ggs
+|-message|FREE XIMRAPTOR forfeited.
+|
+|win|Empo
+

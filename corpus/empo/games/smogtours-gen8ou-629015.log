@@ -1,0 +1,394 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1653851001
+|gametype|singles
+|player|p1|Empo|#empo|
+|player|p2|JP192|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Blacephalon|
+|poke|p2|Skarmory, M|
+|teampreview
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆JP192|hf
+|c|☆Empo|hf
+|inactive|Empo has 270 seconds left.
+|inactive|JP192 has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653851165
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|341/341
+|switch|p2a: Hippowdon|Hippowdon, F|420/420
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|JP192 has 270 seconds left.
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851224
+|switch|p2a: Toxapex|Toxapex, F|304/304
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|239/304
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653851264
+|switch|p1a: Tapu Lele|Tapu Lele|281/281
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|264/281|[from] Sandstorm
+|-damage|p2a: Toxapex|220/304|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1653851272
+|switch|p2a: Excadrill|Excadrill, F|361/361
+|move|p1a: Tapu Lele|Future Sight|p2a: Excadrill
+|-start|p1a: Tapu Lele|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|247/281|[from] Sandstorm
+|upkeep
+|turn|3
+|inactive|Empo has 180 seconds left.
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653851336
+|switch|p1a: pastato|Garchomp, M|357/357
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1653851342
+|switch|p1a: Zapdos|Zapdos|384/384
+|move|p2a: Excadrill|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|360/384|[from] Sandstorm
+|-end|p2a: Excadrill|move: Future Sight
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|147/361
+|-heal|p2a: Excadrill|169/361|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1653851355
+|move|p2a: Excadrill|Iron Head|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|212/384
+|move|p1a: Zapdos|Hurricane|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|49/361
+|
+|-weather|none
+|-heal|p2a: Excadrill|71/361|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1653851365
+|switch|p2a: Hippowdon|Hippowdon, F|420/420
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|276/420
+|-start|p2a: Hippowdon|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|188/384|[from] Sandstorm
+|-heal|p2a: Hippowdon|302/420|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851384
+|switch|p1a: pastato|Garchomp, M|357/357
+|-activate|p2a: Hippowdon|confusion
+|move|p2a: Hippowdon|Stealth Rock|p1a: pastato
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|328/420|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851401
+|switch|p2a: Clefable|Clefable, F|394/394
+|move|p1a: pastato|Swords Dance|p1a: pastato
+|-boost|p1a: pastato|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851408
+|move|p1a: pastato|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|103/394
+|move|p2a: Clefable|Moonblast|p1a: pastato
+|-supereffective|p1a: pastato
+|-damage|p1a: pastato|14/357
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: pastato|36/357|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653851503
+|move|p1a: pastato|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|none
+|-heal|p1a: pastato|58/357|[from] item: Leftovers
+|upkeep
+|
+|t:|1653851510
+|switch|p2a: Blacephalon|Blacephalon|247/247
+|turn|11
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653851521
+|switch|p1a: Melmetal|Melmetal|411/411
+|-damage|p1a: Melmetal|386/411|[from] Stealth Rock
+|move|p2a: Blacephalon|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|127/411
+|
+|-heal|p1a: Melmetal|152/411|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653851532
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Blacephalon|Shadow Ball|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|177/411|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653851550
+|switch|p1a: pastato|Garchomp, M|58/357
+|-damage|p1a: pastato|36/357|[from] Stealth Rock
+|move|p2a: Blacephalon|Shadow Ball|p1a: pastato
+|-damage|p1a: pastato|0 fnt
+|faint|p1a: pastato
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1653851552
+|switch|p1a: Tapu Lele|Tapu Lele|247/281
+|-damage|p1a: Tapu Lele|212/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|14
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851570
+|switch|p2a: Hippowdon|Hippowdon, F|328/420
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Tapu Lele|Psyshock|p2a: Hippowdon
+|-damage|p2a: Hippowdon|148/420
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|195/281|[from] Sandstorm
+|-heal|p2a: Hippowdon|174/420|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|JP192 has 240 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653851606
+|move|p1a: Tapu Lele|Psyshock|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|178/281|[from] Sandstorm
+|upkeep
+|inactive|JP192 has 210 seconds left.
+|
+|t:|1653851628
+|switch|p2a: Excadrill|Excadrill, F|71/361
+|turn|16
+|inactive|JP192 has 210 seconds left.
+|
+|t:|1653851646
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Tapu Lele|Psyshock|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|161/281|[from] Sandstorm
+|upkeep
+|
+|t:|1653851650
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|turn|17
+|inactive|JP192 has 210 seconds left.
+|
+|t:|1653851658
+|switch|p2a: Blacephalon|Blacephalon|247/247
+|move|p1a: Tapu Lele|Psyshock|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|144/281|[from] Sandstorm
+|upkeep
+|
+|t:|1653851662
+|switch|p2a: Skarmory|Skarmory, M, shiny|334/334
+|turn|18
+|
+|t:|1653851666
+|switch|p1a: Zapdos|Zapdos|188/384
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|19
+|
+|t:|1653851673
+|move|p1a: Zapdos|Volt Switch|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|86/334
+|
+|t:|1653851676
+|switch|p1a: Tapu Lele|Tapu Lele|144/281
+|-damage|p1a: Tapu Lele|109/281|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Skarmory|Body Press|p1a: Tapu Lele
+|-resisted|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|44/281
+|
+|upkeep
+|turn|20
+|inactive|JP192 has 240 seconds left.
+|
+|t:|1653851683
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1653851686
+|switch|p2a: Toxapex|Toxapex, F|304/304
+|turn|21
+|
+|t:|1653851688
+|switch|p1a: Zapdos|Zapdos|188/384
+|move|p2a: Toxapex|Toxic Spikes|p1a: Zapdos
+|-sidestart|p1: Empo|move: Toxic Spikes
+|
+|upkeep
+|turn|22
+|c|☆JP192|gg
+|c|☆Empo|gg
+|
+|t:|1653851693
+|move|p1a: Zapdos|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Empo|Toxic Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-fieldend|move: Psychic Terrain
+|move|p2a: Toxapex|Poison Jab|p1a: Zapdos
+|-damage|p1a: Zapdos|127/384
+|
+|upkeep
+|turn|23
+|inactive|JP192 has 270 seconds left.
+|
+|t:|1653851698
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|319/384
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Toxapex|Poison Jab|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|228/384
+|
+|upkeep
+|turn|24
+|
+|t:|1653851699
+|move|p1a: Zapdos|Hurricane|p2a: Toxapex
+|-damage|p2a: Toxapex|211/304
+|move|p2a: Toxapex|Poison Jab|p1a: Zapdos
+|-damage|p1a: Zapdos|174/384
+|
+|upkeep
+|turn|25
+|
+|t:|1653851704
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|97/304
+|
+|t:|1653851705
+|switch|p1a: Tapu Lele|Tapu Lele|44/281
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Toxapex|Poison Jab|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1653851707
+|switch|p1a: Zapdos|Zapdos|174/384
+|turn|26
+|
+|t:|1653851709
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|win|Empo
+

@@ -1,0 +1,443 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|Christo|#christothegr8|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Chandelure, M|
+|poke|p1|Dugtrio, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Ditto|
+|poke|p2|Seismitoad, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, F|
+|poke|p2|Aegislash, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Hydreigon, M|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|+qsns|EMPO
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|inactive|Christo has 270 seconds left.
+|
+|start
+|switch|p1a: Ditto|Ditto|100/100
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-transform|p1a: Ditto|p2a: Aegislash|[from] ability: Imposter
+|turn|1
+|
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Corviknight
+|-damage|p1a: Corviknight|52/100
+|-unboost|p1a: Corviknight|spd|1
+|
+|-heal|p1a: Corviknight|58/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|switch|p1a: Dugtrio|Dugtrio, M|100/100
+|move|p2a: Aegislash|Shadow Ball|p1a: Dugtrio
+|-enditem|p1a: Dugtrio|Focus Sash
+|-damage|p1a: Dugtrio|1/100
+|
+|upkeep
+|turn|3
+|
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Dugtrio|Stealth Rock|p2a: Seismitoad
+|-sidestart|p2: Christo|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Seismitoad|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|83/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Seismitoad
+|
+|upkeep
+|turn|5
+|
+|move|p2a: Seismitoad|Scald|p1a: Hatterene
+|-damage|p1a: Hatterene|58/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|upkeep
+|turn|6
+|
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-damage|p2a: Aegislash|95/100|[from] Stealth Rock
+|move|p1a: Hatterene|Mystical Fire|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|32/100
+|-unboost|p2a: Aegislash|spa|1
+|
+|upkeep
+|turn|7
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Toxapex
+|-damage|p1a: Toxapex|59/100
+|
+|-heal|p1a: Toxapex|65/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|inactive|Empo has 270 seconds left.
+|
+|switch|p2a: Clefable|Clefable, F|100/100
+|switch|p1a: Corviknight|Corviknight, M|58/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p1a: Corviknight|64/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Corviknight|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|
+|-heal|p1a: Corviknight|70/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|switch|p1a: Dugtrio|Dugtrio, M|1/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|11
+|
+|move|p1a: Dugtrio|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|62/100
+|move|p2a: Clefable|Moonblast|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|
+|upkeep
+|
+|switch|p1a: Chandelure|Chandelure, M|100/100
+|turn|12
+|
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|move|p1a: Chandelure|Overheat|p2a: Seismitoad
+|-resisted|p2a: Seismitoad
+|-damage|p2a: Seismitoad|33/100
+|-unboost|p1a: Chandelure|spa|2
+|
+|-heal|p2a: Seismitoad|39/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|switch|p1a: Toxapex|Toxapex, F|99/100
+|move|p2a: Seismitoad|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|88/100
+|
+|-heal|p2a: Seismitoad|45/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|95/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|inactive|Empo has 270 seconds left.
+|
+|move|p2a: Seismitoad|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|83/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Seismitoad
+|move|p1a: Toxapex|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|
+|-heal|p2a: Seismitoad|51/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|45/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|move|p2a: Seismitoad|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|40/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|90/100
+|
+|-heal|p2a: Seismitoad|51/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|39/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|switch|p1a: Hatterene|Hatterene, F|58/100
+|move|p2a: Seismitoad|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock||[from]Magic Bounce|[still]
+|-fail|p1a: Hatterene
+|
+|-heal|p2a: Seismitoad|45/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|27/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|move|p1a: Hatterene|Mystical Fire|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|90/100
+|-unboost|p2a: Rotom|spa|1
+|
+|upkeep
+|turn|18
+|
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Chandelure|Chandelure, M|100/100
+|
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|move|p1a: Chandelure|Flamethrower|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|43/100
+|
+|upkeep
+|turn|20
+|
+|switch|p1a: Corviknight|Corviknight, M|70/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Hydreigon|Dark Pulse|p1a: Corviknight
+|-damage|p1a: Corviknight|43/100
+|
+|-heal|p1a: Corviknight|49/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|switch|p2a: Rotom|Rotom-Heat|90/100
+|move|p1a: Corviknight|U-turn|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|82/100
+|
+|switch|p1a: Chandelure|Chandelure, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|22
+|
+|switch|p2a: Seismitoad|Seismitoad, M|27/100 tox
+|-damage|p2a: Seismitoad|21/100 tox|[from] Stealth Rock
+|move|p1a: Chandelure|Shadow Ball|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|upkeep
+|
+|switch|p2a: Corviknight|Corviknight, F|94/100
+|-damage|p2a: Corviknight|82/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|23
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|27/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|77/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|84/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|-unboost|p2a: Corviknight|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|8/100
+|move|p2a: Corviknight|Defog|p1a: Chandelure
+|-unboost|p1a: Chandelure|evasion|1
+|-sideend|p2: Christo|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p2a: Corviknight|15/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|switch|p2a: Hydreigon|Hydreigon, M|43/100
+|turn|27
+|
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Hydreigon|[from] ability: Imposter
+|move|p2a: Hydreigon|U-turn|p1a: Ditto
+|-supereffective|p1a: Ditto
+|-crit|p1a: Ditto
+|-damage|p1a: Ditto|45/100
+|
+|switch|p2a: Clefable|Clefable, F|62/100|[from]move: U-turn
+|
+|upkeep
+|turn|28
+|
+|move|p1a: Ditto|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|52/100
+|
+|switch|p1a: Chandelure|Chandelure, M|100/100|[from]move: U-turn
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|29
+|
+|switch|p2a: Hydreigon|Hydreigon, M|43/100
+|move|p1a: Chandelure|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|3/100
+|
+|upkeep
+|turn|30
+|
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|65/100
+|
+|upkeep
+|turn|31
+|
+|switch|p2a: Aegislash|Aegislash, M|32/100
+|switch|p1a: Corviknight|Corviknight, M|49/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p1a: Corviknight|55/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Corviknight
+|-damage|p1a: Corviknight|9/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|59/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|65/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|move|p2a: Aegislash|Shadow Ball|p1a: Corviknight
+|-damage|p1a: Corviknight|19/100
+|-unboost|p1a: Corviknight|spd|1
+|move|p1a: Corviknight|U-turn|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|24/100
+|
+|switch|p1a: Chandelure|Chandelure, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|34
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|switch|p2a: Hydreigon|Hydreigon, M|3/100
+|turn|35
+|
+|switch|p1a: Toxapex|Toxapex, F|98/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100
+|
+|upkeep
+|turn|36
+|
+|move|p2a: Hydreigon|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|30/100
+|cant|p1a: Toxapex|flinch
+|
+|upkeep
+|turn|37
+|
+|switch|p1a: Ditto|Ditto|45/100
+|-transform|p1a: Ditto|p2a: Hydreigon|[from] ability: Imposter
+|move|p2a: Hydreigon|Dark Pulse|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|19/100
+|
+|upkeep
+|turn|38
+|
+|move|p1a: Ditto|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|switch|p1a: Chandelure|Chandelure, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|switch|p2a: Rotom|Rotom-Heat|82/100
+|turn|39
+|
+|move|p2a: Rotom|Discharge|p1a: Chandelure
+|-damage|p1a: Chandelure|59/100
+|move|p1a: Chandelure|Shadow Ball|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|40
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|36/100
+|move|p2a: Clefable|Thunderbolt|p1a: Chandelure
+|-crit|p1a: Chandelure
+|-damage|p1a: Chandelure|7/100
+|
+|upkeep
+|turn|41
+|c|☆Empo|lets go ruiners
+|c|☆Empo|gg
+|
+|move|p1a: Chandelure|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|win|Empo
+|player|p2|Christo|#christothegr8
+|player|p2|
+|player|p2|Christo|#christothegr8
+|player|p2|
+|player|p2|Christo|#christothegr8
+|player|p2|

@@ -1,0 +1,389 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1616246100
+|player|p1|Nat|#nat|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Scizor, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Hippowdon, F|
+|poke|p2|Clefable, F|
+|poke|p2|Skarmory, F|
+|poke|p2|Reuniclus, F|
+|poke|p2|Toxapex, F|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|+a hero's destiny|'-'
+|c|☆Empo|hf
+|c|+Askov|in
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Nat|hf
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1616246183
+|start
+|switch|p1a: Azalea|Scizor, M|281/281
+|switch|p2a: Tapu Koko|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|inactive|Empo has 270 seconds left.
+|inactive|Nat has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1616246312
+|move|p2a: Tapu Koko|U-turn|p1a: Azalea
+|-resisted|p1a: Azalea
+|-damage|p1a: Azalea|253/281
+|
+|t:|1616246313
+|switch|p2a: Skarmory|Skarmory, F|333/333
+|move|p1a: Azalea|Swords Dance|p1a: Azalea
+|-boost|p1a: Azalea|atk|2
+|
+|upkeep
+|turn|2
+|inactive|Nat has 270 seconds left.
+|
+|t:|1616246336
+|move|p1a: Azalea|Knock Off|p2a: Skarmory
+|-damage|p2a: Skarmory|164/333
+|-damage|p1a: Azalea|207/281|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-enditem|p2a: Skarmory|Rocky Helmet|[from] move: Knock Off|[of] p1a: Azalea
+|-damage|p1a: Azalea|179/281|[from] item: Life Orb
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|331/333
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|3
+|inactive|Nat has 270 seconds left.
+|
+|t:|1616246352
+|move|p1a: Azalea|Swords Dance|p1a: Azalea
+|-boost|p1a: Azalea|atk|2
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|4
+|inactive|Nat has 270 seconds left.
+|
+|t:|1616246379
+|switch|p1a: Bloodflower|Volcarona, F|311/311
+|move|p2a: Skarmory|Spikes|p1a: Bloodflower
+|-sidestart|p1: Nat|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1616246385
+|switch|p2a: Hippowdon|Hippowdon, F|419/419
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Bloodflower|Quiver Dance|p1a: Bloodflower
+|-boost|p1a: Bloodflower|spa|1
+|-boost|p1a: Bloodflower|spd|1
+|-boost|p1a: Bloodflower|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bloodflower|292/311|[from] Sandstorm
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1616246410
+|move|p1a: Bloodflower|Flamethrower|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|100/419
+|move|p2a: Hippowdon|Toxic|p1a: Bloodflower
+|-status|p1a: Bloodflower|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bloodflower|273/311 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|126/419|[from] item: Leftovers
+|-damage|p1a: Bloodflower|254/311 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Nat has 270 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1616246441
+|switch|p2a: Reuniclus|Reuniclus, F|411/411
+|move|p1a: Bloodflower|Psychic|p2a: Reuniclus
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|344/411
+|-unboost|p2a: Reuniclus|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bloodflower|235/311 tox|[from] Sandstorm
+|-heal|p2a: Reuniclus|369/411|[from] item: Leftovers
+|-damage|p1a: Bloodflower|197/311 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1616246459
+|switch|p2a: Toxapex|Toxapex, F|304/304
+|move|p1a: Bloodflower|Flamethrower|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|232/304
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bloodflower|178/311 tox|[from] Sandstorm
+|-damage|p2a: Toxapex|213/304|[from] Sandstorm
+|-heal|p2a: Toxapex|232/304|[from] item: Black Sludge
+|-damage|p1a: Bloodflower|121/311 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1616246482
+|move|p1a: Bloodflower|Psychic|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|52/304
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|204/304
+|
+|-weather|none
+|-heal|p2a: Toxapex|223/304|[from] item: Black Sludge
+|-damage|p1a: Bloodflower|45/311 tox|[from] psn
+|upkeep
+|turn|10
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616246500
+|switch|p1a: Crownvetch|Garchomp, M|357/357
+|-damage|p1a: Crownvetch|313/357|[from] Spikes
+|switch|p2a: Reuniclus|Reuniclus, F|369/411
+|
+|-heal|p2a: Reuniclus|394/411|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616246514
+|move|p1a: Crownvetch|Stealth Rock|p2a: Reuniclus
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Reuniclus|Psyshock|p1a: Crownvetch
+|-crit|p1a: Crownvetch
+|-damage|p1a: Crownvetch|121/357
+|
+|-heal|p2a: Reuniclus|411/411|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Empo has 120 seconds left.
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616246551
+|switch|p1a: Bloodflower|Volcarona, F|45/311 tox
+|move|p2a: Reuniclus|Psyshock|p1a: Bloodflower
+|-damage|p1a: Bloodflower|0 fnt
+|faint|p1a: Bloodflower
+|
+|upkeep
+|
+|t:|1616246558
+|switch|p1a: Azalea|Scizor, M|179/281
+|-damage|p1a: Azalea|144/281|[from] Spikes
+|turn|13
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616246572
+|move|p1a: Azalea|Swords Dance|p1a: Azalea
+|-boost|p1a: Azalea|atk|2
+|move|p2a: Reuniclus|Thunder|p1a: Azalea
+|-damage|p1a: Azalea|8/281
+|-status|p1a: Azalea|par
+|
+|upkeep
+|turn|14
+|inactive|Nat has 240 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1616246599
+|switch|p2a: Hippowdon|Hippowdon, F|126/419
+|-damage|p2a: Hippowdon|100/419|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Azalea|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-enditem|p2a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p1a: Azalea
+|-damage|p1a: Azalea|0 fnt|[from] item: Life Orb
+|faint|p2a: Hippowdon
+|faint|p1a: Azalea
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1616246615
+|switch|p1a: Toloache|Weavile, F|281/281
+|switch|p2a: Skarmory|Skarmory, F|331/333
+|-damage|p2a: Skarmory|290/333|[from] Stealth Rock
+|turn|15
+|
+|t:|1616246623
+|move|p1a: Toloache|Triple Axel|p2a: Skarmory
+|-damage|p2a: Skarmory|271/333
+|-damage|p2a: Skarmory|232/333
+|-damage|p2a: Skarmory|168/333
+|-hitcount|p2a: Skarmory|3
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toloache|264/281|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1616246632
+|move|p1a: Toloache|Swords Dance|p1a: Toloache
+|-boost|p1a: Toloache|atk|2
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|333/333
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toloache|247/281|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1616246636
+|move|p1a: Toloache|Triple Axel|p2a: Skarmory
+|-damage|p2a: Skarmory|314/333
+|-damage|p2a: Skarmory|275/333
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|113/333
+|-hitcount|p2a: Skarmory|3
+|move|p2a: Skarmory|Body Press|p1a: Toloache
+|-supereffective|p1a: Toloache
+|-damage|p1a: Toloache|0 fnt
+|faint|p1a: Toloache
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616246651
+|switch|p1a: Crownvetch|Garchomp, M|121/357
+|-damage|p1a: Crownvetch|77/357|[from] Spikes
+|turn|18
+|inactive|Nat has 240 seconds left.
+|
+|t:|1616246674
+|switch|p1a: Lily of the Valley|Rillaboom, F|341/341
+|-damage|p1a: Lily of the Valley|299/341|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Lily of the Valley
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|280/333
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-weather|none
+|-heal|p1a: Lily of the Valley|320/341|[from] Grassy Terrain
+|-heal|p2a: Skarmory|300/333|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1616246678
+|switch|p1a: Poinsettia|Hawlucha, M|308/308
+|-enditem|p1a: Poinsettia|Grassy Seed
+|-boost|p1a: Poinsettia|def|1|[from] item: Grassy Seed
+|move|p2a: Skarmory|Body Press|p1a: Poinsettia
+|-resisted|p1a: Poinsettia
+|-damage|p1a: Poinsettia|207/308
+|
+|upkeep
+|turn|20
+|
+|t:|1616246682
+|switch|p2a: Clefable|Clefable, F|394/394
+|move|p1a: Poinsettia|Swords Dance|p1a: Poinsettia
+|-boost|p1a: Poinsettia|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1616246686
+|move|p1a: Poinsettia|Acrobatics|p2a: Clefable
+|-damage|p2a: Clefable|108/394
+|move|p2a: Clefable|Moonblast|p1a: Poinsettia
+|-supereffective|p1a: Poinsettia
+|-damage|p1a: Poinsettia|0 fnt
+|faint|p1a: Poinsettia
+|
+|-heal|p2a: Clefable|132/394|[from] Grassy Terrain
+|-heal|p2a: Clefable|156/394|[from] item: Leftovers
+|upkeep
+|
+|t:|1616246687
+|switch|p1a: Lily of the Valley|Rillaboom, F|320/341
+|-damage|p1a: Lily of the Valley|278/341|[from] Spikes
+|turn|22
+|
+|t:|1616246691
+|move|p1a: Lily of the Valley|Swords Dance|p1a: Lily of the Valley
+|-boost|p1a: Lily of the Valley|atk|2
+|move|p2a: Clefable|Moonblast|p1a: Lily of the Valley
+|-damage|p1a: Lily of the Valley|133/341
+|
+|-heal|p1a: Lily of the Valley|154/341|[from] Grassy Terrain
+|-heal|p2a: Clefable|180/394|[from] Grassy Terrain
+|-heal|p2a: Clefable|204/394|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1616246695
+|move|p1a: Lily of the Valley|Grassy Glide|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-damage|p1a: Lily of the Valley|120/341|[from] item: Life Orb
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1616246696
+|switch|p2a: Tapu Koko|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|24
+|
+|t:|1616246699
+|switch|p1a: Crownvetch|Garchomp, M|77/357
+|-damage|p1a: Crownvetch|33/357|[from] Spikes
+|move|p2a: Tapu Koko|U-turn|p1a: Crownvetch
+|-damage|p1a: Crownvetch|0 fnt
+|-damage|p2a: Tapu Koko|246/281|[from] ability: Rough Skin|[of] p1a: Crownvetch
+|faint|p1a: Crownvetch
+|
+|t:|1616246700
+|switch|p2a: Skarmory|Skarmory, F|300/333
+|-damage|p2a: Skarmory|259/333|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1616246702
+|switch|p1a: Lily of the Valley|Rillaboom, F|120/341
+|-damage|p1a: Lily of the Valley|78/341|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Lily of the Valley
+|turn|25
+|c|☆Nat|p bad showing
+|c|☆Empo|ggs
+|c|☆Nat|gl in finals
+|c|☆Empo|ty
+|c|☆Nat|gg
+|-message|Nat forfeited.
+|
+|win|Empo
+

@@ -1,0 +1,461 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1612547914
+|player|p1|Robjr|265|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Alakazam, M|item
+|poke|p1|Heatran, M|item
+|poke|p1|Tapu Koko|item
+|poke|p1|Tangrowth, M|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Tyranitar, M|item
+|poke|p2|Victini|item
+|poke|p2|Weavile, M|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Ferrothorn, M|item
+|poke|p2|Lopunny, F|item
+|poke|p2|Tapu Fini|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|☆Robjr|hf
+|c|☆Empo|hf
+|inactive|Robjr has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|+SweetPosho|category: gaming
+|inactive|Robjr has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Robjr has 210 seconds left.
+|c|+frania|gl empoleon
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|
+|t:|1612548022
+|start
+|switch|p1a: Heatran|Heatran, M|386/386
+|switch|p2a: Brand New House|Lopunny, F, shiny|271/271
+|turn|1
+|
+|t:|1612548033
+|switch|p1a: Landorus|Landorus-Therian, M|333/333
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Brand New House|atk|1
+|detailschange|p2a: Brand New House|Lopunny-Mega, F, shiny
+|-mega|p2a: Brand New House|Lopunny|Lopunnite
+|move|p2a: Brand New House|Frustration|p1a: Landorus
+|-damage|p1a: Landorus|203/333
+|
+|upkeep
+|turn|2
+|
+|t:|1612548046
+|switch|p2a: dons meetup|Landorus-Therian, M, shiny|382/382
+|-ability|p2a: dons meetup|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: dons meetup
+|-resisted|p2a: dons meetup
+|-damage|p2a: dons meetup|362/382
+|-damage|p1a: Landorus|148/333|[from] item: Rocky Helmet|[of] p2a: dons meetup
+|
+|t:|1612548053
+|switch|p1a: Alakazam|Alakazam, M|251/251
+|
+|upkeep
+|turn|3
+|inactive|Empo has 270 seconds left.
+|
+|t:|1612548090
+|switch|p1a: Tyranitar|Tyranitar, M|341/341
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: To Be Continued|Victini|397/397
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: To Be Continued|373/397|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|Empo has 270 seconds left.
+|inactive|Robjr has 240 seconds left.
+|
+|t:|1612548127
+|move|p2a: To Be Continued|Power-Up Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|189/341
+|-boost|p2a: To Be Continued|atk|1
+|move|p1a: Tyranitar|Pursuit|p2a: To Be Continued
+|-supereffective|p2a: To Be Continued
+|-damage|p2a: To Be Continued|113/397
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: To Be Continued|89/397|[from] Sandstorm
+|upkeep
+|turn|5
+|inactive|Robjr has 210 seconds left.
+|inactive|Robjr has 180 seconds left.
+|
+|t:|1612548200
+|switch|p1a: Heatran|Heatran, M|386/386
+|move|p2a: To Be Continued|V-create|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: To Be Continued|65/397|[from] Sandstorm
+|upkeep
+|turn|6
+|inactive|Empo has 240 seconds left.
+|inactive|Robjr has 150 seconds left.
+|
+|t:|1612548237
+|move|p2a: To Be Continued|Bolt Strike|p1a: Heatran
+|-damage|p1a: Heatran|201/386
+|move|p1a: Heatran|Stealth Rock|p2a: To Be Continued
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: To Be Continued|41/397|[from] Sandstorm
+|-heal|p1a: Heatran|225/386|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Robjr has 150 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1612548268
+|move|p2a: To Be Continued|Bolt Strike|p1a: Heatran
+|-damage|p1a: Heatran|7/386
+|move|p1a: Heatran|Earth Power|p2a: To Be Continued
+|-supereffective|p2a: To Be Continued
+|-damage|p2a: To Be Continued|0 fnt
+|faint|p2a: To Be Continued
+|
+|-weather|none
+|-heal|p1a: Heatran|31/386|[from] item: Leftovers
+|upkeep
+|inactive|Empo has 180 seconds left.
+|
+|t:|1612548305
+|switch|p2a: Brand New House|Lopunny-Mega, F, shiny|271/271
+|-damage|p2a: Brand New House|255/271|[from] Stealth Rock
+|turn|8
+|inactive|Robjr has 150 seconds left.
+|inactive|Robjr has 120 seconds left.
+|
+|t:|1612548359
+|move|p2a: Brand New House|Frustration|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1612548363
+|switch|p1a: Alakazam|Alakazam, M|251/251
+|turn|9
+|inactive|Robjr has 120 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1612548426
+|switch|p2a: issou praying|Ferrothorn, M, shiny|352/352
+|-damage|p2a: issou praying|330/352|[from] Stealth Rock
+|detailschange|p1a: Alakazam|Alakazam-Mega, M
+|-mega|p1a: Alakazam|Alakazam|Alakazite
+|-ability|p1a: Alakazam|Iron Barbs|[from] ability: Trace|[of] p2a: issou praying
+|move|p1a: Alakazam|Focus Blast|p2a: issou praying|[miss]
+|-miss|p1a: Alakazam|p2a: issou praying
+|
+|-heal|p2a: issou praying|352/352|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1612548443
+|switch|p2a: Itsuki|Tapu Fini, shiny|344/344
+|-damage|p2a: Itsuki|301/344|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Itsuki
+|move|p1a: Alakazam|Focus Blast|p2a: Itsuki
+|-resisted|p2a: Itsuki
+|-damage|p2a: Itsuki|227/344
+|-unboost|p2a: Itsuki|spd|1
+|
+|-heal|p2a: Itsuki|248/344|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Robjr has 90 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1612548497
+|switch|p2a: issou praying|Ferrothorn, M, shiny|352/352
+|-damage|p2a: issou praying|330/352|[from] Stealth Rock
+|move|p1a: Alakazam|Psychic|p2a: issou praying
+|-resisted|p2a: issou praying
+|-damage|p2a: issou praying|264/352
+|
+|-heal|p2a: issou praying|286/352|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Robjr has 60 seconds left.
+|
+|t:|1612548514
+|switch|p1a: Tangrowth|Tangrowth, M|404/404
+|move|p2a: issou praying|Power Whip|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-damage|p1a: Tangrowth|350/404
+|
+|-heal|p2a: issou praying|308/352|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Empo has 120 seconds left.
+|
+|t:|1612548537
+|switch|p2a: dons meetup|Landorus-Therian, M, shiny|362/382
+|-damage|p2a: dons meetup|315/382|[from] Stealth Rock
+|-ability|p2a: dons meetup|Intimidate|boost
+|-unboost|p1a: Tangrowth|atk|1
+|move|p1a: Tangrowth|Knock Off|p2a: dons meetup
+|-damage|p2a: dons meetup|275/382
+|-damage|p1a: Tangrowth|283/404|[from] item: Rocky Helmet|[of] p2a: dons meetup
+|-enditem|p2a: dons meetup|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tangrowth
+|
+|upkeep
+|turn|14
+|inactive|Robjr has 60 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1612548579
+|switch|p1a: Tapu Koko|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: dons meetup|Stealth Rock|p1a: Tapu Koko
+|-sidestart|p1: Robjr|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|inactive|Robjr has 30 seconds left.
+|
+|t:|1612548602
+|move|p1a: Tapu Koko|Hidden Power|p2a: dons meetup
+|-supereffective|p2a: dons meetup
+|-damage|p2a: dons meetup|27/382
+|move|p2a: dons meetup|U-turn|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|232/281
+|
+|t:|1612548615
+|switch|p2a: Brand New House|Lopunny-Mega, F, shiny|255/271
+|-damage|p2a: Brand New House|239/271|[from] Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1612548625
+|switch|p1a: Tyranitar|Tyranitar, M|189/341
+|-damage|p1a: Tyranitar|147/341|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Brand New House|Frustration|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|53/341
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Brand New House|223/271|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1612548634
+|move|p2a: Brand New House|Frustration|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Brand New House|207/271|[from] Sandstorm
+|upkeep
+|
+|t:|1612548638
+|switch|p1a: Alakazam|Alakazam-Mega, M|251/251
+|-damage|p1a: Alakazam|220/251|[from] Stealth Rock
+|-ability|p1a: Alakazam|Scrappy|[from] ability: Trace|[of] p2a: Brand New House
+|turn|18
+|inactive|Robjr has 30 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1612548685
+|switch|p2a: dons meetup|Landorus-Therian, M, shiny|27/382
+|-damage|p2a: dons meetup|0 fnt|[from] Stealth Rock
+|faint|p2a: dons meetup
+|move|p1a: Alakazam|Focus Blast|p2: dons meetup|[notarget]
+|-fail|p1a: Alakazam
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Alakazam|205/251|[from] Sandstorm
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|Robjr has 30 seconds left this turn.
+|
+|t:|1612548702
+|switch|p2a: Brand New House|Lopunny-Mega, F, shiny|207/271
+|-damage|p2a: Brand New House|191/271|[from] Stealth Rock
+|turn|19
+|inactive|Robjr has 30 seconds left.
+|
+|t:|1612548717
+|switch|p1a: Tangrowth|Tangrowth, M|404/404
+|-damage|p1a: Tangrowth|354/404|[from] Stealth Rock
+|move|p2a: Brand New House|Frustration|p1a: Tangrowth
+|-damage|p1a: Tangrowth|194/404
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Brand New House|175/271|[from] Sandstorm
+|-damage|p1a: Tangrowth|169/404|[from] Sandstorm
+|upkeep
+|turn|20
+|inactive|Robjr has 30 seconds left.
+|inactive|Robjr has 20 seconds left.
+|
+|t:|1612548740
+|switch|p1a: Landorus|Landorus-Therian, M|148/333
+|-damage|p1a: Landorus|107/333|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Brand New House|atk|1
+|move|p2a: Brand New House|High Jump Kick|p1a: Landorus
+|-resisted|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|upkeep
+|inactive|Robjr has 25 seconds left this turn.
+|inactive|Robjr has 20 seconds left.
+|inactive|Robjr has 15 seconds left.
+|
+|t:|1612548752
+|switch|p1a: Alakazam|Alakazam-Mega, M|205/251
+|-damage|p1a: Alakazam|174/251|[from] Stealth Rock
+|-ability|p1a: Alakazam|Scrappy|[from] ability: Trace|[of] p2a: Brand New House
+|turn|21
+|inactive|Robjr has 25 seconds left this turn.
+|inactive|Robjr has 20 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|Robjr has 15 seconds left.
+|
+|t:|1612548773
+|switch|p2a: issou praying|Ferrothorn, M, shiny|308/352
+|-damage|p2a: issou praying|286/352|[from] Stealth Rock
+|move|p1a: Alakazam|Psychic|p2a: issou praying
+|-resisted|p2a: issou praying
+|-damage|p2a: issou praying|226/352
+|
+|-heal|p2a: issou praying|248/352|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Robjr has 25 seconds left this turn.
+|inactive|Robjr has 20 seconds left.
+|inactive|Robjr has 15 seconds left.
+|inactive|Robjr has 10 seconds left.
+|
+|t:|1612548788
+|move|p1a: Alakazam|Focus Blast|p2a: issou praying
+|-supereffective|p2a: issou praying
+|-damage|p2a: issou praying|0 fnt
+|faint|p2a: issou praying
+|
+|upkeep
+|inactive|Robjr has 15 seconds left this turn.
+|
+|t:|1612548792
+|switch|p2a: Brand New House|Lopunny-Mega, F, shiny|175/271
+|-damage|p2a: Brand New House|159/271|[from] Stealth Rock
+|turn|23
+|inactive|Robjr has 25 seconds left this turn.
+|
+|t:|1612548797
+|move|p2a: Brand New House|Fake Out|p1a: Alakazam
+|-damage|p1a: Alakazam|68/251
+|cant|p1a: Alakazam|flinch
+|
+|upkeep
+|turn|24
+|inactive|Robjr has 30 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|Robjr has 20 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1612548838
+|move|p2a: Brand New House|Quick Attack|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|upkeep
+|inactive|Robjr has 25 seconds left this turn.
+|inactive|Robjr has 20 seconds left.
+|
+|t:|1612548844
+|switch|p1a: Tangrowth|Tangrowth, M|303/404
+|-damage|p1a: Tangrowth|253/404|[from] Stealth Rock
+|turn|25
+|inactive|Robjr has 30 seconds left this turn.
+|
+|t:|1612548851
+|switch|p2a: Thanos D. Norton|Weavile, M, shiny|281/281
+|-damage|p2a: Thanos D. Norton|211/281|[from] Stealth Rock
+|-ability|p2a: Thanos D. Norton|Pressure
+|move|p1a: Tangrowth|Power Whip|p2a: Thanos D. Norton|[miss]
+|-miss|p1a: Tangrowth|p2a: Thanos D. Norton
+|
+|upkeep
+|turn|26
+|
+|t:|1612548859
+|move|p2a: Thanos D. Norton|Icicle Crash|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|5/404
+|move|p1a: Tangrowth|Power Whip|p2a: Thanos D. Norton
+|-damage|p2a: Thanos D. Norton|22/281
+|
+|upkeep
+|turn|27
+|
+|t:|1612548862
+|-zpower|p2a: Thanos D. Norton
+|move|p2a: Thanos D. Norton|Tectonic Rage|p1a: Tangrowth|[zeffect]
+|-resisted|p1a: Tangrowth
+|-damage|p1a: Tangrowth|0 fnt
+|faint|p1a: Tangrowth
+|
+|upkeep
+|
+|t:|1612548865
+|switch|p1a: Tapu Koko|Tapu Koko|232/281
+|-damage|p1a: Tapu Koko|197/281|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|28
+|
+|t:|1612548869
+|move|p2a: Thanos D. Norton|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|124/281
+|move|p1a: Tapu Koko|U-turn|p2a: Thanos D. Norton
+|-supereffective|p2a: Thanos D. Norton
+|-damage|p2a: Thanos D. Norton|0 fnt
+|faint|p2a: Thanos D. Norton
+|
+|upkeep
+|
+|t:|1612548871
+|switch|p2a: Brand New House|Lopunny-Mega, F, shiny|159/271
+|-damage|p2a: Brand New House|143/271|[from] Stealth Rock
+|turn|29
+|
+|t:|1612548875
+|move|p2a: Brand New House|Frustration|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|win|Empo
+

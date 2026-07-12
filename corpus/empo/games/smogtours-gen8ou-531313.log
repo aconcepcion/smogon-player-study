@@ -1,0 +1,489 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1607353535
+|player|p1|FREE XIMRAPTOR|hilbert|
+|player|p2|Empo|swimmer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Swampert, F|
+|poke|p1|Obstagoon, M|
+|poke|p1|Cinderace, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Magearna|
+|poke|p1|Zapdos|
+|poke|p2|Garchomp, M|
+|poke|p2|Zapdos|
+|poke|p2|Clefable, M|
+|poke|p2|Heatran, M|
+|poke|p2|Kartana|
+|poke|p2|Rillaboom, F|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆Empo|hf
+|c|+Xevara †|Vamos bea
+|c|☆FREE XIMRAPTOR|hf
+|c|+SweetPosho|FREE XIMRAPTOR
+|c|+Justamente|GO BEA
+|c|+SweetPosho|of being a simp
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|
+|t:|1607353633
+|start
+|switch|p1a: Zapdos|Zapdos|383/383
+|switch|p2a: Houston|Clefable, M|394/394
+|turn|1
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607353689
+|move|p1a: Zapdos|Volt Switch|p2a: Houston
+|-damage|p2a: Houston|286/394
+|
+|t:|1607353693
+|switch|p1a: Swampert|Swampert, F|404/404
+|move|p2a: Houston|Stealth Rock|p1a: Swampert
+|-sidestart|p1: FREE XIMRAPTOR|move: Stealth Rock
+|
+|-heal|p2a: Houston|310/394|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1607353699
+|move|p2a: Houston|Knock Off|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|316/404
+|-enditem|p1a: Swampert|Leftovers|[from] move: Knock Off|[of] p2a: Houston
+|move|p1a: Swampert|Flip Turn|p2a: Houston
+|-damage|p2a: Houston|241/394
+|
+|t:|1607353705
+|switch|p1a: Cinderace|Cinderace, M|301/301
+|
+|-heal|p2a: Houston|265/394|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1607353721
+|switch|p2a: Roundabout|Heatran, M|386/386
+|move|p1a: Cinderace|High Jump Kick|p2a: Roundabout
+|-start|p1a: Cinderace|typechange|Fighting|[from] ability: Libero
+|-supereffective|p2a: Roundabout
+|-damage|p2a: Roundabout|42/386
+|
+|-heal|p2a: Roundabout|66/386|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Empo has 270 seconds left.
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607353799
+|switch|p1a: Swampert|Swampert, F|316/404
+|-damage|p1a: Swampert|291/404|[from] Stealth Rock
+|move|p2a: Roundabout|Protect||[still]
+|-fail|p2a: Roundabout
+|
+|-heal|p2a: Roundabout|90/386|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607353823
+|switch|p2a: dons meetup|Garchomp, M|357/357
+|move|p1a: Swampert|Stealth Rock|p2a: dons meetup
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1607353831
+|move|p2a: dons meetup|Earthquake|p1a: Swampert
+|-damage|p1a: Swampert|45/404
+|move|p1a: Swampert|Flip Turn|p2a: dons meetup
+|-damage|p2a: dons meetup|278/357
+|-damage|p1a: Swampert|0 fnt|[from] ability: Rough Skin|[of] p2a: dons meetup
+|faint|p1a: Swampert
+|
+|upkeep
+|
+|t:|1607353836
+|switch|p1a: Zapdos|Zapdos|383/383
+|turn|7
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607353860
+|move|p2a: dons meetup|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: dons meetup|p1a: Zapdos
+|move|p1a: Zapdos|Volt Switch|p2a: dons meetup
+|-immune|p2a: dons meetup
+|
+|upkeep
+|turn|8
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607353897
+|move|p2a: dons meetup|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: dons meetup|p1a: Zapdos
+|move|p1a: Zapdos|Hurricane|p2a: dons meetup|[miss]
+|-miss|p1a: Zapdos|p2a: dons meetup
+|
+|upkeep
+|turn|9
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1607353933
+|move|p2a: dons meetup|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|175/383
+|move|p1a: Zapdos|Hurricane|p2a: dons meetup
+|-damage|p2a: dons meetup|109/357
+|-start|p2a: dons meetup|confusion
+|
+|upkeep
+|turn|10
+|
+|t:|1607353941
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|341/341
+|-damage|p1a: Urshifu|320/341|[from] Stealth Rock
+|-activate|p2a: dons meetup|confusion
+|move|p2a: dons meetup|Stone Edge|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|257/341
+|
+|upkeep
+|turn|11
+|inactive|Empo has 150 seconds left.
+|
+|t:|1607353972
+|switch|p2a: beamer kid|Zapdos|384/384
+|move|p1a: Urshifu|Surging Strikes|p2a: beamer kid
+|-crit|p2a: beamer kid
+|-damage|p2a: beamer kid|326/384
+|-status|p1a: Urshifu|par|[from] ability: Static|[of] p2a: beamer kid
+|-enditem|p1a: Urshifu|Lum Berry|[eat]
+|-curestatus|p1a: Urshifu|par|[msg]
+|-crit|p2a: beamer kid
+|-damage|p2a: beamer kid|275/384
+|-status|p1a: Urshifu|par|[from] ability: Static|[of] p2a: beamer kid
+|-crit|p2a: beamer kid
+|-damage|p2a: beamer kid|217/384
+|-hitcount|p2a: beamer kid|3
+|
+|upkeep
+|turn|12
+|c|☆FREE XIMRAPTOR|ah
+|inactive|Empo has 120 seconds left.
+|
+|t:|1607354005
+|switch|p1a: Obstagoon|Obstagoon, M|327/327
+|-damage|p1a: Obstagoon|287/327|[from] Stealth Rock
+|move|p2a: beamer kid|Discharge|p1a: Obstagoon
+|-damage|p1a: Obstagoon|161/327
+|
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1607354080
+|switch|p2a: Roundabout|Heatran, M|90/386
+|-damage|p2a: Roundabout|42/386|[from] Stealth Rock
+|move|p1a: Obstagoon|Knock Off|p2a: Roundabout
+|-damage|p2a: Roundabout|0 fnt
+|-enditem|p2a: Roundabout|Leftovers|[from] move: Knock Off|[of] p1a: Obstagoon
+|faint|p2a: Roundabout
+|
+|-damage|p1a: Obstagoon|141/327 brn|[from] brn
+|upkeep
+|inactive|Empo has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1607354123
+|switch|p2a: PORK CHOP MAN|Rillaboom, F|341/341
+|-damage|p2a: PORK CHOP MAN|299/341|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: PORK CHOP MAN
+|turn|14
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1607354145
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|257/341 par
+|-damage|p1a: Urshifu|236/341 par|[from] Stealth Rock
+|move|p2a: PORK CHOP MAN|Grassy Glide|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-damage|p2a: PORK CHOP MAN|265/341|[from] item: Life Orb
+|faint|p1a: Urshifu
+|
+|-heal|p2a: PORK CHOP MAN|286/341|[from] Grassy Terrain
+|upkeep
+|inactive|Empo has 25 seconds left this turn.
+|
+|t:|1607354149
+|switch|p1a: Cinderace|Cinderace, M|301/301
+|turn|15
+|inactive|Empo has 30 seconds left.
+|
+|t:|1607354156
+|switch|p2a: Houston|Clefable, M|265/394
+|move|p1a: Cinderace|Pyro Ball|p2a: Houston
+|-damage|p2a: Houston|90/394
+|
+|-heal|p2a: Houston|114/394|[from] item: Leftovers
+|-heal|p2a: Houston|138/394|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1607354162
+|move|p1a: Cinderace|Pyro Ball|p2a: Houston
+|-damage|p2a: Houston|0 fnt
+|faint|p2a: Houston
+|
+|upkeep
+|
+|t:|1607354164
+|switch|p2a: beamer kid|Zapdos|217/384
+|turn|17
+|inactive|Empo has 30 seconds left.
+|
+|t:|1607354186
+|move|p1a: Cinderace|Gunk Shot|p2a: beamer kid|[miss]
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-miss|p1a: Cinderace|p2a: beamer kid
+|move|p2a: beamer kid|Roost|p2a: beamer kid
+|-heal|p2a: beamer kid|384/384
+|-singleturn|p2a: beamer kid|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1607354205
+|switch|p1a: Magearna|Magearna|329/329
+|-damage|p1a: Magearna|309/329|[from] Stealth Rock
+|move|p2a: beamer kid|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|215/329
+|
+|-heal|p1a: Magearna|235/329|[from] item: Leftovers
+|-heal|p1a: Magearna|255/329|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1607354214
+|move|p2a: beamer kid|Discharge|p1a: Magearna
+|-damage|p1a: Magearna|162/329
+|-status|p1a: Magearna|par
+|move|p1a: Magearna|Calm Mind|p1a: Magearna
+|-boost|p1a: Magearna|spa|1
+|-boost|p1a: Magearna|spd|1
+|
+|-heal|p1a: Magearna|182/329 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1607354250
+|switch|p2a: PORK CHOP MAN|Rillaboom, F|286/341
+|-damage|p2a: PORK CHOP MAN|244/341|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: PORK CHOP MAN
+|move|p1a: Magearna|Fleur Cannon|p2a: PORK CHOP MAN
+|-damage|p2a: PORK CHOP MAN|0 fnt
+|-unboost|p1a: Magearna|spa|2
+|faint|p2a: PORK CHOP MAN
+|-ability|p1a: Magearna|Soul-Heart|boost
+|-boost|p1a: Magearna|spa|1
+|
+|-heal|p1a: Magearna|202/329 par|[from] item: Leftovers
+|-heal|p1a: Magearna|222/329 par|[from] Grassy Terrain
+|upkeep
+|inactive|Empo has 25 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1607354258
+|switch|p2a: dons meetup|Garchomp, M|109/357
+|-damage|p2a: dons meetup|87/357|[from] Stealth Rock
+|turn|21
+|inactive|Empo has 30 seconds left this turn.
+|inactive|FREE XIMRAPTOR has 270 seconds left.
+|inactive|FREE XIMRAPTOR has 240 seconds left.
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|
+|t:|1607354355
+|move|p2a: dons meetup|Earthquake|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|-heal|p2a: dons meetup|109/357|[from] Grassy Terrain
+|upkeep
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1607354361
+|switch|p1a: Cinderace|Cinderace, M|301/301
+|turn|22
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1607354387
+|switch|p2a: beamer kid|Zapdos|384/384
+|move|p1a: Cinderace|Gunk Shot|p2a: beamer kid
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-damage|p2a: beamer kid|228/384
+|
+|upkeep
+|turn|23
+|inactive|Empo has 25 seconds left this turn.
+|
+|t:|1607354396
+|switch|p1a: Zapdos|Zapdos|175/383
+|move|p2a: beamer kid|Roost|p2a: beamer kid
+|-heal|p2a: beamer kid|384/384
+|-singleturn|p2a: beamer kid|move: Roost
+|
+|upkeep
+|turn|24
+|
+|t:|1607354401
+|move|p2a: beamer kid|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|49/383
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|241/383
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p1a: Zapdos|264/383|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|
+|t:|1607354407
+|move|p2a: beamer kid|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|144/383
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|336/383
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|26
+|
+|t:|1607354412
+|move|p2a: beamer kid|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|204/383
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|383/383
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1607354415
+|move|p2a: beamer kid|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|251/383
+|move|p1a: Zapdos|Defog|p2a: beamer kid
+|-unboost|p2a: beamer kid|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: FREE XIMRAPTOR|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|upkeep
+|turn|28
+|
+|t:|1607354422
+|move|p2a: beamer kid|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|135/383
+|-start|p1a: Zapdos|confusion
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|117/383|[from] confusion
+|
+|upkeep
+|turn|29
+|c|☆FREE XIMRAPTOR|k
+|inactive|FREE XIMRAPTOR has 210 seconds left.
+|inactive|FREE XIMRAPTOR has 180 seconds left.
+|
+|t:|1607354496
+|move|p2a: beamer kid|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1607354499
+|switch|p1a: Obstagoon|Obstagoon, M|141/327 brn
+|turn|30
+|
+|t:|1607354502
+|switch|p1a: Cinderace|Cinderace, M|301/301
+|switch|p2a: dons meetup|Garchomp, M|109/357
+|
+|upkeep
+|turn|31
+|inactive|FREE XIMRAPTOR has 180 seconds left.
+|inactive|FREE XIMRAPTOR has 150 seconds left.
+|inactive|FREE XIMRAPTOR has 120 seconds left.
+|
+|t:|1607354580
+|move|p1a: Cinderace|Gunk Shot|p2a: dons meetup|[miss]
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-miss|p1a: Cinderace|p2a: dons meetup
+|move|p2a: dons meetup|Earthquake|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|inactive|FREE XIMRAPTOR has 120 seconds left.
+|
+|t:|1607354589
+|switch|p1a: Obstagoon|Obstagoon, M|141/327 brn
+|turn|32
+|
+|t:|1607354593
+|move|p1a: Obstagoon|Knock Off|p2a: dons meetup
+|-damage|p2a: dons meetup|0 fnt
+|-damage|p1a: Obstagoon|101/327 brn|[from] ability: Rough Skin|[of] p2a: dons meetup
+|-enditem|p2a: dons meetup|Soft Sand|[from] move: Knock Off|[of] p1a: Obstagoon
+|faint|p2a: dons meetup
+|
+|-damage|p1a: Obstagoon|81/327 brn|[from] brn
+|upkeep
+|
+|t:|1607354594
+|switch|p2a: GOJOU|Kartana|259/259
+|turn|33
+|c|☆FREE XIMRAPTOR|gg
+|c|☆Empo|gg
+|
+|t:|1607354607
+|move|p2a: GOJOU|Leaf Blade|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|
+|win|Empo
+

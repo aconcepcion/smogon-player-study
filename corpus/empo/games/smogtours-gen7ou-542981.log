@@ -1,0 +1,837 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1613736452
+|player|p1|Empo|#empo|
+|player|p2|devwin|#splxiibigs|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Scizor, M|item
+|poke|p1|Kartana|item
+|poke|p1|Ditto|item
+|poke|p1|Reuniclus, M|item
+|poke|p1|Chansey, F|item
+|poke|p1|Gliscor, F|item
+|poke|p2|Alakazam, M|item
+|poke|p2|Tapu Lele|item
+|poke|p2|Magearna|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Greninja, M|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|+raf|in
+|c|☆Empo|hf bro
+|c|+yugon.exe|Lfg devin 
+|c|☆devwin|u2
+|inactive|Empo has 270 seconds left.
+|inactive|devwin has 270 seconds left.
+|c|+DKM|EMPI
+|c|+frania ♔|gl empo
+|c|+Hervalt|Emp
+|c|+DKM|EMPO*
+|c|+Astreau|big hl right here
+|c|+Petros|GO DEVIN
+|inactive|devwin has 240 seconds left.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|devwin has 210 seconds left.
+|
+|t:|1613736557
+|start
+|switch|p1a: MT TRAVAIL|Ditto|300/300
+|switch|p2a: Kirito|Greninja, M|285/285
+|-transform|p1a: MT TRAVAIL|p2a: Kirito|[from] ability: Imposter
+|turn|1
+|inactive|Empo has 270 seconds left.
+|inactive|devwin has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|devwin has 210 seconds left.
+|
+|t:|1613736634
+|switch|p1a: QUICKSAND CAVE|Gliscor, F|352/352
+|switch|p2a: Kaikai Kitan|Rotom-Wash|303/303
+|
+|-status|p1a: QUICKSAND CAVE|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|inactive|Empo has 240 seconds left.
+|inactive|devwin has 180 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|devwin has 150 seconds left.
+|
+|t:|1613736693
+|switch|p1a: THE NIGHTMARE|Chansey, F|701/701
+|move|p2a: Kaikai Kitan|Hydro Pump|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|611/701
+|
+|upkeep
+|turn|3
+|
+|t:|1613736705
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|557/701
+|inactive|devwin has 150 seconds left.
+|
+|t:|1613736721
+|switch|p2a: Ceiling Mirror|Landorus-Therian, M|378/378
+|-ability|p2a: Ceiling Mirror|Intimidate|boost
+|-unboost|p1a: THE NIGHTMARE|atk|1
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Ceiling Mirror
+|-status|p2a: Ceiling Mirror|tox
+|
+|-damage|p2a: Ceiling Mirror|355/378 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|devwin has 150 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1613736757
+|switch|p1a: QUICKSAND CAVE|Gliscor, F|352/352 tox
+|move|p2a: Ceiling Mirror|Stealth Rock|p1a: QUICKSAND CAVE
+|-sidestart|p1: Empo|move: Stealth Rock
+|
+|-damage|p2a: Ceiling Mirror|309/378 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1613736761
+|move|p1a: QUICKSAND CAVE|Defog|p2a: Ceiling Mirror
+|-unboost|p2a: Ceiling Mirror|evasion|1
+|-sideend|p1: Empo|Stealth Rock|[from] move: Defog|[of] p1a: QUICKSAND CAVE
+|move|p2a: Ceiling Mirror|U-turn|p1a: QUICKSAND CAVE
+|-resisted|p1a: QUICKSAND CAVE
+|-damage|p1a: QUICKSAND CAVE|321/352 tox
+|
+|t:|1613736763
+|switch|p2a: Asuna|Tapu Lele|315/315
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Asuna
+|
+|-heal|p1a: QUICKSAND CAVE|352/352 tox|[from] ability: Poison Heal
+|upkeep
+|turn|6
+|inactive|Empo has 180 seconds left.
+|inactive|devwin has 150 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1613736860
+|switch|p1a: MT TRAVAIL|Ditto|300/300
+|-transform|p1a: MT TRAVAIL|p2a: Asuna|[from] ability: Imposter
+|move|p2a: Asuna|Moonblast|p1a: MT TRAVAIL
+|-damage|p1a: MT TRAVAIL|123/300
+|-unboost|p1a: MT TRAVAIL|spa|1
+|
+|upkeep
+|turn|7
+|inactive|devwin has 150 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613736914
+|switch|p1a: QUICKSAND CAVE|Gliscor, F|352/352 tox
+|move|p2a: Asuna|Psyshock|p1a: QUICKSAND CAVE
+|-damage|p1a: QUICKSAND CAVE|159/352 tox
+|
+|-heal|p1a: QUICKSAND CAVE|203/352 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1613736926
+|move|p2a: Asuna|Moonblast|p1a: QUICKSAND CAVE
+|-damage|p1a: QUICKSAND CAVE|23/352 tox
+|move|p1a: QUICKSAND CAVE|Roost|p1a: QUICKSAND CAVE
+|-heal|p1a: QUICKSAND CAVE|199/352 tox
+|-singleturn|p1a: QUICKSAND CAVE|move: Roost
+|
+|-heal|p1a: QUICKSAND CAVE|243/352 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|inactive|Empo has 60 seconds left.
+|
+|t:|1613736948
+|move|p2a: Asuna|Psyshock|p1a: QUICKSAND CAVE
+|-crit|p1a: QUICKSAND CAVE
+|-damage|p1a: QUICKSAND CAVE|0 fnt
+|faint|p1a: QUICKSAND CAVE
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|Empo has 60 seconds left.
+|c|☆devwin|sorry mb
+|
+|t:|1613736979
+|switch|p1a: THE NIGHTMARE|Chansey, F|557/701
+|turn|10
+|inactive|devwin has 150 seconds left.
+|
+|t:|1613736987
+|switch|p2a: Ceiling Mirror|Landorus-Therian, M|309/378 tox
+|-ability|p2a: Ceiling Mirror|Intimidate|boost
+|-unboost|p1a: THE NIGHTMARE|atk|1
+|move|p1a: THE NIGHTMARE|Stealth Rock|p2a: Ceiling Mirror
+|-sidestart|p2: devwin|move: Stealth Rock
+|
+|-damage|p2a: Ceiling Mirror|286/378 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1613736989
+|move|p2a: Ceiling Mirror|Stealth Rock|p1a: THE NIGHTMARE
+|-sidestart|p1: Empo|move: Stealth Rock
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Ceiling Mirror
+|-damage|p2a: Ceiling Mirror|186/378 tox
+|-damage|p1a: THE NIGHTMARE|441/701|[from] item: Rocky Helmet|[of] p2a: Ceiling Mirror
+|
+|-damage|p2a: Ceiling Mirror|140/378 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1613736994
+|move|p2a: Ceiling Mirror|U-turn|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|348/701
+|
+|t:|1613737012
+|switch|p2a: Gojou|Alakazam, M, shiny|251/251
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|699/701
+|
+|upkeep
+|turn|13
+|
+|t:|1613737016
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|594/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|151/251
+|
+|upkeep
+|turn|14
+|
+|t:|1613737023
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|251/251
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|151/251
+|
+|upkeep
+|turn|15
+|
+|t:|1613737026
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|485/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|51/251
+|
+|upkeep
+|turn|16
+|
+|t:|1613737030
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|177/251
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|turn|17
+|
+|t:|1613737034
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|590/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|77/251
+|
+|upkeep
+|turn|18
+|
+|t:|1613737038
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|203/251
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Gojou
+|-status|p2a: Gojou|tox
+|
+|upkeep
+|turn|19
+|
+|t:|1613737042
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|488/701
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|turn|20
+|
+|t:|1613737048
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|590/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|103/251 tox
+|
+|upkeep
+|turn|21
+|
+|t:|1613737052
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|229/251 tox
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|129/251 tox
+|
+|upkeep
+|turn|22
+|
+|t:|1613737055
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|490/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|29/251 tox
+|
+|upkeep
+|turn|23
+|
+|t:|1613737059
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|155/251 tox
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|turn|24
+|
+|t:|1613737063
+|move|p2a: Gojou|Psychic|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|599/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|55/251 tox
+|
+|upkeep
+|turn|25
+|
+|t:|1613737071
+|switch|p1a: CONCEALED RUINS|Scizor, M|343/343
+|-damage|p1a: CONCEALED RUINS|301/343|[from] Stealth Rock
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|181/251 tox
+|
+|upkeep
+|turn|26
+|
+|t:|1613737076
+|switch|p2a: Kaikai Kitan|Rotom-Wash|303/303
+|-damage|p2a: Kaikai Kitan|266/303|[from] Stealth Rock
+|switch|p1a: HIDDEN LAND|Reuniclus, M|423/423
+|
+|upkeep
+|turn|27
+|
+|t:|1613737080
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: HIDDEN LAND
+|-damage|p1a: HIDDEN LAND|329/423
+|
+|t:|1613737083
+|switch|p2a: Kirito|Greninja, M|285/285
+|-damage|p2a: Kirito|250/285|[from] Stealth Rock
+|move|p1a: HIDDEN LAND|Calm Mind|p1a: HIDDEN LAND
+|-boost|p1a: HIDDEN LAND|spa|1
+|-boost|p1a: HIDDEN LAND|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1613737086
+|move|p2a: Kirito|U-turn|p1a: HIDDEN LAND
+|-start|p2a: Kirito|typechange|Bug|[from] ability: Protean
+|-supereffective|p1a: HIDDEN LAND
+|-damage|p1a: HIDDEN LAND|165/423
+|-damage|p2a: Kirito|203/285|[from] item: Rocky Helmet|[of] p1a: HIDDEN LAND
+|
+|t:|1613737100
+|switch|p2a: Gojou|Alakazam, M, shiny|181/251 tox
+|move|p1a: HIDDEN LAND|Recover|p1a: HIDDEN LAND
+|-heal|p1a: HIDDEN LAND|377/423
+|
+|upkeep
+|turn|29
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|devwin has 270 seconds left.
+|
+|t:|1613737150
+|switch|p1a: THE NIGHTMARE|Chansey, F|599/701
+|-damage|p1a: THE NIGHTMARE|512/701|[from] Stealth Rock
+|detailschange|p2a: Gojou|Alakazam-Mega, M, shiny
+|-mega|p2a: Gojou|Alakazam|Alakazite
+|-ability|p2a: Gojou|Natural Cure|[from] ability: Trace|[of] p1a: THE NIGHTMARE
+|move|p2a: Gojou|Shadow Ball|p1a: THE NIGHTMARE
+|-immune|p1a: THE NIGHTMARE
+|
+|-damage|p2a: Gojou|151/251 tox|[from] psn
+|upkeep
+|turn|30
+|inactive|devwin has 270 seconds left.
+|
+|t:|1613737161
+|switch|p2a: Kaikai Kitan|Rotom-Wash|266/303
+|-damage|p2a: Kaikai Kitan|229/303|[from] Stealth Rock
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|turn|31
+|
+|t:|1613737164
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|644/701
+|inactive|devwin has 270 seconds left.
+|
+|t:|1613737178
+|switch|p2a: Gojou|Alakazam-Mega, M, shiny|151/251
+|-damage|p2a: Gojou|120/251|[from] Stealth Rock
+|-ability|p2a: Gojou|Natural Cure|[from] ability: Trace|[of] p1a: THE NIGHTMARE
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Gojou
+|-status|p2a: Gojou|tox
+|
+|-damage|p2a: Gojou|105/251 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1613737181
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|231/251 tox
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|131/251 tox
+|
+|-damage|p2a: Gojou|101/251 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1613737187
+|-curestatus|p2a: Gojou|tox|[from] ability: Natural Cure
+|switch|p2a: Kaikai Kitan|Rotom-Wash|229/303
+|-damage|p2a: Kaikai Kitan|192/303|[from] Stealth Rock
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Kaikai Kitan
+|-damage|p2a: Kaikai Kitan|92/303
+|
+|upkeep
+|turn|34
+|inactive|Empo has 240 seconds left.
+|
+|t:|1613737204
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|587/701
+|inactive|devwin has 270 seconds left.
+|
+|t:|1613737251
+|switch|p2a: Ceiling Mirror|Landorus-Therian, M|140/378 tox
+|-damage|p2a: Ceiling Mirror|93/378 tox|[from] Stealth Rock
+|-ability|p2a: Ceiling Mirror|Intimidate|boost
+|-unboost|p1a: THE NIGHTMARE|atk|1
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Ceiling Mirror
+|-fail|p2a: Ceiling Mirror|tox
+|
+|-damage|p2a: Ceiling Mirror|70/378 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1613737258
+|move|p2a: Ceiling Mirror|U-turn|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|494/701
+|
+|t:|1613737261
+|switch|p2a: Kaikai Kitan|Rotom-Wash|92/303
+|-damage|p2a: Kaikai Kitan|55/303|[from] Stealth Rock
+|-enditem|p2a: Kaikai Kitan|Wiki Berry|[eat]
+|-heal|p2a: Kaikai Kitan|206/303|[from] item: Wiki Berry
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|turn|36
+|inactive|Empo has 240 seconds left.
+|inactive|devwin has 240 seconds left.
+|
+|t:|1613737329
+|move|p2a: Kaikai Kitan|Will-O-Wisp|p1a: THE NIGHTMARE
+|-status|p1a: THE NIGHTMARE|brn
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Kaikai Kitan
+|-status|p2a: Kaikai Kitan|tox
+|
+|-damage|p2a: Kaikai Kitan|188/303 tox|[from] psn
+|-damage|p1a: THE NIGHTMARE|658/701 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1613737337
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|601/701 brn
+|
+|t:|1613737341
+|switch|p2a: Ceiling Mirror|Landorus-Therian, M|70/378 tox
+|-damage|p2a: Ceiling Mirror|23/378 tox|[from] Stealth Rock
+|-ability|p2a: Ceiling Mirror|Intimidate|boost
+|-unboost|p1a: THE NIGHTMARE|atk|1
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701 brn
+|
+|-damage|p2a: Ceiling Mirror|0 fnt|[from] psn
+|faint|p2a: Ceiling Mirror
+|-damage|p1a: THE NIGHTMARE|658/701 brn|[from] brn
+|upkeep
+|inactive|devwin has 240 seconds left.
+|
+|t:|1613737364
+|switch|p2a: Asuna|Tapu Lele|315/315
+|-damage|p2a: Asuna|276/315|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Asuna
+|turn|38
+|
+|t:|1613737379
+|move|p2a: Asuna|Nature's Madness|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|329/701 brn
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|680/701 brn
+|
+|-damage|p1a: THE NIGHTMARE|637/701 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1613737386
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|318/701 brn
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|669/701 brn
+|
+|-damage|p1a: THE NIGHTMARE|626/701 brn|[from] brn
+|upkeep
+|turn|40
+|inactive|Empo has 240 seconds left.
+|
+|t:|1613737394
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|307/701 brn
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|658/701 brn
+|
+|-damage|p1a: THE NIGHTMARE|615/701 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1613737400
+|switch|p1a: TREESHROUD FOREST|Kartana|289/289
+|-damage|p1a: TREESHROUD FOREST|271/289|[from] Stealth Rock
+|move|p2a: Asuna|Psyshock|p1a: TREESHROUD FOREST
+|-resisted|p1a: TREESHROUD FOREST
+|-damage|p1a: TREESHROUD FOREST|175/289
+|
+|upkeep
+|turn|42
+|
+|t:|1613737408
+|switch|p2a: Tokyo Prison|Magearna|302/302
+|-damage|p2a: Tokyo Prison|284/302|[from] Stealth Rock
+|-zpower|p1a: TREESHROUD FOREST
+|move|p1a: TREESHROUD FOREST|Bloom Doom|p2a: Tokyo Prison|[zeffect]
+|-resisted|p2a: Tokyo Prison
+|-damage|p2a: Tokyo Prison|104/302
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|43
+|inactive|Empo has 240 seconds left.
+|inactive|devwin has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|devwin has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|devwin has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|devwin has 150 seconds left.
+|
+|t:|1613737540
+|switch|p1a: CONCEALED RUINS|Scizor, M|301/343
+|-damage|p1a: CONCEALED RUINS|259/343|[from] Stealth Rock
+|switch|p2a: Kaikai Kitan|Rotom-Wash|188/303 tox
+|-damage|p2a: Kaikai Kitan|151/303 tox|[from] Stealth Rock
+|
+|-damage|p2a: Kaikai Kitan|133/303 tox|[from] psn
+|upkeep
+|turn|44
+|inactive|Empo has 120 seconds left.
+|
+|t:|1613737569
+|switch|p1a: THE NIGHTMARE|Chansey, F|615/701
+|-damage|p1a: THE NIGHTMARE|528/701|[from] Stealth Rock
+|move|p2a: Kaikai Kitan|Will-O-Wisp|p1a: THE NIGHTMARE
+|-status|p1a: THE NIGHTMARE|brn
+|
+|-damage|p2a: Kaikai Kitan|97/303 tox|[from] psn
+|-damage|p1a: THE NIGHTMARE|485/701 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1613737575
+|move|p2a: Kaikai Kitan|Volt Switch|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|425/701 brn
+|
+|t:|1613737585
+|switch|p2a: Asuna|Tapu Lele|276/315
+|-damage|p2a: Asuna|237/315|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Asuna
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701 brn
+|
+|-damage|p1a: THE NIGHTMARE|658/701 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1613737594
+|-curestatus|p1a: THE NIGHTMARE|brn|[from] ability: Natural Cure
+|switch|p1a: TREESHROUD FOREST|Kartana|175/289
+|-damage|p1a: TREESHROUD FOREST|157/289|[from] Stealth Rock
+|move|p2a: Asuna|Psyshock|p1a: TREESHROUD FOREST
+|-resisted|p1a: TREESHROUD FOREST
+|-damage|p1a: TREESHROUD FOREST|67/289
+|
+|upkeep
+|turn|47
+|
+|t:|1613737601
+|switch|p2a: Kaikai Kitan|Rotom-Wash|97/303 tox
+|-damage|p2a: Kaikai Kitan|60/303 tox|[from] Stealth Rock
+|move|p1a: TREESHROUD FOREST|Leaf Blade|p2a: Kaikai Kitan
+|-supereffective|p2a: Kaikai Kitan
+|-damage|p2a: Kaikai Kitan|0 fnt
+|faint|p2a: Kaikai Kitan
+|-ability|p1a: TREESHROUD FOREST|Beast Boost|boost
+|-boost|p1a: TREESHROUD FOREST|atk|1
+|
+|upkeep
+|
+|t:|1613737608
+|switch|p2a: Gojou|Alakazam-Mega, M, shiny|101/251
+|-damage|p2a: Gojou|70/251|[from] Stealth Rock
+|-ability|p2a: Gojou|Beast Boost|[from] ability: Trace|[of] p1a: TREESHROUD FOREST
+|turn|48
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|devwin has 120 seconds left.
+|
+|t:|1613737683
+|move|p2a: Gojou|Psychic|p1a: TREESHROUD FOREST
+|-resisted|p1a: TREESHROUD FOREST
+|-damage|p1a: TREESHROUD FOREST|0 fnt
+|faint|p1a: TREESHROUD FOREST
+|-ability|p2a: Gojou|Beast Boost|boost
+|-boost|p2a: Gojou|spa|1
+|
+|upkeep
+|
+|t:|1613737684
+|switch|p1a: MT TRAVAIL|Ditto|123/300
+|-damage|p1a: MT TRAVAIL|86/300|[from] Stealth Rock
+|-transform|p1a: MT TRAVAIL|p2a: Gojou|[from] ability: Imposter
+|turn|49
+|inactive|devwin has 120 seconds left.
+|inactive|devwin has 90 seconds left.
+|
+|t:|1613737730
+|switch|p2a: Tokyo Prison|Magearna|104/302
+|-damage|p2a: Tokyo Prison|86/302|[from] Stealth Rock
+|move|p1a: MT TRAVAIL|Shadow Ball|p2a: Tokyo Prison
+|-damage|p2a: Tokyo Prison|0 fnt
+|faint|p2a: Tokyo Prison
+|-ability|p1a: MT TRAVAIL|Beast Boost|boost
+|-boost|p1a: MT TRAVAIL|spa|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1613737734
+|switch|p2a: Kirito|Greninja, M|203/285
+|-damage|p2a: Kirito|168/285|[from] Stealth Rock
+|turn|50
+|inactive|Empo has 120 seconds left.
+|inactive|devwin has 90 seconds left.
+|
+|t:|1613737760
+|switch|p1a: HIDDEN LAND|Reuniclus, M|377/423
+|move|p2a: Kirito|Ice Beam|p1a: HIDDEN LAND
+|-start|p2a: Kirito|typechange|Ice|[from] ability: Protean
+|-damage|p1a: HIDDEN LAND|238/423
+|
+|upkeep
+|turn|51
+|
+|t:|1613737765
+|move|p2a: Kirito|Ice Beam|p1a: HIDDEN LAND
+|-damage|p1a: HIDDEN LAND|93/423
+|move|p1a: HIDDEN LAND|Psyshock|p2a: Kirito
+|-damage|p2a: Kirito|8/285
+|
+|upkeep
+|turn|52
+|inactive|Empo has 120 seconds left.
+|inactive|devwin has 90 seconds left.
+|
+|t:|1613737773
+|switch|p1a: THE NIGHTMARE|Chansey, F|658/701
+|-damage|p1a: THE NIGHTMARE|571/701|[from] Stealth Rock
+|move|p2a: Kirito|Ice Beam|p1a: THE NIGHTMARE
+|-crit|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|444/701
+|-status|p1a: THE NIGHTMARE|frz
+|
+|upkeep
+|turn|53
+|inactive|Empo has 120 seconds left.
+|inactive|devwin has 90 seconds left.
+|
+|t:|1613737812
+|switch|p2a: Asuna|Tapu Lele|237/315
+|-damage|p2a: Asuna|198/315|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Asuna
+|-curestatus|p1a: THE NIGHTMARE|frz|[from] ability: Natural Cure
+|switch|p1a: CONCEALED RUINS|Scizor, M|259/343
+|-damage|p1a: CONCEALED RUINS|217/343|[from] Stealth Rock
+|
+|upkeep
+|turn|54
+|inactive|Empo has 90 seconds left.
+|inactive|devwin has 60 seconds left.
+|
+|t:|1613737855
+|switch|p1a: HIDDEN LAND|Reuniclus, M|93/423
+|move|p2a: Asuna|Hidden Power|p1a: HIDDEN LAND
+|-damage|p1a: HIDDEN LAND|0 fnt
+|faint|p1a: HIDDEN LAND
+|
+|upkeep
+|
+|t:|1613737858
+|switch|p1a: THE NIGHTMARE|Chansey, F|444/701
+|-damage|p1a: THE NIGHTMARE|357/701|[from] Stealth Rock
+|turn|55
+|inactive|Empo has 60 seconds left.
+|inactive|devwin has 60 seconds left.
+|
+|t:|1613737899
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|44/701
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|395/701
+|
+|upkeep
+|turn|56
+|
+|t:|1613737915
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|68/701
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|419/701
+|
+|upkeep
+|turn|57
+|
+|t:|1613737918
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|92/701
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|443/701
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|58
+|
+|t:|1613737930
+|switch|p2a: Kirito|Greninja, M|8/285
+|-damage|p2a: Kirito|0 fnt|[from] Stealth Rock
+|faint|p2a: Kirito
+|move|p1a: THE NIGHTMARE|Soft-Boiled|p1a: THE NIGHTMARE
+|-heal|p1a: THE NIGHTMARE|701/701
+|
+|upkeep
+|
+|t:|1613737932
+|switch|p2a: Gojou|Alakazam-Mega, M, shiny|70/251
+|-damage|p2a: Gojou|39/251|[from] Stealth Rock
+|-ability|p2a: Gojou|Natural Cure|[from] ability: Trace|[of] p1a: THE NIGHTMARE
+|turn|59
+|
+|t:|1613737935
+|move|p2a: Gojou|Recover|p2a: Gojou
+|-heal|p2a: Gojou|165/251
+|move|p1a: THE NIGHTMARE|Toxic|p2a: Gojou
+|-status|p2a: Gojou|tox
+|
+|-damage|p2a: Gojou|150/251 tox|[from] psn
+|upkeep
+|turn|60
+|
+|t:|1613737940
+|move|p2a: Gojou|Focus Blast|p1a: THE NIGHTMARE
+|-supereffective|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|481/701
+|-unboost|p1a: THE NIGHTMARE|spd|1
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Gojou
+|-damage|p2a: Gojou|50/251 tox
+|
+|-damage|p2a: Gojou|20/251 tox|[from] psn
+|upkeep
+|turn|61
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613737951
+|switch|p1a: CONCEALED RUINS|Scizor, M|217/343
+|-damage|p1a: CONCEALED RUINS|175/343|[from] Stealth Rock
+|move|p2a: Gojou|Focus Blast|p1a: CONCEALED RUINS
+|-damage|p1a: CONCEALED RUINS|0 fnt
+|faint|p1a: CONCEALED RUINS
+|
+|-damage|p2a: Gojou|0 fnt|[from] psn
+|faint|p2a: Gojou
+|upkeep
+|inactive|Empo has 90 seconds left.
+|
+|t:|1613737957
+|switch|p2a: Asuna|Tapu Lele|198/315
+|switch|p1a: THE NIGHTMARE|Chansey, F|481/701
+|-damage|p2a: Asuna|159/315|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Asuna
+|-damage|p1a: THE NIGHTMARE|394/701|[from] Stealth Rock
+|turn|62
+|
+|t:|1613737961
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|108/701
+|move|p1a: THE NIGHTMARE|Seismic Toss|p2a: Asuna
+|-damage|p2a: Asuna|59/315
+|
+|upkeep
+|turn|63
+|
+|t:|1613737966
+|move|p2a: Asuna|Psyshock|p1a: THE NIGHTMARE
+|-damage|p1a: THE NIGHTMARE|0 fnt
+|faint|p1a: THE NIGHTMARE
+|
+|upkeep
+|
+|t:|1613737967
+|switch|p1a: MT TRAVAIL|Ditto|86/300
+|-damage|p1a: MT TRAVAIL|49/300|[from] Stealth Rock
+|-transform|p1a: MT TRAVAIL|p2a: Asuna|[from] ability: Imposter
+|turn|64
+|
+|t:|1613737970
+|move|p1a: MT TRAVAIL|Psyshock|p2a: Asuna
+|-resisted|p2a: Asuna
+|-damage|p2a: Asuna|0 fnt
+|faint|p2a: Asuna
+|
+|win|Empo
+

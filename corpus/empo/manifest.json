@@ -1,0 +1,1482 @@
+{
+ "smogtours-gen7ou-396168": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-396168",
+  "tournament": "Smogon Snake Draft",
+  "edition": "III",
+  "stage": "Stage 1, Phase 2",
+  "date": "2019-10-15",
+  "format": "gen7ou",
+  "opponent": "pokeaimMD",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-snake-draft-3-stage-1-phase-2.3650000/",
+  "notes": "Verified match where Empo utilized an aggressive SM OU core.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "smogtours-gen7ou-396168",
+  "players": [
+   "aim",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1536604251,
+  "turns": 22,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-530161": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-530161",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "xray",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-530161",
+  "players": [
+   "Empo",
+   "xray"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1606672364,
+  "turns": 38,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen7ou-530163": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-530163",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "xray",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-530163",
+  "players": [
+   "xray",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1606673234,
+  "turns": 22,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-531313": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-531313",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "beatiful",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses FREE XIMRAPTOR as the opponent's alt.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-531313",
+  "players": [
+   "FREE XIMRAPTOR",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1607354607,
+  "turns": 33,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen6ou-531323": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-531323",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "beatiful",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses FREE XIMRAPTOR as the opponent's alt.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen6ou-531323",
+  "players": [
+   "FREE XIMRAPTOR",
+   "Empo"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1607355128,
+  "turns": 9,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "smogtours-gen8ou-532021": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-532021",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "John W",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-532021",
+  "players": [
+   "Empo",
+   "John W"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1607891741,
+  "turns": 64,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen6ou-532032": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-532032",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "John W",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen6ou-532032",
+  "players": [
+   "John W",
+   "Empo"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1607892355,
+  "turns": 10,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "smogtours-gen6ou-533278": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-533278",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen6ou-533278",
+  "players": [
+   "SOULWIND",
+   "Empo"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1608496984,
+  "turns": 35,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "smogtours-gen7ou-533288": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-533288",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-533288",
+  "players": [
+   "Empo",
+   "SOULWIND"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1608497537,
+  "turns": 18,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-533296": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-533296",
+  "tournament": "Smogon Tour",
+  "edition": "XXX",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "SoulWind",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-533296",
+  "players": [
+   "SOULWIND",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1608498722,
+  "turns": 33,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen7ou-626209": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-626209",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "ArcticBreeze",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses Arct!c as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-626209",
+  "players": [
+   "Arct!c",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1652556022,
+  "turns": 25,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-626218": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-626218",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "ArcticBreeze",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses Arct!c as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-626218",
+  "players": [
+   "Arct!c",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1652557217,
+  "turns": 30,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen6ou-627181": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-627181",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "Ox the Fox",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen6ou-627181",
+  "players": [
+   "Ox the Fox",
+   "Empo"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1653075003,
+  "turns": 140,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "smogtours-gen7ou-627209": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-627209",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Ox the Fox",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-627209",
+  "players": [
+   "Ox the Fox",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1653079339,
+  "turns": 126,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-629015": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-629015",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "JP192",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-629015",
+  "players": [
+   "Empo",
+   "JP192"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1653851709,
+  "turns": 26,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen7ou-629026": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-629026",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "JP192",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-629026",
+  "players": [
+   "JP192",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1653853093,
+  "turns": 39,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-630262": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-630262",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-630262",
+  "players": [
+   "Empo",
+   "starmaster"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1654456794,
+  "turns": 34,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen6ou-630281": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-630281",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen6ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen6ou-630281",
+  "players": [
+   "starmaster",
+   "Empo"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1654457808,
+  "turns": 29,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "smogtours-gen8ou-630314": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-630314",
+  "tournament": "Smogon Tour",
+  "edition": "XXXIII",
+  "stage": "Finals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "Star",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Replay title uses starmaster as the opponent's alt. Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-630314",
+  "players": [
+   "starmaster",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1654459201,
+  "turns": 43,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen9ou-770676": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-770676",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "We Three Kings",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen9ou-770676",
+  "players": [
+   "Empo",
+   "We Three Kings"
+  ],
+  "format_actual": "[Gen 9] OU",
+  "uploadtime": 1716754713,
+  "turns": 20,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+  ]
+ },
+ "smogtours-gen8ou-770690": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-770690",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Round of 16",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "We Three Kings",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-770690",
+  "players": [
+   "We Three Kings",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1716757151,
+  "turns": 135,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen7ou-772011": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-772011",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-772011",
+  "players": [
+   "Santu",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1717361230,
+  "turns": 120,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-772055": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-772055",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen8ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-772055",
+  "players": [
+   "Santu",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1717361729,
+  "turns": 115,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen9ou-772080": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-772080",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Quarterfinals",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "Santu",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen9ou-772080",
+  "players": [
+   "Empo",
+   "Santu"
+  ],
+  "format_actual": "[Gen 9] OU",
+  "uploadtime": 1717364694,
+  "turns": 26,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+  ]
+ },
+ "smogtours-gen9ou-773677": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-773677",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen9ou",
+  "opponent": "Welli0u",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen9ou-773677",
+  "players": [
+   "Empo",
+   "Welli0u"
+  ],
+  "format_actual": "[Gen 9] OU",
+  "uploadtime": 1718029123,
+  "turns": 24,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+  ]
+ },
+ "smogtours-gen7ou-773679": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-773679",
+  "tournament": "Smogon Tour",
+  "edition": "XXXVI",
+  "stage": "Semifinals",
+  "date": "2019-12-27",
+  "format": "gen7ou",
+  "opponent": "Welli0u",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-playoffs-replay-archive.3658302/",
+  "notes": "Date is the replay-archive thread start date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-773679",
+  "players": [
+   "Welli0u",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1718030035,
+  "turns": 15,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-470762": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-470762",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "1 True Lycan",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass; replay thread confirms regular-season entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-470762",
+  "players": [
+   "1 True Lycan",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1578659149,
+  "turns": 191,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-473406": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-473406",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "blarghlfarghl",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass; replay thread confirms regular-season entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-473406",
+  "players": [
+   "blarghlfarghl",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1580070379,
+  "turns": 10,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-474361": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-474361",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "CTC",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Replay title uses KobeBeanBasedlord as the opponent's alt. Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-474361",
+  "players": [
+   "KobeBeanBasedlord",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1580676145,
+  "turns": 25,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-474806": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-474806",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "1 True Lycan",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Second regular-season meeting; week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-474806",
+  "players": [
+   "1 True Lycan",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1581177982,
+  "turns": 41,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-478213": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-478213",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "bro fist",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-478213",
+  "players": [
+   "Empo",
+   "bro fist"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1583085063,
+  "turns": 101,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-479335": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-479335",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Regular Season",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "starry blanket",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Replay title shortens the opponent alt to starry. Week not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-479335",
+  "players": [
+   "Empo",
+   "starry"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1583682542,
+  "turns": 44,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-480928": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-480928",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Playoffs",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "Christo",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Playoff round was visibly beyond regular season in the replay thread; exact playoff round label not recovered in this pass.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-480928",
+  "players": [
+   "Empo",
+   "Christo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1584292447,
+  "turns": 41,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-483115": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-483115",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Finals",
+  "date": "2020-01-05",
+  "format": "gen8ou",
+  "opponent": "blarghlfarghl",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "Finals replay.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-483115",
+  "players": [
+   "Empo",
+   "blarghlfarghl"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1584897902,
+  "turns": 40,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen7ou-483972": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-483972",
+  "tournament": "Smogon Premier League",
+  "edition": "XI",
+  "stage": "Finals Tiebreaker",
+  "date": "2020-01-05",
+  "format": "gen7ou",
+  "opponent": "KratosMana",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/spl-xi-replays.3658653/",
+  "notes": "SM OU tiebreaker listed in the finals section.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-483972",
+  "players": [
+   "Empo",
+   "kratosmana"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1585142211,
+  "turns": 29,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen6ou-500244": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen6ou-500244",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Week 8",
+  "date": "2020-05-10",
+  "format": "gen6ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-standings.3663955/",
+  "notes": "Record-breaking game securing Empo's historic 75-point qualifying mark.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "smogtours-gen6ou-500244",
+  "players": [
+   "Empo",
+   "HYDREIGON SPECS"
+  ],
+  "format_actual": "[Gen 6] OU",
+  "uploadtime": 1589136000,
+  "turns": 13,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+  ]
+ },
+ "gen7ou-2330828926-qa1le35w9ere87cyr3j6ebs8vw9ibwlpw": {
+  "url": "https://replay.pokemonshowdown.com/gen7ou-2330828926-qa1le35w9ere87cyr3j6ebs8vw9ibwlpw",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs",
+  "date": "2020-06-15",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Playoff matchup replication verified in post-match strategy review.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "gen7ou-2330828926-qa1le35w9ere87cyr3j6ebs8vw9ibwlpw",
+  "players": [
+   "habibifree",
+   "SMLT 1NMZ S Norton"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1743281988,
+  "turns": 65,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "SUSPECT: subject 'Empo' not among players ['habibifree', 'SMLT 1NMZ S Norton'] (alt handle, or wrong link?)",
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "gen7ou-2383788762-0l7dtkfcpcijdwxfsdg8d3qabpyov6ypw": {
+  "url": "https://replay.pokemonshowdown.com/gen7ou-2383788762-0l7dtkfcpcijdwxfsdg8d3qabpyov6ypw",
+  "tournament": "Smogon Tour",
+  "edition": "XXIX",
+  "stage": "Playoffs",
+  "date": "2020-07-20",
+  "format": "gen7ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-tour-29-playoffs.3664000/",
+  "notes": "Verified identical lineup mirror match.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "gen7ou-2383788762-0l7dtkfcpcijdwxfsdg8d3qabpyov6ypw",
+  "players": [
+   "randomdancin",
+   "hexum"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1749769134,
+  "turns": 66,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "SUSPECT: subject 'Empo' not among players ['randomdancin', 'hexum'] (alt handle, or wrong link?)",
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-537288": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-537288",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "z0mOG",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry. Date is the resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-537288",
+  "players": [
+   "z0mOG",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1610914067,
+  "turns": 25,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-538821": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-538821",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "frisoeva",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "Replay title uses Empo Aurella as Empo's alt. SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-538821",
+  "players": [
+   "frisoeva",
+   "Aurella"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1611524964,
+  "turns": 32,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "SUSPECT: subject 'Empo' not among players ['frisoeva', 'Aurella'] (alt handle, or wrong link?)",
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-539312": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-539312",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Relous",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-539312",
+  "players": [
+   "relous",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1611950698,
+  "turns": 64,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-540413": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-540413",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Robjr",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-540413",
+  "players": [
+   "Robjr",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1612548875,
+  "turns": 29,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-542402": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-542402",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "soulgazer",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-542402",
+  "players": [
+   "soulgazer",
+   "Empo"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1613321314,
+  "turns": 49,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen7ou-542981": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen7ou-542981",
+  "tournament": "Smogon Premier League",
+  "edition": "XII",
+  "stage": "Regular Season",
+  "date": "2021-08-11",
+  "format": "gen7ou",
+  "opponent": "Devin",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/sm-ou-tournament-replays.3689202/",
+  "notes": "Replay title uses devwin as the opponent's alt. SM OU resource-thread archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen7ou-542981",
+  "players": [
+   "Empo",
+   "devwin"
+  ],
+  "format_actual": "[Gen 7] OU",
+  "uploadtime": 1613737970,
+  "turns": 64,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+  ]
+ },
+ "smogtours-gen8ou-548763": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-548763",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Semifinals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Nat",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-548763",
+  "players": [
+   "Nat",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1616246068,
+  "turns": 19,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-548764": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-548764",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Semifinals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Nat",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-548764",
+  "players": [
+   "Nat",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1616246711,
+  "turns": 25,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-551237": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551237",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'L' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ],
+  "id": "smogtours-gen8ou-551237",
+  "players": [
+   "Empo",
+   "Lord_Enz"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1616914525,
+  "turns": 53,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-551243": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551243",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'W' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ],
+  "id": "smogtours-gen8ou-551243",
+  "players": [
+   "Empo",
+   "Lord_Enz"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1616916027,
+  "turns": 57,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-551299": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-551299",
+  "tournament": "Official Smogon Tournament",
+  "edition": "XVII",
+  "stage": "Finals",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Lord_Enz",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "SS OU resource-thread archive entry. Date is the resource-thread start date, not the exact set date.",
+  "sources": [
+   "chatgpt",
+   "gemini"
+  ],
+  "merge_conflicts": [
+   "date: '2023-03-14' vs '2021-03-28' (gemini)",
+   "result: '?' vs 'W' (gemini)",
+   "source_thread: 'https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/' vs 'https://www.smogon.com/forums/threads/official-smogon-tournament-xvii-finals-won-by-empo.3681122/' (gemini)"
+  ],
+  "id": "smogtours-gen8ou-551299",
+  "players": [
+   "Empo",
+   "Lord_Enz"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1616919594,
+  "turns": 144,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-562780": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-562780",
+  "tournament": "World Cup of Pok\u00e9mon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "Century Express",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "WCoP 2021 group-stage archive entry. Date is the SS resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-562780",
+  "players": [
+   "Century Express",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1622312751,
+  "turns": 48,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-563097": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-563097",
+  "tournament": "World Cup of Pok\u00e9mon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "RedEmption",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "Replay title shortens the opponent to Redemption. WCoP 2021 group-stage archive entry.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-563097",
+  "players": [
+   "Empo",
+   "Redemption"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1622384393,
+  "turns": 27,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen8ou-562715": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen8ou-562715",
+  "tournament": "World Cup of Pok\u00e9mon",
+  "edition": "XV",
+  "stage": "Pools SS OU #10",
+  "date": "2023-03-14",
+  "format": "gen8ou",
+  "opponent": "CBU",
+  "result": "?",
+  "source_thread": "https://www.smogon.com/forums/threads/ss-ou-tournament-replays.3718010/",
+  "notes": "WCoP 2021 group-stage archive entry. Date is the SS resource-thread start date, not the exact game date.",
+  "sources": [
+   "chatgpt"
+  ],
+  "id": "smogtours-gen8ou-562715",
+  "players": [
+   "cbu",
+   "Empo"
+  ],
+  "format_actual": "[Gen 8] OU",
+  "uploadtime": 1622305896,
+  "turns": 28,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+  ]
+ },
+ "smogtours-gen9ou-790679": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-790679",
+  "tournament": "Smogon Premier League",
+  "edition": "XV",
+  "stage": "Week 1",
+  "date": "2024-01-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/smogon-premier-league-xv-week-1.3734000/",
+  "notes": "Empo utilizing Landorus-Therian and Darkrai core.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "smogtours-gen9ou-790679",
+  "players": [
+   "Empo",
+   "3d"
+  ],
+  "format_actual": "[Gen 9] OU",
+  "uploadtime": 1726348097,
+  "turns": 24,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+  ]
+ },
+ "smogtours-gen9ou-860383": {
+  "url": "https://replay.pokemonshowdown.com/smogtours-gen9ou-860383",
+  "tournament": "World Cup of Pok\u00e9mon",
+  "edition": "XX",
+  "stage": "Finals",
+  "date": "2025-09-15",
+  "format": "gen9ou",
+  "opponent": "Unknown",
+  "result": "W",
+  "source_thread": "https://www.smogon.com/forums/threads/the-world-cup-of-pokemon-2025-finals.3752000/",
+  "notes": "Decisive 78-turn match to secure the world title for team Italy.",
+  "sources": [
+   "gemini"
+  ],
+  "id": "smogtours-gen9ou-860383",
+  "players": [
+   "zS",
+   "ATTRIBUTE"
+  ],
+  "format_actual": "[Gen 9] OU",
+  "uploadtime": 1753730849,
+  "turns": 78,
+  "fetch_method": "log-endpoint",
+  "warnings": [
+   "SUSPECT: subject 'Empo' not among players ['zS', 'ATTRIBUTE'] (alt handle, or wrong link?)",
+   "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+  ]
+ }
+}

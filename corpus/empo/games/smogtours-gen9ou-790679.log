@@ -1,0 +1,330 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|badge|p2|gold|gen9ou|3-2
+|uhtml|medal-msg|<div class="broadcast-blue">Curious what those medals under the avatar are? PS now has Ladder Seasons! For more information, check out the <a href="https://www.smogon.com/forums/threads/3740067/">thread on Smogon.</a></div>
+|t:|1726347536
+|gametype|singles
+|player|p1|Empo|#empo|
+|player|p2|3d|#3d|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Darkrai|
+|poke|p1|Kingambit, M|
+|poke|p1|Cinderace, F|
+|poke|p1|Zapdos|
+|poke|p1|Samurott-Hisui, M|
+|poke|p2|Gholdengo|
+|poke|p2|Zamazenta-*|
+|poke|p2|Ogerpon, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Ting-Lu|
+|teampreview
+|c|☆3d|hf
+|c|☆Empo|hf
+|inactive|Empo has 270 seconds left.
+|inactive|3d has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|3d has 240 seconds left.
+|inactive|3d has 210 seconds left.
+|
+|t:|1726347652
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|turn|1
+|inactive|Empo has 270 seconds left.
+|inactive|3d has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726347698
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Samurott|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|37/100
+|-enditem|p2a: Ogerpon|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Samurott
+|
+|upkeep
+|turn|2
+|inactive|Empo has 240 seconds left.
+|inactive|3d has 210 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1726347769
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|switch|p1a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1726347775
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|
+|upkeep
+|turn|4
+|inactive|Empo has 180 seconds left.
+|inactive|3d has 180 seconds left.
+|
+|t:|1726347805
+|move|p1a: Samurott|Razor Shell|p2a: Ting-Lu
+|-supereffective|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|49/100
+|-unboost|p2a: Ting-Lu|def|1
+|-damage|p1a: Samurott|84/100|[from] item: Rocky Helmet|[of] p2a: Ting-Lu
+|move|p2a: Ting-Lu|Earthquake|p1a: Samurott
+|-damage|p1a: Samurott|48/100
+|
+|upkeep
+|turn|5
+|inactive|3d has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|3d has 150 seconds left.
+|
+|t:|1726347845
+|switch|p2a: Ogerpon|Ogerpon, F|37/100
+|move|p1a: Samurott|Razor Shell|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|inactive|3d has 150 seconds left.
+|
+|t:|1726347859
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|turn|6
+|
+|t:|1726347862
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: Samurott|Razor Shell|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|30/100
+|-unboost|p2a: Gliscor|def|1
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|
+|t:|1726347871
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1a: Samurott|Razor Shell|p2a: Gliscor
+|-activate|p2a: Gliscor|move: Protect
+|
+|-heal|p2a: Gliscor|43/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|8
+|
+|t:|1726347875
+|switch|p2a: Zamazenta|Zamazenta|100/100
+|move|p1a: Samurott|Razor Shell|p2a: Zamazenta
+|-damage|p2a: Zamazenta|50/100
+|
+|upkeep
+|turn|9
+|inactive|Empo has 180 seconds left.
+|
+|t:|1726347892
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zamazenta|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|-status|p2a: Zamazenta|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|10
+|inactive|Empo has 180 seconds left.
+|
+|t:|1726347897
+|move|p1a: Zapdos|Hurricane|p2a: Zamazenta|[miss]
+|-miss|p1a: Zapdos|p2a: Zamazenta
+|cant|p2a: Zamazenta|par
+|
+|upkeep
+|turn|11
+|
+|t:|1726347899
+|move|p1a: Zapdos|Hurricane|p2a: Zamazenta|[miss]
+|-miss|p1a: Zapdos|p2a: Zamazenta
+|move|p2a: Zamazenta|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|47/100
+|-unboost|p2a: Zamazenta|def|1
+|-unboost|p2a: Zamazenta|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1726347901
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|98/100
+|-singleturn|p1a: Zapdos|move: Roost
+|cant|p2a: Zamazenta|par
+|
+|upkeep
+|turn|13
+|
+|t:|1726347904
+|switch|p2a: Ting-Lu|Ting-Lu|49/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Zapdos|Hurricane|p2a: Ting-Lu|[miss]
+|-miss|p1a: Zapdos|p2a: Ting-Lu
+|
+|upkeep
+|turn|14
+|inactive|Empo has 210 seconds left.
+|
+|t:|1726347915
+|switch|p1a: Samurott|Samurott-Hisui, M|48/100
+|move|p2a: Ting-Lu|Spikes|p1a: Samurott
+|-sidestart|p1: Empo|Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1726347923
+|switch|p2a: Zamazenta|Zamazenta|50/100 par
+|move|p1a: Samurott|Razor Shell|p2a: Zamazenta
+|-damage|p2a: Zamazenta|1/100 par
+|
+|upkeep
+|turn|16
+|
+|t:|1726347927
+|move|p1a: Samurott|Ceaseless Edge|p2a: Zamazenta
+|-resisted|p2a: Zamazenta
+|-damage|p2a: Zamazenta|0 fnt
+|-sidestart|p2: 3d|Spikes
+|faint|p2a: Zamazenta
+|
+|upkeep
+|
+|t:|1726347929
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|17
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726347935
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Samurott|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|74/100
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Samurott
+|
+|upkeep
+|turn|18
+|
+|t:|1726347938
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|move|p2a: Dragonite|Extreme Speed|p1a: Landorus
+|-damage|p1a: Landorus|63/100
+|
+|upkeep
+|turn|19
+|
+|t:|1726347945
+|switch|p1a: Zapdos|Zapdos|98/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|20
+|inactive|3d has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726347972
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Zapdos|Thunder Wave|p2a: Dragonite
+|-status|p2a: Dragonite|par
+|
+|upkeep
+|turn|21
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726347990
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Zapdos|Volt Switch|p2a: Dragonite
+|-damage|p2a: Dragonite|42/100 par
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726348000
+|switch|p1a: Landorus|Landorus-Therian, M|63/100|[from] Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|
+|upkeep
+|turn|22
+|
+|t:|1726348009
+|switch|p1a: Samurott|Samurott-Hisui, M|48/100
+|-damage|p1a: Samurott|36/100|[from] Spikes
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|23
+|
+|t:|1726348017
+|move|p2a: Dragonite|Extreme Speed|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|inactive|Empo has 240 seconds left.
+|
+|t:|1726348054
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|-damage|p1a: Kingambit|88/100|[from] Spikes
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen1|[silent]
+|turn|24
+|inactive|Empo has 210 seconds left.
+|
+|t:|1726348087
+|-terastallize|p2a: Dragonite|Normal
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: Dragonite|Extreme Speed|p1a: Kingambit
+|-immune|p1a: Kingambit
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-heal|p1a: Kingambit|94/100|[from] item: Leftovers
+|upkeep
+|c|☆3d|ggs
+|c|☆Empo|ggs
+|inactive|3d has 270 seconds left.
+|-message|3d forfeited.
+|
+|win|Empo
+|player|p1|
+|player|p2|
+|player|p2|3d|#3d|
+|player|p2|

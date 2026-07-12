@@ -1,0 +1,408 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1610913217
+|player|p1|z0mOG|#z0mog|
+|player|p2|Empo|swimmer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Tyranitar, F|item
+|poke|p1|Serperior, F|item
+|poke|p1|Thundurus-Therian, M|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Tapu Fini|item
+|poke|p1|Magearna|item
+|poke|p2|Kartana|item
+|poke|p2|Alakazam, F|item
+|poke|p2|Tapu Lele|item
+|poke|p2|Magearna|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Rotom-Wash|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|+Askov|empoor
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆z0mOG|dont have ANY fun little baby empoor
+|c|☆Empo|hf
+|inactive|z0mOG has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|z0mOG has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|z0mOG has 210 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1610913334
+|start
+|switch|p1a: my mentee empo|Serperior, F|291/291
+|switch|p2a: QUICKSAND PIT|Landorus-Therian, M|381/381
+|-ability|p2a: QUICKSAND PIT|Intimidate|boost
+|-boost|p1a: my mentee empo|atk|1
+|turn|1
+|inactive|Empo has 240 seconds left.
+|inactive|z0mOG has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1610913386
+|move|p1a: my mentee empo|Leaf Storm|p2a: QUICKSAND PIT
+|-crit|p2a: QUICKSAND PIT
+|-damage|p2a: QUICKSAND PIT|111/381
+|-boost|p1a: my mentee empo|spa|2
+|move|p2a: QUICKSAND PIT|Stealth Rock|p1a: my mentee empo
+|-sidestart|p1: z0mOG|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|z0mOG has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1610913420
+|switch|p2a: CRYSTAL CROSSING|Magearna|364/364
+|move|p1a: my mentee empo|Leaf Storm|p2a: CRYSTAL CROSSING
+|-resisted|p2a: CRYSTAL CROSSING
+|-damage|p2a: CRYSTAL CROSSING|283/364
+|-boost|p1a: my mentee empo|spa|2
+|
+|upkeep
+|turn|3
+|inactive|Empo has 180 seconds left.
+|
+|t:|1610913461
+|move|p1a: my mentee empo|Hidden Power|p2a: CRYSTAL CROSSING
+|-supereffective|p2a: CRYSTAL CROSSING
+|-damage|p2a: CRYSTAL CROSSING|131/364
+|move|p2a: CRYSTAL CROSSING|Ice Beam|p1a: my mentee empo
+|-supereffective|p1a: my mentee empo
+|-damage|p1a: my mentee empo|111/291
+|
+|upkeep
+|turn|4
+|inactive|z0mOG has 210 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1610913514
+|move|p1a: my mentee empo|Synthesis|p1a: my mentee empo
+|-heal|p1a: my mentee empo|256/291
+|move|p2a: CRYSTAL CROSSING|Volt Switch|p1a: my mentee empo
+|-resisted|p1a: my mentee empo
+|-damage|p1a: my mentee empo|221/291
+|inactive|Empo has 120 seconds left.
+|
+|t:|1610913526
+|switch|p2a: THE NIGHTMARE|Tapu Lele|281/281
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: THE NIGHTMARE
+|
+|upkeep
+|turn|5
+|inactive|Empo has 120 seconds left.
+|inactive|z0mOG has 180 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1610913581
+|switch|p1a: dlt baston e|Tyranitar, F|341/341
+|-damage|p1a: dlt baston e|299/341|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: dlt baston e
+|switch|p2a: CRYSTAL CROSSING|Magearna|131/364
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|inactive|z0mOG has 150 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1610913616
+|switch|p2a: QUICKSAND PIT|Landorus-Therian, M|111/381
+|-ability|p2a: QUICKSAND PIT|Intimidate|boost
+|-unboost|p1a: dlt baston e|atk|1
+|detailschange|p1a: dlt baston e|Tyranitar-Mega, F
+|-mega|p1a: dlt baston e|Tyranitar|Tyranitarite
+|move|p1a: dlt baston e|Fire Punch|p2a: QUICKSAND PIT
+|-damage|p2a: QUICKSAND PIT|32/381
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|inactive|Empo has 60 seconds left.
+|
+|t:|1610913647
+|switch|p1a: just some loops|Landorus-Therian, M|319/319
+|-damage|p1a: just some loops|280/319|[from] Stealth Rock
+|-ability|p1a: just some loops|Intimidate|boost
+|-unboost|p2a: QUICKSAND PIT|atk|1
+|switch|p2a: WATERFALL CAVE|Rotom-Wash|304/304
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: WATERFALL CAVE|285/304|[from] Sandstorm
+|upkeep
+|turn|8
+|inactive|z0mOG has 120 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1610913683
+|switch|p1a: my mentee empo|Serperior, F|221/291
+|-damage|p1a: my mentee empo|185/291|[from] Stealth Rock
+|switch|p2a: TREESHROUD FOREST|Kartana|259/259
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: my mentee empo|167/291|[from] Sandstorm
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|inactive|Empo has 10 seconds left.
+|c|☆Empo|test
+|
+|t:|1610913713
+|switch|p2a: CRYSTAL CROSSING|Magearna|131/364
+|move|p1a: my mentee empo|Hidden Power|p2a: CRYSTAL CROSSING
+|-supereffective|p2a: CRYSTAL CROSSING
+|-damage|p2a: CRYSTAL CROSSING|79/364
+|
+|-weather|none
+|upkeep
+|turn|10
+|inactive|Empo has 20 seconds left this turn.
+|inactive|Empo has 15 seconds left.
+|c|☆Empo|test
+|inactive|z0mOG has 90 seconds left.
+|
+|t:|1610913759
+|move|p1a: my mentee empo|Hidden Power|p2a: CRYSTAL CROSSING
+|-supereffective|p2a: CRYSTAL CROSSING
+|-damage|p2a: CRYSTAL CROSSING|27/364
+|move|p2a: CRYSTAL CROSSING|Volt Switch|p1a: my mentee empo
+|-resisted|p1a: my mentee empo
+|-damage|p1a: my mentee empo|132/291
+|inactive|Empo has 20 seconds left this turn.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1610913767
+|switch|p2a: TEMPORAL TOWER|Alakazam, F|251/251
+|
+|upkeep
+|turn|11
+|inactive|Empo has 25 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1610913785
+|switch|p1a: dlt baston e|Tyranitar-Mega, F|299/341
+|-damage|p1a: dlt baston e|257/341|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: dlt baston e
+|detailschange|p2a: TEMPORAL TOWER|Alakazam-Mega, F
+|-mega|p2a: TEMPORAL TOWER|Alakazam|Alakazite
+|-ability|p2a: TEMPORAL TOWER|Sand Stream|[from] ability: Trace|[of] p1a: dlt baston e
+|move|p2a: TEMPORAL TOWER|Psychic|p1a: dlt baston e
+|-immune|p1a: dlt baston e
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: TEMPORAL TOWER|236/251|[from] Sandstorm
+|upkeep
+|turn|12
+|inactive|Empo has 25 seconds left this turn.
+|
+|t:|1610913798
+|switch|p1a: 6ix9indian|Tapu Fini|343/343
+|-damage|p1a: 6ix9indian|301/343|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: 6ix9indian
+|move|p2a: TEMPORAL TOWER|Focus Blast|p1a: 6ix9indian
+|-resisted|p1a: 6ix9indian
+|-damage|p1a: 6ix9indian|230/343
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: TEMPORAL TOWER|221/251|[from] Sandstorm
+|-damage|p1a: 6ix9indian|209/343|[from] Sandstorm
+|-heal|p1a: 6ix9indian|230/343|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Empo has 30 seconds left.
+|inactive|z0mOG has 60 seconds left.
+|
+|t:|1610913814
+|move|p2a: TEMPORAL TOWER|Calm Mind|p2a: TEMPORAL TOWER
+|-boost|p2a: TEMPORAL TOWER|spa|1
+|-boost|p2a: TEMPORAL TOWER|spd|1
+|move|p1a: 6ix9indian|Moonblast|p2a: TEMPORAL TOWER
+|-damage|p2a: TEMPORAL TOWER|148/251
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: TEMPORAL TOWER|133/251|[from] Sandstorm
+|-damage|p1a: 6ix9indian|209/343|[from] Sandstorm
+|-heal|p1a: 6ix9indian|230/343|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1610913819
+|move|p2a: TEMPORAL TOWER|Psychic|p1a: 6ix9indian
+|-damage|p1a: 6ix9indian|0 fnt
+|faint|p1a: 6ix9indian
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: TEMPORAL TOWER|118/251|[from] Sandstorm
+|upkeep
+|inactive|z0mOG has 60 seconds left.
+|inactive|z0mOG has 30 seconds left.
+|
+|t:|1610913861
+|switch|p1a: dlt baston e|Tyranitar-Mega, F|257/341
+|-damage|p1a: dlt baston e|215/341|[from] Stealth Rock
+|turn|15
+|
+|t:|1610913866
+|move|p2a: TEMPORAL TOWER|Focus Blast|p1a: dlt baston e
+|-supereffective|p1a: dlt baston e
+|-damage|p1a: dlt baston e|0 fnt
+|faint|p1a: dlt baston e
+|
+|-weather|none
+|upkeep
+|
+|t:|1610913871
+|switch|p1a: empoleonlove <3|Magearna|301/301
+|-damage|p1a: empoleonlove <3|283/301|[from] Stealth Rock
+|turn|16
+|inactive|Empo has 60 seconds left.
+|
+|t:|1610913883
+|move|p2a: TEMPORAL TOWER|Focus Blast|p1a: empoleonlove <3
+|-damage|p1a: empoleonlove <3|58/301
+|move|p1a: empoleonlove <3|Shift Gear|p1a: empoleonlove <3
+|-boost|p1a: empoleonlove <3|spe|2
+|-boost|p1a: empoleonlove <3|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|17
+|inactive|Empo has 60 seconds left.
+|
+|t:|1610913918
+|switch|p2a: CRYSTAL CROSSING|Magearna|27/364
+|move|p1a: empoleonlove <3|Fleur Cannon|p2a: CRYSTAL CROSSING
+|-resisted|p2a: CRYSTAL CROSSING
+|-damage|p2a: CRYSTAL CROSSING|0 fnt
+|-unboost|p1a: empoleonlove <3|spa|2
+|faint|p2a: CRYSTAL CROSSING
+|-ability|p1a: empoleonlove <3|Soul-Heart|boost
+|-boost|p1a: empoleonlove <3|spa|1
+|
+|upkeep
+|
+|t:|1610913921
+|switch|p2a: TREESHROUD FOREST|Kartana|259/259
+|turn|18
+|
+|t:|1610913927
+|switch|p1a: just some loops|Landorus-Therian, M|280/319
+|-damage|p1a: just some loops|241/319|[from] Stealth Rock
+|-ability|p1a: just some loops|Intimidate|boost
+|-unboost|p2a: TREESHROUD FOREST|atk|1
+|move|p2a: TREESHROUD FOREST|Leaf Blade|p1a: just some loops
+|-damage|p1a: just some loops|99/319
+|
+|upkeep
+|turn|19
+|
+|t:|1610913934
+|switch|p1a: my mentee empo|Serperior, F|132/291
+|-damage|p1a: my mentee empo|96/291|[from] Stealth Rock
+|move|p2a: TREESHROUD FOREST|Leaf Blade|p1a: my mentee empo
+|-resisted|p1a: my mentee empo
+|-damage|p1a: my mentee empo|27/291
+|-damage|p2a: TREESHROUD FOREST|216/259|[from] item: Rocky Helmet|[of] p1a: my mentee empo
+|
+|upkeep
+|turn|20
+|inactive|z0mOG has 60 seconds left.
+|
+|t:|1610913967
+|move|p2a: TREESHROUD FOREST|Leaf Blade|p1a: my mentee empo
+|-resisted|p1a: my mentee empo
+|-damage|p1a: my mentee empo|0 fnt
+|-damage|p2a: TREESHROUD FOREST|173/259|[from] item: Rocky Helmet|[of] p1a: my mentee empo
+|faint|p1a: my mentee empo
+|-ability|p2a: TREESHROUD FOREST|Beast Boost|boost
+|-boost|p2a: TREESHROUD FOREST|atk|1
+|
+|upkeep
+|
+|t:|1610913974
+|switch|p1a: skywalker empo|Thundurus-Therian, M|299/299
+|-damage|p1a: skywalker empo|225/299|[from] Stealth Rock
+|turn|21
+|
+|t:|1610913977
+|move|p2a: TREESHROUD FOREST|Leaf Blade|p1a: skywalker empo
+|-resisted|p1a: skywalker empo
+|-damage|p1a: skywalker empo|83/299
+|move|p1a: skywalker empo|Agility|p1a: skywalker empo
+|-boost|p1a: skywalker empo|spe|2
+|
+|upkeep
+|turn|22
+|inactive|z0mOG has 60 seconds left.
+|
+|t:|1610913996
+|move|p1a: skywalker empo|Hidden Power|p2a: TREESHROUD FOREST
+|-damage|p2a: TREESHROUD FOREST|0 fnt
+|faint|p2a: TREESHROUD FOREST
+|
+|upkeep
+|
+|t:|1610914014
+|switch|p2a: WATERFALL CAVE|Rotom-Wash|285/304
+|turn|23
+|inactive|z0mOG has 60 seconds left.
+|
+|t:|1610914045
+|-zpower|p1a: skywalker empo
+|move|p1a: skywalker empo|Gigavolt Havoc|p2a: WATERFALL CAVE|[zeffect]
+|-damage|p2a: WATERFALL CAVE|50/304
+|-enditem|p2a: WATERFALL CAVE|Iapapa Berry|[eat]
+|-heal|p2a: WATERFALL CAVE|202/304|[from] item: Iapapa Berry
+|move|p2a: WATERFALL CAVE|Hydro Pump|p1a: skywalker empo
+|-damage|p1a: skywalker empo|0 fnt
+|faint|p1a: skywalker empo
+|
+|upkeep
+|
+|t:|1610914052
+|switch|p1a: just some loops|Landorus-Therian, M|99/319
+|-damage|p1a: just some loops|60/319|[from] Stealth Rock
+|-ability|p1a: just some loops|Intimidate|boost
+|-unboost|p2a: WATERFALL CAVE|atk|1
+|turn|24
+|
+|t:|1610914057
+|move|p1a: just some loops|Stealth Rock|p2a: WATERFALL CAVE
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: WATERFALL CAVE|Hydro Pump|p1a: just some loops
+|-supereffective|p1a: just some loops
+|-damage|p1a: just some loops|0 fnt
+|faint|p1a: just some loops
+|
+|upkeep
+|
+|t:|1610914059
+|switch|p1a: empoleonlove <3|Magearna|58/301
+|-damage|p1a: empoleonlove <3|40/301|[from] Stealth Rock
+|turn|25
+|
+|t:|1610914067
+|move|p1a: empoleonlove <3|Shift Gear|p1a: empoleonlove <3
+|-boost|p1a: empoleonlove <3|spe|2
+|-boost|p1a: empoleonlove <3|atk|1
+|move|p2a: WATERFALL CAVE|Volt Switch|p1a: empoleonlove <3
+|-damage|p1a: empoleonlove <3|0 fnt
+|faint|p1a: empoleonlove <3
+|
+|win|Empo
+

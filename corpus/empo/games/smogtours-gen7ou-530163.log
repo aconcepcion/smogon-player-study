@@ -1,0 +1,336 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1606672484
+|player|p1|xray|266|
+|player|p2|Empo|swimmer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|clearpoke
+|poke|p1|Zapdos|item
+|poke|p1|Tyranitar, M|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Kommo-o, M|item
+|poke|p1|Kartana|item
+|poke|p1|Magearna|item
+|poke|p2|Hawlucha, F|item
+|poke|p2|Magearna|item
+|poke|p2|Medicham, F|item
+|poke|p2|Tapu Koko|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Kyurem-Black|item
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+|c|☆xray|hf
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|inactive|xray has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1606672576
+|start
+|switch|p1a: Kartana|Kartana|259/259
+|switch|p2a: XTRADONTQUIT|Medicham, F|261/261
+|turn|1
+|inactive|Empo has 270 seconds left.
+|
+|t:|1606672605
+|detailschange|p2a: XTRADONTQUIT|Medicham-Mega, F
+|-mega|p2a: XTRADONTQUIT|Medicham|Medichamite
+|move|p2a: XTRADONTQUIT|Fake Out|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|230/259
+|cant|p1a: Kartana|flinch
+|
+|upkeep
+|turn|2
+|inactive|xray has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1606672645
+|switch|p2a: Double Life|Landorus-Therian, M|381/381
+|-ability|p2a: Double Life|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Smart Strike|p2a: Double Life
+|-damage|p2a: Double Life|260/381
+|-damage|p1a: Kartana|187/259|[from] item: Rocky Helmet|[of] p2a: Double Life
+|
+|upkeep
+|turn|3
+|inactive|xray has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|xray has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1606672729
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Double Life|atk|1
+|move|p2a: Double Life|Stealth Rock|p1a: Landorus
+|-sidestart|p1: xray|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|inactive|xray has 240 seconds left.
+|
+|t:|1606672737
+|switch|p2a: XTRADONTQUIT|Medicham-Mega, F|261/261
+|move|p1a: Landorus|Defog|p2a: XTRADONTQUIT
+|-unboost|p2a: XTRADONTQUIT|evasion|1
+|-sideend|p1: xray|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|upkeep
+|turn|5
+|inactive|xray has 240 seconds left.
+|
+|t:|1606672755
+|switch|p1a: Tyranitar|Tyranitar, M|383/383
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: XTRADONTQUIT|High Jump Kick|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: XTRADONTQUIT|245/261|[from] Sandstorm
+|upkeep
+|
+|t:|1606672757
+|switch|p1a: Kartana|Kartana|187/259
+|turn|6
+|inactive|xray has 240 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|xray has 210 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606672823
+|switch|p2a: Double Life|Landorus-Therian, M|260/381
+|-ability|p2a: Double Life|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Smart Strike|p2a: Double Life
+|-damage|p2a: Double Life|140/381
+|-damage|p1a: Kartana|144/259|[from] item: Rocky Helmet|[of] p2a: Double Life
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606672841
+|move|p1a: Kartana|Smart Strike|p2a: Double Life
+|-damage|p2a: Double Life|11/381
+|-damage|p1a: Kartana|101/259|[from] item: Rocky Helmet|[of] p2a: Double Life
+|move|p2a: Double Life|Stealth Rock|p1a: Kartana
+|-sidestart|p1: xray|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606672848
+|switch|p2a: PORK CHOP MAN|Tapu Koko|281/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: PORK CHOP MAN
+|move|p1a: Kartana|Smart Strike|p2a: PORK CHOP MAN
+|-damage|p2a: PORK CHOP MAN|106/281
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: PORK CHOP MAN|89/281|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1606672852
+|switch|p1a: Landorus|Landorus-Therian, M|381/381
+|-damage|p1a: Landorus|334/381|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: PORK CHOP MAN|atk|1
+|move|p2a: PORK CHOP MAN|Volt Switch|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|none
+|upkeep
+|turn|10
+|inactive|xray has 210 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1606672887
+|switch|p2a: #nagols-homework|Kyurem-Black|391/391
+|-ability|p2a: #nagols-homework|Teravolt
+|move|p1a: Landorus|Defog|p2a: #nagols-homework
+|-unboost|p2a: #nagols-homework|evasion|1
+|-sideend|p1: xray|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|upkeep
+|turn|11
+|inactive|xray has 210 seconds left.
+|
+|t:|1606672899
+|switch|p1a: Magearna|Magearna|364/364
+|-zpower|p2a: #nagols-homework
+|move|p2a: #nagols-homework|Subzero Slammer|p1a: Magearna|[zeffect]
+|-resisted|p1a: Magearna
+|-damage|p1a: Magearna|165/364
+|
+|upkeep
+|turn|12
+|inactive|xray has 210 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|xray has 180 seconds left.
+|
+|t:|1606672961
+|move|p2a: #nagols-homework|Fusion Bolt|p1a: Magearna
+|-damage|p1a: Magearna|0 fnt
+|faint|p1a: Magearna
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1606672965
+|switch|p1a: Kartana|Kartana|101/259
+|turn|13
+|inactive|Empo has 90 seconds left.
+|
+|t:|1606672994
+|switch|p2a: Double Life|Landorus-Therian, M|11/381
+|-ability|p2a: Double Life|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Smart Strike|p2a: Double Life
+|-crit|p2a: Double Life
+|-damage|p2a: Double Life|0 fnt
+|-damage|p1a: Kartana|58/259|[from] item: Rocky Helmet|[of] p2a: Double Life
+|faint|p2a: Double Life
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1606672999
+|switch|p2a: PORK CHOP MAN|Tapu Koko|89/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: PORK CHOP MAN
+|turn|14
+|
+|t:|1606673006
+|switch|p1a: Landorus|Landorus-Therian, M|334/381
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: PORK CHOP MAN|atk|1
+|move|p2a: PORK CHOP MAN|Hidden Power|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|42/381
+|
+|upkeep
+|turn|15
+|
+|t:|1606673018
+|move|p2a: PORK CHOP MAN|Hidden Power|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|xray has 150 seconds left.
+|
+|t:|1606673042
+|switch|p1a: Kommo-o|Kommo-o, M|291/291
+|turn|16
+|inactive|Empo has 120 seconds left.
+|inactive|xray has 150 seconds left.
+|inactive|xray has 120 seconds left.
+|
+|t:|1606673089
+|switch|p2a: XTRADONTQUIT|Medicham-Mega, F|245/261
+|move|p1a: Kommo-o|Dragon Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|spe|1
+|
+|upkeep
+|turn|17
+|inactive|xray has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1606673133
+|move|p2a: XTRADONTQUIT|Fake Out|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|195/291
+|cant|p1a: Kommo-o|flinch
+|
+|upkeep
+|turn|18
+|inactive|Empo has 60 seconds left.
+|inactive|xray has 90 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1606673196
+|move|p1a: Kommo-o|Dragon Dance|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|spe|1
+|move|p2a: XTRADONTQUIT|Ice Punch|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|inactive|Empo has 30 seconds left this turn.
+|
+|t:|1606673200
+|switch|p1a: Kartana|Kartana|58/259
+|turn|19
+|
+|t:|1606673207
+|move|p1a: Kartana|Smart Strike|p2a: XTRADONTQUIT
+|-damage|p2a: XTRADONTQUIT|0 fnt
+|faint|p2a: XTRADONTQUIT
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1606673210
+|switch|p2a: PORK CHOP MAN|Tapu Koko|89/281
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: PORK CHOP MAN
+|turn|20
+|
+|t:|1606673219
+|move|p2a: PORK CHOP MAN|Volt Switch|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|t:|1606673220
+|switch|p2a: #nagols-homework|Kyurem-Black|391/391
+|-ability|p2a: #nagols-homework|Teravolt
+|
+|upkeep
+|
+|t:|1606673223
+|switch|p1a: Zapdos|Zapdos|383/383
+|turn|21
+|
+|t:|1606673224
+|move|p2a: #nagols-homework|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|141/383
+|move|p1a: Zapdos|Discharge|p2a: #nagols-homework
+|-resisted|p2a: #nagols-homework
+|-damage|p2a: #nagols-homework|332/391
+|
+|upkeep
+|turn|22
+|c|☆Empo|ggs
+|c|☆xray|ggs
+|-message|xray forfeited.
+|
+|win|Empo
+

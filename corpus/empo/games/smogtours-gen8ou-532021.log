@@ -1,0 +1,780 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1607890538
+|player|p1|Empo|swimmer-gen4dp|
+|player|p2|John W|psychic-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gametype|singles
+|gen|8
+|tier|[Gen 8] OU
+|clearpoke
+|poke|p1|Pheromosa|
+|poke|p1|Hippowdon, F|
+|poke|p1|Clefable, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Reuniclus, F|
+|poke|p1|Toxapex, M|
+|poke|p2|Spectrier|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Clefable, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Tornadus-Therian, M|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|teampreview
+|c|☆John W|hf
+|c|+DKM|Go empo
+|c|☆Empo|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 270 seconds left.
+|inactive|John W has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607890610
+|start
+|switch|p1a: dons meetup|Hippowdon, F|419/419
+|switch|p2a: Toxapex|Toxapex, F|303/303
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: dons meetup
+|turn|1
+|
+|t:|1607890622
+|move|p1a: dons meetup|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|151/303
+|move|p2a: Toxapex|Scald|p1a: dons meetup
+|-supereffective|p1a: dons meetup
+|-damage|p1a: dons meetup|323/419
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|133/303|[from] Sandstorm
+|-heal|p1a: dons meetup|349/419|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|John W has 270 seconds left.
+|
+|t:|1607890654
+|switch|p2a: Clefable|Clefable, F|394/394
+|move|p1a: dons meetup|Stealth Rock|p2a: Clefable
+|-sidestart|p2: John W|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: dons meetup|375/419|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Empo has 270 seconds left.
+|
+|t:|1607890696
+|switch|p1a: beamer kid|Toxapex, M|304/304
+|move|p2a: Clefable|Moonblast|p1a: beamer kid
+|-resisted|p1a: beamer kid
+|-damage|p1a: beamer kid|272/304
+|-unboost|p1a: beamer kid|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: beamer kid|253/304|[from] Sandstorm
+|-heal|p1a: beamer kid|272/304|[from] item: Black Sludge
+|upkeep
+|turn|4
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607890734
+|move|p2a: Clefable|Thunder Wave|p1a: beamer kid
+|-status|p1a: beamer kid|par
+|move|p1a: beamer kid|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|373/394
+|-damage|p1a: beamer kid|222/304 par|[from] item: Rocky Helmet|[of] p2a: Clefable
+|-enditem|p2a: Clefable|Rocky Helmet|[from] move: Knock Off|[of] p1a: beamer kid
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: beamer kid|203/304 par|[from] Sandstorm
+|-heal|p1a: beamer kid|222/304 par|[from] item: Black Sludge
+|upkeep
+|turn|5
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607890742
+|switch|p2a: Toxapex|Toxapex, F|234/303
+|-damage|p2a: Toxapex|197/303|[from] Stealth Rock
+|move|p1a: beamer kid|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|169/303
+|-damage|p1a: beamer kid|172/304 par|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-enditem|p2a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p1a: beamer kid
+|
+|-weather|none
+|-heal|p1a: beamer kid|191/304 par|[from] item: Black Sludge
+|upkeep
+|turn|6
+|inactive|Empo has 240 seconds left.
+|
+|t:|1607890778
+|switch|p1a: Houston|Clefable, F|394/394
+|move|p2a: Toxapex|Knock Off|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|372/394
+|-enditem|p1a: Houston|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|7
+|
+|t:|1607890786
+|switch|p2a: Clefable|Clefable, F|373/394
+|move|p1a: Houston|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|
+|upkeep
+|turn|8
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607890815
+|move|p1a: Houston|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|247/394 par
+|move|p2a: Clefable|Moonblast|p1a: Houston
+|-damage|p1a: Houston|251/394
+|
+|upkeep
+|turn|9
+|
+|t:|1607890820
+|move|p1a: Houston|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|139/394 par
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|336/394 par
+|
+|upkeep
+|turn|10
+|
+|t:|1607890823
+|move|p1a: Houston|Soft-Boiled|p1a: Houston
+|-heal|p1a: Houston|394/394
+|move|p2a: Clefable|Thunder Wave|p1a: Houston|[miss]
+|-miss|p2a: Clefable|p1a: Houston
+|
+|upkeep
+|turn|11
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607890855
+|move|p1a: Houston|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|210/394 par
+|move|p2a: Clefable|Thunder Wave|p1a: Houston
+|-status|p1a: Houston|par
+|
+|upkeep
+|turn|12
+|
+|t:|1607890868
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|move|p1a: Houston|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|271/394 par
+|-unboost|p2a: Clefable|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1607890879
+|switch|p2a: Toxapex|Toxapex, F|270/303
+|-damage|p2a: Toxapex|233/303|[from] Stealth Rock
+|move|p1a: Houston|Aromatherapy|p1a: Houston
+|-activate|p1a: Houston|move: Aromatherapy
+|-curestatus|p1a: Houston|par|[msg]
+|-curestatus|p1: beamer kid|par|[msg]
+|
+|upkeep
+|turn|14
+|
+|t:|1607890904
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|194/303
+|move|p2a: Toxapex|Scald|p1a: Houston
+|-damage|p1a: Houston|330/394
+|
+|upkeep
+|turn|15
+|
+|t:|1607890910
+|switch|p2a: Luthier-Therian|Landorus-Therian, M|380/380
+|-damage|p2a: Luthier-Therian|333/380|[from] Stealth Rock
+|-ability|p2a: Luthier-Therian|Intimidate|boost
+|-unboost|p1a: Houston|atk|1
+|move|p1a: Houston|Thunder Wave|p2a: Luthier-Therian
+|-immune|p2a: Luthier-Therian
+|
+|-heal|p2a: Luthier-Therian|356/380|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1607890921
+|move|p2a: Luthier-Therian|Substitute|p2a: Luthier-Therian
+|-start|p2a: Luthier-Therian|Substitute
+|-damage|p2a: Luthier-Therian|261/380
+|move|p1a: Houston|Moonblast|p2a: Luthier-Therian
+|-end|p2a: Luthier-Therian|Substitute
+|
+|-heal|p2a: Luthier-Therian|284/380|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Empo has 240 seconds left.
+|inactive|John W has 270 seconds left.
+|
+|t:|1607890960
+|switch|p1a: Willkommen|Skarmory, M|333/333
+|move|p2a: Luthier-Therian|Earthquake|p1a: Willkommen
+|-immune|p1a: Willkommen
+|
+|-heal|p2a: Luthier-Therian|307/380|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607890995
+|switch|p2a: Tornadus|Tornadus-Therian, M|299/299
+|move|p1a: Willkommen|Spikes|p2a: Tornadus
+|-sidestart|p2: John W|Spikes
+|
+|upkeep
+|turn|19
+|inactive|John W has 270 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607891043
+|switch|p1a: dons meetup|Hippowdon, F|375/419
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: dons meetup
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|281/299|[from] Sandstorm
+|-heal|p1a: dons meetup|401/419|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|Empo has 150 seconds left.
+|
+|t:|1607891079
+|move|p2a: Tornadus|Air Slash|p1a: dons meetup
+|-damage|p1a: dons meetup|179/419
+|move|p1a: dons meetup|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|263/299 tox|[from] Sandstorm
+|-heal|p1a: dons meetup|205/419|[from] item: Leftovers
+|-damage|p2a: Tornadus|245/299 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1607891117
+|switch|p1a: beamer kid|Toxapex, M|292/304
+|move|p2a: Tornadus|Air Slash|p1a: beamer kid
+|-damage|p1a: beamer kid|163/304
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|227/299 tox|[from] Sandstorm
+|-damage|p1a: beamer kid|144/304|[from] Sandstorm
+|-heal|p1a: beamer kid|163/304|[from] item: Black Sludge
+|-damage|p2a: Tornadus|191/299 tox|[from] psn
+|upkeep
+|turn|22
+|inactive|Empo has 120 seconds left.
+|
+|t:|1607891147
+|switch|p1a: the boof|Reuniclus, F|411/411
+|move|p2a: Tornadus|Air Slash|p1a: the boof
+|-damage|p1a: the boof|207/411
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|173/299 tox|[from] Sandstorm
+|-heal|p1a: the boof|232/411|[from] item: Leftovers
+|-damage|p2a: Tornadus|119/299 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1607891159
+|switch|p2a: Tyranitar|Tyranitar, M|404/404
+|move|p1a: the boof|Recover|p1a: the boof
+|-heal|p1a: the boof|411/411
+|
+|-weather|none
+|upkeep
+|turn|24
+|
+|t:|1607891170
+|move|p2a: Tyranitar|Stealth Rock|p1a: the boof
+|-sidestart|p1: Empo|move: Stealth Rock
+|move|p1a: the boof|Thunder|p2a: Tyranitar
+|-damage|p2a: Tyranitar|316/404
+|-status|p2a: Tyranitar|par
+|
+|upkeep
+|turn|25
+|inactive|Empo has 90 seconds left.
+|inactive|John W has 270 seconds left.
+|inactive|Empo has 60 seconds left.
+|inactive|John W has 240 seconds left.
+|
+|t:|1607891242
+|switch|p1a: dons meetup|Hippowdon, F|205/419
+|-damage|p1a: dons meetup|179/419|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: dons meetup
+|switch|p2a: Spectrier|Spectrier|341/341
+|-damage|p2a: Spectrier|299/341|[from] Spikes
+|-damage|p2a: Spectrier|257/341|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Spectrier|236/341|[from] Sandstorm
+|-heal|p1a: dons meetup|205/419|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|Empo has 60 seconds left.
+|
+|t:|1607891282
+|move|p2a: Spectrier|Shadow Ball|p1a: dons meetup
+|-damage|p1a: dons meetup|0 fnt
+|faint|p1a: dons meetup
+|-ability|p2a: Spectrier|Grim Neigh|boost
+|-boost|p2a: Spectrier|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Spectrier|215/341|[from] Sandstorm
+|upkeep
+|
+|t:|1607891288
+|switch|p1a: GOJOU|Pheromosa|283/283
+|turn|27
+|
+|t:|1607891300
+|switch|p2a: Toxapex|Toxapex, F|295/303
+|-damage|p2a: Toxapex|258/303|[from] Spikes
+|-damage|p2a: Toxapex|221/303|[from] Stealth Rock
+|move|p1a: GOJOU|Triple Axel|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|215/303
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|201/303
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|181/303
+|-hitcount|p2a: Toxapex|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: GOJOU|266/283|[from] Sandstorm
+|-damage|p2a: Toxapex|163/303|[from] Sandstorm
+|upkeep
+|turn|28
+|inactive|John W has 240 seconds left.
+|
+|t:|1607891320
+|move|p1a: GOJOU|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|127/303
+|
+|t:|1607891326
+|switch|p1a: Houston|Clefable, F|330/394
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|279/303
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|261/303|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1607891335
+|switch|p2a: Tornadus|Tornadus-Therian, M|218/299 tox
+|move|p1a: Houston|Thunder Wave||[still]
+|-fail|p1a: Houston
+|
+|-weather|none
+|-damage|p2a: Tornadus|200/299 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1607891340
+|switch|p2a: Toxapex|Toxapex, F|303/303
+|-damage|p2a: Toxapex|266/303|[from] Spikes
+|-damage|p2a: Toxapex|229/303|[from] Stealth Rock
+|switch|p1a: the boof|Reuniclus, F|411/411
+|
+|upkeep
+|turn|31
+|inactive|Empo has 30 seconds left.
+|
+|t:|1607891372
+|switch|p1a: Houston|Clefable, F|330/394
+|move|p2a: Toxapex|Knock Off|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|315/394
+|
+|upkeep
+|turn|32
+|
+|t:|1607891375
+|switch|p2a: Tornadus|Tornadus-Therian, M|299/299 tox
+|move|p1a: Houston|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|181/299 tox
+|-unboost|p2a: Tornadus|spa|1
+|
+|-damage|p2a: Tornadus|163/299 tox|[from] psn
+|upkeep
+|turn|33
+|inactive|John W has 270 seconds left.
+|
+|t:|1607891382
+|switch|p2a: Luthier-Therian|Landorus-Therian, M|307/380
+|-damage|p2a: Luthier-Therian|260/380|[from] Stealth Rock
+|-ability|p2a: Luthier-Therian|Intimidate|boost
+|-unboost|p1a: Houston|atk|1
+|move|p1a: Houston|Soft-Boiled|p1a: Houston
+|-heal|p1a: Houston|394/394
+|
+|-heal|p2a: Luthier-Therian|283/380|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1607891390
+|switch|p1a: GOJOU|Pheromosa|266/283
+|move|p2a: Luthier-Therian|Bulk Up|p2a: Luthier-Therian
+|-boost|p2a: Luthier-Therian|atk|1
+|-boost|p2a: Luthier-Therian|def|1
+|
+|-heal|p2a: Luthier-Therian|306/380|[from] item: Leftovers
+|upkeep
+|turn|35
+|inactive|John W has 270 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|John W has 240 seconds left.
+|
+|t:|1607891460
+|move|p1a: GOJOU|Triple Axel|p2a: Luthier-Therian
+|-supereffective|p2a: Luthier-Therian
+|-damage|p2a: Luthier-Therian|226/380
+|-supereffective|p2a: Luthier-Therian
+|-damage|p2a: Luthier-Therian|90/380
+|-supereffective|p2a: Luthier-Therian
+|-damage|p2a: Luthier-Therian|0 fnt
+|-hitcount|p2a: Luthier-Therian|3
+|faint|p2a: Luthier-Therian
+|-ability|p1a: GOJOU|Beast Boost|boost
+|-boost|p1a: GOJOU|spe|1
+|
+|upkeep
+|
+|t:|1607891467
+|switch|p2a: Toxapex|Toxapex, F|303/303
+|-damage|p2a: Toxapex|266/303|[from] Spikes
+|-damage|p2a: Toxapex|229/303|[from] Stealth Rock
+|turn|36
+|
+|t:|1607891482
+|move|p1a: GOJOU|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|195/303
+|
+|t:|1607891485
+|switch|p1a: Houston|Clefable, F|394/394
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|303/303
+|
+|upkeep
+|turn|37
+|
+|t:|1607891504
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|267/303
+|move|p2a: Toxapex|Scald|p1a: Houston
+|-damage|p1a: Houston|336/394
+|
+|upkeep
+|turn|38
+|
+|t:|1607891506
+|switch|p2a: Tornadus|Tornadus-Therian, M|262/299 tox
+|move|p1a: Houston|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|153/299 tox
+|
+|-damage|p2a: Tornadus|135/299 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1607891509
+|switch|p2a: Toxapex|Toxapex, F|303/303
+|-damage|p2a: Toxapex|266/303|[from] Spikes
+|-damage|p2a: Toxapex|229/303|[from] Stealth Rock
+|move|p1a: Houston|Thunder Wave|p2a: Toxapex
+|-status|p2a: Toxapex|par
+|
+|upkeep
+|turn|40
+|
+|t:|1607891512
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|187/303 par
+|move|p2a: Toxapex|Knock Off|p1a: Houston
+|-resisted|p1a: Houston
+|-damage|p1a: Houston|321/394
+|
+|upkeep
+|turn|41
+|
+|t:|1607891517
+|move|p1a: Houston|Soft-Boiled|p1a: Houston
+|-heal|p1a: Houston|394/394
+|cant|p2a: Toxapex|par
+|
+|upkeep
+|turn|42
+|
+|t:|1607891528
+|switch|p1a: the boof|Reuniclus, F|411/411
+|move|p2a: Toxapex|Knock Off|p1a: the boof
+|-supereffective|p1a: the boof
+|-damage|p1a: the boof|275/411
+|-enditem|p1a: the boof|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|43
+|inactive|John W has 270 seconds left.
+|
+|t:|1607891534
+|switch|p2a: Tyranitar|Tyranitar, M|316/404 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: the boof|Recover|p1a: the boof
+|-heal|p1a: the boof|411/411
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|44
+|
+|t:|1607891561
+|switch|p1a: beamer kid|Toxapex, M|264/304
+|-damage|p1a: beamer kid|226/304|[from] Stealth Rock
+|move|p2a: Tyranitar|Thunder Wave|p1a: beamer kid
+|-status|p1a: beamer kid|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: beamer kid|207/304 par|[from] Sandstorm
+|-heal|p1a: beamer kid|226/304 par|[from] item: Black Sludge
+|upkeep
+|turn|45
+|inactive|Empo has 90 seconds left.
+|
+|t:|1607891577
+|switch|p2a: Clefable|Clefable, F|271/394 par
+|switch|p1a: Houston|Clefable, F|394/394
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|46
+|
+|t:|1607891586
+|switch|p2a: Toxapex|Toxapex, F|288/303 par
+|-damage|p2a: Toxapex|251/303 par|[from] Spikes
+|-damage|p2a: Toxapex|214/303 par|[from] Stealth Rock
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|176/303 par
+|-unboost|p2a: Toxapex|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|158/303 par|[from] Sandstorm
+|upkeep
+|turn|47
+|
+|t:|1607891601
+|move|p1a: Houston|Aromatherapy|p1a: Houston
+|-activate|p1a: Houston|move: Aromatherapy
+|-curestatus|p1: beamer kid|par|[msg]
+|cant|p2a: Toxapex|par
+|
+|-weather|none
+|upkeep
+|turn|48
+|
+|t:|1607891607
+|switch|p1a: Willkommen|Skarmory, M|333/333
+|-damage|p1a: Willkommen|292/333|[from] Stealth Rock
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|303/303 par
+|
+|upkeep
+|turn|49
+|
+|t:|1607891618
+|switch|p2a: Spectrier|Spectrier|215/341
+|-damage|p2a: Spectrier|173/341|[from] Stealth Rock
+|-damage|p2a: Spectrier|131/341|[from] Spikes
+|move|p1a: Willkommen|Spikes|p2a: Spectrier
+|-sidestart|p2: John W|Spikes
+|
+|upkeep
+|turn|50
+|
+|t:|1607891624
+|switch|p1a: beamer kid|Toxapex, M|304/304
+|-damage|p1a: beamer kid|266/304|[from] Stealth Rock
+|move|p2a: Spectrier|Shadow Ball|p1a: beamer kid
+|-damage|p1a: beamer kid|142/304
+|
+|-heal|p1a: beamer kid|161/304|[from] item: Black Sludge
+|upkeep
+|turn|51
+|
+|t:|1607891625
+|move|p2a: Spectrier|Shadow Ball|p1a: beamer kid
+|-damage|p1a: beamer kid|26/304
+|-unboost|p1a: beamer kid|spd|1
+|move|p1a: beamer kid|Knock Off|p2a: Spectrier
+|-supereffective|p2a: Spectrier
+|-damage|p2a: Spectrier|0 fnt
+|-enditem|p2a: Spectrier|Choice Specs|[from] move: Knock Off|[of] p1a: beamer kid
+|faint|p2a: Spectrier
+|
+|-heal|p1a: beamer kid|45/304|[from] item: Black Sludge
+|upkeep
+|
+|t:|1607891632
+|switch|p2a: Tornadus|Tornadus-Therian, M|234/299 tox
+|turn|52
+|
+|t:|1607891637
+|switch|p1a: the boof|Reuniclus, F|411/411
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|-damage|p2a: Tornadus|216/299 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1607891640
+|switch|p2a: Tyranitar|Tyranitar, M|316/404 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: the boof|Recover||[still]
+|-fail|p1a: the boof|heal
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|54
+|
+|t:|1607891653
+|switch|p1a: Willkommen|Skarmory, M|292/333
+|-damage|p1a: Willkommen|251/333|[from] Stealth Rock
+|cant|p2a: Tyranitar|par
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|55
+|
+|t:|1607891658
+|switch|p2a: Tornadus|Tornadus-Therian, M|299/299 tox
+|move|p1a: Willkommen|Spikes|p2a: Tornadus
+|-sidestart|p2: John W|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|281/299 tox|[from] Sandstorm
+|-damage|p2a: Tornadus|263/299 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1607891664
+|switch|p2a: Tyranitar|Tyranitar, M|316/404 par
+|switch|p1a: the boof|Reuniclus, F|411/411
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|57
+|inactive|Empo has 180 seconds left.
+|
+|t:|1607891670
+|switch|p1a: Houston|Clefable, F|394/394
+|move|p2a: Tyranitar|Thunder Wave|p1a: Houston
+|-status|p1a: Houston|par
+|
+|-weather|none
+|upkeep
+|turn|58
+|
+|t:|1607891682
+|switch|p2a: Clefable|Clefable, F|271/394 par
+|move|p1a: Houston|Moonblast|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|105/394 par
+|-unboost|p2a: Clefable|spa|1
+|
+|upkeep
+|turn|59
+|
+|t:|1607891695
+|switch|p2a: Toxapex|Toxapex, F|303/303 par
+|-damage|p2a: Toxapex|228/303 par|[from] Spikes
+|-damage|p2a: Toxapex|191/303 par|[from] Stealth Rock
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|153/303 par
+|-unboost|p2a: Toxapex|spa|1
+|
+|upkeep
+|turn|60
+|
+|t:|1607891702
+|move|p1a: Houston|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|115/303 par
+|-unboost|p2a: Toxapex|spa|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|267/303 par
+|
+|upkeep
+|turn|61
+|
+|t:|1607891709
+|switch|p1a: beamer kid|Toxapex, M|146/304
+|-damage|p1a: beamer kid|108/304|[from] Stealth Rock
+|switch|p2a: Tornadus|Tornadus-Therian, M|299/299 tox
+|
+|-heal|p1a: beamer kid|127/304|[from] item: Black Sludge
+|-damage|p2a: Tornadus|281/299 tox|[from] psn
+|upkeep
+|turn|62
+|inactive|Empo has 210 seconds left.
+|
+|t:|1607891725
+|switch|p2a: Clefable|Clefable, F|105/394 par
+|move|p1a: beamer kid|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|90/394 par
+|
+|-heal|p1a: beamer kid|146/304|[from] item: Black Sludge
+|upkeep
+|turn|63
+|
+|t:|1607891729
+|move|p1a: beamer kid|Poison Jab|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: beamer kid|165/304|[from] item: Black Sludge
+|upkeep
+|
+|t:|1607891734
+|switch|p2a: Toxapex|Toxapex, F|303/303 par
+|-damage|p2a: Toxapex|266/303 par|[from] Stealth Rock
+|-damage|p2a: Toxapex|191/303 par|[from] Spikes
+|turn|64
+|c|☆John W|gg
+|c|☆Empo|gg
+|-message|John W forfeited.
+|
+|win|Empo
+

@@ -1,0 +1,681 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1622311556
+|gametype|singles
+|player|p1|Century Express|#wcop2021brazil|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Slowking, F|
+|poke|p1|Heatran, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Kyurem|
+|poke|p2|Corviknight, M|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|c|+HYDREIGON SPECS|VAI LEANDRO
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Empo|hf
+|c|☆Century Express|you too
+|inactive|Century Express has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Century Express has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Century Express has 210 seconds left.
+|inactive|Century Express has 180 seconds left.
+|
+|t:|1622311685
+|start
+|switch|p1a: Pepex-Chan 2.0|Slowking, F|394/394
+|switch|p2a: Spaggy :3|Tornadus-Therian, M|362/362
+|turn|1
+|inactive|Century Express has 240 seconds left.
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1622311782
+|switch|p2a: 'ra and 'gol|Toxapex, F|304/304
+|move|p1a: Pepex-Chan 2.0|Future Sight|p2a: 'ra and 'gol
+|-start|p1a: Pepex-Chan 2.0|move: Future Sight
+|
+|upkeep
+|turn|2
+|inactive|Empo has 210 seconds left.
+|inactive|Century Express has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622311827
+|move|p2a: 'ra and 'gol|Toxic Spikes|p1a: Pepex-Chan 2.0
+|-sidestart|p1: Century Express|move: Toxic Spikes
+|move|p1a: Pepex-Chan 2.0|Teleport|p1a: Pepex-Chan 2.0
+|inactive|Century Express has 180 seconds left.
+|inactive|Century Express has 150 seconds left.
+|
+|t:|1622311879
+|switch|p1a: diamond grelinho|Bisharp, F|271/271
+|
+|upkeep
+|turn|3
+|inactive|Empo has 180 seconds left.
+|inactive|Century Express has 150 seconds left.
+|
+|t:|1622311905
+|switch|p2a: OMEGA|Corviknight, M|384/384
+|-ability|p2a: OMEGA|Pressure
+|move|p1a: diamond grelinho|Swords Dance|p1a: diamond grelinho
+|-boost|p1a: diamond grelinho|atk|2
+|
+|-end|p2a: OMEGA|move: Future Sight
+|-resisted|p2a: OMEGA
+|-damage|p2a: OMEGA|306/384
+|-heal|p2a: OMEGA|330/384|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Century Express has 150 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1622311947
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|382/382
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: OMEGA|atk|1
+|move|p2a: OMEGA|Body Press|p1a: KAIZO DE MERDA
+|-resisted|p1a: KAIZO DE MERDA
+|-damage|p1a: KAIZO DE MERDA|353/382
+|-damage|p2a: OMEGA|266/384|[from] item: Rocky Helmet|[of] p1a: KAIZO DE MERDA
+|
+|-heal|p2a: OMEGA|290/384|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Century Express has 120 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622312003
+|switch|p2a: Willkommen|Kyurem|405/405
+|-ability|p2a: Willkommen|Pressure
+|move|p1a: KAIZO DE MERDA|Stealth Rock|p2a: Willkommen
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1622312016
+|switch|p1a: Pepex-Chan 2.0|Slowking, F|394/394
+|move|p2a: Willkommen|Freeze-Dry|p1a: Pepex-Chan 2.0
+|-supereffective|p1a: Pepex-Chan 2.0
+|-crit|p1a: Pepex-Chan 2.0
+|-damage|p1a: Pepex-Chan 2.0|178/394
+|
+|upkeep
+|turn|7
+|inactive|Century Express has 90 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622312070
+|move|p2a: Willkommen|Freeze-Dry|p1a: Pepex-Chan 2.0
+|-supereffective|p1a: Pepex-Chan 2.0
+|-damage|p1a: Pepex-Chan 2.0|12/394
+|move|p1a: Pepex-Chan 2.0|Slack Off|p1a: Pepex-Chan 2.0
+|-heal|p1a: Pepex-Chan 2.0|209/394
+|
+|upkeep
+|turn|8
+|
+|t:|1622312084
+|move|p2a: Willkommen|Freeze-Dry|p1a: Pepex-Chan 2.0
+|-supereffective|p1a: Pepex-Chan 2.0
+|-damage|p1a: Pepex-Chan 2.0|24/394
+|move|p1a: Pepex-Chan 2.0|Slack Off|p1a: Pepex-Chan 2.0
+|-heal|p1a: Pepex-Chan 2.0|221/394
+|
+|upkeep
+|turn|9
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622312104
+|move|p2a: Willkommen|Freeze-Dry|p1a: Pepex-Chan 2.0
+|-supereffective|p1a: Pepex-Chan 2.0
+|-damage|p1a: Pepex-Chan 2.0|0 fnt
+|faint|p1a: Pepex-Chan 2.0
+|
+|upkeep
+|inactive|Century Express has 60 seconds left.
+|inactive|Century Express has 30 seconds left.
+|
+|t:|1622312153
+|switch|p1a: PERDEMOS|Dragapult, F|317/317
+|-status|p1a: PERDEMOS|psn
+|turn|10
+|inactive|Century Express has 30 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622312170
+|switch|p2a: 'ra and 'gol|Toxapex, F|304/304
+|-damage|p2a: 'ra and 'gol|266/304|[from] Stealth Rock
+|move|p1a: PERDEMOS|U-turn|p2a: 'ra and 'gol
+|-resisted|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|246/304
+|inactive|Century Express has 30 seconds left.
+|inactive|Century Express has 20 seconds left.
+|
+|t:|1622312186
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|353/382
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: 'ra and 'gol|atk|1
+|
+|upkeep
+|turn|11
+|inactive|Century Express has 30 seconds left this turn.
+|inactive|Century Express has 20 seconds left.
+|inactive|Century Express has 15 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1622312205
+|switch|p2a: Spaggy :3|Tornadus-Therian, M|362/362
+|move|p1a: KAIZO DE MERDA|U-turn|p2a: Spaggy :3
+|-resisted|p2a: Spaggy :3
+|-damage|p2a: Spaggy :3|317/362
+|inactive|Century Express has 20 seconds left this turn.
+|inactive|Century Express has 15 seconds left.
+|inactive|Century Express has 10 seconds left.
+|inactive|Century Express has 5 seconds left.
+|
+|t:|1622312220
+|switch|p1a: moxxi gostosa|Heatran, F|384/384
+|
+|upkeep
+|turn|12
+|inactive|Century Express has 15 seconds left this turn.
+|
+|t:|1622312228
+|switch|p2a: 'ra and 'gol|Toxapex, F|304/304
+|-damage|p2a: 'ra and 'gol|266/304|[from] Stealth Rock
+|move|p1a: moxxi gostosa|Toxic|p2a: 'ra and 'gol
+|-immune|p2a: 'ra and 'gol
+|
+|upkeep
+|turn|13
+|inactive|Century Express has 25 seconds left this turn.
+|inactive|Century Express has 20 seconds left.
+|
+|t:|1622312237
+|switch|p1a: MCKevinVEVO|Zapdos|383/383
+|move|p2a: 'ra and 'gol|Knock Off|p1a: MCKevinVEVO
+|-damage|p1a: MCKevinVEVO|339/383
+|-status|p2a: 'ra and 'gol|par|[from] ability: Static|[of] p1a: MCKevinVEVO
+|-enditem|p1a: MCKevinVEVO|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: 'ra and 'gol
+|
+|upkeep
+|turn|14
+|inactive|Century Express has 30 seconds left this turn.
+|inactive|Century Express has 20 seconds left.
+|inactive|Century Express has 15 seconds left.
+|
+|t:|1622312256
+|switch|p1a: PERDEMOS|Dragapult, F|317/317 psn
+|cant|p2a: 'ra and 'gol|par
+|
+|-damage|p1a: PERDEMOS|278/317 psn|[from] psn
+|upkeep
+|turn|15
+|inactive|Century Express has 25 seconds left this turn.
+|inactive|Century Express has 20 seconds left.
+|inactive|Century Express has 15 seconds left.
+|
+|t:|1622312270
+|move|p1a: PERDEMOS|U-turn|p2a: 'ra and 'gol
+|-resisted|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|246/304 par
+|inactive|Century Express has 20 seconds left this turn.
+|
+|t:|1622312272
+|switch|p1a: MCKevinVEVO|Zapdos|339/383
+|move|p2a: 'ra and 'gol|Knock Off|p1a: MCKevinVEVO
+|-damage|p1a: MCKevinVEVO|308/383
+|
+|upkeep
+|turn|16
+|inactive|Century Express has 30 seconds left this turn.
+|
+|t:|1622312277
+|move|p1a: MCKevinVEVO|Discharge|p2a: 'ra and 'gol
+|-supereffective|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|112/304 par
+|move|p2a: 'ra and 'gol|Recover|p2a: 'ra and 'gol
+|-heal|p2a: 'ra and 'gol|264/304 par
+|
+|upkeep
+|turn|17
+|
+|t:|1622312284
+|switch|p2a: pork chop man|Garchomp, M|419/419
+|-damage|p2a: pork chop man|393/419|[from] Stealth Rock
+|move|p1a: MCKevinVEVO|Discharge|p2a: pork chop man
+|-immune|p2a: pork chop man
+|
+|-heal|p2a: pork chop man|419/419|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Empo has 150 seconds left.
+|
+|t:|1622312292
+|move|p1a: MCKevinVEVO|Hurricane|p2a: pork chop man
+|-damage|p2a: pork chop man|293/419
+|move|p2a: pork chop man|Stealth Rock|p1a: MCKevinVEVO
+|-sidestart|p1: Century Express|move: Stealth Rock
+|
+|-heal|p2a: pork chop man|319/419|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1622312306
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|353/382
+|-damage|p1a: KAIZO DE MERDA|306/382|[from] Stealth Rock
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: pork chop man|atk|1
+|move|p2a: pork chop man|Toxic|p1a: KAIZO DE MERDA
+|-status|p1a: KAIZO DE MERDA|tox
+|
+|-heal|p2a: pork chop man|345/419|[from] item: Leftovers
+|-damage|p1a: KAIZO DE MERDA|283/382 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1622312326
+|switch|p2a: Spaggy :3|Tornadus-Therian, M|362/362
+|move|p1a: KAIZO DE MERDA|U-turn|p2a: Spaggy :3
+|-resisted|p2a: Spaggy :3
+|-damage|p2a: Spaggy :3|324/362
+|
+|t:|1622312333
+|switch|p1a: moxxi gostosa|Heatran, F|384/384
+|-damage|p1a: moxxi gostosa|336/384|[from] Stealth Rock
+|
+|-heal|p1a: moxxi gostosa|360/384|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1622312340
+|switch|p2a: 'ra and 'gol|Toxapex, F|304/304 par
+|-damage|p2a: 'ra and 'gol|266/304 par|[from] Stealth Rock
+|move|p1a: moxxi gostosa|Magma Storm|p2a: 'ra and 'gol
+|-resisted|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|222/304 par
+|-activate|p2a: 'ra and 'gol|move: Magma Storm|[of] p1a: moxxi gostosa
+|
+|-heal|p1a: moxxi gostosa|384/384|[from] item: Leftovers
+|-damage|p2a: 'ra and 'gol|184/304 par|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|22
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622312351
+|move|p1a: moxxi gostosa|Earth Power|p2a: 'ra and 'gol
+|-supereffective|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|90/304 par
+|move|p2a: 'ra and 'gol|Knock Off|p1a: moxxi gostosa
+|-damage|p1a: moxxi gostosa|336/384
+|-enditem|p1a: moxxi gostosa|Leftovers|[from] move: Knock Off|[of] p2a: 'ra and 'gol
+|
+|-damage|p2a: 'ra and 'gol|52/304 par|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|23
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622312363
+|switch|p2a: pork chop man|Garchomp, M|345/419
+|-damage|p2a: pork chop man|319/419|[from] Stealth Rock
+|move|p1a: moxxi gostosa|Toxic|p2a: pork chop man
+|-status|p2a: pork chop man|tox
+|
+|-heal|p2a: pork chop man|345/419 tox|[from] item: Leftovers
+|-damage|p2a: pork chop man|319/419 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|Empo has 180 seconds left.
+|inactive|Century Express has 30 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1622312413
+|switch|p1a: PERDEMOS|Dragapult, F|278/317 psn
+|-damage|p1a: PERDEMOS|239/317 psn|[from] Stealth Rock
+|move|p2a: pork chop man|Earthquake|p1a: PERDEMOS
+|-damage|p1a: PERDEMOS|37/317 psn
+|
+|-heal|p2a: pork chop man|345/419 tox|[from] item: Leftovers
+|-damage|p1a: PERDEMOS|0 fnt|[from] psn
+|faint|p1a: PERDEMOS
+|-damage|p2a: pork chop man|293/419 tox|[from] psn
+|upkeep
+|
+|t:|1622312417
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|283/382 tox
+|-damage|p1a: KAIZO DE MERDA|236/382 tox|[from] Stealth Rock
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: pork chop man|atk|1
+|turn|25
+|
+|t:|1622312424
+|switch|p2a: Spaggy :3|Tornadus-Therian, M|362/362
+|move|p1a: KAIZO DE MERDA|U-turn|p2a: Spaggy :3
+|-resisted|p2a: Spaggy :3
+|-damage|p2a: Spaggy :3|319/362
+|
+|t:|1622312432
+|switch|p1a: MCKevinVEVO|Zapdos|308/383
+|-damage|p1a: MCKevinVEVO|213/383|[from] Stealth Rock
+|
+|upkeep
+|turn|26
+|
+|t:|1622312439
+|move|p2a: Spaggy :3|Toxic|p1a: MCKevinVEVO
+|-status|p1a: MCKevinVEVO|tox
+|move|p1a: MCKevinVEVO|Hurricane|p2a: Spaggy :3
+|-damage|p2a: Spaggy :3|141/362
+|-start|p2a: Spaggy :3|confusion
+|
+|-damage|p1a: MCKevinVEVO|190/383 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1622312456
+|switch|p2a: Walter Wednesdays|Clefable, M|394/394
+|-damage|p2a: Walter Wednesdays|345/394|[from] Stealth Rock
+|move|p1a: MCKevinVEVO|Hurricane|p2a: Walter Wednesdays|[miss]
+|-miss|p1a: MCKevinVEVO|p2a: Walter Wednesdays
+|
+|-heal|p2a: Walter Wednesdays|369/394|[from] item: Leftovers
+|-damage|p1a: MCKevinVEVO|144/383 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1622312471
+|move|p1a: MCKevinVEVO|Hurricane|p2a: Walter Wednesdays
+|-damage|p2a: Walter Wednesdays|212/394
+|move|p2a: Walter Wednesdays|Heal Bell|p2a: Walter Wednesdays
+|-activate|p2a: Walter Wednesdays|move: Heal Bell
+|-curestatus|p2: 'ra and 'gol|par|[msg]
+|-curestatus|p2: pork chop man|tox|[msg]
+|
+|-heal|p2a: Walter Wednesdays|236/394|[from] item: Leftovers
+|-damage|p1a: MCKevinVEVO|75/383 tox|[from] psn
+|upkeep
+|turn|29
+|inactive|Century Express has 30 seconds left.
+|
+|t:|1622312489
+|switch|p1a: diamond grelinho|Bisharp, F|271/271
+|-damage|p1a: diamond grelinho|255/271|[from] Stealth Rock
+|move|p2a: Walter Wednesdays|Wish|p2a: Walter Wednesdays
+|
+|-heal|p2a: Walter Wednesdays|260/394|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1622312507
+|switch|p2a: OMEGA|Corviknight, M|290/384
+|-damage|p2a: OMEGA|242/384|[from] Stealth Rock
+|-ability|p2a: OMEGA|Pressure
+|move|p1a: diamond grelinho|Swords Dance|p1a: diamond grelinho
+|-boost|p1a: diamond grelinho|atk|2
+|
+|-heal|p2a: OMEGA|384/384|[from] move: Wish|[wisher] Walter Wednesdays
+|upkeep
+|turn|31
+|
+|t:|1622312516
+|move|p1a: diamond grelinho|Swords Dance|p1a: diamond grelinho
+|-boost|p1a: diamond grelinho|atk|2
+|move|p2a: OMEGA|Body Press|p1a: diamond grelinho
+|-supereffective|p1a: diamond grelinho
+|-enditem|p1a: diamond grelinho|Chople Berry|[eat]
+|-enditem|p1a: diamond grelinho|Chople Berry|[weaken]
+|-damage|p1a: diamond grelinho|97/271
+|
+|upkeep
+|turn|32
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1622312593
+|switch|p2a: 'ra and 'gol|Toxapex, F|153/304
+|-damage|p2a: 'ra and 'gol|115/304|[from] Stealth Rock
+|move|p1a: diamond grelinho|Knock Off|p2a: 'ra and 'gol
+|-damage|p2a: 'ra and 'gol|0 fnt
+|-enditem|p2a: 'ra and 'gol|Shed Shell|[from] move: Knock Off|[of] p1a: diamond grelinho
+|faint|p2a: 'ra and 'gol
+|
+|upkeep
+|
+|t:|1622312595
+|switch|p2a: Spaggy :3|Tornadus-Therian, M|261/362
+|turn|33
+|inactive|Century Express has 60 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1622312628
+|move|p1a: diamond grelinho|Sucker Punch||[still]
+|-fail|p1a: diamond grelinho
+|move|p2a: Spaggy :3|Defog|p1a: diamond grelinho
+|-unboost|p1a: diamond grelinho|evasion|1
+|-ability|p1a: diamond grelinho|Defiant
+|-boost|p1a: diamond grelinho|atk|2
+|-sideend|p1: Century Express|Toxic Spikes|[from] move: Defog|[of] p2a: Spaggy :3
+|-sideend|p1: Century Express|Stealth Rock|[from] move: Defog|[of] p2a: Spaggy :3
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p2a: Spaggy :3
+|
+|upkeep
+|turn|34
+|inactive|Empo has 120 seconds left.
+|
+|t:|1622312651
+|move|p1a: diamond grelinho|Sucker Punch|p2a: Spaggy :3
+|-damage|p2a: Spaggy :3|0 fnt
+|faint|p2a: Spaggy :3
+|
+|upkeep
+|
+|t:|1622312652
+|switch|p2a: Walter Wednesdays|Clefable, M|260/394
+|turn|35
+|inactive|Century Express has 60 seconds left.
+|
+|t:|1622312658
+|move|p2a: Walter Wednesdays|Protect|p2a: Walter Wednesdays
+|-singleturn|p2a: Walter Wednesdays|Protect
+|move|p1a: diamond grelinho|Iron Head|p2a: Walter Wednesdays
+|-activate|p2a: Walter Wednesdays|move: Protect
+|
+|-heal|p2a: Walter Wednesdays|284/394|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|Century Express has 60 seconds left.
+|
+|t:|1622312677
+|move|p1a: diamond grelinho|Iron Head|p2a: Walter Wednesdays
+|-supereffective|p2a: Walter Wednesdays
+|-damage|p2a: Walter Wednesdays|48/394
+|move|p2a: Walter Wednesdays|Moonblast|p1a: diamond grelinho
+|-damage|p1a: diamond grelinho|0 fnt
+|faint|p1a: diamond grelinho
+|
+|-heal|p2a: Walter Wednesdays|72/394|[from] item: Leftovers
+|upkeep
+|
+|t:|1622312682
+|switch|p1a: moxxi gostosa|Heatran, F|336/384
+|turn|37
+|
+|t:|1622312687
+|switch|p2a: pork chop man|Garchomp, M|293/419
+|move|p1a: moxxi gostosa|Earth Power|p2a: pork chop man
+|-damage|p2a: pork chop man|220/419
+|
+|-heal|p2a: pork chop man|246/419|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1622312693
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|236/382 tox
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: pork chop man|atk|1
+|move|p2a: pork chop man|Stealth Rock|p1a: KAIZO DE MERDA
+|-sidestart|p1: Century Express|move: Stealth Rock
+|
+|-heal|p2a: pork chop man|272/419|[from] item: Leftovers
+|-damage|p1a: KAIZO DE MERDA|213/382 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1622312698
+|switch|p2a: Willkommen|Kyurem|405/405
+|-ability|p2a: Willkommen|Pressure
+|move|p1a: KAIZO DE MERDA|U-turn|p2a: Willkommen
+|-damage|p2a: Willkommen|318/405
+|
+|t:|1622312701
+|switch|p1a: moxxi gostosa|Heatran, F|336/384
+|-damage|p1a: moxxi gostosa|288/384|[from] Stealth Rock
+|
+|upkeep
+|turn|40
+|
+|t:|1622312703
+|switch|p2a: pork chop man|Garchomp, M|272/419
+|move|p1a: moxxi gostosa|Earth Power|p2a: pork chop man
+|-damage|p2a: pork chop man|203/419
+|
+|-heal|p2a: pork chop man|229/419|[from] item: Leftovers
+|upkeep
+|turn|41
+|inactive|Empo has 180 seconds left.
+|
+|t:|1622312714
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|213/382 tox
+|-damage|p1a: KAIZO DE MERDA|166/382 tox|[from] Stealth Rock
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: pork chop man|atk|1
+|move|p2a: pork chop man|Earthquake|p1a: KAIZO DE MERDA
+|-immune|p1a: KAIZO DE MERDA
+|
+|-heal|p2a: pork chop man|255/419|[from] item: Leftovers
+|-damage|p1a: KAIZO DE MERDA|143/382 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1622312719
+|switch|p2a: OMEGA|Corviknight, M|384/384
+|-ability|p2a: OMEGA|Pressure
+|move|p1a: KAIZO DE MERDA|U-turn|p2a: OMEGA
+|-resisted|p2a: OMEGA
+|-damage|p2a: OMEGA|369/384
+|
+|t:|1622312721
+|switch|p1a: moxxi gostosa|Heatran, F|288/384
+|-damage|p1a: moxxi gostosa|240/384|[from] Stealth Rock
+|
+|-heal|p2a: OMEGA|384/384|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1622312727
+|move|p2a: OMEGA|Body Press|p1a: moxxi gostosa
+|-supereffective|p1a: moxxi gostosa
+|-damage|p1a: moxxi gostosa|102/384
+|move|p1a: moxxi gostosa|Magma Storm|p2a: OMEGA
+|-supereffective|p2a: OMEGA
+|-damage|p2a: OMEGA|48/384
+|-activate|p2a: OMEGA|move: Magma Storm|[of] p1a: moxxi gostosa
+|
+|-heal|p2a: OMEGA|72/384|[from] item: Leftovers
+|-damage|p2a: OMEGA|24/384|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|44
+|
+|t:|1622312734
+|switch|p1a: KAIZO DE MERDA|Landorus-Therian, M|143/382 tox
+|-damage|p1a: KAIZO DE MERDA|96/382 tox|[from] Stealth Rock
+|-ability|p1a: KAIZO DE MERDA|Intimidate|boost
+|-unboost|p2a: OMEGA|atk|1
+|move|p2a: OMEGA|Body Press|p1a: KAIZO DE MERDA
+|-resisted|p1a: KAIZO DE MERDA
+|-damage|p1a: KAIZO DE MERDA|66/382 tox
+|-damage|p2a: OMEGA|0 fnt|[from] item: Rocky Helmet|[of] p1a: KAIZO DE MERDA
+|faint|p2a: OMEGA
+|
+|-damage|p1a: KAIZO DE MERDA|43/382 tox|[from] psn
+|upkeep
+|
+|t:|1622312735
+|switch|p2a: Willkommen|Kyurem|318/405
+|-ability|p2a: Willkommen|Pressure
+|turn|45
+|
+|t:|1622312738
+|move|p2a: Willkommen|Freeze-Dry|p1a: KAIZO DE MERDA
+|-supereffective|p1a: KAIZO DE MERDA
+|-damage|p1a: KAIZO DE MERDA|0 fnt
+|faint|p1a: KAIZO DE MERDA
+|
+|upkeep
+|c|☆Century Express|gg
+|
+|t:|1622312741
+|switch|p1a: moxxi gostosa|Heatran, F|102/384
+|-damage|p1a: moxxi gostosa|54/384|[from] Stealth Rock
+|turn|46
+|c|☆Empo|gg
+|
+|t:|1622312744
+|move|p2a: Willkommen|Freeze-Dry|p1a: moxxi gostosa
+|-resisted|p1a: moxxi gostosa
+|-damage|p1a: moxxi gostosa|30/384
+|-status|p1a: moxxi gostosa|frz
+|cant|p1a: moxxi gostosa|frz
+|
+|upkeep
+|turn|47
+|
+|t:|1622312745
+|move|p2a: Willkommen|Freeze-Dry|p1a: moxxi gostosa
+|-resisted|p1a: moxxi gostosa
+|-damage|p1a: moxxi gostosa|1/384 frz
+|-curestatus|p1a: moxxi gostosa|frz|[msg]
+|move|p1a: moxxi gostosa|Earth Power|p2a: Willkommen
+|-damage|p2a: Willkommen|236/405
+|
+|upkeep
+|turn|48
+|
+|t:|1622312749
+|move|p2a: Willkommen|Freeze-Dry|p1a: moxxi gostosa
+|-resisted|p1a: moxxi gostosa
+|-damage|p1a: moxxi gostosa|0 fnt
+|faint|p1a: moxxi gostosa
+|
+|upkeep
+|
+|t:|1622312751
+|switch|p1a: MCKevinVEVO|Zapdos|75/383 tox
+|-damage|p1a: MCKevinVEVO|0 fnt|[from] Stealth Rock
+|faint|p1a: MCKevinVEVO
+|
+|win|Empo
+

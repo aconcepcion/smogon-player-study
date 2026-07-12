@@ -1,0 +1,458 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1652556208
+|gametype|singles
+|player|p1|Arct!c|hilbert-wonderlauncher|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Rotom-Wash|
+|poke|p1|Volcarona, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Weavile, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Skarmory, F|
+|poke|p2|Blacephalon|
+|poke|p2|Clefable, F|
+|teampreview
+|c|☆Arct!c|hf
+|c|☆Empo|hf
+|inactive|Empo has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1652556331
+|start
+|switch|p1a: God's Plan|Landorus-Therian, M|350/350
+|switch|p2a: Hippowdon|Hippowdon, F|419/419
+|-ability|p1a: God's Plan|Intimidate|boost
+|-unboost|p2a: Hippowdon|atk|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|Empo has 240 seconds left.
+|
+|t:|1652556363
+|move|p1a: God's Plan|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: Empo|move: Stealth Rock
+|move|p2a: Hippowdon|Stealth Rock|p1a: God's Plan
+|-sidestart|p1: Arct!c|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1652556367
+|move|p1a: God's Plan|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Defog|[of] p1a: God's Plan
+|-sideend|p1: Arct!c|Stealth Rock|[from] move: Defog|[of] p1a: God's Plan
+|move|p2a: Hippowdon|Earthquake|p1a: God's Plan
+|-immune|p1a: God's Plan
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1652556369
+|move|p1a: God's Plan|Imprison|p1a: God's Plan
+|-start|p1a: God's Plan|move: Imprison
+|move|p2a: Hippowdon|Toxic|p1a: God's Plan
+|-status|p1a: God's Plan|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: God's Plan|329/350 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|
+|t:|1652556426
+|switch|p2a: Skarmory|Skarmory, F|334/334
+|move|p1a: God's Plan|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: God's Plan|287/350 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1652556429
+|move|p1a: God's Plan|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|323/334
+|-damage|p1a: God's Plan|229/350 tox|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|
+|t:|1652556432
+|switch|p1a: Finesse|Volcarona, M|311/311
+|move|p2a: Skarmory|Spikes|p1a: Finesse
+|-sidestart|p1: Arct!c|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Finesse|292/311|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1652556437
+|switch|p2a: Toxapex|Toxapex, F|303/303
+|-damage|p2a: Toxapex|266/303|[from] Stealth Rock
+|move|p1a: Finesse|Quiver Dance|p1a: Finesse
+|-boost|p1a: Finesse|spa|1
+|-boost|p1a: Finesse|spd|1
+|-boost|p1a: Finesse|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Finesse|273/311|[from] Sandstorm
+|-damage|p2a: Toxapex|248/303|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1652556439
+|move|p1a: Finesse|Psychic|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-damage|p1a: Finesse|242/311|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Finesse|223/311|[from] Sandstorm
+|upkeep
+|
+|t:|1652556446
+|switch|p2a: Excadrill|Excadrill, M|361/361
+|-damage|p2a: Excadrill|350/361|[from] Stealth Rock
+|turn|8
+|inactive|Empo has 210 seconds left.
+|inactive|Arct!c has 270 seconds left.
+|
+|t:|1652556482
+|switch|p1a: Elevate|Rotom-Wash|303/303
+|move|p2a: Excadrill|Rapid Spin|p1a: Elevate
+|-damage|p1a: Elevate|238/303
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: Empo|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|
+|-weather|none
+|-heal|p2a: Excadrill|361/361|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Arct!c has 270 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1652556530
+|switch|p2a: Hippowdon|Hippowdon, F|419/419
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Elevate|Trick|p2a: Hippowdon
+|-activate|p1a: Elevate|move: Trick|[of] p2a: Hippowdon
+|-item|p2a: Hippowdon|Choice Scarf|[from] move: Trick
+|-item|p1a: Elevate|Smooth Rock|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Elevate|220/303|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1652556539
+|switch|p2a: Clefable|Clefable, F|394/394
+|move|p1a: Elevate|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|295/394
+|inactive|Arct!c has 240 seconds left.
+|
+|t:|1652556563
+|switch|p1a: God's Plan|Landorus-Therian, M|229/350 tox
+|-ability|p1a: God's Plan|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: God's Plan|208/350 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Empo has 180 seconds left.
+|
+|t:|1652556583
+|switch|p2a: Excadrill|Excadrill, M|361/361
+|move|p1a: God's Plan|Defog|p2a: Excadrill
+|-unboost|p2a: Excadrill|evasion|1
+|-sideend|p1: Arct!c|Spikes|[from] move: Defog|[of] p1a: God's Plan
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: God's Plan|166/350 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|Arct!c has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1652556648
+|move|p2a: Excadrill|Iron Head|p1a: God's Plan
+|-damage|p1a: God's Plan|0 fnt
+|-damage|p2a: Excadrill|301/361|[from] item: Rocky Helmet|[of] p1a: God's Plan
+|faint|p1a: God's Plan
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Excadrill|323/361|[from] item: Leftovers
+|upkeep
+|c|☆Arct!c|yo what
+|c|☆Arct!c|fuck me i shouldve calced
+|inactive|Arct!c has 210 seconds left.
+|inactive|Arct!c has 180 seconds left.
+|inactive|Arct!c has 150 seconds left.
+|inactive|Arct!c has 120 seconds left.
+|inactive|Arct!c has 90 seconds left.
+|
+|t:|1652556800
+|switch|p1a: Elevate|Rotom-Wash|220/303
+|turn|13
+|inactive|Empo has 120 seconds left.
+|inactive|Empo has 90 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1652556881
+|switch|p2a: Life|Blacephalon|247/247
+|move|p1a: Elevate|Hydro Pump|p2a: Life|[miss]
+|-miss|p1a: Elevate|p2a: Life
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Life|232/247|[from] Sandstorm
+|-damage|p1a: Elevate|202/303|[from] Sandstorm
+|upkeep
+|turn|14
+|inactive|Arct!c has 90 seconds left.
+|
+|t:|1652556903
+|switch|p1a: Nice For What|Weavile, M|281/281
+|-ability|p1a: Nice For What|Pressure
+|move|p2a: Life|Flamethrower|p1a: Nice For What
+|-supereffective|p1a: Nice For What
+|-damage|p1a: Nice For What|0 fnt
+|faint|p1a: Nice For What
+|-ability|p2a: Life|Beast Boost|boost
+|-boost|p2a: Life|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Life|217/247|[from] Sandstorm
+|upkeep
+|inactive|Arct!c has 90 seconds left.
+|inactive|Arct!c has 60 seconds left.
+|
+|t:|1652556941
+|switch|p1a: Mob Ties|Kartana|259/259
+|turn|15
+|
+|t:|1652556946
+|switch|p1a: Finesse|Volcarona, M|223/311
+|switch|p2a: Hippowdon|Hippowdon, F|419/419
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Finesse|204/311|[from] Sandstorm
+|upkeep
+|turn|16
+|inactive|Arct!c has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1652556983
+|move|p1a: Finesse|Quiver Dance|p1a: Finesse
+|-boost|p1a: Finesse|spa|1
+|-boost|p1a: Finesse|spd|1
+|-boost|p1a: Finesse|spe|1
+|move|p2a: Hippowdon|Earthquake|p1a: Finesse
+|-damage|p1a: Finesse|24/311
+|
+|-weather|none
+|upkeep
+|turn|17
+|inactive|Arct!c has 60 seconds left.
+|
+|t:|1652556989
+|move|p1a: Finesse|Fire Blast|p2a: Hippowdon
+|-damage|p2a: Hippowdon|60/419
+|-damage|p1a: Finesse|0 fnt|[from] item: Life Orb
+|faint|p1a: Finesse
+|move|p2a: Hippowdon|Earthquake|p1: Finesse|[notarget]
+|-fail|p2a: Hippowdon
+|
+|upkeep
+|inactive|Arct!c has 60 seconds left.
+|
+|t:|1652557009
+|switch|p1a: Emotionless|Garchomp, M|357/357
+|turn|18
+|
+|t:|1652557029
+|switch|p2a: Skarmory|Skarmory, F|323/334
+|move|p1a: Emotionless|Swords Dance|p1a: Emotionless
+|-boost|p1a: Emotionless|atk|2
+|
+|upkeep
+|turn|19
+|inactive|Arct!c has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1652557051
+|move|p1a: Emotionless|Swords Dance|p1a: Emotionless
+|-boost|p1a: Emotionless|atk|2
+|move|p2a: Skarmory|Whirlwind|p1a: Emotionless
+|drag|p1a: Elevate|Rotom-Wash|202/303
+|
+|upkeep
+|turn|20
+|inactive|Empo has 30 seconds left.
+|
+|t:|1652557063
+|switch|p2a: Hippowdon|Hippowdon, F|60/419
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Elevate|Volt Switch|p2a: Hippowdon
+|-immune|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Elevate|184/303|[from] Sandstorm
+|upkeep
+|turn|21
+|inactive|Arct!c has 60 seconds left.
+|
+|t:|1652557070
+|move|p1a: Elevate|Hydro Pump|p2a: Hippowdon|[miss]
+|-miss|p1a: Elevate|p2a: Hippowdon
+|move|p2a: Hippowdon|Stealth Rock|p1a: Elevate
+|-sidestart|p1: Arct!c|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Elevate|166/303|[from] Sandstorm
+|upkeep
+|turn|22
+|inactive|Arct!c has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|inactive|Arct!c has 10 seconds left.
+|
+|t:|1652557131
+|switch|p2a: Clefable|Clefable, F|295/394
+|move|p1a: Elevate|Trick|p2a: Clefable
+|-activate|p1a: Elevate|move: Trick|[of] p2a: Clefable
+|-item|p2a: Clefable|Smooth Rock|[from] move: Trick
+|-item|p1a: Elevate|Life Orb|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Elevate|148/303|[from] Sandstorm
+|upkeep
+|turn|23
+|inactive|Arct!c has 20 seconds left this turn.
+|inactive|Empo has 30 seconds left this turn.
+|inactive|Arct!c has 15 seconds left.
+|inactive|Arct!c has 10 seconds left.
+|
+|t:|1652557145
+|move|p1a: Elevate|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p1: Arct!c|Stealth Rock|[from] move: Defog|[of] p1a: Elevate
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Elevate|130/303|[from] Sandstorm
+|upkeep
+|turn|24
+|inactive|Arct!c has 20 seconds left this turn.
+|
+|t:|1652557148
+|move|p1a: Elevate|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|265/394
+|-damage|p1a: Elevate|100/303|[from] item: Life Orb
+|inactive|Arct!c has 25 seconds left this turn.
+|inactive|Arct!c has 20 seconds left.
+|inactive|Arct!c has 15 seconds left.
+|
+|t:|1652557159
+|switch|p1a: Emotionless|Garchomp, M|357/357
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394
+|
+|-weather|none
+|upkeep
+|turn|25
+|inactive|Arct!c has 25 seconds left this turn.
+|
+|t:|1652557162
+|move|p1a: Emotionless|Swords Dance|p1a: Emotionless
+|-boost|p1a: Emotionless|atk|2
+|move|p2a: Clefable|Moonblast|p1a: Emotionless
+|-supereffective|p1a: Emotionless
+|-enditem|p1a: Emotionless|Roseli Berry|[eat]
+|-enditem|p1a: Emotionless|Roseli Berry|[weaken]
+|-damage|p1a: Emotionless|227/357
+|-unboost|p1a: Emotionless|spa|1
+|
+|upkeep
+|turn|26
+|inactive|Arct!c has 30 seconds left.
+|
+|t:|1652557168
+|move|p1a: Emotionless|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|105/394
+|move|p2a: Clefable|Moonblast|p1a: Emotionless
+|-supereffective|p1a: Emotionless
+|-damage|p1a: Emotionless|0 fnt
+|faint|p1a: Emotionless
+|
+|upkeep
+|
+|t:|1652557170
+|switch|p1a: Mob Ties|Kartana|259/259
+|turn|27
+|inactive|Arct!c has 30 seconds left.
+|
+|t:|1652557192
+|switch|p1a: Elevate|Rotom-Wash|100/303
+|move|p2a: Clefable|Moonblast|p1a: Elevate
+|-damage|p1a: Elevate|1/303
+|
+|upkeep
+|turn|28
+|inactive|Arct!c has 30 seconds left.
+|inactive|Arct!c has 20 seconds left.
+|
+|t:|1652557208
+|move|p1a: Elevate|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Elevate|0 fnt|[from] item: Life Orb
+|faint|p1a: Elevate
+|
+|upkeep
+|inactive|Arct!c has 30 seconds left this turn.
+|
+|t:|1652557211
+|switch|p1a: Mob Ties|Kartana|259/259
+|switch|p2a: Skarmory|Skarmory, F|323/334
+|turn|29
+|
+|t:|1652557213
+|move|p1a: Mob Ties|Swords Dance|p1a: Mob Ties
+|-boost|p1a: Mob Ties|atk|2
+|move|p2a: Skarmory|Body Press|p1a: Mob Ties
+|-supereffective|p1a: Mob Ties
+|-damage|p1a: Mob Ties|99/259
+|
+|upkeep
+|turn|30
+|c|☆Arct!c|ggs
+|-message|Arct!c forfeited.
+|
+|win|Empo
+

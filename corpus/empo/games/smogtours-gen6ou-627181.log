@@ -1,0 +1,1549 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1653073328
+|gametype|singles
+|player|p1|Ox the Fox|#splxiiiruiners|
+|player|p2|Empo|#empo|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|clearpoke
+|poke|p1|Tornadus-Therian, M|item
+|poke|p1|Tyranitar, M|item
+|poke|p1|Clefable, M|item
+|poke|p1|Slowbro, F|item
+|poke|p1|Serperior, M|item
+|poke|p1|Excadrill, M|item
+|poke|p2|Clefable, M|item
+|poke|p2|Lopunny, F|item
+|poke|p2|Tyranitar, M|item
+|poke|p2|Excadrill, M|item
+|poke|p2|Skarmory, F|item
+|poke|p2|Amoonguss, M|item
+|teampreview
+|inactive|Ox the Fox also wants the timer to be on.
+|c|☆Ox the Fox|glhf
+|c|☆Empo|gl hf
+|inactive|Ox the Fox has 270 seconds left.
+|inactive|Empo has 270 seconds left.
+|c|+blarghlfarghl|go empoor
+|c|+blarghlfarghl|the goons
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Ox the Fox has 240 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653073479
+|start
+|switch|p1a: Clefable|Clefable, M|394/394
+|switch|p2a: Clefable|Clefable, M|394/394
+|turn|1
+|inactive|Empo has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653073525
+|switch|p2a: Amoonguss|Amoonguss, M|431/431
+|move|p1a: Clefable|Stealth Rock|p2a: Amoonguss
+|-sidestart|p2: Empo|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1653073535
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|375/431
+|-enditem|p2a: Amoonguss|Black Sludge|[from] move: Knock Off|[of] p1a: Clefable
+|move|p2a: Amoonguss|Spore|p1a: Clefable
+|-status|p1a: Clefable|slp|[from] move: Spore
+|
+|upkeep
+|turn|3
+|inactive|Empo has 180 seconds left.
+|inactive|Ox the Fox has 270 seconds left.
+|
+|t:|1653073574
+|switch|p1a: Tornadus|Tornadus-Therian, M|361/361
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|301/361
+|
+|upkeep
+|turn|4
+|inactive|Empo has 180 seconds left.
+|
+|t:|1653073599
+|switch|p2a: Clefable|Clefable, M|394/394
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|368/394
+|inactive|Ox the Fox has 240 seconds left.
+|
+|t:|1653073616
+|switch|p1a: Tyranitar|Tyranitar, M|382/382
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|392/394|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1653073631
+|switch|p1a: Excadrill|Excadrill, M|361/361
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|inactive|Ox the Fox has 240 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1653073687
+|switch|p1a: Slowbro|Slowbro, F|394/394
+|switch|p2a: Skarmory|Skarmory, F|333/333
+|-damage|p2a: Skarmory|292/333|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|370/394|[from] Sandstorm
+|-heal|p1a: Slowbro|394/394|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1653073693
+|switch|p2a: Clefable|Clefable, M|394/394
+|move|p1a: Slowbro|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|370/394|[from] Sandstorm
+|-heal|p1a: Slowbro|394/394|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1653073723
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|cant|p2a: Clefable|par
+|
+|-weather|none
+|upkeep
+|turn|9
+|inactive|Ox the Fox has 210 seconds left.
+|
+|t:|1653073750
+|switch|p1a: Tyranitar|Tyranitar, M|382/382
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Clefable|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|inactive|Empo has 120 seconds left.
+|inactive|Ox the Fox has 180 seconds left.
+|
+|t:|1653073794
+|detailschange|p1a: Tyranitar|Tyranitar-Mega, M
+|-mega|p1a: Tyranitar|Tyranitar|Tyranitarite
+|move|p1a: Tyranitar|Stone Edge|p2a: Clefable
+|-damage|p2a: Clefable|124/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|321/394 par
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|195/394 par
+|-heal|p2a: Clefable|219/394 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Empo has 120 seconds left.
+|inactive|Ox the Fox has 150 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653073834
+|switch|p2a: Tyranitar|Tyranitar, M|341/341
+|-damage|p2a: Tyranitar|299/341|[from] Stealth Rock
+|move|p1a: Tyranitar|Fire Punch|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|215/341
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|inactive|Empo has 90 seconds left.
+|inactive|Ox the Fox has 150 seconds left.
+|inactive|Ox the Fox has 120 seconds left.
+|
+|t:|1653073875
+|switch|p1a: Clefable|Clefable, M|394/394 slp
+|move|p2a: Tyranitar|Stone Edge|p1a: Clefable|[miss]
+|-miss|p2a: Tyranitar|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|13
+|inactive|Ox the Fox has 120 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1653073910
+|switch|p1a: Excadrill|Excadrill, M|361/361
+|-damage|p1a: Excadrill|350/361|[from] Stealth Rock
+|move|p2a: Tyranitar|Stone Edge|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|243/361
+|
+|-weather|none
+|-heal|p1a: Excadrill|265/361|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Ox the Fox has 90 seconds left.
+|
+|t:|1653073936
+|switch|p2a: Skarmory|Skarmory, F|292/333
+|-damage|p2a: Skarmory|251/333|[from] Stealth Rock
+|move|p1a: Excadrill|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|244/333
+|-damage|p1a: Excadrill|205/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-sideend|p1: Ox the Fox|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|227/361|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1653073946
+|switch|p1a: Slowbro|Slowbro, F|394/394
+|move|p2a: Skarmory|Spikes|p1a: Slowbro
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|upkeep
+|turn|16
+|inactive|Ox the Fox has 90 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1653073981
+|switch|p2a: Clefable|Clefable, M|219/394 par
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|243/394 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Empo has 60 seconds left.
+|inactive|Ox the Fox has 60 seconds left.
+|c|☆Ox the Fox|.
+|
+|t:|1653074025
+|switch|p1a: Tyranitar|Tyranitar-Mega, M|382/382
+|-damage|p1a: Tyranitar|335/382|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Clefable|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|267/394 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1653074054
+|switch|p2a: Tyranitar|Tyranitar, M|215/341
+|-damage|p2a: Tyranitar|173/341|[from] Stealth Rock
+|move|p1a: Tyranitar|Fire Punch|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|119/341
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Tyranitar|move: Future Sight
+|-immune|p2a: Tyranitar
+|upkeep
+|turn|19
+|inactive|Empo has 30 seconds left.
+|
+|t:|1653074069
+|move|p2a: Tyranitar|Stone Edge|p1a: Tyranitar
+|-damage|p1a: Tyranitar|122/382
+|move|p1a: Tyranitar|Stone Edge|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Empo has 30 seconds left.
+|
+|t:|1653074078
+|switch|p2a: Excadrill|Excadrill, M|361/361
+|-damage|p2a: Excadrill|350/361|[from] Stealth Rock
+|turn|20
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653074093
+|switch|p1a: Slowbro|Slowbro, F|394/394
+|-damage|p1a: Slowbro|345/394|[from] Stealth Rock
+|-damage|p1a: Slowbro|296/394|[from] Spikes
+|move|p2a: Excadrill|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|155/394
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|131/394|[from] Sandstorm
+|-heal|p2a: Excadrill|361/361|[from] item: Leftovers
+|-heal|p1a: Slowbro|155/394|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1653074105
+|move|p2a: Excadrill|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|14/394
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|211/394
+|
+|-weather|none
+|-heal|p1a: Slowbro|235/394|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Empo has 30 seconds left.
+|
+|t:|1653074123
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|
+|upkeep
+|turn|23
+|
+|t:|1653074128
+|move|p2a: Excadrill|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|99/394
+|move|p1a: Slowbro|Scald|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|103/361
+|-status|p2a: Excadrill|brn
+|
+|-heal|p2a: Excadrill|125/361 brn|[from] item: Leftovers
+|-heal|p1a: Slowbro|123/394|[from] item: Leftovers
+|-damage|p2a: Excadrill|80/361 brn|[from] brn
+|upkeep
+|turn|24
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653074139
+|switch|p1a: Serperior|Serperior, M|292/292
+|-damage|p1a: Serperior|256/292|[from] Stealth Rock
+|-damage|p1a: Serperior|220/292|[from] Spikes
+|move|p2a: Excadrill|Iron Head|p1a: Serperior
+|-damage|p1a: Serperior|38/292
+|
+|-heal|p2a: Excadrill|102/361 brn|[from] item: Leftovers
+|-damage|p2a: Excadrill|57/361 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653074145
+|switch|p2a: Amoonguss|Amoonguss, M|431/431
+|-damage|p2a: Amoonguss|378/431|[from] Stealth Rock
+|move|p1a: Serperior|Rest|p1a: Serperior
+|-status|p1a: Serperior|slp|[from] move: Rest
+|-heal|p1a: Serperior|292/292 slp|[silent]
+|-enditem|p1a: Serperior|Chesto Berry|[eat]
+|-curestatus|p1a: Serperior|slp|[msg]
+|
+|upkeep
+|turn|26
+|inactive|Ox the Fox has 60 seconds left.
+|inactive|Ox the Fox has 30 seconds left.
+|
+|t:|1653074187
+|move|p1a: Serperior|Glare|p2a: Amoonguss
+|-status|p2a: Amoonguss|par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Serperior
+|-supereffective|p1a: Serperior
+|-damage|p1a: Serperior|104/292
+|
+|upkeep
+|turn|27
+|
+|t:|1653074193
+|switch|p1a: Tornadus|Tornadus-Therian, M|361/361
+|-damage|p1a: Tornadus|271/361|[from] Stealth Rock
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|202/361
+|
+|upkeep
+|turn|28
+|
+|t:|1653074215
+|move|p1a: Tornadus|Heat Wave|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|236/431 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|141/361
+|
+|upkeep
+|turn|29
+|
+|t:|1653074227
+|move|p1a: Tornadus|U-turn|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|153/431 par
+|
+|t:|1653074229
+|switch|p1a: Excadrill|Excadrill, M|227/361
+|-damage|p1a: Excadrill|216/361|[from] Stealth Rock
+|-damage|p1a: Excadrill|171/361|[from] Spikes
+|move|p2a: Amoonguss|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|56/361
+|-heal|p2a: Amoonguss|211/431 par|[from] drain|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|78/361|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|Ox the Fox has 30 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1653074265
+|switch|p2a: Skarmory|Skarmory, F|244/333
+|-damage|p2a: Skarmory|203/333|[from] Stealth Rock
+|move|p1a: Excadrill|Rapid Spin|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|196/333
+|-damage|p1a: Excadrill|18/361|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-sideend|p1: Ox the Fox|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-sideend|p1: Ox the Fox|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|40/361|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1653074269
+|move|p1a: Excadrill|Rock Slide|p2a: Skarmory
+|-damage|p2a: Skarmory|148/333
+|move|p2a: Skarmory|Spikes|p1a: Excadrill
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|-heal|p1a: Excadrill|62/361|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1653074275
+|switch|p1a: Tornadus|Tornadus-Therian, M|261/361
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|315/333
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|33
+|inactive|Ox the Fox has 30 seconds left.
+|inactive|Empo has 60 seconds left.
+|
+|t:|1653074308
+|switch|p2a: Clefable|Clefable, M|267/394 par
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|194/394 par
+|
+|-heal|p2a: Clefable|218/394 par|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1653074313
+|move|p1a: Tornadus|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|182/394 par
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Clefable|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: Ox the Fox|move: Stealth Rock
+|
+|upkeep
+|turn|35
+|
+|t:|1653074321
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|156/394 par
+|
+|t:|1653074323
+|switch|p1a: Slowbro|Slowbro, F|254/394
+|-damage|p1a: Slowbro|205/394|[from] Stealth Rock
+|-damage|p1a: Slowbro|156/394|[from] Spikes
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|353/394 par
+|
+|-heal|p1a: Slowbro|180/394|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1653074330
+|switch|p1a: Clefable|Clefable, M|394/394 slp
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|357/394 slp
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|37
+|inactive|Ox the Fox has 60 seconds left.
+|
+|t:|1653074358
+|cant|p1a: Clefable|slp
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|38
+|
+|t:|1653074361
+|cant|p1a: Clefable|slp
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|263/394 slp
+|
+|upkeep
+|turn|39
+|
+|t:|1653074376
+|switch|p2a: Amoonguss|Amoonguss, M|354/431 par
+|-damage|p2a: Amoonguss|301/431 par|[from] Stealth Rock
+|-curestatus|p1a: Clefable|slp|[msg]
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|250/431 par
+|-unboost|p2a: Amoonguss|spa|1
+|
+|upkeep
+|turn|40
+|
+|t:|1653074384
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Amoonguss|Giga Drain|p1a: Clefable
+|-damage|p1a: Clefable|346/394
+|-heal|p2a: Amoonguss|274/431 par|[from] drain|[of] p1a: Clefable
+|
+|upkeep
+|turn|41
+|
+|t:|1653074388
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|227/431 par
+|-unboost|p2a: Amoonguss|spa|1
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|266/394
+|
+|upkeep
+|turn|42
+|
+|t:|1653074402
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Amoonguss|Spore|p1a: Clefable
+|-status|p1a: Clefable|slp|[from] move: Spore
+|
+|upkeep
+|turn|43
+|
+|t:|1653074413
+|switch|p2a: Lopunny|Lopunny, F|271/271
+|-damage|p2a: Lopunny|238/271|[from] Stealth Rock
+|cant|p1a: Clefable|slp
+|
+|upkeep
+|turn|44
+|
+|t:|1653074429
+|switch|p1a: Excadrill|Excadrill, M|62/361
+|-damage|p1a: Excadrill|17/361|[from] Spikes
+|-damage|p1a: Excadrill|6/361|[from] Stealth Rock
+|move|p2a: Lopunny|Fake Out|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1653074435
+|switch|p1a: Slowbro|Slowbro, F|311/394
+|-damage|p1a: Slowbro|262/394|[from] Spikes
+|-damage|p1a: Slowbro|213/394|[from] Stealth Rock
+|turn|45
+|inactive|Empo has 90 seconds left.
+|
+|t:|1653074462
+|switch|p2a: Skarmory|Skarmory, F|315/333
+|-damage|p2a: Skarmory|274/333|[from] Stealth Rock
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|
+|upkeep
+|turn|46
+|
+|t:|1653074474
+|switch|p1a: Clefable|Clefable, M|394/394 slp
+|move|p2a: Skarmory|Spikes|p1a: Clefable
+|-sidestart|p1: Ox the Fox|Spikes
+|
+|upkeep
+|turn|47
+|
+|t:|1653074479
+|move|p2a: Skarmory|Spikes|p1a: Clefable
+|-sidestart|p1: Ox the Fox|Spikes
+|cant|p1a: Clefable|slp
+|
+|upkeep
+|turn|48
+|
+|t:|1653074484
+|switch|p2a: Amoonguss|Amoonguss, M|370/431 par
+|-damage|p2a: Amoonguss|317/431 par|[from] Stealth Rock
+|-curestatus|p1a: Clefable|slp|[msg]
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|272/431 par
+|
+|upkeep
+|turn|49
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653074490
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|227/431 par
+|-unboost|p2a: Amoonguss|spa|1
+|move|p2a: Amoonguss|Spore|p1a: Clefable
+|-status|p1a: Clefable|slp|[from] move: Spore
+|
+|upkeep
+|turn|50
+|inactive|Ox the Fox has 120 seconds left.
+|inactive|Empo has 120 seconds left.
+|
+|t:|1653074513
+|switch|p2a: Clefable|Clefable, M|353/394 par
+|cant|p1a: Clefable|slp
+|
+|upkeep
+|turn|51
+|
+|t:|1653074516
+|cant|p1a: Clefable|slp
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|52
+|
+|t:|1653074518
+|-curestatus|p1a: Clefable|slp|[msg]
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|254/394 par
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|330/394
+|
+|upkeep
+|turn|53
+|
+|t:|1653074521
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|166/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|363/394 par
+|
+|upkeep
+|turn|54
+|
+|t:|1653074522
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|275/394 par
+|-unboost|p2a: Clefable|spa|1
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|55
+|
+|t:|1653074525
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|178/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|375/394 par
+|
+|upkeep
+|turn|56
+|
+|t:|1653074527
+|switch|p1a: Tornadus|Tornadus-Therian, M|361/361
+|-damage|p1a: Tornadus|271/361|[from] Stealth Rock
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|
+|upkeep
+|turn|57
+|
+|t:|1653074529
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|364/394 par
+|
+|t:|1653074531
+|switch|p1a: Clefable|Clefable, M|330/394
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|58
+|
+|t:|1653074533
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|273/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|
+|upkeep
+|turn|59
+|
+|t:|1653074535
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|295/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|60
+|
+|t:|1653074538
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|201/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|
+|upkeep
+|turn|61
+|
+|t:|1653074540
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|294/394 par
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|279/394
+|-unboost|p1a: Clefable|spa|1
+|
+|upkeep
+|turn|62
+|
+|t:|1653074544
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|377/394
+|
+|upkeep
+|turn|63
+|
+|t:|1653074546
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|234/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|
+|upkeep
+|turn|64
+|
+|t:|1653074549
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|330/394 par
+|-unboost|p2a: Clefable|spa|1
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|65
+|
+|t:|1653074562
+|switch|p1a: Tornadus|Tornadus-Therian, M|361/361
+|-damage|p1a: Tornadus|271/361|[from] Stealth Rock
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|66
+|
+|t:|1653074566
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|259/394 par
+|move|p2a: Clefable|Stealth Rock||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|67
+|
+|t:|1653074569
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|188/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|385/394 par
+|
+|upkeep
+|turn|68
+|
+|t:|1653074571
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|320/394 par
+|move|p2a: Clefable|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|210/361
+|-enditem|p1a: Tornadus|Assault Vest|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|69
+|
+|t:|1653074573
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|249/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|70
+|
+|t:|1653074577
+|move|p1a: Tornadus|Heat Wave|p2a: Clefable
+|-damage|p2a: Clefable|173/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|370/394 par
+|
+|upkeep
+|turn|71
+|
+|t:|1653074579
+|move|p1a: Tornadus|Hidden Power|p2a: Clefable
+|-damage|p2a: Clefable|323/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|72
+|
+|t:|1653074580
+|move|p1a: Tornadus|Hidden Power|p2a: Clefable
+|-damage|p2a: Clefable|275/394 par
+|move|p2a: Clefable|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|165/361
+|
+|upkeep
+|turn|73
+|
+|t:|1653074583
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|246/394 par
+|
+|t:|1653074584
+|switch|p1a: Clefable|Clefable, M|377/394
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|74
+|
+|t:|1653074585
+|switch|p1a: Tornadus|Tornadus-Therian, M|285/361
+|-damage|p1a: Tornadus|195/361|[from] Stealth Rock
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|394/394 par
+|
+|upkeep
+|turn|75
+|
+|t:|1653074591
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|365/394 par
+|
+|t:|1653074592
+|switch|p1a: Clefable|Clefable, M|377/394
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|358/394
+|
+|upkeep
+|turn|76
+|
+|t:|1653074595
+|switch|p2a: Amoonguss|Amoonguss, M|370/431 par
+|-damage|p2a: Amoonguss|317/431 par|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|267/431 par
+|-unboost|p2a: Amoonguss|spa|1
+|
+|upkeep
+|turn|77
+|
+|t:|1653074602
+|switch|p2a: Clefable|Clefable, M|365/394 par
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|347/394 par
+|
+|upkeep
+|turn|78
+|
+|t:|1653074605
+|switch|p1a: Tornadus|Tornadus-Therian, M|315/361
+|-damage|p1a: Tornadus|225/361|[from] Stealth Rock
+|switch|p2a: Amoonguss|Amoonguss, M|410/431 par
+|-damage|p2a: Amoonguss|357/431 par|[from] Stealth Rock
+|
+|upkeep
+|turn|79
+|
+|t:|1653074612
+|move|p1a: Tornadus|Heat Wave|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|219/431 par
+|move|p2a: Amoonguss|Spore|p1a: Tornadus
+|-status|p1a: Tornadus|slp|[from] move: Spore
+|
+|upkeep
+|turn|80
+|
+|t:|1653074618
+|switch|p1a: Clefable|Clefable, M|358/394
+|switch|p2a: Clefable|Clefable, M|347/394 par
+|
+|upkeep
+|turn|81
+|
+|t:|1653074620
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|259/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|82
+|
+|t:|1653074623
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|157/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|354/394 par
+|
+|upkeep
+|turn|83
+|
+|t:|1653074627
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|263/394 par
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|252/394
+|
+|upkeep
+|turn|84
+|
+|t:|1653074631
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|300/394
+|
+|upkeep
+|turn|85
+|
+|t:|1653074633
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|113/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|86
+|
+|t:|1653074636
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|22/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|219/394 par
+|
+|upkeep
+|turn|87
+|
+|t:|1653074638
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|132/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|329/394 par
+|
+|upkeep
+|turn|88
+|
+|t:|1653074643
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|310/394 par
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|194/394
+|
+|upkeep
+|turn|89
+|
+|t:|1653074645
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|391/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|291/394
+|
+|upkeep
+|turn|90
+|
+|t:|1653074650
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|303/394
+|
+|upkeep
+|turn|91
+|
+|t:|1653074654
+|move|p1a: Clefable|Stealth Rock||[still]
+|-fail|p1a: Clefable
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|92
+|
+|t:|1653074655
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|223/394 par
+|move|p2a: Clefable|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|284/394
+|
+|upkeep
+|turn|93
+|
+|t:|1653074659
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|205/394 par
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|181/394
+|
+|upkeep
+|turn|94
+|
+|t:|1653074661
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|378/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|279/394
+|
+|upkeep
+|turn|95
+|
+|t:|1653074689
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|304/394
+|
+|upkeep
+|turn|96
+|
+|t:|1653074691
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|256/394
+|
+|upkeep
+|turn|97
+|
+|t:|1653074695
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|303/394
+|
+|upkeep
+|turn|98
+|
+|t:|1653074697
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|250/394
+|
+|upkeep
+|turn|99
+|
+|t:|1653074699
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|304/394
+|
+|upkeep
+|turn|100
+|
+|t:|1653074701
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|292/394
+|
+|upkeep
+|turn|101
+|
+|t:|1653074703
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|295/394
+|
+|upkeep
+|turn|102
+|
+|t:|1653074711
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|185/394 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|103
+|
+|t:|1653074716
+|move|p1a: Clefable|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|166/394 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|363/394 par
+|
+|upkeep
+|turn|104
+|
+|t:|1653074724
+|switch|p2a: Amoonguss|Amoonguss, M|362/431 par
+|-damage|p2a: Amoonguss|309/431 par|[from] Stealth Rock
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|265/431 par
+|
+|upkeep
+|turn|105
+|inactive|Ox the Fox has 270 seconds left.
+|
+|t:|1653074766
+|switch|p1a: Tornadus|Tornadus-Therian, M|345/361 slp
+|-damage|p1a: Tornadus|255/361 slp|[from] Stealth Rock
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|152/361 slp
+|
+|upkeep
+|turn|106
+|
+|t:|1653074775
+|cant|p1a: Tornadus|slp
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|52/361 slp
+|
+|upkeep
+|turn|107
+|
+|t:|1653074788
+|switch|p1a: Tyranitar|Tyranitar-Mega, M|122/382
+|-damage|p1a: Tyranitar|27/382|[from] Spikes
+|-damage|p1a: Tyranitar|0 fnt|[from] Stealth Rock
+|faint|p1a: Tyranitar
+|cant|p2a: Amoonguss|par
+|
+|upkeep
+|
+|t:|1653074790
+|switch|p1a: Slowbro|Slowbro, F|394/394
+|-damage|p1a: Slowbro|345/394|[from] Stealth Rock
+|-damage|p1a: Slowbro|247/394|[from] Spikes
+|turn|108
+|
+|t:|1653074798
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|61/394
+|-heal|p2a: Amoonguss|358/431 par|[from] drain|[of] p1a: Slowbro
+|
+|-heal|p1a: Slowbro|85/394|[from] item: Leftovers
+|upkeep
+|turn|109
+|
+|t:|1653074801
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|282/394
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Slowbro
+|-damage|p1a: Slowbro|174/394
+|
+|-heal|p1a: Slowbro|198/394|[from] item: Leftovers
+|upkeep
+|turn|110
+|
+|t:|1653074807
+|switch|p2a: Clefable|Clefable, M|363/394 par
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|233/394 par
+|upkeep
+|turn|111
+|
+|t:|1653074811
+|move|p1a: Slowbro|Scald|p2a: Clefable
+|-damage|p2a: Clefable|146/394 par
+|move|p2a: Clefable|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|316/394
+|-enditem|p1a: Slowbro|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|112
+|
+|t:|1653074816
+|switch|p2a: Amoonguss|Amoonguss, M|431/431 par
+|-damage|p2a: Amoonguss|378/431 par|[from] Stealth Rock
+|move|p1a: Slowbro|Scald|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|339/431 par
+|
+|upkeep
+|turn|113
+|
+|t:|1653074818
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|152/394
+|-heal|p2a: Amoonguss|421/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|114
+|
+|t:|1653074820
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|349/394
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Slowbro
+|-damage|p1a: Slowbro|250/394
+|
+|upkeep
+|turn|115
+|
+|t:|1653074825
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|230/394
+|-heal|p2a: Amoonguss|431/431 par|[from] drain|[of] p1a: Slowbro
+|
+|-end|p2a: Amoonguss|move: Future Sight
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|191/431 par
+|upkeep
+|turn|116
+|
+|t:|1653074830
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|42/394
+|-heal|p2a: Amoonguss|285/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|117
+|
+|t:|1653074833
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|239/394
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|63/394
+|-heal|p2a: Amoonguss|373/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|118
+|
+|t:|1653074836
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|260/394
+|cant|p2a: Amoonguss|par
+|
+|-end|p2a: Amoonguss|move: Future Sight
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|133/431 par
+|upkeep
+|turn|119
+|
+|t:|1653074840
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|98/394
+|-heal|p2a: Amoonguss|214/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|120
+|
+|t:|1653074843
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|295/394
+|cant|p2a: Amoonguss|par
+|
+|upkeep
+|turn|121
+|
+|t:|1653074853
+|switch|p2a: Clefable|Clefable, M|146/394 par
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|
+|-end|p2a: Clefable|move: Future Sight
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|upkeep
+|
+|t:|1653074861
+|switch|p2a: Excadrill|Excadrill, M|57/361 brn
+|-damage|p2a: Excadrill|46/361 brn|[from] Stealth Rock
+|turn|122
+|
+|t:|1653074868
+|switch|p1a: Serperior|Serperior, M|104/292
+|-damage|p1a: Serperior|68/292|[from] Stealth Rock
+|-damage|p1a: Serperior|0 fnt|[from] Spikes
+|faint|p1a: Serperior
+|move|p2a: Excadrill|Rapid Spin|p1: Serperior|[notarget]
+|-fail|p2a: Excadrill
+|
+|-heal|p2a: Excadrill|68/361 brn|[from] item: Leftovers
+|-damage|p2a: Excadrill|23/361 brn|[from] brn
+|upkeep
+|
+|t:|1653074878
+|switch|p1a: Clefable|Clefable, M|295/394
+|turn|123
+|
+|t:|1653074881
+|switch|p2a: Amoonguss|Amoonguss, M|357/431 par
+|-damage|p2a: Amoonguss|304/431 par|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|394/394
+|
+|upkeep
+|turn|124
+|
+|t:|1653074883
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|261/431 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|230/394
+|-status|p1a: Clefable|psn
+|
+|upkeep
+|turn|125
+|
+|t:|1653074888
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|216/431 par
+|move|p2a: Amoonguss|Giga Drain|p1a: Clefable
+|-damage|p1a: Clefable|160/394 psn
+|-heal|p2a: Amoonguss|251/431 par|[from] drain|[of] p1a: Clefable
+|
+|upkeep
+|turn|126
+|
+|t:|1653074890
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|357/394 psn
+|cant|p2a: Amoonguss|par
+|
+|upkeep
+|turn|127
+|
+|t:|1653074898
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|209/431 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|175/394 psn
+|
+|upkeep
+|turn|128
+|
+|t:|1653074901
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|170/431 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|13/394 psn
+|
+|upkeep
+|turn|129
+|
+|t:|1653074905
+|move|p1a: Clefable|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|128/431 par
+|cant|p2a: Amoonguss|par
+|
+|upkeep
+|turn|130
+|
+|t:|1653074907
+|move|p1a: Clefable|Moonblast|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|80/431 par
+|move|p2a: Amoonguss|Hidden Power|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1653074912
+|switch|p1a: Slowbro|Slowbro, F|394/394
+|-damage|p1a: Slowbro|345/394|[from] Stealth Rock
+|-damage|p1a: Slowbro|247/394|[from] Spikes
+|turn|131
+|
+|t:|1653074915
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|79/394
+|-heal|p2a: Amoonguss|164/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|132
+|
+|t:|1653074918
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|276/394
+|cant|p2a: Amoonguss|par
+|
+|upkeep
+|turn|133
+|inactive|Empo has 270 seconds left.
+|
+|t:|1653074970
+|switch|p2a: Excadrill|Excadrill, M|23/361 brn
+|-damage|p2a: Excadrill|12/361 brn|[from] Stealth Rock
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|
+|-end|p2a: Excadrill|move: Future Sight
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|upkeep
+|
+|t:|1653074973
+|switch|p2a: Amoonguss|Amoonguss, M|307/431 par
+|-damage|p2a: Amoonguss|254/431 par|[from] Stealth Rock
+|turn|134
+|
+|t:|1653074975
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|212/394
+|-heal|p2a: Amoonguss|345/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|135
+|
+|t:|1653074978
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|214/394
+|-heal|p2a: Amoonguss|431/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|136
+|
+|t:|1653074980
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|394/394
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|208/394
+|
+|-end|p2a: Amoonguss|move: Future Sight
+|-supereffective|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|45/431 par
+|upkeep
+|turn|137
+|
+|t:|1653074990
+|move|p1a: Slowbro|Scald|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|3/431 par
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|40/394
+|-heal|p2a: Amoonguss|87/431 par|[from] drain|[of] p1a: Slowbro
+|
+|upkeep
+|turn|138
+|
+|t:|1653074995
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|237/394
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Slowbro
+|-damage|p1a: Slowbro|134/394
+|
+|upkeep
+|turn|139
+|
+|t:|1653074999
+|move|p1a: Slowbro|Future Sight|p2a: Amoonguss
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Amoonguss|Giga Drain|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|-heal|p2a: Amoonguss|154/431 par|[from] drain|[of] p1a: Slowbro
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1653075000
+|switch|p1a: Tornadus|Tornadus-Therian, M|172/361 slp
+|-damage|p1a: Tornadus|82/361 slp|[from] Stealth Rock
+|turn|140
+|c|☆Ox the Fox|gg
+|
+|t:|1653075003
+|-curestatus|p1a: Tornadus|slp|[msg]
+|move|p1a: Tornadus|Heat Wave|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|10/431 par
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|win|Empo
+

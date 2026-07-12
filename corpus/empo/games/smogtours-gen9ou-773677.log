@@ -1,0 +1,424 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1718028256
+|gametype|singles
+|player|p1|Empo|#empo|
+|player|p2|Welli0u|#wcop2024france|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Iron Valiant|
+|poke|p1|Kyurem|
+|poke|p1|Kingambit, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Iron Moth|
+|poke|p2|Glimmora, F|
+|poke|p2|Kyurem|
+|poke|p2|Iron Moth|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|c|☆Empo|hf
+|c|☆Welli0u|gl
+|inactive|Empo has 270 seconds left.
+|inactive|Welli0u has 270 seconds left.
+|inactive|Empo has 240 seconds left.
+|inactive|Welli0u has 240 seconds left.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Empo has 210 seconds left.
+|inactive|Welli0u has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Welli0u has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|inactive|Welli0u has 150 seconds left.
+|
+|t:|1718028430
+|start
+|switch|p1a: Samurott|Samurott-Hisui, M|100/100
+|switch|p2a: 9|Kyurem|100/100
+|-ability|p2a: 9|Pressure
+|turn|1
+|inactive|Welli0u has 210 seconds left.
+|inactive|Empo has 180 seconds left.
+|inactive|Empo has 150 seconds left.
+|
+|t:|1718028481
+|move|p2a: 9|Freeze-Dry|p1a: Samurott
+|-supereffective|p1a: Samurott
+|-damage|p1a: Samurott|44/100
+|-status|p1a: Samurott|frz
+|cant|p1a: Samurott|frz
+|
+|upkeep
+|turn|2
+|inactive|Empo has 150 seconds left.
+|inactive|Welli0u has 210 seconds left.
+|inactive|Empo has 120 seconds left.
+|inactive|Welli0u has 180 seconds left.
+|inactive|Empo has 90 seconds left.
+|
+|t:|1718028562
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: 9|Freeze-Dry|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-damage|p1a: Kingambit|84/100
+|
+|-heal|p1a: Kingambit|90/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Empo has 60 seconds left.
+|inactive|Welli0u has 150 seconds left.
+|
+|t:|1718028618
+|switch|p2a: PREQUEL|Landorus-Therian, M|100/100
+|-ability|p2a: PREQUEL|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-end|p1a: Kingambit|fallenundefined|[silent]
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|
+|upkeep
+|turn|4
+|inactive|Empo has 60 seconds left.
+|
+|t:|1718028637
+|switch|p2a: KILLY DEMON|Kingambit, F|100/100
+|move|p1a: Kyurem|Earth Power|p2a: KILLY DEMON
+|-supereffective|p2a: KILLY DEMON
+|-damage|p2a: KILLY DEMON|36/100
+|
+|upkeep
+|turn|5
+|inactive|Empo has 60 seconds left.
+|inactive|Welli0u has 120 seconds left.
+|inactive|Empo has 30 seconds left.
+|inactive|Welli0u has 90 seconds left.
+|
+|t:|1718028691
+|-end|p2a: KILLY DEMON|fallenundefined|[silent]
+|switch|p2a: 9|Kyurem|100/100
+|-ability|p2a: 9|Pressure
+|move|p1a: Kyurem|Earth Power|p2a: 9
+|-damage|p2a: 9|67/100
+|
+|upkeep
+|turn|6
+|inactive|Empo has 30 seconds left.
+|
+|t:|1718028708
+|move|p2a: 9|Ice Beam|p1a: Kyurem
+|-damage|p1a: Kyurem|58/100
+|move|p1a: Kyurem|Ice Beam|p2a: 9
+|-damage|p2a: 9|5/100
+|
+|upkeep
+|turn|7
+|inactive|Empo has 30 seconds left.
+|inactive|Welli0u has 90 seconds left.
+|
+|t:|1718028739
+|move|p2a: 9|Ice Beam|p1a: Kyurem
+|-damage|p1a: Kyurem|15/100
+|move|p1a: Kyurem|Dragon Dance|p1a: Kyurem
+|-boost|p1a: Kyurem|atk|1
+|-boost|p1a: Kyurem|spe|1
+|
+|upkeep
+|turn|8
+|inactive|Empo has 30 seconds left.
+|inactive|Welli0u has 60 seconds left.
+|
+|t:|1718028789
+|move|p1a: Kyurem|Earth Power|p2a: 9
+|-damage|p2a: 9|0 fnt
+|faint|p2a: 9
+|
+|upkeep
+|
+|t:|1718028798
+|switch|p2a: QUILLE|Iron Moth|100/100
+|-enditem|p2a: QUILLE|Booster Energy
+|-activate|p2a: QUILLE|ability: Quark Drive|[fromitem]
+|-start|p2a: QUILLE|quarkdrivespe
+|turn|9
+|
+|t:|1718028809
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespe
+|move|p2a: QUILLE|Fiery Dance|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-crit|p1a: Iron Moth
+|-damage|p1a: Iron Moth|69/100
+|
+|upkeep
+|turn|10
+|inactive|Empo has 30 seconds left.
+|inactive|Welli0u has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1718028840
+|move|p2a: QUILLE|Fiery Dance|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|50/100
+|move|p1a: Iron Moth|Fiery Dance|p2a: QUILLE
+|-resisted|p2a: QUILLE
+|-damage|p2a: QUILLE|81/100
+|-boost|p1a: Iron Moth|spa|1
+|
+|upkeep
+|turn|11
+|inactive|Empo has 25 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|inactive|Welli0u has 30 seconds left.
+|inactive|Welli0u has 20 seconds left.
+|
+|t:|1718028857
+|move|p1a: Iron Moth|Fiery Dance|p2a: QUILLE
+|-resisted|p2a: QUILLE
+|-damage|p2a: QUILLE|48/100
+|move|p2a: QUILLE|Fiery Dance|p1a: Iron Moth
+|-resisted|p1a: Iron Moth
+|-damage|p1a: Iron Moth|31/100
+|
+|upkeep
+|turn|12
+|inactive|Empo has 30 seconds left this turn.
+|inactive|Welli0u has 30 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|inactive|Welli0u has 20 seconds left.
+|
+|t:|1718028868
+|move|p1a: Iron Moth|Sludge Wave|p2a: QUILLE
+|-resisted|p2a: QUILLE
+|-crit|p2a: QUILLE
+|-damage|p2a: QUILLE|0 fnt
+|faint|p2a: QUILLE
+|-end|p2a: QUILLE|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Empo has 25 seconds left this turn.
+|inactive|Welli0u has 25 seconds left this turn.
+|inactive|Welli0u has 20 seconds left.
+|inactive|Welli0u has 15 seconds left.
+|
+|t:|1718028881
+|switch|p2a: PREQUEL|Landorus-Therian, M|100/100
+|-ability|p2a: PREQUEL|Intimidate|boost
+|-unboost|p1a: Iron Moth|atk|1
+|turn|13
+|inactive|Welli0u has 25 seconds left this turn.
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|
+|t:|1718028897
+|move|p1a: Iron Moth|Fiery Dance|p2a: PREQUEL
+|-damage|p2a: PREQUEL|37/100
+|move|p2a: PREQUEL|Earthquake|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|inactive|Empo has 25 seconds left this turn.
+|inactive|Welli0u has 30 seconds left this turn.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|
+|t:|1718028908
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|14
+|inactive|Empo has 25 seconds left this turn.
+|
+|t:|1718028913
+|switch|p2a: GL|Glimmora, F|100/100
+|move|p1a: Iron Valiant|Moonblast|p2a: GL
+|-resisted|p2a: GL
+|-damage|p2a: GL|68/100
+|-unboost|p2a: GL|spa|1
+|
+|upkeep
+|turn|15
+|inactive|Empo has 30 seconds left.
+|inactive|Empo has 20 seconds left.
+|inactive|Empo has 15 seconds left.
+|inactive|Empo has 10 seconds left.
+|
+|t:|1718028938
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, M|44/100 frz
+|move|p2a: GL|Earth Power|p1a: Samurott
+|-damage|p1a: Samurott|25/100 frz
+|
+|upkeep
+|turn|16
+|inactive|Empo has 20 seconds left this turn.
+|
+|t:|1718028952
+|cant|p1a: Samurott|frz
+|move|p2a: GL|Meteor Beam||[still]
+|-prepare|p2a: GL|Meteor Beam
+|-boost|p2a: GL|spa|1
+|-enditem|p2a: GL|Power Herb
+|-anim|p2a: GL|Meteor Beam|p1a: Samurott
+|-damage|p1a: Samurott|0 fnt
+|faint|p1a: Samurott
+|
+|upkeep
+|inactive|Empo has 25 seconds left this turn.
+|
+|t:|1718028956
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: GL|atk|1
+|turn|17
+|inactive|Empo has 30 seconds left.
+|
+|t:|1718028975
+|switch|p2a: PREQUEL|Landorus-Therian, M|37/100
+|-ability|p2a: PREQUEL|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Stealth Rock|p2a: PREQUEL
+|-sidestart|p2: Welli0u|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|inactive|Empo has 30 seconds left.
+|
+|t:|1718028992
+|move|p1a: Landorus|Stone Edge|p2a: PREQUEL
+|-crit|p2a: PREQUEL
+|-damage|p2a: PREQUEL|0 fnt
+|faint|p2a: PREQUEL
+|
+|upkeep
+|
+|t:|1718028995
+|switch|p2a: SHATTA|Ogerpon-Wellspring, F|100/100
+|-damage|p2a: SHATTA|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1718029003
+|switch|p1a: Kyurem|Kyurem|15/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: SHATTA|Ivy Cudgel|p1a: Kyurem|[anim] Ivy Cudgel Water
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1718029007
+|switch|p1a: Kingambit|Kingambit, M|90/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen3|[silent]
+|turn|20
+|inactive|Welli0u has 60 seconds left.
+|inactive|Empo has 30 seconds left.
+|
+|t:|1718029036
+|-terastallize|p2a: SHATTA|Water
+|detailschange|p2a: SHATTA|Ogerpon-Wellspring-Tera, F, tera:Water
+|-ability|p2a: SHATTA|Embody Aspect (Wellspring)|boost
+|-boost|p2a: SHATTA|spd|1
+|-terastallize|p1a: Kingambit|Ghost
+|move|p2a: SHATTA|Ivy Cudgel|p1a: Kingambit|[anim] Ivy Cudgel Water
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|1/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: SHATTA
+|-damage|p2a: SHATTA|7/100
+|
+|-heal|p1a: Kingambit|7/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|Welli0u has 30 seconds left.
+|inactive|Welli0u has 20 seconds left.
+|inactive|Welli0u has 15 seconds left.
+|inactive|Welli0u has 10 seconds left.
+|
+|t:|1718029086
+|switch|p2a: KILLY DEMON|Kingambit, F|36/100
+|-damage|p2a: KILLY DEMON|30/100|[from] Stealth Rock
+|-activate|p2a: KILLY DEMON|ability: Supreme Overlord
+|-start|p2a: KILLY DEMON|fallen3|[silent]
+|move|p1a: Kingambit|Kowtow Cleave|p2a: KILLY DEMON
+|-resisted|p2a: KILLY DEMON
+|-damage|p2a: KILLY DEMON|4/100
+|
+|-heal|p1a: Kingambit|13/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Welli0u has 20 seconds left this turn.
+|inactive|Welli0u has 15 seconds left.
+|inactive|Welli0u has 10 seconds left.
+|
+|t:|1718029100
+|move|p2a: KILLY DEMON|Sucker Punch|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen3|[silent]
+|
+|upkeep
+|inactive|Welli0u has 15 seconds left this turn.
+|
+|t:|1718029104
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: KILLY DEMON|atk|1
+|turn|23
+|inactive|Welli0u has 25 seconds left this turn.
+|inactive|Welli0u has 20 seconds left.
+|
+|t:|1718029110
+|move|p2a: KILLY DEMON|Sucker Punch|p1a: Landorus
+|-damage|p1a: Landorus|58/100
+|move|p1a: Landorus|Earthquake|p2a: KILLY DEMON
+|-supereffective|p2a: KILLY DEMON
+|-damage|p2a: KILLY DEMON|0 fnt
+|faint|p2a: KILLY DEMON
+|-end|p2a: KILLY DEMON|fallen3|[silent]
+|
+|upkeep
+|inactive|Welli0u has 25 seconds left this turn.
+|
+|t:|1718029114
+|switch|p2a: GL|Glimmora, F|68/100
+|-damage|p2a: GL|56/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1718029118
+|move|p1a: Landorus|Earthquake|p2a: GL
+|-supereffective|p2a: GL
+|-damage|p2a: GL|0 fnt
+|-activate|p2a: GL|ability: Toxic Debris
+|-sidestart|p1: Empo|move: Toxic Spikes
+|faint|p2a: GL
+|
+|upkeep
+|c|☆Welli0u|gg
+|c|☆Empo|gg
+|
+|t:|1718029123
+|switch|p2a: SHATTA|Ogerpon-Wellspring-Tera, F, tera:Water|7/100
+|-damage|p2a: SHATTA|0 fnt|[from] Stealth Rock
+|faint|p2a: SHATTA
+|
+|win|Empo
+|player|p1|
