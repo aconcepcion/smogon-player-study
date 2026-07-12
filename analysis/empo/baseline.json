@@ -1,0 +1,146 @@
+{
+ "empo": {
+  "vol_sw_per_turn": 0.275,
+  "pivot_per_turn": 0.05,
+  "status_share": 0.35,
+  "setup_share": 0.036,
+  "priority_share": 0.013,
+  "recovery_share": 0.108,
+  "hazard_games_pct": 0.8,
+  "median_first_hazard_turn": 3,
+  "leads_top": [
+   [
+    "Clefable",
+    7
+   ],
+   [
+    "Hippowdon",
+    6
+   ],
+   [
+    "Landorus-Therian",
+    4
+   ],
+   [
+    "Shuckle",
+    3
+   ],
+   [
+    "Tapu Koko",
+    3
+   ]
+  ],
+  "n": 50
+ },
+ "opp_all": {
+  "vol_sw_per_turn": 0.277,
+  "pivot_per_turn": 0.05,
+  "status_share": 0.405,
+  "setup_share": 0.072,
+  "priority_share": 0.016,
+  "recovery_share": 0.132,
+  "hazard_games_pct": 0.76,
+  "median_first_hazard_turn": 5,
+  "leads_top": [
+   [
+    "Toxapex",
+    8
+   ],
+   [
+    "Clefable",
+    3
+   ],
+   [
+    "Landorus-Therian",
+    3
+   ],
+   [
+    "Dragapult",
+    3
+   ],
+   [
+    "Kyurem",
+    3
+   ]
+  ],
+  "n": 50
+ },
+ "opp_in_their_wins": {
+  "vol_sw_per_turn": 0.293,
+  "pivot_per_turn": 0.057,
+  "status_share": 0.451,
+  "setup_share": 0.091,
+  "priority_share": 0.022,
+  "recovery_share": 0.118,
+  "hazard_games_pct": 0.64,
+  "median_first_hazard_turn": 4,
+  "leads_top": [
+   [
+    "Toxapex",
+    3
+   ],
+   [
+    "Dragapult",
+    2
+   ],
+   [
+    "Rotom-Wash",
+    1
+   ],
+   [
+    "Lopunny",
+    1
+   ],
+   [
+    "Tapu Bulu",
+    1
+   ]
+  ],
+  "n": 11
+ },
+ "opp_in_their_losses": {
+  "vol_sw_per_turn": 0.272,
+  "pivot_per_turn": 0.048,
+  "status_share": 0.389,
+  "setup_share": 0.066,
+  "priority_share": 0.013,
+  "recovery_share": 0.137,
+  "hazard_games_pct": 0.79,
+  "median_first_hazard_turn": 5,
+  "leads_top": [
+   [
+    "Toxapex",
+    5
+   ],
+   [
+    "Landorus-Therian",
+    3
+   ],
+   [
+    "Kyurem",
+    3
+   ],
+   [
+    "Clefable",
+    2
+   ],
+   [
+    "Latias",
+    2
+   ]
+  ],
+  "n": 39
+ },
+ "first_blood": {
+  "empo_drawn_pct": 0.54,
+  "empo_conversion": 0.81,
+  "opp_drawn_pct": 0.46,
+  "opp_conversion": 0.26
+ },
+ "down2": {
+  "empo_times": 8,
+  "empo_wins": 1,
+  "opp_times": 41,
+  "opp_wins": 3
+ }
+}

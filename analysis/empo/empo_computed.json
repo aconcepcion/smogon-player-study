@@ -1,0 +1,8759 @@
+[
+  {
+    "id": "smogtours-gen7ou-396168",
+    "p1": "aim",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "aim",
+    "winner": "aim",
+    "result": "L",
+    "turns": 22,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Tapu Koko",
+    "opp_lead": "Tapu Bulu",
+    "empo_team": [
+      "Charizard",
+      "Weavile",
+      "Gastrodon",
+      "Landorus-Therian",
+      "Ferrothorn",
+      "Tapu Koko"
+    ],
+    "opp_team": [
+      "Diancie",
+      "Heatran",
+      "Weavile",
+      "Tapu Bulu",
+      "Zapdos",
+      "Zygarde"
+    ],
+    "vol_switches": 8,
+    "forced_switches": 5,
+    "move_count": 14,
+    "switch_rate": 0.36363636363636365,
+    "switch_turns": [
+      1,
+      2,
+      3,
+      5,
+      8,
+      12,
+      16,
+      21
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 10,
+    "max_deficit": 1,
+    "final_empo_mons": 0,
+    "final_opp_mons": 1,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "EDO FENDY",
+        "move": "Ice Shard"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "DREFGOLD",
+        "move": "U-turn"
+      },
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "DREFGOLD",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "MAMBOLOSCO",
+        "raw": "|-mega|p2a: MAMBOLOSCO|Charizard|Charizardite Y"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "TEDUA"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "SFERA"
+      },
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "DREFGOLD"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "MAMBOLOSCO"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "ERNIA"
+      },
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "EDO FENDY"
+      }
+    ],
+    "lead_first_move": "U-turn",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen7ou",
+    "tournament": "Smogon Snake Draft",
+    "stage": "Stage 1, Phase 2",
+    "date": "2019-10-15",
+    "opponent": "pokeaimMD",
+    "uploadtime": 1536604251,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 2,
+      "Solar Beam": 2,
+      "Earthquake": 1,
+      "Hidden Power": 2,
+      "Ice Shard": 1,
+      "Focus Blast": 1,
+      "Icicle Crash": 5
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-530161",
+    "p1": "Empo",
+    "p2": "xray",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "xray",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 38,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Landorus-Therian",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Landorus-Therian",
+      "Kartana",
+      "Clefable",
+      "Spectrier",
+      "Rillaboom",
+      "Heatran"
+    ],
+    "opp_team": [
+      "Garchomp",
+      "Heatran",
+      "Mandibuzz",
+      "Toxapex",
+      "Tapu Lele",
+      "Pheromosa"
+    ],
+    "vol_switches": 9,
+    "forced_switches": 3,
+    "move_count": 29,
+    "switch_rate": 0.23684210526315788,
+    "switch_turns": [
+      1,
+      12,
+      14,
+      16,
+      20,
+      23,
+      27,
+      32,
+      34
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 18,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "sup (kid)",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 17,
+        "side": "p1",
+        "nick": "the boof",
+        "move": "Substitute"
+      },
+      {
+        "turn": 18,
+        "side": "p1",
+        "nick": "the boof",
+        "move": "Substitute"
+      }
+    ],
+    "priority": [
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "To Be Continued",
+        "move": "Grassy Glide"
+      }
+    ],
+    "protect": [
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Protect"
+      },
+      {
+        "turn": 29,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Protect"
+      },
+      {
+        "turn": 35,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Protect"
+      },
+      {
+        "turn": 36,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "dons meetup",
+        "move": "U-turn"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "dons meetup",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 18,
+        "side": "p1",
+        "nick": "the boof"
+      },
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "dons meetup"
+      },
+      {
+        "turn": 36,
+        "side": "p1",
+        "nick": "Houston"
+      }
+    ],
+    "lead_first_move": "U-turn",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "xray",
+    "uploadtime": 1606672364,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 2,
+      "Stealth Rock": 1,
+      "Knock Off": 1,
+      "Moonblast": 7,
+      "Soft-Boiled": 1,
+      "Toxic": 1,
+      "Stone Edge": 1,
+      "Substitute": 2,
+      "Grassy Glide": 1,
+      "Magma Storm": 2,
+      "Protect": 4,
+      "Earthquake": 1,
+      "Leaf Blade": 1,
+      "Earth Power": 2,
+      "Smart Strike": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-530163",
+    "p1": "xray",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "xray",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 22,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Medicham",
+    "opp_lead": "Kartana",
+    "empo_team": [
+      "Hawlucha",
+      "Magearna",
+      "Medicham",
+      "Tapu Koko",
+      "Landorus-Therian",
+      "Kyurem-Black"
+    ],
+    "opp_team": [
+      "Zapdos",
+      "Tyranitar",
+      "Landorus-Therian",
+      "Kommo-o",
+      "Kartana",
+      "Magearna"
+    ],
+    "vol_switches": 8,
+    "forced_switches": 2,
+    "move_count": 13,
+    "switch_rate": 0.38095238095238093,
+    "switch_turns": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      13,
+      16,
+      20
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Double Life",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Double Life",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "XTRADONTQUIT",
+        "move": "Fake Out"
+      },
+      {
+        "turn": 17,
+        "side": "p2",
+        "nick": "XTRADONTQUIT",
+        "move": "Fake Out"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "PORK CHOP MAN",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "PORK CHOP MAN",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "XTRADONTQUIT",
+        "raw": "|-mega|p2a: XTRADONTQUIT|Medicham|Medichamite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 11,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "Double Life"
+      },
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "XTRADONTQUIT"
+      }
+    ],
+    "lead_first_move": "Fake Out",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "xray",
+    "uploadtime": 1606673234,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Fake Out": 2,
+      "Stealth Rock": 2,
+      "High Jump Kick": 1,
+      "Volt Switch": 2,
+      "Subzero Slammer": 1,
+      "Fusion Bolt": 1,
+      "Hidden Power": 2,
+      "Ice Punch": 1,
+      "Ice Beam": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-531313",
+    "p1": "FREE XIMRAPTOR",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "FREE XIMRAPTOR",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 33,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Clefable",
+    "opp_lead": "Zapdos",
+    "empo_team": [
+      "Garchomp",
+      "Zapdos",
+      "Clefable",
+      "Heatran",
+      "Kartana",
+      "Rillaboom"
+    ],
+    "opp_team": [
+      "Swampert",
+      "Obstagoon",
+      "Cinderace",
+      "Urshifu-*",
+      "Magearna",
+      "Zapdos"
+    ],
+    "vol_switches": 8,
+    "forced_switches": 4,
+    "move_count": 23,
+    "switch_rate": 0.25806451612903225,
+    "switch_turns": [
+      3,
+      5,
+      11,
+      13,
+      15,
+      20,
+      22,
+      30
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 20,
+    "max_deficit": 1,
+    "final_empo_mons": 2,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Houston",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "PORK CHOP MAN",
+        "move": "Grassy Glide"
+      }
+    ],
+    "protect": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Roundabout",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "Roundabout"
+      },
+      {
+        "turn": 16,
+        "side": "p2",
+        "nick": "Houston"
+      },
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "PORK CHOP MAN"
+      },
+      {
+        "turn": 32,
+        "side": "p2",
+        "nick": "dons meetup"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "beatiful",
+    "uploadtime": 1607354607,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 1,
+      "Knock Off": 1,
+      "Protect": 1,
+      "Earthquake": 3,
+      "Stone Edge": 4,
+      "Discharge": 8,
+      "Grassy Glide": 1,
+      "Roost": 2,
+      "Hurricane": 1,
+      "Leaf Blade": 1
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-531323",
+    "p1": "FREE XIMRAPTOR",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "FREE XIMRAPTOR",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 9,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Shuckle",
+    "opp_lead": "Volcanion",
+    "empo_team": [
+      "Shuckle",
+      "Scizor",
+      "Bisharp",
+      "Manaphy",
+      "Thundurus-Therian",
+      "Gengar"
+    ],
+    "opp_team": [
+      "Volcanion",
+      "Metagross",
+      "Tornadus-Therian",
+      "Garchomp",
+      "Excadrill",
+      "Rotom-Wash"
+    ],
+    "vol_switches": 2,
+    "forced_switches": 0,
+    "move_count": 7,
+    "switch_rate": 0.2222222222222222,
+    "switch_turns": [
+      2,
+      3
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 4,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Shuckle",
+        "move": "Sticky Web"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Thundurus",
+        "move": "Nasty Plot"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Sticky Web",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "beatiful",
+    "uploadtime": 1607355128,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "Sticky Web": 1,
+      "Nasty Plot": 1,
+      "Thunderbolt": 2,
+      "Focus Blast": 1,
+      "Hidden Power": 2
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-532021",
+    "p1": "Empo",
+    "p2": "John W",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "John W",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 64,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Pheromosa",
+      "Hippowdon",
+      "Clefable",
+      "Skarmory",
+      "Reuniclus",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Spectrier",
+      "Landorus-Therian",
+      "Toxapex",
+      "Clefable",
+      "Tyranitar",
+      "Tornadus-Therian"
+    ],
+    "vol_switches": 22,
+    "forced_switches": 1,
+    "move_count": 42,
+    "switch_rate": 0.34375,
+    "switch_turns": [
+      3,
+      6,
+      17,
+      19,
+      21,
+      22,
+      25,
+      28,
+      30,
+      31,
+      34,
+      36,
+      42,
+      44,
+      45,
+      48,
+      50,
+      52,
+      54,
+      56,
+      57,
+      61
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 26,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 3,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "dons meetup",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 18,
+        "side": "p1",
+        "nick": "Willkommen",
+        "move": "Spikes"
+      },
+      {
+        "turn": 49,
+        "side": "p1",
+        "nick": "Willkommen",
+        "move": "Spikes"
+      },
+      {
+        "turn": 55,
+        "side": "p1",
+        "nick": "Willkommen",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 15,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "dons meetup",
+        "move": "Toxic"
+      },
+      {
+        "turn": 29,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 39,
+        "side": "p1",
+        "nick": "Houston",
+        "move": "Thunder Wave"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 28,
+        "side": "p1",
+        "nick": "GOJOU",
+        "move": "U-turn"
+      },
+      {
+        "turn": 36,
+        "side": "p1",
+        "nick": "GOJOU",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 26,
+        "side": "p1",
+        "nick": "dons meetup"
+      }
+    ],
+    "lead_first_move": "Earthquake",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "John W",
+    "uploadtime": 1607891741,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Earthquake": 1,
+      "Stealth Rock": 1,
+      "Knock Off": 4,
+      "Thunder Wave": 4,
+      "Moonblast": 14,
+      "Soft-Boiled": 3,
+      "Aromatherapy": 2,
+      "Spikes": 3,
+      "Toxic": 1,
+      "Recover": 3,
+      "Thunder": 1,
+      "Triple Axel": 2,
+      "U-turn": 2,
+      "Poison Jab": 1
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-532032",
+    "p1": "John W",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "John W",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 10,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Shuckle",
+    "opp_lead": "Metagross",
+    "empo_team": [
+      "Shuckle",
+      "Scizor",
+      "Bisharp",
+      "Manaphy",
+      "Thundurus-Therian",
+      "Gengar"
+    ],
+    "opp_team": [
+      "Metagross",
+      "Clefable",
+      "Magnezone",
+      "Gastrodon-East",
+      "Zapdos",
+      "Tornadus-Therian"
+    ],
+    "vol_switches": 1,
+    "forced_switches": 1,
+    "move_count": 9,
+    "switch_rate": 0.1,
+    "switch_turns": [
+      6
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 3,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 3,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Shuckle",
+        "move": "Sticky Web"
+      },
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Shuckle",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Banjiya Blues",
+        "move": "Tail Glow"
+      },
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Banjiya Blues",
+        "move": "Tail Glow"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Shuckle"
+      }
+    ],
+    "lead_first_move": "Sticky Web",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "John W",
+    "uploadtime": 1607892355,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "Sticky Web": 1,
+      "Stealth Rock": 1,
+      "Final Gambit": 1,
+      "Shadow Ball": 1,
+      "Counter": 1,
+      "Tail Glow": 2,
+      "Surf": 1,
+      "Ice Beam": 1
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-533278",
+    "p1": "SOULWIND",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "SOULWIND",
+    "winner": "SOULWIND",
+    "result": "L",
+    "turns": 35,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Excadrill",
+    "opp_lead": "Rotom-Wash",
+    "empo_team": [
+      "Metagross",
+      "Clefable",
+      "Excadrill",
+      "Rotom-Wash",
+      "Tornadus-Therian",
+      "Heatran"
+    ],
+    "opp_team": [
+      "Volcarona",
+      "Diancie",
+      "Tornadus-Therian",
+      "Rotom-Wash",
+      "Excadrill",
+      "Clefable"
+    ],
+    "vol_switches": 15,
+    "forced_switches": 0,
+    "move_count": 25,
+    "switch_rate": 0.375,
+    "switch_turns": [
+      1,
+      3,
+      4,
+      5,
+      8,
+      9,
+      13,
+      14,
+      16,
+      17,
+      26,
+      28,
+      30,
+      31,
+      34
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 35,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 6,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "The Nightmare",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Dark Crater",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "Northern Desert",
+        "move": "Substitute"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Sealed Ruin",
+        "move": "U-turn"
+      },
+      {
+        "turn": 5,
+        "side": "p2",
+        "nick": "Waterfall Cave",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Waterfall Cave",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "Waterfall Cave",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Sealed Ruin",
+        "move": "U-turn"
+      },
+      {
+        "turn": 31,
+        "side": "p2",
+        "nick": "Sealed Ruin",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "Chasm Cave",
+        "raw": "|-mega|p2a: Chasm Cave|Metagross|Metagrossite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 35,
+        "side": "p2",
+        "nick": "Waterfall Cave"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "SoulWind",
+    "uploadtime": 1608496984,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 1,
+      "U-turn": 3,
+      "Volt Switch": 3,
+      "Thunder Punch": 1,
+      "Hammer Arm": 1,
+      "Substitute": 1,
+      "Iron Head": 2,
+      "Moonblast": 1,
+      "Hydro Pump": 3,
+      "Pain Split": 5,
+      "Knock Off": 2,
+      "Flamethrower": 1,
+      "Toxic": 1
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-533288",
+    "p1": "Empo",
+    "p2": "SOULWIND",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "SOULWIND",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 18,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Landorus-Therian",
+    "opp_lead": "Landorus-Therian",
+    "empo_team": [
+      "Rotom-Wash",
+      "Landorus-Therian",
+      "Magearna",
+      "Kartana",
+      "Medicham",
+      "Volcarona"
+    ],
+    "opp_team": [
+      "Lopunny",
+      "Kyurem-Black",
+      "Kartana",
+      "Rotom-Wash",
+      "Landorus-Therian",
+      "Magearna"
+    ],
+    "vol_switches": 5,
+    "forced_switches": 2,
+    "move_count": 12,
+    "switch_rate": 0.29411764705882354,
+    "switch_turns": [
+      1,
+      2,
+      8,
+      12,
+      14
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 1,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "the boof",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "To Be Continued",
+        "raw": "|-mega|p1a: To Be Continued|Medicham|Medichamite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 13,
+        "side": "p1"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "sup (kid)"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "#nagols-cooking"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "SoulWind",
+    "uploadtime": 1608497537,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Volt Switch": 1,
+      "High Jump Kick": 4,
+      "Ice Punch": 1,
+      "Fleur Cannon": 1,
+      "Sacred Sword": 3,
+      "Supersonic Skystrike": 1,
+      "Bug Buzz": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-533296",
+    "p1": "SOULWIND",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "SOULWIND",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 33,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Spectrier",
+    "empo_team": [
+      "Pheromosa",
+      "Hippowdon",
+      "Clefable",
+      "Skarmory",
+      "Reuniclus",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Garchomp",
+      "Regieleki",
+      "Hydreigon",
+      "Magearna",
+      "Spectrier",
+      "Rillaboom"
+    ],
+    "vol_switches": 12,
+    "forced_switches": 1,
+    "move_count": 23,
+    "switch_rate": 0.34285714285714286,
+    "switch_turns": [
+      2,
+      5,
+      7,
+      9,
+      11,
+      15,
+      18,
+      19,
+      24,
+      27,
+      29,
+      32
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 9,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Willkommen",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "dons meetup",
+        "move": "Toxic"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "dons meetup",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Willkommen",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Willkommen",
+        "move": "Iron Defense"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "GOJOU",
+        "move": "U-turn"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "GOJOU",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Houston"
+      }
+    ],
+    "lead_first_move": "Toxic",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "SoulWind",
+    "uploadtime": 1608498722,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Toxic": 2,
+      "Iron Defense": 2,
+      "Spikes": 1,
+      "Moonblast": 1,
+      "Knock Off": 2,
+      "Ice Beam": 2,
+      "U-turn": 2,
+      "Haze": 3,
+      "Recover": 1,
+      "Triple Axel": 1,
+      "Close Combat": 1,
+      "Roost": 1,
+      "Body Press": 2,
+      "Poison Jab": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-626209",
+    "p1": "Arct!c",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Arct!c",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 25,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Greninja",
+    "empo_team": [
+      "Garchomp",
+      "Hippowdon",
+      "Greninja",
+      "Celesteela",
+      "Excadrill",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Medicham",
+      "Landorus-Therian",
+      "Magearna",
+      "Greninja",
+      "Tapu Koko",
+      "Hawlucha"
+    ],
+    "vol_switches": 9,
+    "forced_switches": 2,
+    "move_count": 15,
+    "switch_rate": 0.375,
+    "switch_turns": [
+      1,
+      3,
+      4,
+      6,
+      10,
+      18,
+      20,
+      22,
+      24
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 11,
+    "max_deficit": 1,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 5,
+        "side": "p2",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "Excadrill",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [],
+    "setup": [
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "Excadrill",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Celesteela",
+        "move": "Protect"
+      },
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Celesteela",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [
+      {
+        "turn": 15,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "Hippowdon"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "Celesteela"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "ArcticBreeze",
+    "uploadtime": 1652556022,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Spikes": 1,
+      "Stealth Rock": 1,
+      "Protect": 2,
+      "Leech Seed": 1,
+      "Swords Dance": 1,
+      "Rapid Spin": 1,
+      "Iron Head": 2,
+      "Corkscrew Crash": 1,
+      "Earthquake": 4,
+      "Scald": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-626218",
+    "p1": "Arct!c",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Arct!c",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 30,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Landorus-Therian",
+    "empo_team": [
+      "Excadrill",
+      "Hippowdon",
+      "Toxapex",
+      "Skarmory",
+      "Blacephalon",
+      "Clefable"
+    ],
+    "opp_team": [
+      "Landorus-Therian",
+      "Kartana",
+      "Rotom-Wash",
+      "Volcarona",
+      "Garchomp",
+      "Weavile"
+    ],
+    "vol_switches": 10,
+    "forced_switches": 2,
+    "move_count": 17,
+    "switch_rate": 0.37037037037037035,
+    "switch_turns": [
+      4,
+      6,
+      9,
+      10,
+      11,
+      13,
+      15,
+      18,
+      20,
+      22
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 7,
+    "max_deficit": 1,
+    "final_empo_mons": 4,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 5,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Excadrill",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Hippowdon",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Toxapex"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Clefable"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "ArcticBreeze",
+    "uploadtime": 1652557217,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 2,
+      "Earthquake": 3,
+      "Toxic": 1,
+      "Spikes": 1,
+      "Rapid Spin": 1,
+      "Iron Head": 1,
+      "Flamethrower": 1,
+      "Whirlwind": 1,
+      "Soft-Boiled": 2,
+      "Moonblast": 3,
+      "Body Press": 1
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-627181",
+    "p1": "Ox the Fox",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Ox the Fox",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 140,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Clefable",
+    "opp_lead": "Clefable",
+    "empo_team": [
+      "Clefable",
+      "Lopunny",
+      "Tyranitar",
+      "Excadrill",
+      "Skarmory",
+      "Amoonguss"
+    ],
+    "opp_team": [
+      "Tornadus-Therian",
+      "Tyranitar",
+      "Clefable",
+      "Slowbro",
+      "Serperior",
+      "Excadrill"
+    ],
+    "vol_switches": 26,
+    "forced_switches": 3,
+    "move_count": 93,
+    "switch_rate": 0.2184873949579832,
+    "switch_turns": [
+      1,
+      4,
+      6,
+      7,
+      11,
+      14,
+      16,
+      18,
+      25,
+      30,
+      33,
+      39,
+      43,
+      45,
+      48,
+      50,
+      76,
+      77,
+      78,
+      80,
+      104,
+      110,
+      112,
+      121,
+      123,
+      133
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 19,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 17,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 31,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 34,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 46,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 47,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 66,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 122,
+        "side": "p2",
+        "nick": "Excadrill",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Amoonguss",
+        "move": "Spore"
+      },
+      {
+        "turn": 42,
+        "side": "p2",
+        "nick": "Amoonguss",
+        "move": "Spore"
+      },
+      {
+        "turn": 49,
+        "side": "p2",
+        "nick": "Amoonguss",
+        "move": "Spore"
+      },
+      {
+        "turn": 79,
+        "side": "p2",
+        "nick": "Amoonguss",
+        "move": "Spore"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "Excadrill",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [
+      {
+        "turn": 44,
+        "side": "p2",
+        "nick": "Lopunny",
+        "move": "Fake Out"
+      }
+    ],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "Tyranitar"
+      },
+      {
+        "turn": 121,
+        "side": "p2",
+        "nick": "Clefable"
+      },
+      {
+        "turn": 133,
+        "side": "p2",
+        "nick": "Excadrill"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "Ox the Fox",
+    "uploadtime": 1653075003,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "Spore": 4,
+      "Sludge Bomb": 14,
+      "Soft-Boiled": 16,
+      "Stealth Rock": 4,
+      "Stone Edge": 3,
+      "Spikes": 4,
+      "Earthquake": 3,
+      "Swords Dance": 1,
+      "Iron Head": 1,
+      "Giga Drain": 15,
+      "Roost": 1,
+      "Knock Off": 6,
+      "Moonblast": 18,
+      "Fake Out": 1,
+      "Rapid Spin": 1,
+      "Hidden Power": 1
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-627209",
+    "p1": "Ox the Fox",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Ox the Fox",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 126,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Swampert",
+    "opp_lead": "Landorus-Therian",
+    "empo_team": [
+      "Tornadus-Therian",
+      "Swampert",
+      "Reuniclus",
+      "Skarmory",
+      "Krookodile",
+      "Chansey"
+    ],
+    "opp_team": [
+      "Toxapex",
+      "Latias",
+      "Tyranitar",
+      "Excadrill",
+      "Celesteela",
+      "Landorus-Therian"
+    ],
+    "vol_switches": 47,
+    "forced_switches": 2,
+    "move_count": 79,
+    "switch_rate": 0.373015873015873,
+    "switch_turns": [
+      1,
+      3,
+      5,
+      6,
+      9,
+      11,
+      14,
+      18,
+      22,
+      24,
+      26,
+      28,
+      30,
+      31,
+      34,
+      35,
+      38,
+      39,
+      41,
+      43,
+      45,
+      48,
+      54,
+      57,
+      58,
+      62,
+      66,
+      68,
+      74,
+      76,
+      77,
+      79,
+      81,
+      83,
+      85,
+      87,
+      88,
+      95,
+      97,
+      99,
+      100,
+      101,
+      102,
+      106,
+      114,
+      116,
+      123
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 20,
+    "max_deficit": 1,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "Swampert",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 25,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 32,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 46,
+        "side": "p2",
+        "nick": "Swampert",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 50,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 51,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 52,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 65,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 69,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 72,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 80,
+        "side": "p2",
+        "nick": "Swampert",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 91,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 92,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 93,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 56,
+        "side": "p2",
+        "nick": "Pose",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 111,
+        "side": "p2",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 120,
+        "side": "p2",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "Swampert",
+        "raw": "|-mega|p2a: Swampert|Swampert|Swampertite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 20,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "Tornadus"
+      },
+      {
+        "turn": 123,
+        "side": "p2",
+        "nick": "Swampert"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "Ox the Fox",
+    "uploadtime": 1653079339,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Spikes": 13,
+      "Psyshock": 9,
+      "Hurricane": 3,
+      "Defog": 1,
+      "Stealth Rock": 3,
+      "Earthquake": 1,
+      "Scald": 1,
+      "Rest": 2,
+      "Superpower": 1,
+      "Supersonic Skystrike": 1,
+      "Calm Mind": 3,
+      "Seismic Toss": 1,
+      "Thunder": 3,
+      "Heal Bell": 3,
+      "Whirlwind": 7,
+      "Roost": 12,
+      "Soft-Boiled": 5,
+      "Toxic": 1,
+      "Recover": 5,
+      "Counter": 1,
+      "Knock Off": 3
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-629015",
+    "p1": "Empo",
+    "p2": "JP192",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "JP192",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 26,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Urshifu-Rapid-Strike",
+    "opp_lead": "Hippowdon",
+    "empo_team": [
+      "Blaziken",
+      "Garchomp",
+      "Tapu Lele",
+      "Urshifu-*",
+      "Zapdos",
+      "Melmetal"
+    ],
+    "opp_team": [
+      "Clefable",
+      "Toxapex",
+      "Hippowdon",
+      "Excadrill",
+      "Blacephalon",
+      "Skarmory"
+    ],
+    "vol_switches": 10,
+    "forced_switches": 2,
+    "move_count": 19,
+    "switch_rate": 0.3448275862068966,
+    "switch_turns": [
+      1,
+      3,
+      4,
+      7,
+      11,
+      13,
+      18,
+      19,
+      21,
+      25
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [],
+    "hazard_rem": [
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Defog"
+      }
+    ],
+    "status": [],
+    "setup": [
+      {
+        "turn": 8,
+        "side": "p1",
+        "nick": "pastato",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Melmetal",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "Urshifu",
+        "move": "U-turn"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 26,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "pastato"
+      },
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "Tapu Lele"
+      }
+    ],
+    "lead_first_move": "U-turn",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "JP192",
+    "uploadtime": 1653851709,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 1,
+      "Future Sight": 1,
+      "Hurricane": 3,
+      "Swords Dance": 1,
+      "Earthquake": 2,
+      "Protect": 1,
+      "Psyshock": 4,
+      "Volt Switch": 3,
+      "Thunderbolt": 1,
+      "Defog": 1,
+      "Roost": 1
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-629026",
+    "p1": "JP192",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "JP192",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 39,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Lopunny",
+    "opp_lead": "Garchomp",
+    "empo_team": [
+      "Victini",
+      "Weavile",
+      "Landorus-Therian",
+      "Ferrothorn",
+      "Lopunny",
+      "Tapu Fini"
+    ],
+    "opp_team": [
+      "Weavile",
+      "Kartana",
+      "Landorus-Therian",
+      "Scizor",
+      "Garchomp",
+      "Kyurem-Black"
+    ],
+    "vol_switches": 16,
+    "forced_switches": 4,
+    "move_count": 25,
+    "switch_rate": 0.3902439024390244,
+    "switch_turns": [
+      1,
+      3,
+      6,
+      10,
+      13,
+      14,
+      16,
+      18,
+      21,
+      23,
+      26,
+      28,
+      29,
+      30,
+      32,
+      35
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 8,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Tapu Fini",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Toxic"
+      },
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "Ferrothorn",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 31,
+        "side": "p2",
+        "nick": "Lopunny",
+        "move": "Fake Out"
+      },
+      {
+        "turn": 36,
+        "side": "p2",
+        "nick": "Lopunny",
+        "move": "Fake Out"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "Lopunny",
+        "move": "Quick Attack"
+      },
+      {
+        "turn": 39,
+        "side": "p2",
+        "nick": "Lopunny",
+        "move": "Quick Attack"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 30,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "Lopunny",
+        "raw": "|-mega|p2a: Lopunny|Lopunny|Lopunnite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Victini"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Landorus"
+      },
+      {
+        "turn": 35,
+        "side": "p2",
+        "nick": "Weavile"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "JP192",
+    "uploadtime": 1653853093,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Toxic": 2,
+      "Defog": 1,
+      "Nature's Madness": 2,
+      "Glaciate": 1,
+      "V-create": 1,
+      "Knock Off": 1,
+      "Spikes": 2,
+      "Thunder Wave": 1,
+      "Leech Seed": 2,
+      "Stealth Rock": 2,
+      "U-turn": 2,
+      "Icicle Crash": 1,
+      "Frustration": 2,
+      "Fake Out": 2,
+      "Quick Attack": 2,
+      "High Jump Kick": 1
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-630262",
+    "p1": "Empo",
+    "p2": "starmaster",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "starmaster",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 34,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Tapu Koko",
+    "opp_lead": "Latias",
+    "empo_team": [
+      "Landorus-Therian",
+      "Kyurem-Black",
+      "Magearna",
+      "Medicham",
+      "Greninja",
+      "Tapu Koko"
+    ],
+    "opp_team": [
+      "Latias",
+      "Magnezone",
+      "Chansey",
+      "Gliscor",
+      "Magearna",
+      "Slowbro"
+    ],
+    "vol_switches": 12,
+    "forced_switches": 2,
+    "move_count": 25,
+    "switch_rate": 0.32432432432432434,
+    "switch_turns": [
+      1,
+      3,
+      6,
+      8,
+      9,
+      11,
+      12,
+      14,
+      16,
+      22,
+      25,
+      28
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 9,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 4,
+        "side": "p1",
+        "nick": "Medicham",
+        "raw": "|-mega|p1a: Medicham|Medicham|Medichamite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 18,
+        "side": "p1"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 14,
+        "side": "p1",
+        "nick": "Tapu Koko"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Kyurem"
+      }
+    ],
+    "lead_first_move": "U-turn",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "Star",
+    "uploadtime": 1654456794,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 4,
+      "Ice Beam": 4,
+      "High Jump Kick": 5,
+      "Spikes": 1,
+      "Fusion Bolt": 2,
+      "Surf": 1,
+      "Subzero Slammer": 1,
+      "Stealth Rock": 1,
+      "Earthquake": 1,
+      "Dark Pulse": 2,
+      "Thunderbolt": 3
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-630281",
+    "p1": "starmaster",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "starmaster",
+    "winner": "starmaster",
+    "result": "L",
+    "turns": 29,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Victini",
+    "opp_lead": "Lopunny",
+    "empo_team": [
+      "Victini",
+      "Scizor",
+      "Garchomp",
+      "Thundurus",
+      "Kyurem-Black",
+      "Keldeo"
+    ],
+    "opp_team": [
+      "Lopunny",
+      "Clefable",
+      "Ferrothorn",
+      "Gliscor",
+      "Slowbro",
+      "Heatran"
+    ],
+    "vol_switches": 10,
+    "forced_switches": 2,
+    "move_count": 21,
+    "switch_rate": 0.3225806451612903,
+    "switch_turns": [
+      1,
+      2,
+      5,
+      8,
+      11,
+      12,
+      18,
+      21,
+      24,
+      28
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 29,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 4,
+    "hazards": [
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "Garchomp",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "Defog"
+      }
+    ],
+    "status": [],
+    "setup": [
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "Garchomp",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Thundurus",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "Thundurus",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "Thundurus",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Scizor",
+        "raw": "|-mega|p2a: Scizor|Scizor|Scizorite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "Garchomp"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Scizor"
+      },
+      {
+        "turn": 29,
+        "side": "p2",
+        "nick": "Thundurus"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "Star",
+    "uploadtime": 1654457808,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 3,
+      "Scald": 2,
+      "Focus Blast": 2,
+      "Volt Switch": 3,
+      "Defog": 1,
+      "Roost": 1,
+      "Bolt Strike": 4,
+      "Stealth Rock": 1,
+      "Swords Dance": 1,
+      "Hydro Pump": 3
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-630314",
+    "p1": "starmaster",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "starmaster",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 43,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Heatran",
+    "opp_lead": "Clefable",
+    "empo_team": [
+      "Tapu Lele",
+      "Heatran",
+      "Urshifu-*",
+      "Landorus-Therian",
+      "Kartana",
+      "Rotom-Wash"
+    ],
+    "opp_team": [
+      "Scizor",
+      "Skarmory",
+      "Clefable",
+      "Gastrodon-East",
+      "Dragonite",
+      "Tapu Koko"
+    ],
+    "vol_switches": 16,
+    "forced_switches": 3,
+    "move_count": 29,
+    "switch_rate": 0.35555555555555557,
+    "switch_turns": [
+      2,
+      4,
+      8,
+      9,
+      10,
+      12,
+      14,
+      16,
+      18,
+      22,
+      23,
+      26,
+      27,
+      29,
+      30,
+      41
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 3,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "Kartana",
+        "move": "Swords Dance"
+      },
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "Kartana",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "Urshifu",
+        "move": "U-turn"
+      },
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "Urshifu",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Kartana"
+      },
+      {
+        "turn": 36,
+        "side": "p2",
+        "nick": "Landorus"
+      },
+      {
+        "turn": 39,
+        "side": "p2",
+        "nick": "Rotom"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Finals",
+    "date": "2019-12-27",
+    "opponent": "Star",
+    "uploadtime": 1654459201,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 1,
+      "Future Sight": 2,
+      "Knock Off": 2,
+      "Earthquake": 7,
+      "U-turn": 4,
+      "Magma Storm": 1,
+      "Surging Strikes": 1,
+      "Pain Split": 2,
+      "Swords Dance": 2,
+      "Hydro Pump": 3,
+      "Moonblast": 1,
+      "Psyshock": 1,
+      "Close Combat": 2
+    }
+  },
+  {
+    "id": "smogtours-gen9ou-770676",
+    "p1": "Empo",
+    "p2": "We Three Kings",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "We Three Kings",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 20,
+    "gen": "9",
+    "tier": "[Gen 9] OU",
+    "lead": "Cinderace",
+    "opp_lead": "Slowking-Galar",
+    "empo_team": [
+      "Kyurem",
+      "Cinderace",
+      "Iron Valiant",
+      "Kingambit",
+      "Zapdos",
+      "Landorus-Therian"
+    ],
+    "opp_team": [
+      "Kyurem",
+      "Slowking-Galar",
+      "Landorus-Therian",
+      "Zamazenta-*",
+      "Kingambit",
+      "Cinderace"
+    ],
+    "vol_switches": 4,
+    "forced_switches": 1,
+    "move_count": 15,
+    "switch_rate": 0.21052631578947367,
+    "switch_turns": [
+      5,
+      12,
+      13,
+      15
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 5,
+    "final_opp_mons": 2,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [
+      {
+        "turn": 17,
+        "side": "p1",
+        "nick": "Iron Valiant",
+        "type": "Steel"
+      }
+    ],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "Kyurem"
+      }
+    ],
+    "lead_first_move": "Pyro Ball",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen9ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "We Three Kings",
+    "uploadtime": 1716754713,
+    "warnings": [
+      "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+    ],
+    "move_counter": {
+      "Pyro Ball": 2,
+      "Gunk Shot": 2,
+      "Ice Beam": 2,
+      "Earth Power": 2,
+      "Iron Head": 2,
+      "Moonblast": 3,
+      "Knock Off": 1,
+      "Close Combat": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-770690",
+    "p1": "We Three Kings",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "We Three Kings",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 135,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Clefable",
+    "opp_lead": "Rotom-Wash",
+    "empo_team": [
+      "Gastrodon-East",
+      "Tornadus-Therian",
+      "Skarmory",
+      "Heatran",
+      "Clefable",
+      "Tapu Koko"
+    ],
+    "opp_team": [
+      "Clefable",
+      "Landorus-Therian",
+      "Melmetal",
+      "Dragapult",
+      "Rotom-Wash",
+      "Heatran"
+    ],
+    "vol_switches": 23,
+    "forced_switches": 5,
+    "move_count": 112,
+    "switch_rate": 0.17037037037037037,
+    "switch_turns": [
+      41,
+      52,
+      53,
+      58,
+      62,
+      64,
+      66,
+      67,
+      69,
+      75,
+      79,
+      81,
+      82,
+      85,
+      91,
+      96,
+      98,
+      102,
+      104,
+      106,
+      117,
+      124,
+      127
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 92,
+    "max_deficit": 1,
+    "final_empo_mons": 1,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 29,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 34,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 65,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 88,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 90,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 105,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 116,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 123,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 128,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 129,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 43,
+        "side": "p2",
+        "nick": "Gastrodon",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 95,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 101,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 69,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 82,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 92,
+        "side": "p2",
+        "nick": "Tornadus"
+      },
+      {
+        "turn": 121,
+        "side": "p2",
+        "nick": "Gastrodon"
+      },
+      {
+        "turn": 122,
+        "side": "p2",
+        "nick": "Heatran"
+      },
+      {
+        "turn": 125,
+        "side": "p2",
+        "nick": "Clefable"
+      },
+      {
+        "turn": 130,
+        "side": "p2",
+        "nick": "Skarmory"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Round of 16",
+    "date": "2019-12-27",
+    "opponent": "We Three Kings",
+    "uploadtime": 1716757151,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 10,
+      "Knock Off": 18,
+      "Moonblast": 23,
+      "Soft-Boiled": 16,
+      "Scald": 18,
+      "Toxic": 1,
+      "Recover": 6,
+      "Spikes": 5,
+      "U-turn": 2,
+      "Magma Storm": 3,
+      "Protect": 2,
+      "Earth Power": 2,
+      "Dazzling Gleam": 2,
+      "Thunderbolt": 4
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-772011",
+    "p1": "Santu",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Santu",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 120,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Tornadus-Therian",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Scizor",
+      "Landorus-Therian",
+      "Heatran",
+      "Tornadus-Therian",
+      "Greninja-*",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Serperior",
+      "Latios",
+      "Jirachi",
+      "Gliscor",
+      "Heatran",
+      "Toxapex"
+    ],
+    "vol_switches": 55,
+    "forced_switches": 0,
+    "move_count": 83,
+    "switch_rate": 0.39855072463768115,
+    "switch_turns": [
+      6,
+      8,
+      9,
+      11,
+      14,
+      15,
+      17,
+      19,
+      21,
+      23,
+      26,
+      27,
+      29,
+      30,
+      33,
+      35,
+      36,
+      38,
+      40,
+      43,
+      45,
+      47,
+      55,
+      57,
+      59,
+      63,
+      64,
+      70,
+      73,
+      75,
+      78,
+      79,
+      80,
+      81,
+      82,
+      84,
+      86,
+      87,
+      88,
+      90,
+      91,
+      92,
+      102,
+      104,
+      105,
+      107,
+      108,
+      110,
+      111,
+      113,
+      114,
+      116,
+      117,
+      118,
+      120
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 2,
+    "hazards": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 34,
+        "side": "p2",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 41,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 46,
+        "side": "p2",
+        "nick": "Greninja",
+        "move": "Spikes"
+      },
+      {
+        "turn": 58,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 72,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Defog"
+      },
+      {
+        "turn": 83,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Defog"
+      }
+    ],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 85,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "Bullet Punch"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 17,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 30,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 36,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 40,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 45,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 63,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 73,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 79,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      },
+      {
+        "turn": 80,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 81,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 82,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 87,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 88,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 91,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 92,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 102,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 105,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 108,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 111,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 114,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 117,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 120,
+        "side": "p2",
+        "nick": "Scizor",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "Scizor",
+        "raw": "|-mega|p2a: Scizor|Scizor|Scizorite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 44,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Taunt",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "Santu",
+    "uploadtime": 1717361230,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Taunt": 4,
+      "Knock Off": 2,
+      "Hurricane": 10,
+      "Stealth Rock": 6,
+      "U-turn": 26,
+      "Spikes": 4,
+      "Surf": 9,
+      "Magma Storm": 1,
+      "Supersonic Skystrike": 1,
+      "Earthquake": 7,
+      "Dark Pulse": 1,
+      "Scald": 8,
+      "Defog": 2,
+      "Bullet Punch": 1,
+      "Roost": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-772055",
+    "p1": "Santu",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Santu",
+    "winner": "Santu",
+    "result": "L",
+    "turns": 115,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Clefable",
+    "opp_lead": "Clefable",
+    "empo_team": [
+      "Tapu Koko",
+      "Gastrodon-East",
+      "Clefable",
+      "Skarmory",
+      "Heatran",
+      "Tornadus-Therian"
+    ],
+    "opp_team": [
+      "Slowking",
+      "Rillaboom",
+      "Tornadus-Therian",
+      "Scizor",
+      "Hippowdon",
+      "Clefable"
+    ],
+    "vol_switches": 45,
+    "forced_switches": 3,
+    "move_count": 71,
+    "switch_rate": 0.3879310344827586,
+    "switch_turns": [
+      5,
+      8,
+      9,
+      11,
+      13,
+      14,
+      15,
+      17,
+      21,
+      22,
+      24,
+      27,
+      28,
+      30,
+      35,
+      36,
+      42,
+      45,
+      48,
+      49,
+      51,
+      52,
+      54,
+      56,
+      57,
+      59,
+      61,
+      66,
+      69,
+      71,
+      74,
+      76,
+      77,
+      79,
+      81,
+      83,
+      85,
+      90,
+      92,
+      95,
+      98,
+      99,
+      106,
+      109,
+      111
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 81,
+    "max_deficit": 4,
+    "final_empo_mons": 2,
+    "final_opp_mons": 6,
+    "hazards": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 58,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 93,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 96,
+        "side": "p2",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 108,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "Gastrodon",
+        "move": "Toxic"
+      },
+      {
+        "turn": 43,
+        "side": "p2",
+        "nick": "Gastrodon",
+        "move": "Toxic"
+      },
+      {
+        "turn": 44,
+        "side": "p2",
+        "nick": "Gastrodon",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 40,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 68,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 72,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 82,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 113,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      }
+    ],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 16,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 29,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 46,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 47,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 91,
+        "side": "p2",
+        "nick": "Heatran",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 49,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 52,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 57,
+        "side": "p2",
+        "nick": "Tornadus",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 81,
+        "side": "p2",
+        "nick": "Tornadus"
+      },
+      {
+        "turn": 92,
+        "side": "p2",
+        "nick": "Gastrodon"
+      },
+      {
+        "turn": 114,
+        "side": "p2",
+        "nick": "Skarmory"
+      },
+      {
+        "turn": 115,
+        "side": "p2",
+        "nick": "Heatran"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "Santu",
+    "uploadtime": 1717361729,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Knock Off": 8,
+      "Stealth Rock": 2,
+      "Soft-Boiled": 1,
+      "Hurricane": 3,
+      "U-turn": 7,
+      "Toxic": 3,
+      "Protect": 5,
+      "Moonblast": 15,
+      "Roost": 14,
+      "Iron Defense": 5,
+      "Magma Storm": 2,
+      "Spikes": 3,
+      "Thunderbolt": 1,
+      "Dazzling Gleam": 2
+    }
+  },
+  {
+    "id": "smogtours-gen9ou-772080",
+    "p1": "Empo",
+    "p2": "Santu",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Santu",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 26,
+    "gen": "9",
+    "tier": "[Gen 9] OU",
+    "lead": "Clefable",
+    "opp_lead": "Kyurem",
+    "empo_team": [
+      "Clefable",
+      "Gliscor",
+      "Skarmory",
+      "Weavile",
+      "Slowking-Galar",
+      "Darkrai"
+    ],
+    "opp_team": [
+      "Roaring Moon",
+      "Kingambit",
+      "Iron Moth",
+      "Landorus-Therian",
+      "Iron Valiant",
+      "Kyurem"
+    ],
+    "vol_switches": 5,
+    "forced_switches": 4,
+    "move_count": 20,
+    "switch_rate": 0.2,
+    "switch_turns": [
+      4,
+      7,
+      8,
+      11,
+      15
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 19,
+    "max_deficit": 2,
+    "final_empo_mons": 2,
+    "final_opp_mons": 0,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Slowking",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Darkrai",
+        "move": "Will-O-Wisp"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "Weavile",
+        "move": "Swords Dance"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 8,
+        "side": "p1",
+        "nick": "Gliscor"
+      },
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "Slowking"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Darkrai"
+      },
+      {
+        "turn": 21,
+        "side": "p1",
+        "nick": "Weavile"
+      }
+    ],
+    "lead_first_move": "Moonblast",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen9ou",
+    "tournament": "Smogon Tour",
+    "stage": "Quarterfinals",
+    "date": "2019-12-27",
+    "opponent": "Santu",
+    "uploadtime": 1717364694,
+    "warnings": [
+      "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+    ],
+    "move_counter": {
+      "Moonblast": 6,
+      "Earthquake": 2,
+      "Thunder Wave": 1,
+      "Will-O-Wisp": 1,
+      "Dark Pulse": 3,
+      "Swords Dance": 1,
+      "Knock Off": 1,
+      "Iron Defense": 1,
+      "Body Press": 4
+    }
+  },
+  {
+    "id": "smogtours-gen9ou-773677",
+    "p1": "Empo",
+    "p2": "Welli0u",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Welli0u",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 24,
+    "gen": "9",
+    "tier": "[Gen 9] OU",
+    "lead": "Samurott-Hisui",
+    "opp_lead": "Kyurem",
+    "empo_team": [
+      "Iron Valiant",
+      "Kyurem",
+      "Kingambit",
+      "Landorus-Therian",
+      "Samurott-Hisui",
+      "Iron Moth"
+    ],
+    "opp_team": [
+      "Glimmora",
+      "Kyurem",
+      "Iron Moth",
+      "Landorus-Therian",
+      "Kingambit",
+      "Ogerpon-Wellspring"
+    ],
+    "vol_switches": 5,
+    "forced_switches": 4,
+    "move_count": 16,
+    "switch_rate": 0.23809523809523808,
+    "switch_turns": [
+      2,
+      3,
+      9,
+      15,
+      19
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 22,
+    "max_deficit": 1,
+    "final_empo_mons": 2,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 17,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Kyurem",
+        "move": "Dragon Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "Kingambit",
+        "type": "Ghost"
+      }
+    ],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "Iron Moth"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Samurott"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Kyurem"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Kingambit"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen9ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "Welli0u",
+    "uploadtime": 1718029123,
+    "warnings": [
+      "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+    ],
+    "move_counter": {
+      "Earth Power": 3,
+      "Ice Beam": 1,
+      "Dragon Dance": 1,
+      "Fiery Dance": 3,
+      "Sludge Wave": 1,
+      "Moonblast": 1,
+      "Stealth Rock": 1,
+      "Stone Edge": 1,
+      "Kowtow Cleave": 2,
+      "Earthquake": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-773679",
+    "p1": "Welli0u",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Welli0u",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 15,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Magearna",
+    "opp_lead": "Heatran",
+    "empo_team": [
+      "Alakazam",
+      "Tapu Lele",
+      "Kommo-o",
+      "Kartana",
+      "Landorus-Therian",
+      "Magearna"
+    ],
+    "opp_team": [
+      "Latias",
+      "Heatran",
+      "Gliscor",
+      "Tornadus-Therian",
+      "Toxapex",
+      "Clefable"
+    ],
+    "vol_switches": 3,
+    "forced_switches": 0,
+    "move_count": 14,
+    "switch_rate": 0.17647058823529413,
+    "switch_turns": [
+      1,
+      3,
+      4
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 2,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "Landorus",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "Alakazam",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "Alakazam",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "Alakazam",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Magearna",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Magearna",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Volt Switch",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Tour",
+    "stage": "Semifinals",
+    "date": "2019-12-27",
+    "opponent": "Welli0u",
+    "uploadtime": 1718030035,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Volt Switch": 2,
+      "Stealth Rock": 1,
+      "Psychic": 5,
+      "Calm Mind": 3,
+      "Shadow Ball": 3
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-470762",
+    "p1": "1 True Lycan",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "1 True Lycan",
+    "winner": "1 True Lycan",
+    "result": "L",
+    "turns": 191,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hydreigon",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Sylveon",
+      "Corviknight",
+      "Toxapex",
+      "Hippowdon",
+      "Excadrill",
+      "Hydreigon"
+    ],
+    "opp_team": [
+      "Toxapex",
+      "Dugtrio",
+      "Corviknight",
+      "Rotom-Heat",
+      "Tyranitar",
+      "Sylveon"
+    ],
+    "vol_switches": 66,
+    "forced_switches": 5,
+    "move_count": 121,
+    "switch_rate": 0.35294117647058826,
+    "switch_turns": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      11,
+      12,
+      15,
+      18,
+      23,
+      24,
+      25,
+      32,
+      35,
+      36,
+      38,
+      39,
+      41,
+      46,
+      47,
+      48,
+      56,
+      57,
+      58,
+      66,
+      69,
+      70,
+      71,
+      73,
+      88,
+      90,
+      93,
+      94,
+      97,
+      112,
+      114,
+      115,
+      116,
+      118,
+      119,
+      126,
+      127,
+      128,
+      129,
+      136,
+      137,
+      140,
+      141,
+      146,
+      147,
+      151,
+      167,
+      169,
+      171,
+      172,
+      175,
+      176,
+      177,
+      178,
+      179,
+      181,
+      182,
+      184,
+      185,
+      186,
+      187
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 75,
+    "max_deficit": 4,
+    "final_empo_mons": 1,
+    "final_opp_mons": 5,
+    "hazards": [
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 29,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 31,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 72,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 91,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 117,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 120,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 125,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 135,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 139,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 142,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 161,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 183,
+        "side": "p2",
+        "nick": "BINGO",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "ME LO SENTO",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "SUGO",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 43,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 49,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 50,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 51,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 52,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 53,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 54,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 55,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 59,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 60,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 63,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 65,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 76,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 77,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 78,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 80,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 82,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 83,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 87,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Bulk Up"
+      },
+      {
+        "turn": 189,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      },
+      {
+        "turn": 190,
+        "side": "p2",
+        "nick": "GUARDA COME FLEXO",
+        "move": "Substitute"
+      }
+    ],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 107,
+        "side": "p2",
+        "nick": "ARCOBALENO",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 75,
+        "side": "p2",
+        "nick": "ME LO SENTO"
+      },
+      {
+        "turn": 155,
+        "side": "p2",
+        "nick": "ARCOBALENO"
+      },
+      {
+        "turn": 164,
+        "side": "p2",
+        "nick": "PIANO PIANO WAY"
+      },
+      {
+        "turn": 174,
+        "side": "p2",
+        "nick": "SUGO"
+      },
+      {
+        "turn": 187,
+        "side": "p2",
+        "nick": "BINGO"
+      }
+    ],
+    "lead_first_move": "Thunder Wave",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "1 True Lycan",
+    "uploadtime": 1578659149,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Thunder Wave": 1,
+      "Stealth Rock": 14,
+      "Scald": 11,
+      "Toxic": 1,
+      "Earthquake": 8,
+      "Slack Off": 15,
+      "Substitute": 9,
+      "Roost": 4,
+      "Bulk Up": 15,
+      "Brave Bird": 12,
+      "Dark Pulse": 1,
+      "Flash Cannon": 2,
+      "Whirlwind": 9,
+      "Wish": 4,
+      "Hyper Voice": 7,
+      "Mystical Fire": 5,
+      "Protect": 1,
+      "Recover": 1,
+      "Rapid Spin": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-473406",
+    "p1": "blarghlfarghl",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "blarghlfarghl",
+    "winner": "blarghlfarghl",
+    "result": "L",
+    "turns": 10,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Rotom-Heat",
+    "opp_lead": "Dragapult",
+    "empo_team": [
+      "Dracovish",
+      "Mamoswine",
+      "Corviknight",
+      "Clefable",
+      "Kommo-o",
+      "Rotom-Heat"
+    ],
+    "opp_team": [
+      "Clefable",
+      "Dragapult",
+      "Mew",
+      "Dugtrio",
+      "Obstagoon",
+      "Cloyster"
+    ],
+    "vol_switches": 3,
+    "forced_switches": 2,
+    "move_count": 5,
+    "switch_rate": 0.375,
+    "switch_turns": [
+      2,
+      4,
+      6
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 9,
+    "max_deficit": 2,
+    "final_empo_mons": 3,
+    "final_opp_mons": 5,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "UPPER STEAM CAVE",
+        "move": "Thunder Wave"
+      }
+    ],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 5,
+        "side": "p2",
+        "nick": "BLIZZARD ISLAND",
+        "move": "Ice Shard"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "THE NIGHTMARE",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 8,
+        "side": "p2",
+        "nick": "THE NIGHTMARE"
+      },
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "UPPER STEAM CAVE"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "CRYSTAL CROSSING"
+      }
+    ],
+    "lead_first_move": "Thunder Wave",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "blarghlfarghl",
+    "uploadtime": 1580070379,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Thunder Wave": 1,
+      "Roost": 1,
+      "U-turn": 1,
+      "Ice Shard": 1,
+      "Brave Bird": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-474361",
+    "p1": "KobeBeanBasedlord",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "KobeBeanBasedlord",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 25,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Shuckle",
+    "opp_lead": "Gengar",
+    "empo_team": [
+      "Obstagoon",
+      "Shuckle",
+      "Cloyster",
+      "Dragapult",
+      "Mimikyu",
+      "Kommo-o"
+    ],
+    "opp_team": [
+      "Gengar",
+      "Corviknight",
+      "Kommo-o",
+      "Clefable",
+      "Ditto",
+      "Seismitoad"
+    ],
+    "vol_switches": 5,
+    "forced_switches": 3,
+    "move_count": 16,
+    "switch_rate": 0.23809523809523808,
+    "switch_turns": [
+      5,
+      6,
+      8,
+      20,
+      21
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 7,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "MT. HORN",
+        "move": "Sticky Web"
+      },
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "MT. HORN",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "MT. HORN",
+        "move": "Sticky Web"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "MIRACLE SEA",
+        "move": "Ice Shard"
+      }
+    ],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "MT. HORN"
+      },
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "DARK HILL"
+      },
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "CRYSTAL CROSSING"
+      }
+    ],
+    "lead_first_move": "Sticky Web",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "CTC",
+    "uploadtime": 1580676145,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Sticky Web": 2,
+      "Stealth Rock": 1,
+      "Encore": 1,
+      "Facade": 2,
+      "Knock Off": 2,
+      "Taunt": 1,
+      "Close Combat": 4,
+      "Earthquake": 2,
+      "Ice Shard": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-474806",
+    "p1": "1 True Lycan",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "1 True Lycan",
+    "winner": "1 True Lycan",
+    "result": "L",
+    "turns": 41,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Dragapult",
+    "opp_lead": "Dragapult",
+    "empo_team": [
+      "Aegislash",
+      "Excadrill",
+      "Tyranitar",
+      "Toxapex",
+      "Corviknight",
+      "Dragapult"
+    ],
+    "opp_team": [
+      "Gyarados",
+      "Aegislash",
+      "Clefable",
+      "Seismitoad",
+      "Mandibuzz",
+      "Dragapult"
+    ],
+    "vol_switches": 18,
+    "forced_switches": 1,
+    "move_count": 23,
+    "switch_rate": 0.43902439024390244,
+    "switch_turns": [
+      1,
+      5,
+      7,
+      9,
+      11,
+      13,
+      20,
+      21,
+      23,
+      24,
+      25,
+      28,
+      29,
+      32,
+      34,
+      36,
+      38,
+      40
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 26,
+    "max_deficit": 2,
+    "final_empo_mons": 4,
+    "final_opp_mons": 6,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic Spikes"
+      },
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic Spikes"
+      },
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "NORTHERN DESERT",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "NORTHERN DESERT",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic Spikes"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 39,
+        "side": "p2",
+        "nick": "QUICKSAND PIT",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "BARREN VALLEY",
+        "move": "Will-O-Wisp"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 16,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 17,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 35,
+        "side": "p2",
+        "nick": "QUICKSAND PIT",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "THE NIGHTMARE",
+        "move": "Shadow Sneak"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "BARREN VALLEY",
+        "move": "U-turn"
+      },
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "SEALED RUIN",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "THE NIGHTMARE"
+      },
+      {
+        "turn": 41,
+        "side": "p2",
+        "nick": "BARREN VALLEY"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "1 True Lycan",
+    "uploadtime": 1581177982,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Toxic Spikes": 3,
+      "Toxic": 5,
+      "Stealth Rock": 2,
+      "Roost": 1,
+      "Will-O-Wisp": 1,
+      "U-turn": 2,
+      "Scald": 1,
+      "Recover": 2,
+      "Shadow Sneak": 1,
+      "Iron Head": 3,
+      "Swords Dance": 1,
+      "Rapid Spin": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-478213",
+    "p1": "Empo",
+    "p2": "bro fist",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "bro fist",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 101,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Dragapult",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Excadrill",
+      "Tyranitar",
+      "Ferrothorn",
+      "Dragapult",
+      "Hippowdon",
+      "Aegislash"
+    ],
+    "opp_team": [
+      "Clefable",
+      "Ditto",
+      "Chandelure",
+      "Toxapex",
+      "Kommo-o",
+      "Corviknight"
+    ],
+    "vol_switches": 31,
+    "forced_switches": 3,
+    "move_count": 70,
+    "switch_rate": 0.3069306930693069,
+    "switch_turns": [
+      2,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      13,
+      16,
+      19,
+      20,
+      34,
+      35,
+      36,
+      39,
+      46,
+      50,
+      52,
+      57,
+      63,
+      68,
+      71,
+      72,
+      73,
+      78,
+      80,
+      85,
+      86,
+      88,
+      90,
+      96
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 3,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 15,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 28,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 29,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 30,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 44,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 45,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 47,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 49,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 53,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 64,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 66,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 67,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      },
+      {
+        "turn": 70,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 97,
+        "side": "p1",
+        "nick": "Ferrothorn",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Excadrill",
+        "move": "Rapid Spin"
+      },
+      {
+        "turn": 87,
+        "side": "p1",
+        "nick": "Excadrill",
+        "move": "Rapid Spin"
+      }
+    ],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "Dragapult",
+        "move": "Will-O-Wisp"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 79,
+        "side": "p1",
+        "nick": "Aegislash",
+        "move": "Swords Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "Dragapult",
+        "move": "U-turn"
+      },
+      {
+        "turn": 36,
+        "side": "p1",
+        "nick": "Dragapult",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 73,
+        "side": "p1",
+        "nick": "Dragapult"
+      },
+      {
+        "turn": 91,
+        "side": "p1",
+        "nick": "Hippowdon"
+      },
+      {
+        "turn": 96,
+        "side": "p1",
+        "nick": "Tyranitar"
+      }
+    ],
+    "lead_first_move": "Will-O-Wisp",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "bro fist",
+    "uploadtime": 1583085063,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Will-O-Wisp": 1,
+      "U-turn": 2,
+      "Knock Off": 10,
+      "Earthquake": 11,
+      "Rapid Spin": 2,
+      "Stealth Rock": 4,
+      "Ice Punch": 2,
+      "Spikes": 12,
+      "Leech Seed": 10,
+      "Body Press": 6,
+      "Iron Head": 2,
+      "Whirlwind": 5,
+      "Slack Off": 1,
+      "Swords Dance": 1,
+      "Stone Edge": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-479335",
+    "p1": "Empo",
+    "p2": "starry",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "starry",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 44,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Rotom-Heat",
+    "opp_lead": "Dragapult",
+    "empo_team": [
+      "Toxapex",
+      "Ferrothorn",
+      "Rotom-Heat",
+      "Clefable",
+      "Hippowdon",
+      "Aegislash"
+    ],
+    "opp_team": [
+      "Jirachi",
+      "Togekiss",
+      "Kommo-o",
+      "Zeraora",
+      "Corviknight",
+      "Dragapult"
+    ],
+    "vol_switches": 17,
+    "forced_switches": 0,
+    "move_count": 26,
+    "switch_rate": 0.3953488372093023,
+    "switch_turns": [
+      2,
+      6,
+      9,
+      10,
+      13,
+      16,
+      17,
+      19,
+      22,
+      24,
+      28,
+      30,
+      32,
+      36,
+      37,
+      41,
+      42
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 4,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 39,
+        "side": "p1",
+        "nick": "GuccyArmor",
+        "move": "Shadow Sneak"
+      },
+      {
+        "turn": 40,
+        "side": "p1",
+        "nick": "GuccyArmor",
+        "move": "Shadow Sneak"
+      }
+    ],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Discharge",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2020-01-05",
+    "opponent": "starry blanket",
+    "uploadtime": 1583682542,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Discharge": 5,
+      "Stealth Rock": 3,
+      "Pain Split": 1,
+      "Knock Off": 3,
+      "Leech Seed": 1,
+      "Scald": 3,
+      "Overheat": 2,
+      "Shadow Claw": 3,
+      "Earthquake": 1,
+      "Moonblast": 1,
+      "Shadow Sneak": 2,
+      "Body Press": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-480928",
+    "p1": "Empo",
+    "p2": "Christo",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Christo",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 41,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Ditto",
+    "opp_lead": "Aegislash",
+    "empo_team": [
+      "Toxapex",
+      "Chandelure",
+      "Dugtrio",
+      "Hatterene",
+      "Corviknight",
+      "Ditto"
+    ],
+    "opp_team": [
+      "Seismitoad",
+      "Corviknight",
+      "Clefable",
+      "Aegislash",
+      "Rotom-Heat",
+      "Hydreigon"
+    ],
+    "vol_switches": 19,
+    "forced_switches": 1,
+    "move_count": 26,
+    "switch_rate": 0.4222222222222222,
+    "switch_turns": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      10,
+      13,
+      16,
+      18,
+      20,
+      21,
+      27,
+      28,
+      30,
+      31,
+      33,
+      35,
+      37,
+      38
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 11,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Dugtrio",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Hatterene",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 14,
+        "side": "p1",
+        "nick": "Toxapex",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "Hatterene",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 21,
+        "side": "p1",
+        "nick": "Corviknight",
+        "move": "U-turn"
+      },
+      {
+        "turn": 28,
+        "side": "p1",
+        "nick": "Ditto",
+        "move": "U-turn"
+      },
+      {
+        "turn": 33,
+        "side": "p1",
+        "nick": "Corviknight",
+        "move": "U-turn"
+      },
+      {
+        "turn": 38,
+        "side": "p1",
+        "nick": "Ditto",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 11,
+        "side": "p1",
+        "nick": "Dugtrio"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Playoffs",
+    "date": "2020-01-05",
+    "opponent": "Christo",
+    "uploadtime": 1584292447,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 2,
+      "Calm Mind": 1,
+      "Mystical Fire": 2,
+      "Iron Head": 1,
+      "Earthquake": 1,
+      "Overheat": 1,
+      "Toxic": 1,
+      "Recover": 1,
+      "Flamethrower": 1,
+      "U-turn": 4,
+      "Shadow Ball": 10,
+      "Roost": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-483115",
+    "p1": "Empo",
+    "p2": "blarghlfarghl",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "blarghlfarghl",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 40,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Clefable",
+    "opp_lead": "Ferrothorn",
+    "empo_team": [
+      "Dugtrio",
+      "Rotom-Heat",
+      "Clefable",
+      "Hippowdon",
+      "Corviknight",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Zeraora",
+      "Clefable",
+      "Gengar",
+      "Rotom-Heat",
+      "Ferrothorn",
+      "Mandibuzz"
+    ],
+    "vol_switches": 9,
+    "forced_switches": 0,
+    "move_count": 30,
+    "switch_rate": 0.23076923076923078,
+    "switch_turns": [
+      6,
+      8,
+      14,
+      15,
+      21,
+      22,
+      33,
+      34,
+      37
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 4,
+    "hazards": [
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "Rotom",
+        "move": "Nasty Plot"
+      },
+      {
+        "turn": 11,
+        "side": "p1",
+        "nick": "Rotom",
+        "move": "Nasty Plot"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 18,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Knock Off",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Finals",
+    "date": "2020-01-05",
+    "opponent": "blarghlfarghl",
+    "uploadtime": 1584897902,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Knock Off": 3,
+      "Calm Mind": 3,
+      "Moonblast": 4,
+      "Stealth Rock": 1,
+      "Overheat": 2,
+      "Nasty Plot": 2,
+      "Pain Split": 1,
+      "Iron Head": 2,
+      "Body Press": 3,
+      "Roost": 5,
+      "Earthquake": 1,
+      "Whirlwind": 1,
+      "Scald": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-483972",
+    "p1": "Empo",
+    "p2": "kratosmana",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "kratosmana",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 29,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Toxapex",
+    "opp_lead": "Swampert",
+    "empo_team": [
+      "Latias",
+      "Toxapex",
+      "Celesteela",
+      "Clefable",
+      "Tyranitar",
+      "Excadrill"
+    ],
+    "opp_team": [
+      "Magearna",
+      "Pelipper",
+      "Swampert",
+      "Tornadus-Therian",
+      "Manaphy",
+      "Kartana"
+    ],
+    "vol_switches": 9,
+    "forced_switches": 1,
+    "move_count": 18,
+    "switch_rate": 0.3333333333333333,
+    "switch_turns": [
+      2,
+      4,
+      6,
+      13,
+      17,
+      18,
+      20,
+      24,
+      26
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 11,
+    "max_deficit": 1,
+    "final_empo_mons": 5,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "Toxapex",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Celesteela",
+        "move": "Protect"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Celesteela",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [
+      {
+        "turn": 19,
+        "side": "p1"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 11,
+        "side": "p1",
+        "nick": "Clefable"
+      }
+    ],
+    "lead_first_move": "Toxic",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Finals Tiebreaker",
+    "date": "2020-01-05",
+    "opponent": "KratosMana",
+    "uploadtime": 1585142211,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Toxic": 1,
+      "Stealth Rock": 1,
+      "Pursuit": 1,
+      "Flamethrower": 4,
+      "Moonblast": 1,
+      "Crunch": 2,
+      "Heavy Slam": 3,
+      "Protect": 2,
+      "Corkscrew Crash": 1,
+      "Recover": 2
+    }
+  },
+  {
+    "id": "smogtours-gen6ou-500244",
+    "p1": "Empo",
+    "p2": "HYDREIGON SPECS",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "HYDREIGON SPECS",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 13,
+    "gen": "6",
+    "tier": "[Gen 6] OU",
+    "lead": "Azelf",
+    "opp_lead": "Diancie",
+    "empo_team": [
+      "Azelf",
+      "Pinsir",
+      "Bisharp",
+      "Excadrill",
+      "Dragonite",
+      "Manaphy"
+    ],
+    "opp_team": [
+      "Xatu",
+      "Azumarill",
+      "Bisharp",
+      "Volcarona",
+      "Thundurus-Therian",
+      "Diancie"
+    ],
+    "vol_switches": 0,
+    "forced_switches": 2,
+    "move_count": 12,
+    "switch_rate": 0.0,
+    "switch_turns": [],
+    "was_behind": true,
+    "first_deficit_turn": 4,
+    "max_deficit": 1,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "Pinsir",
+        "move": "Swords Dance"
+      },
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "Dragonite",
+        "move": "Dragon Dance"
+      }
+    ],
+    "priority": [
+      {
+        "turn": 6,
+        "side": "p1",
+        "nick": "Pinsir",
+        "move": "Quick Attack"
+      }
+    ],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "Pinsir",
+        "raw": "|-mega|p1a: Pinsir|Pinsir|Pinsirite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 4,
+        "side": "p1",
+        "nick": "meshmenkey"
+      },
+      {
+        "turn": 9,
+        "side": "p1",
+        "nick": "Pinsir"
+      }
+    ],
+    "lead_first_move": "Hidden Power",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen6ou",
+    "tournament": "Smogon Tour",
+    "stage": "Week 8",
+    "date": "2020-05-10",
+    "opponent": "Unknown",
+    "uploadtime": 1589136000,
+    "warnings": [
+      "NOTE: declared format 'gen6ou' vs actual '[gen6]ou'"
+    ],
+    "move_counter": {
+      "Hidden Power": 3,
+      "Explosion": 1,
+      "Swords Dance": 1,
+      "Quick Attack": 1,
+      "Frustration": 1,
+      "Close Combat": 1,
+      "Dragon Dance": 1,
+      "Fire Punch": 1,
+      "Outrage": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-537288",
+    "p1": "z0mOG",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "z0mOG",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 25,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Landorus-Therian",
+    "opp_lead": "Serperior",
+    "empo_team": [
+      "Kartana",
+      "Alakazam",
+      "Tapu Lele",
+      "Magearna",
+      "Landorus-Therian",
+      "Rotom-Wash"
+    ],
+    "opp_team": [
+      "Tyranitar",
+      "Serperior",
+      "Thundurus-Therian",
+      "Landorus-Therian",
+      "Tapu Fini",
+      "Magearna"
+    ],
+    "vol_switches": 9,
+    "forced_switches": 2,
+    "move_count": 17,
+    "switch_rate": 0.34615384615384615,
+    "switch_turns": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      17
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "QUICKSAND PIT",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "TEMPORAL TOWER",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "CRYSTAL CROSSING",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 10,
+        "side": "p2",
+        "nick": "CRYSTAL CROSSING",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 25,
+        "side": "p2",
+        "nick": "WATERFALL CAVE",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "TEMPORAL TOWER",
+        "raw": "|-mega|p2a: TEMPORAL TOWER|Alakazam|Alakazite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 17,
+        "side": "p2",
+        "nick": "CRYSTAL CROSSING"
+      },
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "TREESHROUD FOREST"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2021-08-11",
+    "opponent": "z0mOG",
+    "uploadtime": 1610914067,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 1,
+      "Ice Beam": 1,
+      "Volt Switch": 3,
+      "Psychic": 2,
+      "Focus Blast": 3,
+      "Calm Mind": 1,
+      "Leaf Blade": 4,
+      "Hydro Pump": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-539312",
+    "p1": "relous",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "relous",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 64,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Chansey",
+    "opp_lead": "Latias",
+    "empo_team": [
+      "Kartana",
+      "Mawile",
+      "Seismitoad",
+      "Chansey",
+      "Landorus-Therian",
+      "Magnezone"
+    ],
+    "opp_team": [
+      "Reuniclus",
+      "Gastrodon",
+      "Skarmory",
+      "Clefable",
+      "Latias",
+      "Heatran"
+    ],
+    "vol_switches": 16,
+    "forced_switches": 0,
+    "move_count": 48,
+    "switch_rate": 0.25,
+    "switch_turns": [
+      3,
+      5,
+      13,
+      15,
+      23,
+      26,
+      35,
+      39,
+      42,
+      44,
+      46,
+      49,
+      51,
+      52,
+      56,
+      58
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "CHAMPAGNE SHOWERS",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 47,
+        "side": "p2",
+        "nick": "Caasi Netero",
+        "move": "Defog"
+      },
+      {
+        "turn": 48,
+        "side": "p2",
+        "nick": "Caasi Netero",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Updated Kekto",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "Updated Kekto",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 16,
+        "side": "p2",
+        "nick": "Updated Kekto",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 40,
+        "side": "p2",
+        "nick": "Updated Kekto",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 41,
+        "side": "p2",
+        "nick": "Updated Kekto",
+        "move": "Thunder Wave"
+      }
+    ],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 61,
+        "side": "p2",
+        "nick": "Samuel D. Norton",
+        "move": "Sucker Punch"
+      }
+    ],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 50,
+        "side": "p2",
+        "nick": "Samuel D. Norton",
+        "raw": "|-mega|p2a: Samuel D. Norton|Mawile|Mawilite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 38,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Thunder Wave",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2021-08-11",
+    "opponent": "Relous",
+    "uploadtime": 1611950698,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Thunder Wave": 5,
+      "Seismic Toss": 14,
+      "Stealth Rock": 1,
+      "Wish": 8,
+      "Infestation": 3,
+      "Soft-Boiled": 2,
+      "Earthquake": 3,
+      "Tectonic Rage": 1,
+      "Knock Off": 5,
+      "Thunderbolt": 1,
+      "Defog": 2,
+      "Sucker Punch": 1,
+      "Play Rough": 2
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-540413",
+    "p1": "Robjr",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Robjr",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 29,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Lopunny",
+    "opp_lead": "Heatran",
+    "empo_team": [
+      "Victini",
+      "Weavile",
+      "Landorus-Therian",
+      "Ferrothorn",
+      "Lopunny",
+      "Tapu Fini"
+    ],
+    "opp_team": [
+      "Alakazam",
+      "Heatran",
+      "Tapu Koko",
+      "Tangrowth",
+      "Landorus-Therian",
+      "Tyranitar"
+    ],
+    "vol_switches": 10,
+    "forced_switches": 4,
+    "move_count": 19,
+    "switch_rate": 0.3448275862068966,
+    "switch_turns": [
+      2,
+      3,
+      9,
+      10,
+      11,
+      13,
+      15,
+      18,
+      21,
+      25
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 7,
+    "max_deficit": 1,
+    "final_empo_mons": 2,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "dons meetup",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "Brand New House",
+        "move": "Fake Out"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "Brand New House",
+        "move": "Quick Attack"
+      }
+    ],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "dons meetup",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Brand New House",
+        "raw": "|-mega|p2a: Brand New House|Lopunny|Lopunnite"
+      }
+    ],
+    "zmove": [
+      {
+        "turn": 27,
+        "side": "p2"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "To Be Continued"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "dons meetup"
+      },
+      {
+        "turn": 22,
+        "side": "p2",
+        "nick": "issou praying"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Thanos D. Norton"
+      }
+    ],
+    "lead_first_move": "Frustration",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2021-08-11",
+    "opponent": "Robjr",
+    "uploadtime": 1612548875,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Frustration": 6,
+      "Power-Up Punch": 1,
+      "V-create": 1,
+      "Bolt Strike": 2,
+      "Power Whip": 1,
+      "Stealth Rock": 1,
+      "U-turn": 1,
+      "High Jump Kick": 1,
+      "Fake Out": 1,
+      "Quick Attack": 1,
+      "Icicle Crash": 1,
+      "Tectonic Rage": 1,
+      "Knock Off": 1
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-542402",
+    "p1": "soulgazer",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "soulgazer",
+    "winner": "soulgazer",
+    "result": "L",
+    "turns": 49,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Rotom-Wash",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Rotom-Wash",
+      "Landorus-Therian",
+      "Magearna",
+      "Kartana",
+      "Medicham",
+      "Volcarona"
+    ],
+    "opp_team": [
+      "Reuniclus",
+      "Magearna",
+      "Heatran",
+      "Latias",
+      "Gliscor",
+      "Toxapex"
+    ],
+    "vol_switches": 22,
+    "forced_switches": 5,
+    "move_count": 38,
+    "switch_rate": 0.36666666666666664,
+    "switch_turns": [
+      2,
+      3,
+      5,
+      7,
+      12,
+      17,
+      19,
+      21,
+      23,
+      24,
+      26,
+      29,
+      31,
+      32,
+      33,
+      35,
+      36,
+      37,
+      42,
+      44,
+      45,
+      48
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 42,
+    "max_deficit": 3,
+    "final_empo_mons": 0,
+    "final_opp_mons": 3,
+    "hazards": [],
+    "hazard_rem": [
+      {
+        "turn": 9,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Defog"
+      },
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Defog"
+      },
+      {
+        "turn": 20,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Will-O-Wisp"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 13,
+        "side": "p2",
+        "nick": "Samuel D. Norton",
+        "move": "Quiver Dance"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "guccy le boss",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 5,
+        "side": "p2",
+        "nick": "Caasi Netero",
+        "move": "U-turn"
+      },
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "guccy le boss",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 31,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 32,
+        "side": "p2",
+        "nick": "guccy le boss",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 36,
+        "side": "p2",
+        "nick": "guccy le boss",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 37,
+        "side": "p2",
+        "nick": "beamer kid",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 45,
+        "side": "p2",
+        "nick": "guccy le boss",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [],
+    "mega": [
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "GOJOU",
+        "raw": "|-mega|p2a: GOJOU|Medicham|Medichamite"
+      }
+    ],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Caasi Netero"
+      },
+      {
+        "turn": 29,
+        "side": "p2",
+        "nick": "Samuel D. Norton"
+      },
+      {
+        "turn": 39,
+        "side": "p2",
+        "nick": "GOJOU"
+      },
+      {
+        "turn": 42,
+        "side": "p2",
+        "nick": "beamer kid"
+      },
+      {
+        "turn": 48,
+        "side": "p2",
+        "nick": "guccy le boss"
+      },
+      {
+        "turn": 49,
+        "side": "p2",
+        "nick": "Vegan Gains"
+      }
+    ],
+    "lead_first_move": "Will-O-Wisp",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2021-08-11",
+    "opponent": "soulgazer",
+    "uploadtime": 1613321314,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Will-O-Wisp": 1,
+      "Volt Switch": 11,
+      "Earthquake": 1,
+      "U-turn": 1,
+      "Hydro Pump": 3,
+      "Defog": 3,
+      "Quiver Dance": 1,
+      "Fire Blast": 2,
+      "Hidden Power": 1,
+      "Ice Punch": 5,
+      "Knock Off": 4,
+      "Leaf Blade": 5
+    }
+  },
+  {
+    "id": "smogtours-gen7ou-542981",
+    "p1": "Empo",
+    "p2": "devwin",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "devwin",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 64,
+    "gen": "7",
+    "tier": "[Gen 7] OU",
+    "lead": "Ditto",
+    "opp_lead": "Greninja",
+    "empo_team": [
+      "Scizor",
+      "Kartana",
+      "Ditto",
+      "Reuniclus",
+      "Chansey",
+      "Gliscor"
+    ],
+    "opp_team": [
+      "Alakazam",
+      "Tapu Lele",
+      "Magearna",
+      "Landorus-Therian",
+      "Rotom-Wash",
+      "Greninja"
+    ],
+    "vol_switches": 17,
+    "forced_switches": 5,
+    "move_count": 44,
+    "switch_rate": 0.2786885245901639,
+    "switch_turns": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      25,
+      26,
+      29,
+      41,
+      43,
+      44,
+      46,
+      50,
+      52,
+      53,
+      54,
+      61
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 9,
+    "max_deficit": 1,
+    "final_empo_mons": 1,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "QUICKSAND CAVE",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 18,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 31,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 34,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 36,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      },
+      {
+        "turn": 59,
+        "side": "p1",
+        "nick": "THE NIGHTMARE",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 27,
+        "side": "p1",
+        "nick": "HIDDEN LAND",
+        "move": "Calm Mind"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [
+      {
+        "turn": 42,
+        "side": "p1"
+      }
+    ],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 9,
+        "side": "p1",
+        "nick": "QUICKSAND CAVE"
+      },
+      {
+        "turn": 48,
+        "side": "p1",
+        "nick": "TREESHROUD FOREST"
+      },
+      {
+        "turn": 54,
+        "side": "p1",
+        "nick": "HIDDEN LAND"
+      },
+      {
+        "turn": 61,
+        "side": "p1",
+        "nick": "CONCEALED RUINS"
+      },
+      {
+        "turn": 63,
+        "side": "p1",
+        "nick": "THE NIGHTMARE"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen7ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Regular Season",
+    "date": "2021-08-11",
+    "opponent": "Devin",
+    "uploadtime": 1613737970,
+    "warnings": [
+      "NOTE: declared format 'gen7ou' vs actual '[gen7]ou'"
+    ],
+    "move_counter": {
+      "Toxic": 6,
+      "Defog": 1,
+      "Roost": 1,
+      "Stealth Rock": 1,
+      "Seismic Toss": 13,
+      "Soft-Boiled": 15,
+      "Calm Mind": 1,
+      "Recover": 1,
+      "Bloom Doom": 1,
+      "Leaf Blade": 1,
+      "Shadow Ball": 1,
+      "Psyshock": 2
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-548763",
+    "p1": "Nat",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Nat",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 19,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Tapu Lele",
+    "opp_lead": "Tapu Fini",
+    "empo_team": [
+      "Garchomp",
+      "Heatran",
+      "Kartana",
+      "Landorus-Therian",
+      "Rotom-Wash",
+      "Tapu Lele"
+    ],
+    "opp_team": [
+      "Tapu Fini",
+      "Kyurem",
+      "Kartana",
+      "Zeraora",
+      "Landorus-Therian",
+      "Heatran"
+    ],
+    "vol_switches": 3,
+    "forced_switches": 3,
+    "move_count": 14,
+    "switch_rate": 0.17647058823529413,
+    "switch_turns": [
+      6,
+      8,
+      15
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 3,
+    "max_deficit": 1,
+    "final_empo_mons": 3,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "pastato",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Tapu Lele"
+      },
+      {
+        "turn": 12,
+        "side": "p2",
+        "nick": "Rotom"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "Garchomp"
+      }
+    ],
+    "lead_first_move": "Focus Blast",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Official Smogon Tournament",
+    "stage": "Semifinals",
+    "date": "2023-03-14",
+    "opponent": "Nat",
+    "uploadtime": 1616246068,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Focus Blast": 3,
+      "Stealth Rock": 1,
+      "Earthquake": 3,
+      "Knock Off": 1,
+      "Hydro Pump": 3,
+      "Smart Strike": 3
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-548764",
+    "p1": "Nat",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Nat",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 25,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Tapu Koko",
+    "opp_lead": "Scizor",
+    "empo_team": [
+      "Tapu Koko",
+      "Hippowdon",
+      "Clefable",
+      "Skarmory",
+      "Reuniclus",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Weavile",
+      "Scizor",
+      "Hawlucha",
+      "Volcarona",
+      "Rillaboom",
+      "Garchomp"
+    ],
+    "vol_switches": 8,
+    "forced_switches": 2,
+    "move_count": 17,
+    "switch_rate": 0.32,
+    "switch_turns": [
+      1,
+      5,
+      7,
+      8,
+      10,
+      14,
+      20,
+      24
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 4,
+    "final_opp_mons": 1,
+    "hazards": [
+      {
+        "turn": 4,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 6,
+        "side": "p2",
+        "nick": "Hippowdon",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [
+      {
+        "turn": 3,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 15,
+        "side": "p2",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 1,
+        "side": "p2",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 14,
+        "side": "p2",
+        "nick": "Hippowdon"
+      },
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "Clefable"
+      }
+    ],
+    "lead_first_move": "U-turn",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Official Smogon Tournament",
+    "stage": "Semifinals",
+    "date": "2023-03-14",
+    "opponent": "Nat",
+    "uploadtime": 1616246711,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "U-turn": 2,
+      "Roost": 3,
+      "Iron Defense": 2,
+      "Spikes": 1,
+      "Toxic": 1,
+      "Recover": 1,
+      "Psyshock": 2,
+      "Thunder": 1,
+      "Body Press": 2,
+      "Moonblast": 2
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-551237",
+    "p1": "Empo",
+    "p2": "Lord_Enz",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Lord_Enz",
+    "winner": "Lord_Enz",
+    "result": "L",
+    "turns": 53,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Tapu Koko",
+      "Hippowdon",
+      "Clefable",
+      "Skarmory",
+      "Reuniclus",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Landorus-Therian",
+      "Corviknight",
+      "Clefable",
+      "Toxapex",
+      "Buzzwole",
+      "Hydreigon"
+    ],
+    "vol_switches": 15,
+    "forced_switches": 1,
+    "move_count": 40,
+    "switch_rate": 0.2727272727272727,
+    "switch_turns": [
+      2,
+      8,
+      11,
+      14,
+      16,
+      18,
+      20,
+      22,
+      25,
+      27,
+      29,
+      32,
+      34,
+      37,
+      44
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 52,
+    "max_deficit": 2,
+    "final_empo_mons": 4,
+    "final_opp_mons": 6,
+    "hazards": [
+      {
+        "turn": 1,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 17,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 5,
+        "side": "p1",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Reuniclus",
+        "move": "Calm Mind"
+      },
+      {
+        "turn": 30,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 45,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 47,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      },
+      {
+        "turn": 48,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Iron Defense"
+      }
+    ],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 11,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 29,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 34,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 52,
+        "side": "p1",
+        "nick": "Skarmory"
+      },
+      {
+        "turn": 53,
+        "side": "p1",
+        "nick": "Clefable"
+      }
+    ],
+    "lead_first_move": "Stealth Rock",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Official Smogon Tournament",
+    "stage": "Finals",
+    "date": "2023-03-14",
+    "opponent": "Lord_Enz",
+    "uploadtime": 1616914525,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Stealth Rock": 2,
+      "Calm Mind": 3,
+      "Recover": 1,
+      "Thunder": 1,
+      "Dazzling Gleam": 3,
+      "U-turn": 4,
+      "Spikes": 2,
+      "Body Press": 6,
+      "Thunderbolt": 4,
+      "Knock Off": 7,
+      "Iron Defense": 4,
+      "Moonblast": 2,
+      "Poison Jab": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-551243",
+    "p1": "Empo",
+    "p2": "Lord_Enz",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Lord_Enz",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 57,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Hippowdon",
+    "opp_lead": "Kyurem",
+    "empo_team": [
+      "Tapu Koko",
+      "Hippowdon",
+      "Clefable",
+      "Skarmory",
+      "Reuniclus",
+      "Toxapex"
+    ],
+    "opp_team": [
+      "Blacephalon",
+      "Mandibuzz",
+      "Landorus-Therian",
+      "Jirachi",
+      "Toxapex",
+      "Kyurem"
+    ],
+    "vol_switches": 24,
+    "forced_switches": 0,
+    "move_count": 36,
+    "switch_rate": 0.4,
+    "switch_turns": [
+      1,
+      3,
+      5,
+      8,
+      9,
+      11,
+      15,
+      17,
+      18,
+      22,
+      23,
+      29,
+      32,
+      35,
+      40,
+      41,
+      43,
+      45,
+      46,
+      48,
+      49,
+      51,
+      53,
+      55
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 3,
+    "hazards": [
+      {
+        "turn": 7,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 42,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 47,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      },
+      {
+        "turn": 52,
+        "side": "p1",
+        "nick": "Skarmory",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 6,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Toxic"
+      },
+      {
+        "turn": 12,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Thunder Wave"
+      },
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Toxic"
+      },
+      {
+        "turn": 27,
+        "side": "p1",
+        "nick": "Hippowdon",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 32,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 40,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      },
+      {
+        "turn": 51,
+        "side": "p1",
+        "nick": "Tapu Koko",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Official Smogon Tournament",
+    "stage": "Finals",
+    "date": "2023-03-14",
+    "opponent": "Lord_Enz",
+    "uploadtime": 1616916027,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Poison Jab": 1,
+      "Recover": 1,
+      "Toxic": 3,
+      "Stealth Rock": 3,
+      "Knock Off": 3,
+      "Thunder Wave": 2,
+      "Aromatherapy": 1,
+      "Thunder": 1,
+      "Slack Off": 3,
+      "Earthquake": 4,
+      "Thunderbolt": 3,
+      "Dazzling Gleam": 4,
+      "U-turn": 3,
+      "Spikes": 2,
+      "Moonblast": 2
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-551299",
+    "p1": "Empo",
+    "p2": "Lord_Enz",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Lord_Enz",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 144,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Clefable",
+    "opp_lead": "Toxapex",
+    "empo_team": [
+      "Landorus-Therian",
+      "Clefable",
+      "Kartana",
+      "Blacephalon",
+      "Rillaboom",
+      "Heatran"
+    ],
+    "opp_team": [
+      "Landorus-Therian",
+      "Corviknight",
+      "Clefable",
+      "Toxapex",
+      "Buzzwole",
+      "Hydreigon"
+    ],
+    "vol_switches": 53,
+    "forced_switches": 0,
+    "move_count": 98,
+    "switch_rate": 0.3509933774834437,
+    "switch_turns": [
+      19,
+      20,
+      22,
+      23,
+      26,
+      27,
+      28,
+      29,
+      31,
+      34,
+      36,
+      39,
+      41,
+      43,
+      46,
+      48,
+      50,
+      52,
+      55,
+      57,
+      59,
+      61,
+      65,
+      67,
+      69,
+      70,
+      71,
+      79,
+      80,
+      82,
+      84,
+      87,
+      91,
+      93,
+      99,
+      100,
+      102,
+      104,
+      106,
+      107,
+      108,
+      111,
+      112,
+      114,
+      117,
+      118,
+      121,
+      124,
+      126,
+      128,
+      130,
+      141,
+      143
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 6,
+    "final_opp_mons": 2,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 35,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 40,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 45,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 49,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 58,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 63,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 81,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 86,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 103,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 113,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 123,
+        "side": "p1",
+        "nick": "Clefable",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 25,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 60,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 66,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 83,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 88,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 89,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 96,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 97,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      },
+      {
+        "turn": 109,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 98,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Protect"
+      },
+      {
+        "turn": 110,
+        "side": "p1",
+        "nick": "Heatran",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 23,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 27,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 55,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 100,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 108,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 118,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      },
+      {
+        "turn": 126,
+        "side": "p1",
+        "nick": "Landorus",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [],
+    "lead_first_move": "Knock Off",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "Official Smogon Tournament",
+    "stage": "Finals",
+    "date": "2023-03-14",
+    "opponent": "Lord_Enz",
+    "uploadtime": 1616919594,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Knock Off": 15,
+      "Stealth Rock": 12,
+      "Moonblast": 7,
+      "Soft-Boiled": 6,
+      "U-turn": 8,
+      "Shadow Ball": 13,
+      "Magma Storm": 5,
+      "Toxic": 9,
+      "Flamethrower": 12,
+      "Earthquake": 3,
+      "Trick": 2,
+      "Overheat": 2,
+      "Protect": 2,
+      "Earth Power": 1,
+      "Smart Strike": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-562780",
+    "p1": "Century Express",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Century Express",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 48,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Tornadus-Therian",
+    "opp_lead": "Slowking",
+    "empo_team": [
+      "Kyurem",
+      "Corviknight",
+      "Clefable",
+      "Toxapex",
+      "Garchomp",
+      "Tornadus-Therian"
+    ],
+    "opp_team": [
+      "Zapdos",
+      "Slowking",
+      "Heatran",
+      "Bisharp",
+      "Landorus-Therian",
+      "Dragapult"
+    ],
+    "vol_switches": 18,
+    "forced_switches": 3,
+    "move_count": 28,
+    "switch_rate": 0.391304347826087,
+    "switch_turns": [
+      1,
+      3,
+      5,
+      10,
+      11,
+      12,
+      17,
+      20,
+      21,
+      23,
+      25,
+      27,
+      30,
+      32,
+      37,
+      39,
+      40,
+      42
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 3,
+    "final_opp_mons": 0,
+    "hazards": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "'ra and 'gol",
+        "move": "Toxic Spikes"
+      },
+      {
+        "turn": 18,
+        "side": "p2",
+        "nick": "pork chop man",
+        "move": "Stealth Rock"
+      },
+      {
+        "turn": 38,
+        "side": "p2",
+        "nick": "pork chop man",
+        "move": "Stealth Rock"
+      }
+    ],
+    "hazard_rem": [
+      {
+        "turn": 33,
+        "side": "p2",
+        "nick": "Spaggy :3",
+        "move": "Defog"
+      }
+    ],
+    "status": [
+      {
+        "turn": 19,
+        "side": "p2",
+        "nick": "pork chop man",
+        "move": "Toxic"
+      },
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "Spaggy :3",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [
+      {
+        "turn": 35,
+        "side": "p2",
+        "nick": "Walter Wednesdays",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 32,
+        "side": "p2",
+        "nick": "'ra and 'gol"
+      },
+      {
+        "turn": 34,
+        "side": "p2",
+        "nick": "Spaggy :3"
+      },
+      {
+        "turn": 44,
+        "side": "p2",
+        "nick": "OMEGA"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen8ou",
+    "tournament": "World Cup of Pok\u00e9mon",
+    "stage": "Pools SS OU #10",
+    "date": "2023-03-14",
+    "opponent": "Century Express",
+    "uploadtime": 1622312751,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Toxic Spikes": 1,
+      "Body Press": 4,
+      "Freeze-Dry": 8,
+      "Knock Off": 3,
+      "Recover": 1,
+      "Stealth Rock": 2,
+      "Toxic": 2,
+      "Earthquake": 2,
+      "Heal Bell": 1,
+      "Wish": 1,
+      "Defog": 1,
+      "Protect": 1,
+      "Moonblast": 1
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-563097",
+    "p1": "Empo",
+    "p2": "Redemption",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "Redemption",
+    "winner": "Redemption",
+    "result": "L",
+    "turns": 27,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Victini",
+    "opp_lead": "Kartana",
+    "empo_team": [
+      "Tapu Koko",
+      "Victini",
+      "Urshifu-*",
+      "Blissey",
+      "Landorus-Therian",
+      "Ferrothorn"
+    ],
+    "opp_team": [
+      "Weavile",
+      "Dragonite",
+      "Tapu Lele",
+      "Landorus-Therian",
+      "Kartana",
+      "Magnezone"
+    ],
+    "vol_switches": 10,
+    "forced_switches": 4,
+    "move_count": 14,
+    "switch_rate": 0.4166666666666667,
+    "switch_turns": [
+      1,
+      4,
+      5,
+      7,
+      12,
+      13,
+      15,
+      21,
+      22,
+      23
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 10,
+    "max_deficit": 1,
+    "final_empo_mons": 1,
+    "final_opp_mons": 2,
+    "hazards": [
+      {
+        "turn": 8,
+        "side": "p1",
+        "nick": "ALPHA",
+        "move": "Spikes"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 2,
+        "side": "p1",
+        "nick": "Brand New World",
+        "move": "Toxic"
+      },
+      {
+        "turn": 3,
+        "side": "p1",
+        "nick": "Brand New World",
+        "move": "Toxic"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 13,
+        "side": "p1",
+        "nick": "Brand New World",
+        "move": "U-turn"
+      },
+      {
+        "turn": 22,
+        "side": "p1",
+        "nick": "Sayuze(CEO of $S*X",
+        "move": "U-turn"
+      },
+      {
+        "turn": 23,
+        "side": "p1",
+        "nick": "SHINING PIRATES",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 10,
+        "side": "p1",
+        "nick": "ALPHA"
+      },
+      {
+        "turn": 19,
+        "side": "p1",
+        "nick": "Nagola"
+      },
+      {
+        "turn": 24,
+        "side": "p1",
+        "nick": "Brand New World"
+      },
+      {
+        "turn": 26,
+        "side": "p1",
+        "nick": "SHINING PIRATES"
+      },
+      {
+        "turn": 27,
+        "side": "p1",
+        "nick": "Sayuze(CEO of $S*X"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen8ou",
+    "tournament": "World Cup of Pok\u00e9mon",
+    "stage": "Pools SS OU #10",
+    "date": "2023-03-14",
+    "opponent": "RedEmption",
+    "uploadtime": 1622384393,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Toxic": 2,
+      "V-create": 2,
+      "Spikes": 1,
+      "Body Press": 1,
+      "U-turn": 3,
+      "Dazzling Gleam": 1,
+      "Seismic Toss": 2,
+      "Thunderbolt": 2
+    }
+  },
+  {
+    "id": "smogtours-gen8ou-562715",
+    "p1": "cbu",
+    "p2": "Empo",
+    "empo_side": "p2",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "cbu",
+    "winner": "cbu",
+    "result": "L",
+    "turns": 28,
+    "gen": "8",
+    "tier": "[Gen 8] OU",
+    "lead": "Landorus-Therian",
+    "opp_lead": "Weavile",
+    "empo_team": [
+      "Tapu Lele",
+      "Weavile",
+      "Landorus-Therian",
+      "Heatran",
+      "Rotom-Wash",
+      "Kartana"
+    ],
+    "opp_team": [
+      "Kyurem",
+      "Kartana",
+      "Blaziken",
+      "Weavile",
+      "Landorus-Therian",
+      "Toxapex"
+    ],
+    "vol_switches": 11,
+    "forced_switches": 5,
+    "move_count": 17,
+    "switch_rate": 0.39285714285714285,
+    "switch_turns": [
+      1,
+      3,
+      6,
+      7,
+      9,
+      11,
+      14,
+      16,
+      17,
+      21,
+      24
+    ],
+    "was_behind": true,
+    "first_deficit_turn": 27,
+    "max_deficit": 2,
+    "final_empo_mons": 0,
+    "final_opp_mons": 2,
+    "hazards": [],
+    "hazard_rem": [],
+    "status": [],
+    "setup": [],
+    "priority": [
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Posty :3",
+        "move": "Ice Shard"
+      }
+    ],
+    "protect": [
+      {
+        "turn": 23,
+        "side": "p2",
+        "nick": "TRAILS OF FIRE",
+        "move": "Protect"
+      },
+      {
+        "turn": 25,
+        "side": "p2",
+        "nick": "TRAILS OF FIRE",
+        "move": "Protect"
+      }
+    ],
+    "pivot": [
+      {
+        "turn": 2,
+        "side": "p2",
+        "nick": "dame dane",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 7,
+        "side": "p2",
+        "nick": "dame dane",
+        "move": "Volt Switch"
+      },
+      {
+        "turn": 16,
+        "side": "p2",
+        "nick": "Thanos",
+        "move": "U-turn"
+      }
+    ],
+    "tera": [],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 11,
+        "side": "p2",
+        "nick": "NAGOL SARAFINA"
+      },
+      {
+        "turn": 21,
+        "side": "p2",
+        "nick": "Thanos"
+      },
+      {
+        "turn": 24,
+        "side": "p2",
+        "nick": "dame dane"
+      },
+      {
+        "turn": 26,
+        "side": "p2",
+        "nick": "TRAILS OF FIRE"
+      },
+      {
+        "turn": 27,
+        "side": "p2",
+        "nick": "Brainbreaker"
+      },
+      {
+        "turn": 28,
+        "side": "p2",
+        "nick": "Posty :3"
+      }
+    ],
+    "lead_first_move": null,
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": true,
+    "format": "gen8ou",
+    "tournament": "World Cup of Pok\u00e9mon",
+    "stage": "Pools SS OU #10",
+    "date": "2023-03-14",
+    "opponent": "CBU",
+    "uploadtime": 1622305896,
+    "warnings": [
+      "NOTE: declared format 'gen8ou' vs actual '[gen8]ou'"
+    ],
+    "move_counter": {
+      "Volt Switch": 2,
+      "Psychic": 2,
+      "Leaf Blade": 1,
+      "Magma Storm": 3,
+      "Knock Off": 2,
+      "Earthquake": 1,
+      "U-turn": 1,
+      "Earth Power": 2,
+      "Protect": 2,
+      "Ice Shard": 1
+    }
+  },
+  {
+    "id": "smogtours-gen9ou-790679",
+    "p1": "Empo",
+    "p2": "3d",
+    "empo_side": "p1",
+    "empo_identified": true,
+    "empo_name": "Empo",
+    "opp_name": "3d",
+    "winner": "Empo",
+    "result": "W",
+    "turns": 24,
+    "gen": "9",
+    "tier": "[Gen 9] OU",
+    "lead": "Samurott-Hisui",
+    "opp_lead": "Ting-Lu",
+    "empo_team": [
+      "Landorus-Therian",
+      "Darkrai",
+      "Kingambit",
+      "Cinderace",
+      "Zapdos",
+      "Samurott-Hisui"
+    ],
+    "opp_team": [
+      "Gholdengo",
+      "Zamazenta-*",
+      "Ogerpon",
+      "Dragonite",
+      "Gliscor",
+      "Ting-Lu"
+    ],
+    "vol_switches": 8,
+    "forced_switches": 1,
+    "move_count": 16,
+    "switch_rate": 0.3333333333333333,
+    "switch_turns": [
+      2,
+      3,
+      9,
+      14,
+      18,
+      19,
+      21,
+      22
+    ],
+    "was_behind": false,
+    "first_deficit_turn": null,
+    "max_deficit": 0,
+    "final_empo_mons": 5,
+    "final_opp_mons": 3,
+    "hazards": [
+      {
+        "turn": 16,
+        "side": "p1",
+        "nick": "Samurott",
+        "move": "Ceaseless Edge"
+      }
+    ],
+    "hazard_rem": [],
+    "status": [
+      {
+        "turn": 20,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Thunder Wave"
+      }
+    ],
+    "setup": [],
+    "priority": [],
+    "protect": [],
+    "pivot": [
+      {
+        "turn": 21,
+        "side": "p1",
+        "nick": "Zapdos",
+        "move": "Volt Switch"
+      }
+    ],
+    "tera": [
+      {
+        "turn": 24,
+        "side": "p1",
+        "nick": "Kingambit",
+        "type": "Ghost"
+      }
+    ],
+    "mega": [],
+    "zmove": [],
+    "dynamax": [],
+    "faints_empo": [
+      {
+        "turn": 23,
+        "side": "p1",
+        "nick": "Samurott"
+      }
+    ],
+    "lead_first_move": "Knock Off",
+    "suspect": false,
+    "weight": 1.0,
+    "close_game": false,
+    "format": "gen9ou",
+    "tournament": "Smogon Premier League",
+    "stage": "Week 1",
+    "date": "2024-01-15",
+    "opponent": "Unknown",
+    "uploadtime": 1726348097,
+    "warnings": [
+      "NOTE: declared format 'gen9ou' vs actual '[gen9]ou'"
+    ],
+    "move_counter": {
+      "Knock Off": 2,
+      "Razor Shell": 6,
+      "Hurricane": 3,
+      "Roost": 1,
+      "Ceaseless Edge": 1,
+      "Thunder Wave": 1,
+      "Volt Switch": 1,
+      "Kowtow Cleave": 1
+    }
+  }
+]
