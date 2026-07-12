@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aggression Ranking — 16 Smogon HoF Greats</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --surface: #171a21;
+    --surface-2: #1e2330;
+    --border: #2a3142;
+    --text: #e8eaf0;
+    --muted: #9aa3b5;
+    --accent: #e85d4c;
+    --accent-soft: rgba(232, 93, 76, 0.12);
+    --gold: #e8b84a;
+    --silver: #b8c0d0;
+    --bronze: #c48a5a;
+    --link: #7eb8ff;
+    --ok: #6bcb8a;
+    --warn: #e8b84a;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.55;
+    font-size: 15.5px;
+  }
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  header .kicker {
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 0 0 0.5rem;
+  }
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem;
+    letter-spacing: -0.02em;
+    line-height: 1.25;
+  }
+  .lede {
+    color: var(--muted);
+    margin: 0;
+    max-width: 62ch;
+  }
+  h2 {
+    font-size: 1.2rem;
+    margin: 2.25rem 0 1rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--border);
+  }
+  h3 {
+    font-size: 1.05rem;
+    margin: 1.5rem 0 0.6rem;
+  }
+  p { margin: 0.6rem 0; }
+  ul, ol { margin: 0.5rem 0 0.75rem; padding-left: 1.25rem; }
+  li { margin: 0.35rem 0; }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .method {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  .method strong { color: var(--text); }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem 1.35rem 1.35rem;
+    margin: 1.25rem 0;
+  }
+  .card.rank-1 { border-color: rgba(232, 184, 74, 0.45); box-shadow: 0 0 0 1px rgba(232, 184, 74, 0.08); }
+  .card.rank-2 { border-color: rgba(184, 192, 208, 0.35); }
+  .card.rank-3 { border-color: rgba(196, 138, 90, 0.4); }
+  .rank-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+  .rank-1 .rank-badge { color: var(--gold); }
+  .rank-2 .rank-badge { color: var(--silver); }
+  .rank-3 .rank-badge { color: var(--bronze); }
+  .card h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1.25rem;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.85rem;
+    margin: 0.65rem 0 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .pill {
+    display: inline-block;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.65rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .pill.high { color: var(--ok); border-color: rgba(107, 203, 138, 0.35); }
+  .pill.medium { color: var(--warn); border-color: rgba(232, 184, 74, 0.35); }
+  .section-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 1rem 0 0.4rem;
+  }
+  .counter {
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 0.65rem 0.9rem;
+    margin: 0.85rem 0 0;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.92rem;
+  }
+  .counter strong { color: var(--accent); }
+  .harvest {
+    margin-top: 0.9rem;
+    padding-top: 0.85rem;
+    border-top: 1px dashed var(--border);
+    font-size: 0.92rem;
+    color: var(--muted);
+  }
+  .harvest strong { color: var(--text); }
+  .runner {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+    margin: 0.85rem 0;
+  }
+  .runner h3 { margin: 0 0 0.4rem; font-size: 1.05rem; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    margin: 1rem 0;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.55rem 0.65rem;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  th {
+    color: var(--muted);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    background: var(--surface);
+    position: sticky;
+    top: 0;
+  }
+  tr:hover td { background: rgba(255,255,255,0.02); }
+  td:first-child {
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--text);
+  }
+  .sources ol { padding-left: 1.35rem; }
+  .sources li { margin: 0.45rem 0; color: var(--muted); font-size: 0.9rem; }
+  .sources a { word-break: break-word; }
+  .rec {
+    background: linear-gradient(135deg, rgba(232, 93, 76, 0.12), rgba(232, 184, 74, 0.08));
+    border: 1px solid rgba(232, 93, 76, 0.35);
+    border-radius: 12px;
+    padding: 1.2rem 1.35rem;
+    margin: 1.5rem 0;
+  }
+  .rec h2 {
+    margin-top: 0;
+    border: none;
+    padding: 0;
+    color: var(--gold);
+  }
+  .toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1.25rem 0 0;
+  }
+  .toc a {
+    font-size: 0.8rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.3rem 0.6rem;
+    color: var(--muted);
+  }
+  .toc a:hover { color: var(--text); border-color: var(--muted); text-decoration: none; }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+  code {
+    font-family: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+    font-size: 0.88em;
+    background: var(--surface-2);
+    padding: 0.1em 0.35em;
+    border-radius: 4px;
+  }
+  @media (max-width: 600px) {
+    h1 { font-size: 1.4rem; }
+    table { font-size: 0.8rem; }
+    th, td { padding: 0.45rem 0.4rem; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <p class="kicker">Smogon player study · reputation research</p>
+  <h1>Who are the most aggressive among 16 Smogon greats?</h1>
+  <p class="lede">
+    Ranked by documented reputation for aggressive, proactive, offensive play —
+    the “Mikhail Tal of Pokémon” archetype. Style = teams + initiative + risk appetite + game length,
+    <strong>not</strong> forum persona.
+  </p>
+  <nav class="toc" aria-label="Sections">
+    <a href="#method">Method</a>
+    <a href="#top3">Top 3</a>
+    <a href="#runners">Runners-up</a>
+    <a href="#map">Style map</a>
+    <a href="#rec">Study pick</a>
+    <a href="#sources">Sources</a>
+  </nav>
+</header>
+
+<section id="method">
+  <h2>Method</h2>
+  <div class="method">
+    <p><strong>Definition of aggressive:</strong> offense / HO / momentum over balance–fat–stall;
+    forces the action (doubles, hard reads, high tempo); calculated high-variance lines;
+    short-to-mid wins via pressure — not 80-turn grinds.</p>
+    <p><strong>Evidence classes:</strong> SELF · PEER · COMMENTATOR · TEAM.
+    Primary spine: Smogon’s 20th-anniversary Top 10 (2024); interviews and prediction threads fill gaps.
+    Research date: 12 Jul 2026.</p>
+  </div>
+</section>
+
+<section id="top3">
+  <h2>Ranked top 3</h2>
+
+  <article class="card rank-1" id="empo">
+    <div class="rank-badge">#1 · Empo</div>
+    <h3>Empo</h3>
+    <div class="meta">
+      <span class="pill high">Confidence: high</span>
+      <span>Era: ORAS ladder → <strong>SM peak (2018–22)</strong> → still elite through SV</span>
+    </div>
+
+    <div class="section-label">Aggression case</div>
+    <ul>
+      <li><strong>COMMENTATOR (Top 10, 2024):</strong> “major focus on <em>risk and reward</em>, Empo <em>plays aggressively</em>, rarely giving his opponents an opening to breathe.” Same piece: wins by “<em>aggressive and clever plays</em>.” Cleanest Tal framing on the list — tempo and variance, not just “uses HO.”</li>
+      <li><strong>COMMENTATOR (OLT XI discussion, 2024):</strong> “Empo played this matchup with a good combination of <em>aggressive pressure</em> and defensive reads, never letting [opponent] get the momentum.” Live tour coverage, not vibes.</li>
+      <li><strong>TEAM (SM sample archive):</strong> Empo-linked structures skew offense — e.g. Medicham–Volcarona volt-turn, sand DD Tar + Ash-Gren, Z-Drill sand — not fat/stall samples.</li>
+      <li><strong>PEER-adjacent SPL culture:</strong> Empo’s SM games (e.g. SPL X finals vs blunder) regularly framed as high-tempo slugfests; treated as the SM standard others prep around.</li>
+    </ul>
+
+    <div class="counter">
+      <strong>Counter-evidence:</strong> Not a pure HO monomaniac — 2024 tournament-feature Kyurem bulky offense and various BO pastes exist. Aggression is <em>line selection and pace</em> more than “always six glass cannons.” Early career quieter; reputation crystallizes post–SPL X (2019).
+    </div>
+
+    <div class="harvest">
+      <strong>Harvestability:</strong> Excellent. Heavy official volume post-2013: multi–Smogon Tour trophies (incl. ST 36, 2024), OST, SPL/WCoP SM/SV, OLT. SmogTours replays from ~2018 onward dense; peak SM alone is a full corpus.
+    </div>
+  </article>
+
+  <article class="card rank-2" id="tesung">
+    <div class="rank-badge">#2 · Tesung</div>
+    <h3>Tesung</h3>
+    <div class="meta">
+      <span class="pill high">Confidence: high</span>
+      <span>Era: <strong>XY / early ORAS (~2014–16)</strong> only — short peak</span>
+    </div>
+
+    <div class="section-label">Aggression case</div>
+    <ul>
+      <li><strong>COMMENTATOR (Top 10, 2024):</strong> “innate genius, <em>aggressive play</em>”; “<em>most potent when wielding offensive teams</em>”; fanbase via “<em>aggressive playstyle</em> and in-battle instinct”; “bombastic plays.” Official profile sells him as the aggressive prodigy.</li>
+      <li><strong>SELF (OU PotW #9, Dec 2014):</strong> “I suppose <em>hyper offense is my favorite</em>… the one I first gravitated to.” Also: tour experience taught him to “<em>play aggressively</em>.”</li>
+      <li><strong>SELF (same interview):</strong> On bad matchups — “I tend to <em>play much more aggressively</em>, because I have to to win.”</li>
+      <li><strong>TEAM / era lore:</strong> Rain offense innovator in early XY SPL; HO and creative offense builds.</li>
+    </ul>
+
+    <div class="counter">
+      <strong>Counter-evidence:</strong> SELF — in tournaments often preferred <em>balance</em>; favorite personal tour carry was a <em>semistall</em> paste. Peak is brief; almost no post-2016 signal.
+    </div>
+
+    <div class="harvest">
+      <strong>Harvest note:</strong> Thin surviving official PS volume vs Empo — short window, older smogtours IDs, many links dead. Purest HO self+official combo; harvest weakest of top 3.
+    </div>
+  </article>
+
+  <article class="card rank-3" id="vert">
+    <div class="rank-badge">#3 · Vert</div>
+    <h3>Vert</h3>
+    <div class="meta">
+      <span class="pill high">Confidence: high</span>
+      <span>Era: <strong>SV (2022–)</strong> primarily</span>
+    </div>
+
+    <div class="section-label">Aggression case</div>
+    <ul>
+      <li><strong>SELF (OU Metagame Interview #2, Apr 2023):</strong> OST win powered by “<em>heavily offensive selection</em>.” Explicit: “<em>Offense just gets the job</em> in SV.”</li>
+      <li><strong>SELF (same):</strong> “Offense is still good” post–Shed Tail; lives in the offense builder vs fat unaware cores.</li>
+      <li><strong>TEAM:</strong> Innovator of Glimmora + Ting-Lu offense, sun variants, shed-tail spam — momentum structures, not stall.</li>
+      <li><strong>PEER (SPL XVII SM, 2025/26):</strong> Opponents prep for “<em>vert’s offense brings</em>” as the known load pattern.</li>
+    </ul>
+
+    <div class="counter">
+      <strong>Counter-evidence:</strong> Self admits variety to avoid counterteams (Scream Tail + Dondozo, Electric Terrain, sun) — offense-biased, not mono-HO autopilot. Reputation is generation-local; thin public style record pre-SV.
+    </div>
+  </article>
+</section>
+
+<section id="runners">
+  <h2>Runners-up</h2>
+
+  <div class="runner">
+    <h3>McMeghan — mid aggression / creative BO (not Tal)</h3>
+    <p><strong>SELF (OU PotW #2, Oct 2014):</strong> favorites are “Balance and Bulky Offense”; stall too matchup-reliant, HO too “guess-reliant.” Sample team he posts is standard BO. Top 10 (2024) stresses longevity and unconventional choices — not pure offense. High creativity and can pilot offense, but self-map is mid-tempo BO. <span class="pill medium">Confidence: medium-high</span> on <em>not</em> top-3 pure aggression. Era: BW→SV longevity.</p>
+  </div>
+
+  <div class="runner">
+    <h3>CTC — builder range; self-stall undercuts Tal ranking</h3>
+    <p>Famous for eclectic archives and later HO ladder work (e.g. Ape No Kill Ape HO with CBB, 2022). <strong>SELF (OU PotW #10, Dec 2014):</strong> if forced to pick → “full fuckin stall w Chansey Skarm.” Loud forum persona ≠ offensive gameplan. Treat as flexible builder, not attack-minded pilot. <span class="pill medium">Confidence: medium</span>. Era: BW2–XY peak builder; longer residual presence.</p>
+  </div>
+</section>
+
+<section id="map">
+  <h2>Full style map (all 16)</h2>
+  <div style="overflow-x:auto;">
+  <table>
+    <thead>
+      <tr>
+        <th>Player</th>
+        <th>Dominant reputed style · era · citation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Empo</td><td>Risk-forward aggressive tempo (often BO/offense) · SM–SV · Top 10: “risk and reward… plays aggressively” (2024)</td></tr>
+      <tr><td>SoulWind</td><td>Fat / stall-adjacent patience · long BW–SV · Top 10: “preferring fat, stall-adjacent teams” (2024)</td></tr>
+      <tr><td>ABR</td><td>Controlled balance / BO; long games · ORAS–SM+ · Top 10 stall rep + POTW 2017: avoids extreme HO</td></tr>
+      <tr><td>BKC</td><td>Semistall / stall-based balance · DPP–ORAS · POTW #8 (2014): “Semistall… favorite”</td></tr>
+      <tr><td>Tesung</td><td>Offense / HO preference + aggressive lines · XY–early ORAS · POTW 2014 HO + Top 10 aggressive play (2024)</td></tr>
+      <tr><td>McMeghan</td><td>Balance &amp; bulky offense · BW–SV · POTW #2 (2014) self: Balance/BO over HO/stall</td></tr>
+      <tr><td>Ojama</td><td>Semistall / pressure-stall (BW “Toxic Invasion”) · BW–SM · RMT: SemiStall sand/sun (~2012)</td></tr>
+      <tr><td>Ciele</td><td>Bulky / offbeat; precise control · multi-gen · Top 10: “bias towards bulkier teams” (2024)</td></tr>
+      <tr><td>Tricking</td><td>Safe baseline, full spectrum (HO↔stall) · SM–SS · Top 10: “safe plays… HO and stall alike” (2024)</td></tr>
+      <tr><td>CTC</td><td>Builder polyglot; self-stall · BW2–ORAS · POTW 2014 stall favorite; later HO collabs</td></tr>
+      <tr><td>bro fist</td><td>Balanced / bulkier, low-variance · ORAS–SM · Top 10: “balanced and bulkier… little left to chance” (2024)</td></tr>
+      <tr><td>Punny</td><td>Fat / Latias-type fat archetypes · SM focus · SPL XVI SM disc. (2025): typecast “Latias fat”</td></tr>
+      <tr><td>Vert</td><td>Offense-first (HO/momentum SV) · SV · Metagame interview 2023: “Offense just gets the job”</td></tr>
+      <tr><td>Storm Zone</td><td>Creative balance/BO innovator · SS–SV · Interview 2021: innovate for reactions; sample BO paste</td></tr>
+      <tr><td>Separation</td><td>Versatile modern SV; prep-hard builds · SV · OLT XII finals (2025): confusing looks, elite range</td></tr>
+      <tr><td>Ox the Fox</td><td>Bulky offense · SS peak · Interview 2021: favorite style BO (rejects HO/stall volatility)</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p style="color:var(--muted);font-size:0.9rem;"><strong>Thin-record callouts:</strong> Tesung (left mid-2010s); Ojama style discourse peaks BW era; Punny style prose thinner than results; Separation style discussion newer (more “elite SV” than named archetype).</p>
+</section>
+
+<section id="rec" class="rec">
+  <h2>Study recommendation</h2>
+  <p><strong>For attack-minded study with a real corpus: Empo.</strong><br>
+  Documented risk/tempo aggression at the highest official level, still producing games in the Showdown era, offense-leaning sample history without being a one-dimensional HO bot.</p>
+  <p><strong>Tesung</strong> is the purer “favorite = HO + aggressive instincts” package if you accept a short, partially dead-link archive.<br>
+  <strong>Vert</strong> is the best pure <em>modern</em> offense monographer if you only care about SV.</p>
+</section>
+
+<section id="sources" class="sources">
+  <h2>Sources</h2>
+  <ol>
+    <li><a href="https://www.smogon.com/articles/top-10-players" target="_blank" rel="noopener">Smogon’s Top 10 Players (20th Anniversary)</a> — Maia / teal6 / -Tsunami-, 2024</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-of-the-week-2-mcmeghan.3520041/" target="_blank" rel="noopener">OU Player of the Week #2: McMeghan</a> — 2014</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-of-the-week-1-abr.3602095/" target="_blank" rel="noopener">OU Player of the Week #1: ABR</a> — 2017</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-of-the-week-9-tesung.3523742/" target="_blank" rel="noopener">OU Player of the Week #9: Tesung</a> — 2014</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-of-the-week-10-ctc.3524255/" target="_blank" rel="noopener">OU Player of the Week #10: CTC</a> — 2014</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-of-the-week-8-bkc.3523253/" target="_blank" rel="noopener">OU Player of the Week #8: BKC</a> — 2014</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-metagame-interview-2-vert.3720529/" target="_blank" rel="noopener">OU Metagame Interview #2: Vert</a> — 2023</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-interview-10-ox-the-fox.3692560/" target="_blank" rel="noopener">OU Player Interview #10: Ox the Fox</a> — 2021</li>
+    <li><a href="https://www.smogon.com/forums/threads/ou-player-interview-7-storm-zone.3689436/" target="_blank" rel="noopener">OU Player Interview #7: Storm Zone</a> — 2021</li>
+    <li><a href="https://www.smogon.com/forums/threads/sm-ou-sample-teams.3695427/" target="_blank" rel="noopener">SM OU Sample Teams</a> — Empo offense samples</li>
+    <li><a href="https://www.smogon.com/forums/threads/the-official-olt-xi-discussion-thread.3747911/page-3" target="_blank" rel="noopener">OLT XI Discussion</a> — Empo aggressive pressure (2024)</li>
+    <li><a href="https://www.smogon.com/forums/threads/smogons-official-ladder-tournament-xii-finals-won-by-separation.3772729/" target="_blank" rel="noopener">OLT XII Finals</a> — Separation/Ewin style notes (2025)</li>
+    <li><a href="https://www.smogon.com/forums/threads/spl-xvi-sm-discussion.3757733/" target="_blank" rel="noopener">SPL XVI SM Discussion</a> — Punny “Latias fat” (2025)</li>
+    <li><a href="https://www.smogon.com/forums/threads/spl-xvii-sm-discussion.3776029/page-2" target="_blank" rel="noopener">SPL XVII SM Discussion</a> — Vert offense prep (2026)</li>
+    <li><a href="https://www.smogon.com/rmt/archive/toxic_invasion" target="_blank" rel="noopener">Ojama — Toxic Invasion</a> / <a href="https://www.smogon.com/forums/threads/toxic-invasion-peaked-1st.3463227/" target="_blank" rel="noopener">BW RMT</a> — semistall</li>
+    <li><a href="https://www.smogon.com/forums/threads/ape-no-kill-ape-hyper-offense-peaked-1-by-ctc-cbb.3711607/" target="_blank" rel="noopener">Ape No Kill Ape HO — CTC &amp; CBB</a> — 2022</li>
+    <li><a href="https://www.smogon.com/forums/threads/kyurem-bulky-offense-by-empo-tournament-feature.3746293/" target="_blank" rel="noopener">Kyurem Bulky Offense by Empo</a> — 2024 counterweight</li>
+  </ol>
+</section>
+
+<footer>
+  Aggression ranking for smogon-player-study · research snapshot 2026-07-12 · open this file in any browser
+</footer>
+
+</div>
+</body>
+</html>
