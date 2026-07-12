@@ -1,0 +1,51 @@
+replay_id,format,tournament,edition,stage,result,turns,lead,opponent,hard_switches,pivot_exits,voluntary_exits,hazard_selections,first_hazard_turn,status_control_selections,first_status_turn,setup_selections,first_setup_turn,tera_turn,first_behind_turn,max_deficit,recovered_count_parity
+smogtours-gen7ou-396168,gen7ou,Smogon Snake Draft,III,"Stage 1, Phase 2",L,22,Tapu Koko,aim,6,2,8,0,,0,,0,,,10,1,True
+smogtours-gen8ou-530161,gen8ou,Smogon Tour,XXX,Round of 16,W,38,Landorus-Therian,xray,7,2,9,1,2,1,13,0,,,18,1,True
+smogtours-gen7ou-530163,gen7ou,Smogon Tour,XXX,Round of 16,W,22,Medicham,xray,7,1,8,2,3,0,,0,,,,0,False
+smogtours-gen8ou-531313,gen8ou,Smogon Tour,XXX,Quarterfinals,W,33,Clefable,FREE XIMRAPTOR,8,0,8,1,1,0,,0,,,20,1,True
+smogtours-gen6ou-531323,gen6ou,Smogon Tour,XXX,Quarterfinals,W,9,Shuckle,FREE XIMRAPTOR,2,0,2,1,1,0,,1,4,,,0,False
+smogtours-gen8ou-532021,gen8ou,Smogon Tour,XXX,Semifinals,W,64,Hippowdon,John W,20,2,22,4,2,5,7,0,,,26,1,True
+smogtours-gen6ou-532032,gen6ou,Smogon Tour,XXX,Semifinals,W,10,Shuckle,John W,1,0,1,2,1,0,,2,7,,3,1,True
+smogtours-gen6ou-533278,gen6ou,Smogon Tour,XXX,Finals,L,35,Excadrill,SOULWIND,9,6,15,1,2,1,33,0,,,35,1,False
+smogtours-gen7ou-533288,gen7ou,Smogon Tour,XXX,Finals,W,18,Landorus-Therian,SOULWIND,4,1,5,0,,0,,0,,,,0,False
+smogtours-gen8ou-533296,gen8ou,Smogon Tour,XXX,Finals,W,33,Hippowdon,SOULWIND,10,2,12,1,4,2,1,2,3,,9,1,True
+smogtours-gen7ou-626209,gen7ou,Smogon Tour,XXXIII,Round of 16,W,25,Hippowdon,Arct!c,9,0,9,2,2,0,,1,12,,11,1,True
+smogtours-gen8ou-626218,gen8ou,Smogon Tour,XXXIII,Round of 16,W,30,Hippowdon,Arct!c,10,0,10,3,1,1,3,0,,,7,1,True
+smogtours-gen6ou-627181,gen6ou,Smogon Tour,XXXIII,Quarterfinals,W,140,Clefable,Ox the Fox,26,0,26,8,9,4,2,1,22,,19,1,True
+smogtours-gen7ou-627209,gen7ou,Smogon Tour,XXXIII,Quarterfinals,W,126,Swampert,Ox the Fox,47,0,47,16,2,1,56,3,21,,20,1,True
+smogtours-gen8ou-629015,gen8ou,Smogon Tour,XXXIII,Semifinals,W,26,Urshifu-Rapid-Strike,JP192,7,3,10,0,,0,,1,8,,,0,False
+smogtours-gen7ou-629026,gen7ou,Smogon Tour,XXXIII,Semifinals,W,39,Lopunny,JP192,14,2,16,4,11,3,2,0,,,8,1,True
+smogtours-gen7ou-630262,gen7ou,Smogon Tour,XXXIII,Finals,W,34,Tapu Koko,starmaster,8,4,12,2,7,0,,0,,,,0,False
+smogtours-gen6ou-630281,gen6ou,Smogon Tour,XXXIII,Finals,L,29,Victini,starmaster,4,6,10,1,22,0,,1,23,,29,1,False
+smogtours-gen8ou-630314,gen8ou,Smogon Tour,XXXIII,Finals,W,43,Heatran,starmaster,12,4,16,1,1,0,,2,19,,,0,False
+smogtours-gen9ou-770676,gen9ou,Smogon Tour,XXXVI,Round of 16,W,20,Cinderace,We Three Kings,4,0,4,0,,0,,0,,17,,0,False
+smogtours-gen8ou-770690,gen8ou,Smogon Tour,XXXVI,Round of 16,W,135,Clefable,We Three Kings,21,2,23,15,1,1,43,0,,,92,1,True
+smogtours-gen7ou-772011,gen7ou,Smogon Tour,XXXVI,Quarterfinals,W,120,Tornadus-Therian,Santu,29,26,55,10,7,0,,0,,,,0,False
+smogtours-gen8ou-772055,gen8ou,Smogon Tour,XXXVI,Quarterfinals,L,115,Clefable,Santu,38,7,45,5,3,3,12,5,40,,81,4,False
+smogtours-gen9ou-772080,gen9ou,Smogon Tour,XXXVI,Quarterfinals,W,26,Clefable,Santu,5,0,5,0,,2,12,2,20,,19,2,True
+smogtours-gen9ou-773677,gen9ou,Smogon Tour,XXXVI,Semifinals,W,24,Samurott-Hisui,Welli0u,5,0,5,1,17,0,,1,7,20,22,1,True
+smogtours-gen7ou-773679,gen7ou,Smogon Tour,XXXVI,Semifinals,W,15,Magearna,Welli0u,1,2,3,1,2,0,,3,6,,,0,False
+smogtours-gen8ou-470762,gen8ou,Smogon Premier League,XI,Regular Season,L,191,Hydreigon,1 True Lycan,66,0,66,14,6,2,1,15,21,,75,4,False
+smogtours-gen8ou-473406,gen8ou,Smogon Premier League,XI,Regular Season,L,10,Rotom-Heat,blarghlfarghl,2,1,3,0,,1,1,0,,,9,2,False
+smogtours-gen8ou-474361,gen8ou,Smogon Premier League,XI,Regular Season,W,25,Shuckle,KobeBeanBasedlord,5,0,5,3,1,0,,0,,,7,1,True
+smogtours-gen8ou-474806,gen8ou,Smogon Premier League,XI,Regular Season,L,41,Dragapult,1 True Lycan,16,2,18,5,2,6,3,1,35,,26,2,False
+smogtours-gen8ou-478213,gen8ou,Smogon Premier League,XI,Regular Season,W,101,Dragapult,bro fist,29,2,31,16,15,1,1,1,79,,,0,False
+smogtours-gen8ou-479335,gen8ou,Smogon Premier League,XI,Regular Season,W,44,Rotom-Heat,starry,17,0,17,3,3,0,,0,,,,0,False
+smogtours-gen8ou-480928,gen8ou,Smogon Premier League,XI,Playoffs,W,41,Ditto,Christo,15,4,19,2,3,1,14,1,5,,11,1,True
+smogtours-gen8ou-483115,gen8ou,Smogon Premier League,XI,Finals,W,40,Clefable,blarghlfarghl,9,0,9,1,7,0,,5,3,,,0,False
+smogtours-gen7ou-483972,gen7ou,Smogon Premier League,XI,Finals Tiebreaker,W,29,Toxapex,kratosmana,9,0,9,1,3,1,1,0,,,11,1,True
+smogtours-gen6ou-500244,gen6ou,Smogon Tour,XXIX,Week 8,W,13,Azelf,HYDREIGON SPECS,0,0,0,0,,0,,2,5,,4,1,True
+smogtours-gen7ou-537288,gen7ou,Smogon Premier League,XII,Regular Season,W,25,Landorus-Therian,z0mOG,7,2,9,1,1,0,,1,13,,,0,False
+smogtours-gen7ou-539312,gen7ou,Smogon Premier League,XII,Regular Season,W,64,Chansey,relous,16,0,16,1,4,5,1,0,,,,0,False
+smogtours-gen7ou-540413,gen7ou,Smogon Premier League,XII,Regular Season,W,29,Lopunny,Robjr,9,1,10,1,14,0,,0,,,7,1,True
+smogtours-gen7ou-542402,gen7ou,Smogon Premier League,XII,Regular Season,L,49,Rotom-Wash,soulgazer,11,11,22,0,,1,1,1,13,,42,3,False
+smogtours-gen7ou-542981,gen7ou,Smogon Premier League,XII,Regular Season,W,64,Ditto,devwin,17,0,17,1,10,6,3,1,27,,9,1,True
+smogtours-gen8ou-548763,gen8ou,Official Smogon Tournament,XVII,Semifinals,W,19,Tapu Lele,Nat,3,0,3,1,4,0,,0,,,3,1,True
+smogtours-gen8ou-548764,gen8ou,Official Smogon Tournament,XVII,Semifinals,W,25,Tapu Koko,Nat,6,2,8,1,4,1,6,2,3,,,0,False
+smogtours-gen8ou-551237,gen8ou,Official Smogon Tournament,XVII,Finals,L,53,Hippowdon,Lord_Enz,11,4,15,4,1,0,,7,3,,52,2,False
+smogtours-gen8ou-551243,gen8ou,Official Smogon Tournament,XVII,Finals,W,57,Hippowdon,Lord_Enz,21,3,24,5,7,5,6,0,,,,0,False
+smogtours-gen8ou-551299,gen8ou,Official Smogon Tournament,XVII,Finals,W,144,Clefable,Lord_Enz,45,8,53,12,2,9,25,0,,,,0,False
+smogtours-gen8ou-562780,gen8ou,World Cup of Pokémon,XV,Pools SS OU #10,W,48,Tornadus-Therian,Century Express,18,0,18,3,2,2,19,0,,,,0,False
+smogtours-gen8ou-563097,gen8ou,World Cup of Pokémon,XV,Pools SS OU #10,L,27,Victini,Redemption,7,3,10,1,8,2,2,0,,,10,1,True
+smogtours-gen8ou-562715,gen8ou,World Cup of Pokémon,XV,Pools SS OU #10,L,28,Landorus-Therian,cbu,9,2,11,0,,0,,0,,,27,2,False
+smogtours-gen9ou-790679,gen9ou,Smogon Premier League,XV,Week 1,W,24,Samurott-Hisui,3d,7,1,8,1,16,1,20,0,,24,,0,False
